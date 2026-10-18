@@ -10,7 +10,8 @@ Buscador de concursos públicos do Brasil. Um extrator em Python coleta os concu
 
 - Prazo de inscrição em cada concurso, com contagem de dias (em vermelho quando faltam 7 dias ou menos)
 - Botões em cada card: notícia, **editais** (lista de PDFs da notícia) e **sites oficiais** (banca e órgão, onde o edital é publicado)
-- Busca por órgão, cargo ou cidade, sem diferenciar acentos (os termos encontrados ficam destacados)
+- Busca por órgão, cargo, cidade, estado ou escolaridade, sem diferenciar acentos; ignora palavras vazias ("técnico **de** enfermagem" acha "técnico **em** enfermagem")
+- **#tags** em cada card (estado, escolaridade e área: `#PE`, `#Superior`, `#Saude`, `#Policial`…): clicar numa tag filtra, e dá para combinar tags e palavras na busca (`professor #PE`)
 - Filtro por estado (os nacionais aparecem em todos), escolaridade e situação (abertos ou previstos)
 - Ordenação por inscrições terminando, mais vagas, maior salário ou previstos mais recentes
 - Concursos cujo prazo já passou aparecem como "Encerrado", no fim da lista
@@ -75,7 +76,8 @@ docs/ (GitHub Pages) ── portal estático, filtra tudo no navegador
       "fonte": "pci",
       "editais": ["EDITAL DE ABERTURA 002/2026", "PRIMEIRO TERMO DE RETIFICAÇÃO DO EDITAL DE ABERTURA 002/2026"],
       "links_oficiais": [{ "texto": "www.institutoaocp.org.br", "url": "https://www.institutoaocp.org.br/", "dominio": "institutoaocp.org.br" }],
-      "detalhado_em": "2026-10-18"
+      "detalhado_em": "2026-10-18",
+      "tags": ["PE", "Medio", "Superior", "Policial", "Militar"]
     }
   ]
 }
@@ -83,6 +85,7 @@ docs/ (GitHub Pages) ── portal estático, filtra tudo no navegador
 
 - `status`: `aberto`, `suspenso` (PCI) ou `previsto` (ConcursosNoBrasil). O portal mostra como "Encerrado" um aberto cujo `inscricao_fim` já passou.
 - `vagas` é `null` quando a fonte diz "Várias" ou "Cadastro reserva" (texto em `vagas_texto`). `salario_max` é `null` quando não há valor.
+- `tags` vem de `extrator/tags.py` (estado, escolaridade, área e tipo de órgão por palavras-chave) e é usado pelo portal e pelas hashtags do canal do Telegram.
 - `inscricao_*`, `cargos`/`escolaridade`, `editais` e `links_oficiais` só existem nos abertos (PCI); `publicado` (data da notícia) só nos previstos.
 
 O JSON também serve como API pública: `https://bishoppython.github.io/oconcurseiro/data/concursos.json`.

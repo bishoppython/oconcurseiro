@@ -19,7 +19,7 @@ from pathlib import Path
 import requests
 from bs4 import BeautifulSoup
 
-from extrator import pci
+from extrator import pci, tags
 from extrator.ufs import UFS, ufs_citadas
 
 BASE_URL = "https://concursosnobrasil.com/concursos/{uf}/"
@@ -193,6 +193,8 @@ def main():
         previstos = [c for c in anteriores if c.get("status") == "previsto"]
         print(f"ConcursosNoBrasil incompleto; mantidos {len(previstos)} previstos da coleta anterior")
 
+    for c in abertos + previstos:
+        c["tags"] = tags.calcular(c)
     saida.parent.mkdir(parents=True, exist_ok=True)
     saida.write_text(json.dumps({
         "atualizado": datetime.now(timezone.utc).isoformat(timespec="seconds"),

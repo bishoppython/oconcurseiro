@@ -45,14 +45,30 @@ function destacar(texto, termos) {
 // peso de cada situação na ordem "inscrições terminando": abertos primeiro, encerrados por último
 const PESO = { aberto: 0, suspenso: 1, previsto: 2, encerrado: 3 };
 
+// palavras que não ajudam a achar nada ("técnico de enfermagem" ≈ "técnico em enfermagem")
+const PALAVRAS_VAZIAS = new Set(("a o as os e de da do das dos em no na nos nas para pra por com um uma " +
+  "ao aos concurso concursos vaga vagas").split(" "));
+
+// "professor #Saude recife" -> palavras ["professor", "recife"] e tags ["saude"]
+function lerBusca(q) {
+  const palavras = [], tags = [];
+  for (const parte of semAcento(q).split(/\s+/).filter(Boolean)) {
+    if (parte.startsWith("#")) { if (parte.length > 1) tags.push(parte.slice(1)); }
+    else if (!PALAVRAS_VAZIAS.has(parte)) palavras.push(parte);
+  }
+  return { palavras, tags };
+}
+
 function filtrar() {
-  const termos = semAcento(estado.q).split(/\s+/).filter(Boolean);
+  const { palavras, tags } = lerBusca(estado.q);
   const lista = dados.concursos.filter((c) =>
     (!estado.status || c._situacao === estado.status) &&
     // escolher um estado também mostra os nacionais, que valem para todos
     (!estado.uf || c.ufs.includes(estado.uf) || (estado.uf !== "br" && c.nacional)) &&
     (!estado.escolaridade || c._escolaridade.includes(estado.escolaridade)) &&
-    termos.every((t) => c._busca.includes(t)));
+    tags.every((t) => c._tags.includes(t)) &&
+    palavras.every((p) => c._busca.includes(p)));
+  const termos = palavras;
   const ordens = {
     prazo: (a, b) => PESO[a._situacao] - PESO[b._situacao] ||
       (a.inscricao_fim || "9999").localeCompare(b.inscricao_fim || "9999") ||
@@ -91,9 +107,40 @@ function acoes(c) {
   return `<div class="acoes">${botoes.join("")}</div>`;
 }
 
+function tagsDoCard(c) {
+  const ativas = lerBusca(estado.q).tags;
+  const tags = (c.tags || []).concat(c._situacao === "encerrado" ? ["Encerrado"] : []);
+  if (!tags.length) return "";
+  return `<div class="tags">${tags.map((t) =>
+    `<button type="button" class="tag${ativas.includes(semAcento(t)) ? " on" : ""}" data-tag="${esc(t)}">#${esc(t)}</button>`).join("")}</div>`;
+}
+
+// clicar numa tag põe (ou tira) "#Tag" na busca
+function alternarTag(tag) {
+  const alvo = semAcento(tag);
+  const partes = estado.q.split(/\s+/).filter(Boolean);
+  const sem = partes.filter((p) => semAcento(p) !== `#${alvo}`);
+  estado.q = (sem.length === partes.length ? [...partes, `#${tag}`] : sem).join(" ");
+  $("q").value = estado.q;
+  estado.limite = POR_PAGINA;
+  render();
+}
+
+// as áreas mais comuns viram atalhos embaixo da busca
+const TAGS_ATALHO = ["Saude", "Educacao", "Policial", "Administrativo", "Fiscal", "Juridico", "Tribunais",
+  "Bancario", "TI", "Engenharia", "Militar", "Social", "Transito", "Legislativo", "Prefeitura", "Temporario", "Nacional"];
+
+function tagsPopulares() {
+  const conta = {};
+  for (const c of dados.concursos) for (const t of c.tags || []) conta[t] = (conta[t] || 0) + 1;
+  const ativas = lerBusca(estado.q).tags;
+  $("tags-populares").innerHTML = TAGS_ATALHO.filter((t) => conta[t])
+    .sort((a, b) => conta[b] - conta[a])
+    .map((t) => `<button type="button" class="tag${ativas.includes(semAcento(t)) ? " on" : ""}" data-tag="${t}">#${t}<small>${conta[t]}</small></button>`)
+    .join("");
+}
+
 function cartao(c, termos) {
-  const ufs = c.nacional ? '<span class="uf">Nacional</span>'
-    : c.ufs.map((u) => `<span class="uf">${u.toUpperCase()}</span>`).join(" ");
   const vagas = c.vagas != null ? `<span><b>${num(c.vagas)}</b> vaga${c.vagas === 1 ? "" : "s"}</span>`
     : `<span><b>${esc(c.vagas_texto || "Várias")}</b>${c.vagas_texto === "Cadastro reserva" ? "" : " vagas"}</span>`;
   const salario = c.salario_max ? `<span>até <b>${reais(c.salario_max)}</b></span>` : "";
@@ -104,7 +151,8 @@ function cartao(c, termos) {
     <p>${destacar(c.titulo, termos)}</p>
     ${cargos}
     ${prazo(c)}
-    <div class="facts">${ufs}${vagas}${salario}</div>
+    <div class="facts">${vagas}${salario}</div>
+    ${tagsDoCard(c)}
     ${acoes(c)}
   </article>`;
 }
@@ -117,6 +165,7 @@ function render() {
   const vagas = lista.reduce((s, c) => s + (c.vagas || 0), 0);
   $("count").textContent = `${num(lista.length)} concurso${lista.length === 1 ? "" : "s"} · ${num(vagas)} vagas informadas`;
   $("more").hidden = lista.length <= estado.limite;
+  tagsPopulares();
   salvarNaUrl();
 }
 
@@ -153,6 +202,12 @@ function lerDaUrl() {
 }
 
 function ligar() {
+  for (const id of ["list", "tags-populares"]) {
+    $(id).addEventListener("click", (e) => {
+      const b = e.target.closest("button.tag");
+      if (b) alternarTag(b.dataset.tag);
+    });
+  }
   let espera;
   $("q").addEventListener("input", (e) => {
     clearTimeout(espera);
@@ -181,7 +236,10 @@ async function iniciar() {
   }
   for (const c of dados.concursos) {
     c._situacao = situacao(c);
-    c._busca = semAcento(`${c.orgao} ${c.titulo} ${c.cargos || ""}`);
+    c._tags = (c.tags || []).map(semAcento).concat(c._situacao === "encerrado" ? ["encerrado"] : []);
+    // a busca por palavra também acha escolaridade, nome do estado e tags ("superior pernambuco saude")
+    const estados = c.ufs.map((u) => dados.ufs[u] || "").join(" ");
+    c._busca = semAcento(`${c.orgao} ${c.titulo} ${c.cargos || ""} ${c.escolaridade || ""} ${estados} ${(c.tags || []).join(" ")}`);
     c._escolaridade = semAcento(c.escolaridade);
   }
   const opcoes = Object.entries(dados.ufs).sort(([a, x], [b, y]) => a === "br" ? -1 : b === "br" ? 1 : x.localeCompare(y));

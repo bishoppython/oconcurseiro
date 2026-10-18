@@ -162,3 +162,8 @@ def test_anota_canal_quando_vira_admin(bot):
     assert bot.banco.ler("canal_detectado") == "-100123 @oConcurseiroBR oConcurseiro"
     bot.anotar_canal({"message": {"chat": {"id": 5, "type": "private"}}})  # privado não mexe
     assert bot.banco.ler("canal_detectado").startswith("-100123")
+
+
+def test_hashtags_usam_as_tags_do_portal():
+    from bot.filtros import hashtags
+    assert hashtags(concurso("a", tags=["PE", "Superior", "Saude"])) == "#PE #Superior #Saude"

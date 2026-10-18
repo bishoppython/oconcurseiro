@@ -5,19 +5,31 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>oConcurseiro</title>
 <meta name="description" content="Encontre concursos públicos abertos e previstos em todo o Brasil, por estado, vagas e salário.">
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📢</text></svg>">
+<link rel="icon" type="image/png" href="img/favicon-64.png">
+<link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+<meta name="theme-color" content="#031234">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="oConcurseiro">
+<meta property="og:title" content="oConcurseiro: todos os concursos do Brasil em um só lugar">
+<meta property="og:description" content="Concursos abertos e previstos com prazo de inscrição, cargos, salários e editais. Atualizado 3x ao dia.">
+<meta property="og:image" content="https://bishoppython.github.io/oconcurseiro/img/og.png">
+<meta property="og:url" content="https://bishoppython.github.io/oconcurseiro/">
+<meta name="twitter:card" content="summary_large_image">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="style.css?v=3">
+<link rel="stylesheet" href="style.css?v=4">
 </head>
 <body>
 <header class="hero">
-  <div class="wrap">
-    <a class="brand" href="./">📢 oConcurseiro</a>
-    <h1>Todos os concursos do Brasil em um só lugar</h1>
-    <p class="sub">Concursos com inscrições abertas e previstos nos 26 estados, no DF e nacionais, com prazo de inscrição, cargos e salários. Atualizado várias vezes por dia.</p>
-    <div class="stats" id="stats" aria-live="polite"></div>
+  <div class="wrap hero-grid">
+    <div>
+      <a class="brand" href="./"><img src="img/logo-192.png" alt="" width="44" height="44"><span><b>o</b>Concurseiro</span></a>
+      <h1>Todos os concursos do Brasil em um só lugar</h1>
+      <p class="sub">Concursos com inscrições abertas e previstos nos 26 estados, no DF e nacionais, com prazo de inscrição, cargos e salários. Atualizado várias vezes por dia.</p>
+      <div class="stats" id="stats" aria-live="polite"></div>
+    </div>
+    <img class="hero-logo" src="img/logo-256.webp" srcset="img/logo-256.webp 256w, img/logo-512.png 512w" sizes="260px" alt="Logo do oConcurseiro" width="260" height="260">
   </div>
 </header>
 
@@ -26,7 +38,7 @@
     <label class="search">
       <span class="sr">Buscar</span>
       <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10.5 3a7.5 7.5 0 0 1 5.9 12.1l4.3 4.3-1.4 1.4-4.3-4.3A7.5 7.5 0 1 1 10.5 3zm0 2a5.5 5.5 0 1 0 0 11 5.5 5.5 0 0 0 0-11z"/></svg>
-      <input id="q" type="search" placeholder="Órgão, cargo ou cidade: PM, professor, prefeitura do Recife…" autocomplete="off">
+      <input id="q" type="search" placeholder="Órgão, cargo, cidade ou #tag: professor recife, #Saude…" autocomplete="off">
     </label>
     <div class="row">
       <label class="field"><span>Estado</span>
@@ -55,6 +67,7 @@
         <button data-status="previsto">Previstos</button>
       </div>
     </div>
+    <div class="tags-populares" id="tags-populares" aria-label="Tags populares"></div>
   </section>
 
   <p class="count" id="count"></p>
@@ -68,6 +81,6 @@
   <p>Feito por <a href="https://bishoppython.github.io/obispo/" target="_blank" rel="noopener">Anderson Bispo · oBispo</a></p>
 </footer>
 
-<script src="app.js?v=3"></script>
+<script src="app.js?v=4"></script>
 </body>
 </html>

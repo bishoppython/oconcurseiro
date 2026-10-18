@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-18T06:21:26+00:00",
+ "atualizado": "2026-10-18T06:53:51+00:00",
  "fontes": {
   "pci": "https://www.pciconcursos.com.br/concursos/",
   "cnb": "https://concursosnobrasil.com"
@@ -70,7 +70,13 @@
      "dominio": "cebraspe.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "DF",
+    "Superior",
+    "Engenharia",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "CGU - Controladoria-Geral da União",
@@ -102,7 +108,12 @@
      "dominio": "cebraspe.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "Nacional",
+    "Superior",
+    "Fiscal"
+   ]
   },
   {
    "orgao": "Com1ºDN - Comando do 1º Distrito Naval da Marinha do Brasil",
@@ -135,7 +146,14 @@
      "dominio": "marinha.mil.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RJ",
+    "MG",
+    "Superior",
+    "Militar",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Com9ºDN - Comando do 9º Distrito Naval da Marinha do Brasil",
@@ -167,7 +185,14 @@
      "dominio": "marinha.mil.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "AM",
+    "RO",
+    "Superior",
+    "Militar",
+    "Temporario"
+   ]
   },
   {
    "orgao": "CRBio-01 - Conselho Regional de Biologia da 1ª Região",
@@ -205,7 +230,14 @@
      "dominio": "quadrix.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "MT",
+    "MS",
+    "Medio",
+    "Superior"
+   ]
   },
   {
    "orgao": "CREF - Conselho Regional de Educação Física",
@@ -238,7 +270,17 @@
     "EDITAL Nº 1/2026 - CREF 27ª REGIÃO RR"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RO",
+    "TO",
+    "AP",
+    "AC",
+    "RR",
+    "Medio",
+    "Superior",
+    "Educacao"
+   ]
   },
   {
    "orgao": "INB - Indústrias Nucleares do Brasil S.A.",
@@ -274,7 +316,13 @@
      "dominio": "conhecimento.fgv.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "Nacional",
+    "Medio",
+    "Tecnico",
+    "Superior"
+   ]
   },
   {
    "orgao": "Marinha do Brasil - Comando do 3º Distrito Naval",
@@ -314,7 +362,17 @@
      "dominio": "inscricao.marinha.mil.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "CE",
+    "RN",
+    "PB",
+    "PE",
+    "AL",
+    "Superior",
+    "Militar",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Marinha do Brasil - Comando do 4º Distrito Naval",
@@ -349,7 +407,16 @@
      "dominio": "marinha.mil.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "PA",
+    "AP",
+    "MA",
+    "PI",
+    "Superior",
+    "Militar",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Marinha do Brasil - Comando do 7º Distrito Naval",
@@ -387,7 +454,15 @@
      "dominio": "areadocandidato.marinha.mil.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "DF",
+    "GO",
+    "TO",
+    "Superior",
+    "Militar",
+    "Temporario"
+   ]
   },
   {
    "orgao": "MGS - Minas Gerais Administração e Serviços S.A.",
@@ -423,7 +498,14 @@
      "dominio": "ibfc.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Câmara de Boituva",
@@ -460,7 +542,15 @@
      "dominio": "imais.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Prefeitura de Piracicaba",
@@ -496,7 +586,13 @@
      "dominio": "avancasp.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Superior",
+    "Educacao",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "SETEC - Serviços Técnicos Gerais de Campinas",
@@ -532,7 +628,14 @@
      "dominio": "indepac.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior"
+   ]
   },
   {
    "orgao": "Câmara da Estância Balneária de Itanhaém",
@@ -563,7 +666,14 @@
      "dominio": "itanhaem.sp.leg.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Câmara de Barão de Antonina",
@@ -599,7 +709,13 @@
      "dominio": "fundacaofafipa.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Superior",
+    "Juridico",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Câmara de Cesário Lange",
@@ -635,7 +751,14 @@
      "dominio": "planexcon.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Fundamental",
+    "Medio",
+    "Administrativo",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Câmara de Clementina",
@@ -671,7 +794,12 @@
      "dominio": "exitusconcursos.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Superior",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Câmara de Dois Córregos",
@@ -707,7 +835,13 @@
      "dominio": "portal.imperioconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Medio",
+    "Superior",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Câmara de Estrela do Norte",
@@ -743,7 +877,14 @@
      "dominio": "consesp.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Fundamental",
+    "Superior",
+    "Administrativo",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Câmara de Jarinu",
@@ -779,7 +920,12 @@
      "dominio": "indepac.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Superior",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Câmara de Torre de Pedra",
@@ -815,7 +961,13 @@
      "dominio": "conscamweb.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Superior",
+    "Juridico",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Cemmil - Consórcio Intermunicipal Cemmil para o Desenvolvimento Sustentável",
@@ -846,7 +998,14 @@
      "dominio": "sigmarh.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Cemmil - Consórcio Intermunicipal Cemmil para o Desenvolvimento Sustentável",
@@ -882,7 +1041,11 @@
      "dominio": "sigmarh.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Fundamental"
+   ]
   },
   {
    "orgao": "COMDERP - Companhia Municipal de Desenvolvimento de São José do Rio Pardo",
@@ -918,7 +1081,13 @@
      "dominio": "aplicativa.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Fundamental",
+    "Medio",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Defensoria Pública do Estado de São Paulo",
@@ -954,7 +1123,12 @@
      "dominio": "concursosfcc.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Superior",
+    "Juridico"
+   ]
   },
   {
    "orgao": "DETRAN - Departamento Estadual de Trânsito de São Paulo",
@@ -991,7 +1165,12 @@
      "dominio": "avalia.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Superior",
+    "Transito"
+   ]
   },
   {
    "orgao": "FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar",
@@ -1032,7 +1211,15 @@
      "dominio": "famesp.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Saude",
+    "Temporario"
+   ]
   },
   {
    "orgao": "FJPO - Fundação José Pedro de Oliveira",
@@ -1068,7 +1255,13 @@
      "dominio": "imais.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Fundamental",
+    "Tecnico",
+    "Superior"
+   ]
   },
   {
    "orgao": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
@@ -1099,7 +1292,13 @@
      "dominio": "funcamp.unicamp.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Fundamental",
+    "Saude",
+    "Temporario"
+   ]
   },
   {
    "orgao": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
@@ -1130,7 +1329,14 @@
      "dominio": "funcamp.unicamp.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Tecnico",
+    "Superior",
+    "Fiscal",
+    "Temporario"
+   ]
   },
   {
    "orgao": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
@@ -1161,7 +1367,12 @@
      "dominio": "funcamp.unicamp.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Fundamental",
+    "Temporario"
+   ]
   },
   {
    "orgao": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
@@ -1194,7 +1405,13 @@
      "dominio": "funcamp.unicamp.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Fundamental",
+    "Medio",
+    "Administrativo"
+   ]
   },
   {
    "orgao": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
@@ -1225,7 +1442,12 @@
      "dominio": "funcamp.unicamp.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Medio",
+    "Temporario"
+   ]
   },
   {
    "orgao": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
@@ -1256,7 +1478,12 @@
      "dominio": "funcamp.unicamp.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Medio",
+    "Saude"
+   ]
   },
   {
    "orgao": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
@@ -1287,7 +1514,12 @@
      "dominio": "funcamp.unicamp.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Medio",
+    "Temporario"
+   ]
   },
   {
    "orgao": "HCFMRP-USP - Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo",
@@ -1319,7 +1551,13 @@
      "dominio": "hcribeirao.sp.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Superior",
+    "Saude",
+    "Educacao"
+   ]
   },
   {
    "orgao": "HCFMRP-USP - Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo",
@@ -1355,7 +1593,13 @@
      "dominio": "hcribeirao.sp.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Superior",
+    "Saude",
+    "Educacao"
+   ]
   },
   {
    "orgao": "IPSM - Instituto de Previdência do Servidor Municipal",
@@ -1391,7 +1635,11 @@
      "dominio": "institutoaocp.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Superior"
+   ]
   },
   {
    "orgao": "Marinha do Brasil - Comando do 8º Distrito Naval",
@@ -1423,7 +1671,12 @@
      "dominio": "marinha.mil.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Superior",
+    "Militar"
+   ]
   },
   {
    "orgao": "Município da Estância Balneária de Praia Grande",
@@ -1454,7 +1707,14 @@
      "dominio": "ibamsp-concursos.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Superior",
+    "Saude",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura da Estância Climática de Nuporanga",
@@ -1490,7 +1750,13 @@
      "dominio": "concursos.srdigitalizacoes.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Fundamental",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura da Estância Turística de Ibitinga",
@@ -1527,7 +1793,13 @@
      "dominio": "portal.cepasf.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Medio",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura da Estância Turística de São Roque",
@@ -1563,7 +1835,15 @@
      "dominio": "abconcursospublicos.org"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Medio",
+    "Superior",
+    "Educacao",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura da Estância Turística de São Roque",
@@ -1599,7 +1879,13 @@
      "dominio": "abconcursospublicos.org"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Superior",
+    "Saude",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Álvares Machado",
@@ -1636,7 +1922,14 @@
      "dominio": "consesp.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Superior",
+    "Saude",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Aparecida",
@@ -1672,7 +1965,15 @@
      "dominio": "avancasp.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Araçoiaba da Serra",
@@ -1708,7 +2009,14 @@
      "dominio": "igecs.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Medio",
+    "Superior",
+    "Educacao",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Buritizal",
@@ -1744,7 +2052,15 @@
      "dominio": "consesp.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Medio",
+    "Superior",
+    "Educacao",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Cabreúva",
@@ -1780,7 +2096,13 @@
      "dominio": "avancasp.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Medio",
+    "Policial",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Cachoeira Paulista",
@@ -1816,7 +2138,15 @@
      "dominio": "avancasp.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Caiabu",
@@ -1852,7 +2182,15 @@
      "dominio": "consesp.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Cerquilho",
@@ -1888,7 +2226,13 @@
      "dominio": "avancasp.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Medio",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Conchal",
@@ -1924,7 +2268,14 @@
      "dominio": "abconcursospublicos.org"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Medio",
+    "Saude",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Cosmorama",
@@ -1960,7 +2311,14 @@
      "dominio": "institutoaplicativa.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Medio",
+    "Superior",
+    "Saude",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Cubatão",
@@ -1997,7 +2355,14 @@
      "dominio": "ibamsp-concursos.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Embaúba",
@@ -2033,7 +2398,15 @@
      "dominio": "ipell.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Floreal",
@@ -2069,7 +2442,15 @@
      "dominio": "institutounique.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de General Salgado",
@@ -2105,7 +2486,13 @@
      "dominio": "portal.fenix.selecao.site"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Superior",
+    "Educacao",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Guarulhos",
@@ -2141,7 +2528,13 @@
      "dominio": "ibamsp-concursos.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Superior",
+    "Saude",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Guatapará",
@@ -2177,7 +2570,15 @@
      "dominio": "portal.cmmconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Saude",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Guzolândia",
@@ -2213,7 +2614,14 @@
      "dominio": "glconsultoria.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Medio",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Holambra",
@@ -2249,7 +2657,15 @@
      "dominio": "glconsultoria.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Icém",
@@ -2285,7 +2701,14 @@
      "dominio": "institutoaplicativa.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Itapecerica da Serra",
@@ -2321,7 +2744,12 @@
      "dominio": "avancasp.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Medio",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Itatiba",
@@ -2357,7 +2785,14 @@
      "dominio": "imais.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Medio",
+    "Educacao",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Jaborandi",
@@ -2393,7 +2828,15 @@
      "dominio": "glconsultoria.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Lençóis Paulista",
@@ -2429,7 +2872,13 @@
      "dominio": "indepac.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Superior",
+    "Educacao",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Lençóis Paulista",
@@ -2465,7 +2914,14 @@
      "dominio": "indepac.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Lorena",
@@ -2501,7 +2957,14 @@
      "dominio": "avancasp.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Medio",
+    "Superior",
+    "Saude",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Lucélia",
@@ -2538,7 +3001,15 @@
      "dominio": "valespe.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Mairinque",
@@ -2574,7 +3045,14 @@
      "dominio": "abconcursospublicos.org"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Medio",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Marabá Paulista",
@@ -2610,7 +3088,13 @@
      "dominio": "consesp.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Superior",
+    "Saude",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Matão",
@@ -2646,7 +3130,14 @@
      "dominio": "ibamsp-concursos.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Matão",
@@ -2682,7 +3173,15 @@
      "dominio": "ibamsp-concursos.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Mauá",
@@ -2713,7 +3212,14 @@
      "dominio": "maua.sp.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Superior",
+    "Saude",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Mongaguá",
@@ -2744,7 +3250,14 @@
      "dominio": "mongagua.sp.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Medio",
+    "Educacao",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Morro Agudo",
@@ -2780,7 +3293,14 @@
      "dominio": "institutoindec.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Murutinga do Sul",
@@ -2816,7 +3336,14 @@
      "dominio": "conscamweb.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Nova Campina",
@@ -2852,7 +3379,14 @@
      "dominio": "institutodom.com"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Medio",
+    "Tecnico",
+    "Saude",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Orlândia",
@@ -2888,7 +3422,14 @@
      "dominio": "fundacaofafipa.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Superior",
+    "Educacao",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Piedade",
@@ -2924,7 +3465,14 @@
      "dominio": "igecs.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Pilar do Sul",
@@ -2960,7 +3508,14 @@
      "dominio": "aplicativa.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Superior",
+    "Educacao",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Porto Feliz",
@@ -2997,7 +3552,15 @@
      "dominio": "avalia.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Santa Adélia",
@@ -3033,7 +3596,14 @@
      "dominio": "concursos.srdigitalizacoes.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Medio",
+    "Superior",
+    "Educacao",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Santa Adélia",
@@ -3069,7 +3639,13 @@
      "dominio": "concursos.srdigitalizacoes.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Superior",
+    "Social",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de São Carlos",
@@ -3105,7 +3681,15 @@
      "dominio": "indepac.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de São Joaquim da Barra",
@@ -3141,7 +3725,15 @@
      "dominio": "indepac.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Sarapuí",
@@ -3177,7 +3769,13 @@
      "dominio": "publiconsult.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Superior",
+    "Juridico",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Taquaritinga",
@@ -3213,7 +3811,15 @@
      "dominio": "glconsultoria.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Taquarituba",
@@ -3251,7 +3857,15 @@
      "dominio": "institutounique.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Tarumã",
@@ -3287,7 +3901,16 @@
      "dominio": "ipell.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Tatuí",
@@ -3323,7 +3946,13 @@
      "dominio": "omconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Fundamental",
+    "Medio",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura do Município de Carapicuíba",
@@ -3360,7 +3989,14 @@
      "dominio": "rboconcursos.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura do Município de Cordeirópolis",
@@ -3396,7 +4032,16 @@
      "dominio": "rboconcursos.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Medio",
+    "Superior",
+    "Saude",
+    "Educacao",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura do Município de Mauá",
@@ -3432,7 +4077,13 @@
      "dominio": "ibamsp-concursos.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Medio",
+    "Policial",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "PRUDENCO - Companhia Prudentina de Desenvolvimento",
@@ -3469,7 +4120,11 @@
      "dominio": "consesp.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Fundamental"
+   ]
   },
   {
    "orgao": "PRUDENPREV - Sistema de Previdência do Município de Presidente Prudente",
@@ -3505,7 +4160,15 @@
      "dominio": "fundacaofafipa.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "SEBRAE - Serviço de Apoio às Micro e Pequenas Empresas de São Paulo",
@@ -3541,7 +4204,11 @@
      "dominio": "rboconcursos.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Superior"
+   ]
   },
   {
    "orgao": "SEBRAE - Serviço de Apoio às Micro e Pequenas Empresas de São Paulo",
@@ -3577,7 +4244,11 @@
      "dominio": "rboconcursos.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Superior"
+   ]
   },
   {
    "orgao": "SEFAZ - Secretaria da Fazenda e Planejamento",
@@ -3613,7 +4284,11 @@
      "dominio": "concursosfcc.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Superior"
+   ]
   },
   {
    "orgao": "SETEC - Serviços Técnicos Gerais",
@@ -3649,7 +4324,12 @@
      "dominio": "indepac.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Superior",
+    "Juridico"
+   ]
   },
   {
    "orgao": "UNESP - Universidade Estadual Paulista",
@@ -3685,7 +4365,12 @@
      "dominio": "inscricoes.unesp.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Superior",
+    "Educacao"
+   ]
   },
   {
    "orgao": "UNESP - Universidade Estadual Paulista",
@@ -3721,7 +4406,12 @@
      "dominio": "inscricoes.unesp.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SP",
+    "Medio",
+    "Educacao"
+   ]
   },
   {
    "orgao": "Prefeitura de São Gonçalo",
@@ -3758,7 +4448,15 @@
      "dominio": "selecon.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RJ",
+    "Medio",
+    "Superior",
+    "Saude",
+    "Policial",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "CBMERJ - Corpo de Bombeiros Militar do Estado do Rio de Janeiro",
@@ -3794,7 +4492,14 @@
      "dominio": "institutoaocp.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RJ",
+    "Superior",
+    "Policial",
+    "Militar",
+    "Temporario"
+   ]
   },
   {
    "orgao": "CREMERJ - Conselho Regional de Medicina do Rio de Janeiro",
@@ -3832,7 +4537,13 @@
      "dominio": "institutoconsulplan.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RJ",
+    "Medio",
+    "Tecnico",
+    "Superior"
+   ]
   },
   {
    "orgao": "IMS - Instituto de Pós-Graduação em Ciências da Saúde Izamar Milidiu da Silva Instituto",
@@ -3868,7 +4579,12 @@
      "dominio": "access.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RJ",
+    "Superior",
+    "Saude"
+   ]
   },
   {
    "orgao": "Prefeitura de Arraial do Cabo",
@@ -3906,7 +4622,14 @@
      "dominio": "ibam-concursos.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RJ",
+    "Medio",
+    "Saude",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Queimados",
@@ -3942,7 +4665,14 @@
      "dominio": "ian.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RJ",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "RioSaúde - Empresa Pública de Saúde do Rio de Janeiro S/A",
@@ -3974,7 +4704,13 @@
      "dominio": "riosaude.prefeitura.rio"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RJ",
+    "Superior",
+    "Saude",
+    "Temporario"
+   ]
   },
   {
    "orgao": "SEPLAG - Secretaria de Estado de Planejamento e Gestão",
@@ -4009,7 +4745,11 @@
      "dominio": "conhecimento.fgv.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RJ",
+    "Superior"
+   ]
   },
   {
    "orgao": "EMATER - Empresa de Assistência Técnica e Extensão Rural do Estado de Minas Gerais",
@@ -4046,7 +4786,13 @@
      "dominio": "gestaodeconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Medio",
+    "Tecnico",
+    "Superior"
+   ]
   },
   {
    "orgao": "Hospital Municipal Dr. Gil Alves",
@@ -4077,7 +4823,15 @@
      "dominio": "cotec.fadenor.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Saude"
+   ]
   },
   {
    "orgao": "PMMG - Polícia Militar de Minas Gerais",
@@ -4113,7 +4867,13 @@
      "dominio": "policiamilitar.mg.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Superior",
+    "Policial",
+    "Militar"
+   ]
   },
   {
    "orgao": "Prefeitura de Contagem",
@@ -4151,7 +4911,14 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Câmara de Bocaina de Minas",
@@ -4187,7 +4954,13 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Fundamental",
+    "Medio",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Câmara de Cajuri",
@@ -4223,7 +4996,14 @@
      "dominio": "institutoideap.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Fundamental",
+    "Medio",
+    "Administrativo",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Câmara de Capela Nova",
@@ -4259,7 +5039,16 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Educacao",
+    "Administrativo",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Câmara de Capelinha",
@@ -4292,7 +5081,15 @@
      "dominio": "portal.imeso.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Câmara de Capinópolis",
@@ -4329,7 +5126,13 @@
      "dominio": "portal.fenix.selecao.site"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Fundamental",
+    "Superior",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Câmara de Caratinga",
@@ -4365,7 +5168,13 @@
      "dominio": "institutoconsulplan.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Superior",
+    "Fiscal",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Câmara de Carmo da Cachoeira",
@@ -4401,7 +5210,12 @@
      "dominio": "glconsultoria.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Medio",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Câmara de Divisa Nova",
@@ -4437,7 +5251,14 @@
      "dominio": "imam.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Superior",
+    "Fiscal",
+    "Legislativo",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Câmara de Dores do Indaiá",
@@ -4473,7 +5294,14 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Câmara de Jacuí",
@@ -4509,7 +5337,13 @@
      "dominio": "glconsultoria.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Medio",
+    "Administrativo",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Câmara de Lajinha",
@@ -4545,7 +5379,12 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Superior",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Câmara de Lambari",
@@ -4581,7 +5420,14 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Câmara de Natércia",
@@ -4617,7 +5463,13 @@
      "dominio": "concursosjcm.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Fundamental",
+    "Medio",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Câmara de Nova Módica",
@@ -4653,7 +5505,12 @@
      "dominio": "portal.mbgestaopublica.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Superior",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Câmara de Nova Ponte",
@@ -4693,7 +5550,14 @@
      "dominio": "versatilsolucoesadm.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Medio",
+    "Superior",
+    "Administrativo",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Câmara de Pedras de Maria da Cruz",
@@ -4729,7 +5593,14 @@
      "dominio": "cotec.fadenor.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Fundamental",
+    "Medio",
+    "Administrativo",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Câmara de Resende Costa",
@@ -4765,7 +5636,13 @@
      "dominio": "jcmconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Fundamental",
+    "Medio",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Câmara de Serranos",
@@ -4801,7 +5678,15 @@
      "dominio": "institutodom.com"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Medio",
+    "Superior",
+    "Fiscal",
+    "Administrativo",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Câmara de Tiradentes",
@@ -4837,7 +5722,12 @@
      "dominio": "ibdoprojetos.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Superior",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Câmara de Tupaciguara",
@@ -4873,7 +5763,14 @@
      "dominio": "portal.iadhedconcursos.org"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Câmara de Unaí",
@@ -4909,7 +5806,12 @@
      "dominio": "institutoconsulplan.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Superior",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "CIGEDAS - Consórcio Intermunicipal de Gestão e Desenvolvimento Ambiental Sustentável das Vertentes",
@@ -4945,7 +5847,13 @@
      "dominio": "jcmconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Medio",
+    "Superior",
+    "Temporario"
+   ]
   },
   {
    "orgao": "CIMAG - Consórcio Público Intermunicipal Multifinalitário da Microrregião do Circuito das Águas",
@@ -4976,7 +5884,12 @@
      "dominio": "eloassessoriaeservicos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Superior",
+    "Saude"
+   ]
   },
   {
    "orgao": "CIMME - Consórcio Intermunicipal Multifinalitário do Médio Espinhaço",
@@ -5012,7 +5925,14 @@
      "dominio": "institutoideap.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Temporario"
+   ]
   },
   {
    "orgao": "CISICOM - Consórcio Intermunicipal dos Serviços de Inspeção do Centro-Oeste Mineiro",
@@ -5048,7 +5968,13 @@
      "dominio": "idepi.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Superior",
+    "Saude",
+    "Fiscal"
+   ]
   },
   {
    "orgao": "CISURG Saúde Médio Piracicaba",
@@ -5079,7 +6005,16 @@
      "dominio": "cisurgmp.mg.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Saude",
+    "Temporario"
+   ]
   },
   {
    "orgao": "FUMEP - Fundação Municipal de Ensino Profissionalizante de Sete Lagoas",
@@ -5111,7 +6046,15 @@
      "dominio": "gestaodeconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Educacao"
+   ]
   },
   {
    "orgao": "IPSEMG - Instituto de Previdência dos Servidores do Estado de Minas Gerais / Hospital Governador Israel Pinheiro",
@@ -5147,7 +6090,12 @@
      "dominio": "access.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Superior",
+    "Saude"
+   ]
   },
   {
    "orgao": "Prefeitura de Alvinópolis",
@@ -5183,7 +6131,15 @@
      "dominio": "institutoconsulplan.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Antônio Prado de Minas",
@@ -5219,7 +6175,15 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Baldim",
@@ -5255,7 +6219,14 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Tecnico",
+    "Superior",
+    "Saude",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Belo Vale",
@@ -5291,7 +6262,14 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Medio",
+    "Saude",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Belo Vale",
@@ -5327,7 +6305,15 @@
      "dominio": "institutoconsulplan.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Berizal",
@@ -5365,7 +6351,14 @@
      "dominio": "portal.imeso.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Medio",
+    "Saude",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Carmo da Cachoeira",
@@ -5401,7 +6394,13 @@
      "dominio": "concursosjcm.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Medio",
+    "Saude",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Cláudio",
@@ -5432,7 +6431,14 @@
      "dominio": "claudio.mg.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Superior",
+    "Saude",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Cláudio",
@@ -5463,7 +6469,13 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Superior",
+    "Educacao",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Conceição do Mato Dentro",
@@ -5501,7 +6513,14 @@
      "dominio": "gestaodeconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Indaiabira",
@@ -5535,7 +6554,14 @@
      "dominio": "portal.imeso.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Medio",
+    "Saude",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Itabira",
@@ -5566,7 +6592,15 @@
      "dominio": "itabira.mg.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Itanhandu",
@@ -5602,7 +6636,12 @@
      "dominio": "glconsultoria.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Medio",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Lagoa da Prata",
@@ -5643,7 +6682,15 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Lagoa Santa",
@@ -5679,7 +6726,15 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Leopoldina",
@@ -5715,7 +6770,14 @@
      "dominio": "leopoldina-flow.sigmix.net"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Superior",
+    "Saude",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Luislândia",
@@ -5751,7 +6813,15 @@
      "dominio": "cotec.fadenor.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Munhoz",
@@ -5787,7 +6857,13 @@
      "dominio": "ibdoprojetos.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Superior",
+    "Saude",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Paiva",
@@ -5823,7 +6899,14 @@
      "dominio": "concursosjcm.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Paraguaçu",
@@ -5859,7 +6942,15 @@
      "dominio": "ibdoprojetos.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Patis",
@@ -5895,7 +6986,15 @@
      "dominio": "cotec.fadenor.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Pedro Teixeira",
@@ -5933,7 +7032,15 @@
      "dominio": "concursosjcm.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Perdigão",
@@ -5964,7 +7071,14 @@
      "dominio": "perdigao.mg.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Superior",
+    "Saude",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Piracema",
@@ -6001,7 +7115,16 @@
      "dominio": "idepi.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Piranguinho",
@@ -6040,7 +7163,13 @@
      "dominio": "gamaconsult.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Medio",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Ponte Nova",
@@ -6071,7 +7200,15 @@
      "dominio": "pontenova.mg.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Medio",
+    "Superior",
+    "Educacao",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Porto Firme",
@@ -6107,7 +7244,13 @@
      "dominio": "institutoconsulplan.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Fundamental",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Rio Acima",
@@ -6143,7 +7286,13 @@
      "dominio": "idepi.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Medio",
+    "Saude",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Salto da Divisa",
@@ -6179,7 +7328,13 @@
      "dominio": "portal.progestap.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Medio",
+    "Saude",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Santa Luzia",
@@ -6215,7 +7370,15 @@
      "dominio": "cotec.fadenor.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Santana de Pirapama",
@@ -6251,7 +7414,15 @@
      "dominio": "exameconsultores.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de São João del-Rei",
@@ -6287,7 +7458,14 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de São João del-Rei e DAMAE - Departamento Autônomo Municipal de Água e Esgoto",
@@ -6325,7 +7503,15 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de São João do Paraíso",
@@ -6364,7 +7550,14 @@
      "dominio": "portal.imeso.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Medio",
+    "Saude",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de São Pedro da União",
@@ -6400,7 +7593,15 @@
      "dominio": "institutoaplicativa.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de São Romão",
@@ -6436,7 +7637,13 @@
      "dominio": "portal.imeso.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Medio",
+    "Saude",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de São Sebastião do Rio Verde",
@@ -6472,7 +7679,14 @@
      "dominio": "inepam.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de São Tomás de Aquino",
@@ -6503,7 +7717,14 @@
      "dominio": "staquino.mg.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Superior",
+    "Educacao",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de São Vicente de Minas",
@@ -6534,7 +7755,15 @@
      "dominio": "access.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Tocos do Moji",
@@ -6571,7 +7800,14 @@
      "dominio": "glconsultoria.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Medio",
+    "Saude",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Uberlândia",
@@ -6607,7 +7843,14 @@
      "dominio": "rboconcursos.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Viçosa",
@@ -6643,7 +7886,16 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "SAAE - Serviço Autônomo de Água e Esgoto de Itambacuri",
@@ -6679,7 +7931,12 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Fundamental",
+    "Medio"
+   ]
   },
   {
    "orgao": "SAAE - Serviço Autônomo de Água e Esgoto do Município de Pirapora",
@@ -6715,7 +7972,15 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Santa Casa BH - Santa Casa de Misericórdia de Belo Horizonte",
@@ -6752,7 +8017,12 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Superior",
+    "Saude"
+   ]
   },
   {
    "orgao": "Santa Casa BH - Santa Casa de Misericórdia de Belo Horizonte",
@@ -6789,7 +8059,12 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Superior",
+    "Saude"
+   ]
   },
   {
    "orgao": "UNIFAL - Universidade Federal de Alfenas",
@@ -6821,7 +8096,13 @@
      "dominio": "unifal-mg.edu.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MG",
+    "Superior",
+    "Saude",
+    "Educacao"
+   ]
   },
   {
    "orgao": "Banestes - Banco do Estado do Espírito Santo e Banestes Seguros",
@@ -6858,7 +8139,13 @@
      "dominio": "concursosfcc.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "ES",
+    "Medio",
+    "Tecnico",
+    "Bancario"
+   ]
   },
   {
    "orgao": "CRECI - Conselho Regional de Corretores de Imóveis da 13ª Região",
@@ -6894,7 +8181,12 @@
      "dominio": "quadrix.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "ES",
+    "Medio",
+    "Superior"
+   ]
   },
   {
    "orgao": "CREF22 - Conselho Regional de Educação Física da 22ª Região",
@@ -6930,7 +8222,15 @@
      "dominio": "ibade.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "ES",
+    "Superior",
+    "Educacao",
+    "Juridico",
+    "Fiscal",
+    "Administrativo"
+   ]
   },
   {
    "orgao": "HECI - Hospital Evangélico de Cachoeiro de Itapemirim",
@@ -6967,7 +8267,12 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "ES",
+    "Superior",
+    "Saude"
+   ]
   },
   {
    "orgao": "HEVV - Hospital Evangélico de Vila Velha",
@@ -7003,7 +8308,12 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "ES",
+    "Superior",
+    "Saude"
+   ]
   },
   {
    "orgao": "HIFA - Hospital Materno Infantil Francisco de Assis",
@@ -7040,7 +8350,13 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "ES",
+    "Superior",
+    "Saude",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Irupi",
@@ -7071,7 +8387,13 @@
      "dominio": "irupi.es.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "ES",
+    "Medio",
+    "Educacao",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Iúna e Santa Casa de Iúna",
@@ -7117,7 +8439,16 @@
      "dominio": "institutoselecao.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "ES",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Montanha",
@@ -7148,7 +8479,15 @@
      "dominio": "montanha.es.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "ES",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Nova Venécia",
@@ -7179,7 +8518,13 @@
      "dominio": "novavenecia.es.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "ES",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Santa Maria de Jetibá",
@@ -7215,7 +8560,13 @@
      "dominio": "institutoconsulplan.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "ES",
+    "Medio",
+    "Policial",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Santa Maria de Jetibá",
@@ -7246,7 +8597,16 @@
      "dominio": "portal.pmsmj.es.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "ES",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "SAAE - Serviço Autônomo de Água e Esgoto de Iconha",
@@ -7282,7 +8642,13 @@
      "dominio": "institutoreferencia.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "ES",
+    "Fundamental",
+    "Medio",
+    "Superior"
+   ]
   },
   {
    "orgao": "SEMMA - Secretaria Municipal de Meio Ambiente de Vila Velha",
@@ -7319,7 +8685,14 @@
      "dominio": "sistemas.vilavelha.es.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "ES",
+    "Tecnico",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "PMC - Prefeitura de Curitiba",
@@ -7360,7 +8733,14 @@
      "dominio": "fundacaofafipa.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "PR",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Câmara de Cantagalo",
@@ -7396,7 +8776,13 @@
      "dominio": "unioeste.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "PR",
+    "Superior",
+    "Juridico",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Câmara de Jundiaí do Sul",
@@ -7432,7 +8818,13 @@
      "dominio": "fundacaofafipa.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "PR",
+    "Fundamental",
+    "Legislativo",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Câmara de Quatro Barras",
@@ -7468,7 +8860,13 @@
      "dominio": "consulpam.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "PR",
+    "Medio",
+    "Superior",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Câmara de Rio Azul",
@@ -7504,7 +8902,15 @@
      "dominio": "fundacaofafipa.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "PR",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Fiscal",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "CRQ-9ª Região - Conselho Regional de Química da 9ª Região do Paraná",
@@ -7540,7 +8946,13 @@
      "dominio": "quadrix.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "PR",
+    "Medio",
+    "Tecnico",
+    "Superior"
+   ]
   },
   {
    "orgao": "Município e Câmara de Nova Prata do Iguaçu",
@@ -7572,7 +8984,15 @@
      "dominio": "concursosfau.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "PR",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Prefeitura de Ângulo",
@@ -7608,7 +9028,15 @@
      "dominio": "institutounivida.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "PR",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Apucarana",
@@ -7644,7 +9072,13 @@
      "dominio": "concursosfau.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "PR",
+    "Medio",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Boa Vista da Aparecida",
@@ -7675,7 +9109,15 @@
      "dominio": "boavistadaaparecida.pr.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "PR",
+    "Fundamental",
+    "Superior",
+    "Social",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Cascavel",
@@ -7711,7 +9153,15 @@
      "dominio": "fundacaofafipa.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "PR",
+    "Medio",
+    "Superior",
+    "Educacao",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Colombo",
@@ -7747,7 +9197,16 @@
      "dominio": "fundacaofafipa.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "PR",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Florestópolis",
@@ -7783,7 +9242,14 @@
      "dominio": "gamaconsult.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "PR",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Lobato",
@@ -7814,7 +9280,14 @@
      "dominio": "lobato.pr.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "PR",
+    "Fundamental",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Teixeira Soares",
@@ -7845,7 +9318,15 @@
      "dominio": "teixeirasoares.pr.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "PR",
+    "Superior",
+    "Saude",
+    "Social",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Tijucas do Sul",
@@ -7876,7 +9357,14 @@
      "dominio": "tijucasdosul.pr.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "PR",
+    "Tecnico",
+    "Superior",
+    "Saude",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura e Câmara de Siqueira Campos",
@@ -7920,7 +9408,16 @@
      "dominio": "concursosfau.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "PR",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Legislativo",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "UEM - Universidade Estadual de Maringá",
@@ -7953,7 +9450,15 @@
      "dominio": "uem.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "PR",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Educacao",
+    "Temporario"
+   ]
   },
   {
    "orgao": "UEM - Universidade Estadual de Maringá",
@@ -7984,7 +9489,17 @@
      "dominio": "uem.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "PR",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Saude",
+    "Educacao",
+    "TI",
+    "Administrativo"
+   ]
   },
   {
    "orgao": "UEPG - Universidade Estadual de Ponta Grossa",
@@ -8020,7 +9535,13 @@
      "dominio": "sistemas.uepg.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "PR",
+    "Medio",
+    "Superior",
+    "Educacao"
+   ]
   },
   {
    "orgao": "UNIOESTE - Universidade Estadual do Oeste do Paraná",
@@ -8051,7 +9572,15 @@
      "dominio": "unioeste.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "PR",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Educacao",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Alvorada",
@@ -8089,7 +9618,15 @@
      "dominio": "institutolegalle.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RS",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Câmara de Vereadores de Bagé",
@@ -8125,7 +9662,14 @@
      "dominio": "fundatec.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RS",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Comando do 5º Distrito Naval da Marinha do Brasil",
@@ -8156,7 +9700,14 @@
      "dominio": "marinha.mil.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RS",
+    "Superior",
+    "Saude",
+    "Militar",
+    "Temporario"
+   ]
   },
   {
    "orgao": "HCPA - Hospital de Clínicas de Porto Alegre",
@@ -8189,7 +9740,13 @@
      "dominio": "faurgs.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RS",
+    "Medio",
+    "Superior",
+    "Saude"
+   ]
   },
   {
    "orgao": "IPAM - Farmácia do IPAM S.A.",
@@ -8225,7 +9782,14 @@
      "dominio": "legalleconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RS",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Saude"
+   ]
   },
   {
    "orgao": "Prefeitura de Alvorada",
@@ -8261,7 +9825,15 @@
      "dominio": "institutolegalle.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RS",
+    "Medio",
+    "Superior",
+    "Saude",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de André da Rocha",
@@ -8292,7 +9864,14 @@
      "dominio": "andredarocha.rs.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RS",
+    "Superior",
+    "Educacao",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Arvorezinha",
@@ -8325,7 +9904,13 @@
      "dominio": "arvorezinha.rs.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RS",
+    "Superior",
+    "Fiscal",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Barão de Cotegipe",
@@ -8362,7 +9947,15 @@
      "dominio": "institutodom.com"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RS",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Campo Bom",
@@ -8398,7 +9991,13 @@
      "dominio": "forms.gle"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RS",
+    "Fundamental",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Capão do Leão",
@@ -8429,7 +10028,14 @@
      "dominio": "capaodoleao.rs.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RS",
+    "Superior",
+    "Saude",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Carlos Barbosa",
@@ -8465,7 +10071,16 @@
      "dominio": "institutofenix.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RS",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Colinas",
@@ -8501,7 +10116,15 @@
      "dominio": "legalleconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RS",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Coqueiro Baixo",
@@ -8537,7 +10160,15 @@
      "dominio": "legalleconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RS",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Feliz",
@@ -8573,7 +10204,13 @@
      "dominio": "feliz.1doc.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RS",
+    "Medio",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Garibaldi",
@@ -8609,7 +10246,15 @@
      "dominio": "legalleconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RS",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Ipê",
@@ -8645,7 +10290,15 @@
      "dominio": "objetivas.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RS",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Itapuca",
@@ -8681,7 +10334,13 @@
      "dominio": "fundatec.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RS",
+    "Medio",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Jacutinga",
@@ -8712,7 +10371,13 @@
      "dominio": "objetivas.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RS",
+    "Fundamental",
+    "Transito",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Jacutinga",
@@ -8748,7 +10413,13 @@
      "dominio": "objetivas.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RS",
+    "Medio",
+    "Saude",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Maratá",
@@ -8784,7 +10455,15 @@
      "dominio": "legalleconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RS",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Marau",
@@ -8815,7 +10494,15 @@
      "dominio": "pmmarau.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RS",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Monte Alegre dos Campos",
@@ -8847,7 +10534,13 @@
      "dominio": "montealegredoscampos.rs.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RS",
+    "Superior",
+    "Saude",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Montenegro",
@@ -8883,7 +10576,15 @@
      "dominio": "fundatec.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RS",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Nova Bassano",
@@ -8919,7 +10620,14 @@
      "dominio": "fundacaolasalle.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RS",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Nova Boa Vista",
@@ -8955,7 +10663,14 @@
      "dominio": "fundacaolasalle.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RS",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Nova Prata",
@@ -8986,7 +10701,13 @@
      "dominio": "novaprata.rs.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RS",
+    "Fundamental",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Novo Cabrais",
@@ -9022,7 +10743,15 @@
      "dominio": "objetivas.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RS",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Panambi",
@@ -9058,7 +10787,15 @@
      "dominio": "fundatec.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RS",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Passo Fundo",
@@ -9089,7 +10826,13 @@
      "dominio": "pmpf.rs.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RS",
+    "Medio",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Porto Alegre",
@@ -9125,7 +10868,12 @@
      "dominio": "fundatec.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RS",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Porto Alegre",
@@ -9161,7 +10909,13 @@
      "dominio": "fundatec.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RS",
+    "Medio",
+    "Saude",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Porto Alegre",
@@ -9197,7 +10951,14 @@
      "dominio": "fundacaolasalle.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RS",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Restinga Sêca",
@@ -9228,7 +10989,15 @@
      "dominio": "restingaseca.rs.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RS",
+    "Fundamental",
+    "Medio",
+    "Educacao",
+    "Administrativo",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Rio Grande",
@@ -9259,7 +11028,14 @@
      "dominio": "riogrande.rs.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RS",
+    "Medio",
+    "Superior",
+    "Saude",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de São Pedro do Sul",
@@ -9290,7 +11066,13 @@
      "dominio": "saopedrodosul.atende.net"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RS",
+    "Medio",
+    "Saude",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Tio Hugo",
@@ -9326,7 +11108,15 @@
      "dominio": "objetivas.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RS",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Torres",
@@ -9363,7 +11153,13 @@
      "dominio": "processoseletivo.torres.rs.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RS",
+    "Medio",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Três Forquilhas",
@@ -9399,7 +11195,15 @@
      "dominio": "legalleconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RS",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Vicente Dutra",
@@ -9435,7 +11239,15 @@
      "dominio": "maservicospublicos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RS",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Vila Nova do Sul",
@@ -9466,7 +11278,13 @@
      "dominio": "vilanovadosul.rs.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RS",
+    "Medio",
+    "Fiscal",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Câmara de Capinzal",
@@ -9502,7 +11320,12 @@
      "dominio": "concursos.furb.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Superior",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Câmara de Descanso",
@@ -9538,7 +11361,14 @@
      "dominio": "ameosc.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Superior",
+    "Administrativo",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Câmara de Fraiburgo",
@@ -9574,7 +11404,15 @@
      "dominio": "ibam-concursos.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Câmara de Jaborá",
@@ -9610,7 +11448,12 @@
      "dominio": "amauc.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Superior",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Câmara de Marema",
@@ -9646,7 +11489,12 @@
      "dominio": "aprendersc.srv.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Câmara de Pomerode",
@@ -9682,7 +11530,14 @@
      "dominio": "concursos.furb.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Medio",
+    "Superior",
+    "Administrativo",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Câmara de Vereadores de Ituporanga",
@@ -9718,7 +11573,14 @@
      "dominio": "institutodom.com"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Superior",
+    "Juridico",
+    "Legislativo",
+    "Temporario"
+   ]
   },
   {
    "orgao": "CASAN - Companhia Catarinense de Águas e Saneamento",
@@ -9767,7 +11629,13 @@
      "dominio": "institutoaocp.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Medio",
+    "Tecnico",
+    "Superior"
+   ]
   },
   {
    "orgao": "CISAMAVI - Consórcio Público Interfederativo de Saúde e Multifinalitário do Alto Vale do Itajaí",
@@ -9803,7 +11671,14 @@
      "dominio": "portal.actio.srv.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Saude"
+   ]
   },
   {
    "orgao": "Consórcio Intermunicipal de Serviços de Acolhimento da Região da AMURC",
@@ -9834,7 +11709,14 @@
      "dominio": "egem.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Temporario"
+   ]
   },
   {
    "orgao": "CONSÓRCIO LAMBARI - Consórcio Intermunicipal Multifinalitário do Alto Uruguai Catarinense",
@@ -9870,7 +11752,12 @@
      "dominio": "amauc.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Superior",
+    "Administrativo"
+   ]
   },
   {
    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
@@ -9901,7 +11788,12 @@
      "dominio": "fahece.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Medio",
+    "Administrativo"
+   ]
   },
   {
    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
@@ -9932,7 +11824,12 @@
      "dominio": "fahece.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Superior",
+    "Temporario"
+   ]
   },
   {
    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
@@ -9964,7 +11861,14 @@
      "dominio": "fahece.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Tecnico",
+    "Superior",
+    "Saude",
+    "Temporario"
+   ]
   },
   {
    "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
@@ -9996,7 +11900,13 @@
      "dominio": "fahece.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Tecnico",
+    "Superior",
+    "Saude"
+   ]
   },
   {
    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
@@ -10027,7 +11937,12 @@
      "dominio": "fahece.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Medio",
+    "Temporario"
+   ]
   },
   {
    "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
@@ -10058,7 +11973,11 @@
      "dominio": "fahece.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Medio"
+   ]
   },
   {
    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
@@ -10090,7 +12009,13 @@
      "dominio": "fahece.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Tecnico",
+    "Saude",
+    "Temporario"
+   ]
   },
   {
    "orgao": "FCC - Fundação Catarinense de Cultura",
@@ -10121,7 +12046,14 @@
      "dominio": "cultura.sc.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Superior",
+    "Fiscal",
+    "Administrativo",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Hospital São Lucas da Prefeitura de Major Vieira",
@@ -10157,7 +12089,17 @@
      "dominio": "omniinstituto.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Saude",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "IMAS - Hospital Nossa Senhora da Conceição (HNSC)",
@@ -10198,7 +12140,12 @@
      "dominio": "amrigs.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Superior",
+    "Saude"
+   ]
   },
   {
    "orgao": "PGM - Procuradoria-Geral do Município de Blumenau",
@@ -10234,7 +12181,13 @@
      "dominio": "concursos.furb.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Superior",
+    "Juridico",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "PMC - Município de Corupá",
@@ -10270,7 +12223,15 @@
      "dominio": "institutotupy.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Agrolândia",
@@ -10306,7 +12267,15 @@
      "dominio": "institutodom.com"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Águas Mornas",
@@ -10343,7 +12312,16 @@
      "dominio": "acesseconcursossc.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Caçador",
@@ -10379,7 +12357,14 @@
      "dominio": "ibam-concursos.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Medio",
+    "Superior",
+    "Educacao",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Campos Novos",
@@ -10421,7 +12406,14 @@
      "dominio": "2026pseducacamposnovos.fepese.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Chapecó",
@@ -10457,7 +12449,12 @@
      "dominio": "objetivas.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Medio",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Chapecó",
@@ -10493,7 +12490,13 @@
      "dominio": "2026pschapecoinstrutor.fepese.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Medio",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Cordilheira Alta",
@@ -10524,7 +12527,13 @@
      "dominio": "pmcordi.sc.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Superior",
+    "Saude",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Descanso",
@@ -10561,7 +12570,16 @@
      "dominio": "ameosc.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Dionísio Cerqueira",
@@ -10598,7 +12616,15 @@
      "dominio": "ameosc.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Fraiburgo",
@@ -10629,7 +12655,14 @@
      "dominio": "fraiburgo.atende.net"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Superior",
+    "Saude",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Fraiburgo",
@@ -10665,7 +12698,15 @@
      "dominio": "ibam-concursos.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Gaspar",
@@ -10701,7 +12742,14 @@
      "dominio": "institutofucap.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Medio",
+    "Superior",
+    "Educacao",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Guaramirim",
@@ -10737,7 +12785,15 @@
      "dominio": "institutotupy.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Ilhota",
@@ -10773,7 +12829,15 @@
      "dominio": "acesseconcursossc.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Imbituba",
@@ -10809,7 +12873,13 @@
      "dominio": "institutofucap.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Medio",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Imbuia",
@@ -10845,7 +12915,16 @@
      "dominio": "portal.actio.srv.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Iporã do Oeste",
@@ -10883,7 +12962,16 @@
      "dominio": "ameosc.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Ipumirim",
@@ -10920,7 +13008,14 @@
      "dominio": "amauc.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Itajaí",
@@ -10956,7 +13051,15 @@
      "dominio": "univali.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Medio",
+    "Superior",
+    "Educacao",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Itapema",
@@ -10992,7 +13095,16 @@
      "dominio": "concursos.furb.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Lontras",
@@ -11028,7 +13140,16 @@
      "dominio": "portal.actio.srv.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Major Vieira",
@@ -11064,7 +13185,14 @@
      "dominio": "omniinstituto.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Major Vieira",
@@ -11100,7 +13228,16 @@
      "dominio": "omniinstituto.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Maravilha",
@@ -11137,7 +13274,15 @@
      "dominio": "concursos.furb.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Marema",
@@ -11173,7 +13318,15 @@
      "dominio": "aprendersc.srv.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Pinhalzinho",
@@ -11209,7 +13362,15 @@
      "dominio": "2026pseducapinhalzinho.fepese.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Medio",
+    "Superior",
+    "Educacao",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Ponte Alta",
@@ -11245,7 +13406,16 @@
      "dominio": "gamdconcursos.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Porto União",
@@ -11281,7 +13451,15 @@
      "dominio": "portal.sctreinamentos.selecao.site"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Medio",
+    "Superior",
+    "Educacao",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Presidente Castello Branco",
@@ -11312,7 +13490,14 @@
      "dominio": "castellobranco.sc.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Superior",
+    "Engenharia",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Rio das Antas",
@@ -11343,7 +13528,14 @@
      "dominio": "riodasantas.sc.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Superior",
+    "Saude",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Rio do Campo",
@@ -11379,7 +13571,15 @@
      "dominio": "portal.actio.srv.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Medio",
+    "Superior",
+    "Educacao",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Rio Negrinho, FMC, IPRERIO e SAMAE",
@@ -11418,7 +13618,15 @@
      "dominio": "institutolegalle.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Rodeio",
@@ -11455,7 +13663,16 @@
      "dominio": "portal.sctreinamentos.selecao.site"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Saltinho",
@@ -11491,7 +13708,15 @@
      "dominio": "concursos.unioeste.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de São Domingos",
@@ -11527,7 +13752,15 @@
      "dominio": "institutofenix.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de São Domingos",
@@ -11563,7 +13796,15 @@
      "dominio": "institutodom.com"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de São João Batista",
@@ -11603,7 +13844,16 @@
      "dominio": "acesseconcursossc.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de São Joaquim",
@@ -11639,7 +13889,15 @@
      "dominio": "institutofucap.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de São José",
@@ -11675,7 +13933,13 @@
      "dominio": "2026cpeducaeesj.fepese.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Superior",
+    "Educacao",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de São Lourenço do Oeste",
@@ -11706,7 +13970,14 @@
      "dominio": "saolourenco.sc.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Medio",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de São Pedro de Alcântara",
@@ -11742,7 +14013,16 @@
      "dominio": "institutofucap.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Educacao",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Serra Alta",
@@ -11779,7 +14059,14 @@
      "dominio": "ibam-concursos.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Tijucas",
@@ -11815,7 +14102,14 @@
      "dominio": "univali.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Medio",
+    "Superior",
+    "Educacao",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Trombudo Central",
@@ -11853,7 +14147,15 @@
      "dominio": "legalleconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Urussanga",
@@ -11884,7 +14186,16 @@
      "dominio": "portal.sctreinamentos.selecao.site"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Witmarsum",
@@ -11921,7 +14232,16 @@
      "dominio": "portal.sctreinamentos.selecao.site"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Zortéa",
@@ -11957,7 +14277,16 @@
      "dominio": "institutofenix.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura e Câmara de Benedito Novo",
@@ -12001,7 +14330,17 @@
      "dominio": "portal.sctreinamentos.selecao.site"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Legislativo",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "SEFAZ - Secretaria de Estado da Fazenda de Santa Catarina",
@@ -12037,7 +14376,12 @@
      "dominio": "concursosfcc.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Superior",
+    "Fiscal"
+   ]
   },
   {
    "orgao": "SES - Secretaria de Estado da Saúde",
@@ -12073,7 +14417,13 @@
      "dominio": "sigrhportal.sea.sc.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Medio",
+    "Tecnico",
+    "Saude"
+   ]
   },
   {
    "orgao": "SES - Secretaria de Estado da Saúde de Santa Catarina",
@@ -12109,7 +14459,13 @@
      "dominio": "sigrhportal.sea.sc.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Tecnico",
+    "Saude",
+    "Temporario"
+   ]
   },
   {
    "orgao": "SMS - Secretaria Municipal de Saúde de Florianópolis",
@@ -12145,7 +14501,13 @@
      "dominio": "forms.gle"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Superior",
+    "Saude",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "TJSC - Tribunal de Justiça do Estado de Santa Catarina",
@@ -12181,7 +14543,13 @@
      "dominio": "conhecimento.fgv.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SC",
+    "Superior",
+    "Tribunais",
+    "Juridico"
+   ]
   },
   {
    "orgao": "HSL - Hospital Santa Lúcia",
@@ -12218,7 +14586,12 @@
      "dominio": "institutoibest.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "DF",
+    "Superior",
+    "Saude"
+   ]
   },
   {
    "orgao": "Prefeitura de Caldas Novas",
@@ -12255,7 +14628,13 @@
      "dominio": "avalia.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "GO",
+    "Medio",
+    "Policial",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "TCE - Tribunal de Contas do Estado de Goiás",
@@ -12293,7 +14672,12 @@
      "dominio": "concursosfcc.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "GO",
+    "Medio",
+    "Fiscal"
+   ]
   },
   {
    "orgao": "Câmara de Cristalina",
@@ -12324,7 +14708,15 @@
      "dominio": "institutoconsulplan.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "GO",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Câmara de Pires do Rio",
@@ -12362,7 +14754,15 @@
      "dominio": "institutoverbena.ufg.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "GO",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Câmara de Vila Boa",
@@ -12398,7 +14798,14 @@
      "dominio": "itame.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "GO",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "COMURG - Companhia de Urbanização de Goiânia",
@@ -12434,7 +14841,12 @@
      "dominio": "pss-comurg-2026.netlify.app"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "GO",
+    "Superior",
+    "Temporario"
+   ]
   },
   {
    "orgao": "IDTECH - Instituto de Desenvolvimento Tecnológico e Humano",
@@ -12470,7 +14882,14 @@
      "dominio": "recrutamento.idtech.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "GO",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Água Limpa",
@@ -12505,7 +14924,15 @@
      "dominio": "agualimpa.go.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "GO",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Alto Paraíso de Goiás",
@@ -12541,7 +14968,13 @@
      "dominio": "itame.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "GO",
+    "Medio",
+    "Saude",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Aparecida de Goiânia",
@@ -12577,7 +15010,15 @@
      "dominio": "institutoverbena.ufg.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "GO",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Educacao",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Heitoraí",
@@ -12613,7 +15054,15 @@
      "dominio": "itame.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "GO",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Hidrolina",
@@ -12651,7 +15100,15 @@
      "dominio": "itame.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "GO",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Nova Aurora",
@@ -12687,7 +15144,13 @@
      "dominio": "aroeira.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "GO",
+    "Medio",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Professor Jamil",
@@ -12723,7 +15186,14 @@
      "dominio": "itame.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "GO",
+    "Medio",
+    "Educacao",
+    "Fiscal",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Rio Verde",
@@ -12759,7 +15229,14 @@
      "dominio": "unirv.edu.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "GO",
+    "Medio",
+    "Superior",
+    "Transito",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Rio Verde",
@@ -12795,7 +15272,13 @@
      "dominio": "unirv.edu.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "GO",
+    "Superior",
+    "Fiscal",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Santa Rita do Araguaia",
@@ -12828,7 +15311,16 @@
      "dominio": "santaritadoaraguaia.go.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "GO",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Educacao",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de São Luís de Montes Belos",
@@ -12864,7 +15356,14 @@
      "dominio": "institutoverbena.ufg.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "GO",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Uirapuru",
@@ -12900,7 +15399,15 @@
      "dominio": "app.ganzaroliassessoria.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "GO",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Uruana",
@@ -12936,7 +15443,12 @@
      "dominio": "itame.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "GO",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura e Câmara de Inaciolândia",
@@ -12962,7 +15474,16 @@
     "SUSPENSÃO"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "GO",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Legislativo",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Câmara de Paraíso das Águas",
@@ -12998,7 +15519,14 @@
      "dominio": "aplims.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MS",
+    "Medio",
+    "Superior",
+    "Fiscal",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Prefeitura de Guia Lopes da Laguna",
@@ -13031,7 +15559,12 @@
      "dominio": "guialopesdalaguna.ms.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MS",
+    "Fundamental",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Nova Alvorada do Sul",
@@ -13067,7 +15600,15 @@
      "dominio": "abconcursospublicos.org"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MS",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Educacao",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "UEMS - Universidade Estadual de Mato Grosso do Sul",
@@ -13103,7 +15644,14 @@
      "dominio": "ead4.uems.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MS",
+    "Medio",
+    "Superior",
+    "Educacao",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Câmara de Colniza",
@@ -13139,7 +15687,15 @@
      "dominio": "portal.imperioconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MT",
+    "Medio",
+    "Superior",
+    "Juridico",
+    "Administrativo",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Prefeitura de Alta Taquari",
@@ -13170,7 +15726,15 @@
      "dominio": "altotaquari.mt.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MT",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Boa Esperança do Norte",
@@ -13206,7 +15770,15 @@
      "dominio": "aigle.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MT",
+    "Medio",
+    "Superior",
+    "Educacao",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Colniza",
@@ -13242,7 +15814,16 @@
      "dominio": "portal.imperioconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MT",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Conquista D'Oeste",
@@ -13273,7 +15854,15 @@
      "dominio": "conquistadoeste.mt.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MT",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Saude",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Juara",
@@ -13304,7 +15893,13 @@
      "dominio": "juara.mt.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MT",
+    "Fundamental",
+    "Administrativo",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Juína",
@@ -13341,7 +15936,15 @@
      "dominio": "inepam.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MT",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Novo Mundo",
@@ -13372,7 +15975,15 @@
      "dominio": "novomundo.mt.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MT",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Várzea Grande - Secretaria Municipal de Educação, Cultura, Esporte e Lazer (SMECEL)",
@@ -13408,7 +16019,15 @@
      "dominio": "selecon.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MT",
+    "Medio",
+    "Superior",
+    "Educacao",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura e Câmara de Comodoro",
@@ -13439,7 +16058,14 @@
      "dominio": "concursos.ufmt.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MT",
+    "Superior",
+    "Juridico",
+    "Legislativo",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura, Câmara e Comodoro-Previ de Comodoro",
@@ -13471,7 +16097,17 @@
      "dominio": "concursos.ufmt.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MT",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Legislativo",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "SEMA - Secretaria de Meio Ambiente de Mato Grosso",
@@ -13507,7 +16143,11 @@
      "dominio": "cesgranrio.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MT",
+    "Superior"
+   ]
   },
   {
    "orgao": "CRA - Conselho Regional de Administração do Amazonas",
@@ -13544,7 +16184,12 @@
      "dominio": "institutoconsulplan.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "AM",
+    "Medio",
+    "Superior"
+   ]
   },
   {
    "orgao": "Câmara de Rio Branco",
@@ -13575,7 +16220,13 @@
      "dominio": "riobranco.ac.leg.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "AC",
+    "Medio",
+    "Superior",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "TCE - Tribunal de Contas do Estado do Acre",
@@ -13615,7 +16266,12 @@
      "dominio": "cebraspe.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "AC",
+    "Superior",
+    "Fiscal"
+   ]
   },
   {
    "orgao": "Polícia Civil",
@@ -13653,7 +16309,12 @@
      "dominio": "cesgranrio.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "AP",
+    "Superior",
+    "Policial"
+   ]
   },
   {
    "orgao": "CAU - Conselho de Arquitetura e Urbanismo do Amapá",
@@ -13689,7 +16350,15 @@
      "dominio": "quadrix.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "AP",
+    "Medio",
+    "Superior",
+    "Fiscal",
+    "Administrativo",
+    "Engenharia"
+   ]
   },
   {
    "orgao": "IFAP - Instituto Federal de Educação, Ciência e Tecnologia do Amapá",
@@ -13725,7 +16394,15 @@
      "dominio": "concursopublico.ifap.edu.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "AP",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Educacao",
+    "Administrativo"
+   ]
   },
   {
    "orgao": "Prefeitura de Santana",
@@ -13761,7 +16438,13 @@
      "dominio": "idcap.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "AP",
+    "Medio",
+    "Policial",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "SEAD - Secretaria de Estado da Administração do Amapá",
@@ -13798,7 +16481,13 @@
      "dominio": "idcap.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "AP",
+    "Medio",
+    "Superior",
+    "Administrativo"
+   ]
   },
   {
    "orgao": "SESA - Secretaria de Estado da Saúde do Amapá",
@@ -13834,7 +16523,14 @@
      "dominio": "institutoaocp.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "AP",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Saude"
+   ]
   },
   {
    "orgao": "TJAP - Tribunal de Justiça do Estado do Amapá",
@@ -13870,7 +16566,13 @@
      "dominio": "conhecimento.fgv.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "AP",
+    "Superior",
+    "Tribunais",
+    "Juridico"
+   ]
   },
   {
    "orgao": "ALEPA - Assembleia Legislativa do Estado do Pará",
@@ -13912,7 +16614,13 @@
      "dominio": "fundacaocetap.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "PA",
+    "Medio",
+    "Superior",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "FHCGV - Fundação Pública Estadual Hospital de Clínicas Gaspar Vianna",
@@ -13954,7 +16662,14 @@
      "dominio": "consulplan.net"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "PA",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Saude"
+   ]
   },
   {
    "orgao": "IFPA - Instituto Federal de Educação, Ciência e Tecnologia do Pará",
@@ -13986,7 +16701,15 @@
      "dominio": "institutoaocp.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "PA",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Educacao",
+    "Administrativo"
+   ]
   },
   {
    "orgao": "Prefeitura de Bujaru",
@@ -14022,7 +16745,15 @@
      "dominio": "institutovicentenelson.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "PA",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "SEDUC - Secretaria de Estado de Educação do Pará",
@@ -14057,7 +16788,13 @@
      "dominio": "conhecimento.fgv.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "PA",
+    "Medio",
+    "Superior",
+    "Educacao"
+   ]
   },
   {
    "orgao": "TRT 8ª Região - Tribunal Regional do Trabalho da 8ª Região",
@@ -14088,7 +16825,14 @@
      "dominio": "concursosfcc.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "PA",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Tribunais"
+   ]
   },
   {
    "orgao": "Prefeitura de Porto Velho",
@@ -14126,7 +16870,15 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RO",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Câmara de Candeias do Jamari",
@@ -14164,7 +16916,15 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RO",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Prefeitura de Porto Velho",
@@ -14202,7 +16962,14 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RO",
+    "Medio",
+    "Superior",
+    "Educacao",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Vilhena",
@@ -14239,7 +17006,14 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RO",
+    "Medio",
+    "Saude",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "CAU - Conselho de Arquitetura e Urbanismo do Tocantins",
@@ -14275,7 +17049,13 @@
      "dominio": "quadrix.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "TO",
+    "Medio",
+    "Superior",
+    "Engenharia"
+   ]
   },
   {
    "orgao": "SEFAZ - Secretaria de Estado da Fazenda de Alagoas",
@@ -14312,7 +17092,12 @@
      "dominio": "cebraspe.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "AL",
+    "Superior",
+    "Fiscal"
+   ]
   },
   {
    "orgao": "ADEAL - Agência de Defesa e Inspeção Agropecuária de Alagoas",
@@ -14348,7 +17133,12 @@
      "dominio": "cebraspe.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "AL",
+    "Superior",
+    "Fiscal"
+   ]
   },
   {
    "orgao": "CBMAL - Corpo de Bombeiros Militar de Alagoas",
@@ -14391,7 +17181,13 @@
      "dominio": "cebraspe.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "AL",
+    "Medio",
+    "Policial",
+    "Militar"
+   ]
   },
   {
    "orgao": "Prefeitura de Chã Preta",
@@ -14428,7 +17224,15 @@
      "dominio": "funvapi.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "AL",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Salvador",
@@ -14464,7 +17268,13 @@
      "dominio": "conhecimento.fgv.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "BA",
+    "Medio",
+    "Policial",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "UFBA - Universidade Federal da Bahia",
@@ -14500,7 +17310,15 @@
      "dominio": "avalia.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "BA",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Educacao",
+    "Administrativo"
+   ]
   },
   {
    "orgao": "Câmara de Ourolândia",
@@ -14536,7 +17354,14 @@
      "dominio": "notusinstituto.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "BA",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Comando do 2º Distrito Naval da Marinha do Brasil",
@@ -14567,7 +17392,13 @@
      "dominio": "marinha.mil.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "BA",
+    "Superior",
+    "Militar",
+    "Temporario"
+   ]
   },
   {
    "orgao": "CONSAN - Consórcio Público Interfederativo de Saúde de Piemonte da Chapada Norte",
@@ -14598,7 +17429,15 @@
      "dominio": "institutodom.com"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "BA",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Saude",
+    "Administrativo"
+   ]
   },
   {
    "orgao": "Prefeitura de Catu",
@@ -14635,7 +17474,13 @@
      "dominio": "passaportepdh.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "BA",
+    "Medio",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Firmino Alves",
@@ -14671,7 +17516,15 @@
      "dominio": "concursos.msconc.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "BA",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Firmino Alves",
@@ -14707,7 +17560,15 @@
      "dominio": "concursos.msconc.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "BA",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Palmas de Monte Alto",
@@ -14743,7 +17604,13 @@
      "dominio": "institutodom.com"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "BA",
+    "Medio",
+    "Saude",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Rio Real",
@@ -14785,7 +17652,15 @@
      "dominio": "planejarconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "BA",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "SENAR-AR/BA - Serviço Nacional de Aprendizagem Rural",
@@ -14816,7 +17691,14 @@
      "dominio": "concepcaoconsultoria.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "BA",
+    "Tecnico",
+    "Superior",
+    "Educacao",
+    "Temporario"
+   ]
   },
   {
    "orgao": "SRH - Superintendência de Recursos Humanos e SAEB - Secretaria de Administração",
@@ -14853,7 +17735,11 @@
      "dominio": "cesgranrio.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "BA",
+    "Superior"
+   ]
   },
   {
    "orgao": "Prefeitura de Ubajara",
@@ -14890,7 +17776,14 @@
      "dominio": "universidadepatativa.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "CE",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Câmara de Graça",
@@ -14927,7 +17820,14 @@
      "dominio": "inbrasp.org"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "CE",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Câmara de São Benedito",
@@ -14958,7 +17858,14 @@
      "dominio": "fundacaocetrede.ufc.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "CE",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Prefeitura de Acaraú",
@@ -14990,7 +17897,16 @@
      "dominio": "idib.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "CE",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Educacao",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Alto Santo",
@@ -15027,7 +17943,12 @@
      "dominio": "consulpam.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "CE",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Aracati",
@@ -15063,7 +17984,14 @@
      "dominio": "centraldeconcursos.fcpc.ufc.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "CE",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Aracati",
@@ -15100,7 +18028,14 @@
      "dominio": "centraldeconcursos.fcpc.ufc.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "CE",
+    "Medio",
+    "Tecnico",
+    "Saude",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Itarema",
@@ -15131,7 +18066,15 @@
      "dominio": "itarema.ce.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "CE",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Piquet Carneiro",
@@ -15169,7 +18112,15 @@
      "dominio": "institutoseletiva.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "CE",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Poranga",
@@ -15208,7 +18159,15 @@
      "dominio": "consulpam.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "CE",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Ribeirãozinho do Maranhão",
@@ -15246,7 +18205,16 @@
      "dominio": "fsaduconcursos.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MA",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "SEAP - Secretaria de Estado de Administração Penitenciária",
@@ -15282,7 +18250,12 @@
      "dominio": "prosel.seap.ma.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MA",
+    "Superior",
+    "Policial"
+   ]
   },
   {
    "orgao": "SEAP - Secretaria de Estado de Administração Penitenciária",
@@ -15321,7 +18294,12 @@
      "dominio": "prosel.seap.ma.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "MA",
+    "Medio",
+    "Policial"
+   ]
   },
   {
    "orgao": "DPE - Defensoria Pública do Estado da Paraíba",
@@ -15352,7 +18330,13 @@
      "dominio": "concursosfcc.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "PB",
+    "Medio",
+    "Superior",
+    "Juridico"
+   ]
   },
   {
    "orgao": "Câmara de Guarabira",
@@ -15388,7 +18372,14 @@
      "dominio": "sistemas.cpcon.uepb.edu.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "PB",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Prefeitura de Água Branca",
@@ -15428,7 +18419,13 @@
      "dominio": "funvapi.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "PB",
+    "Medio",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Cruz do Espírito Santo",
@@ -15465,7 +18462,15 @@
      "dominio": "igeduc.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "PB",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Pedra Lavrada",
@@ -15501,7 +18506,13 @@
      "dominio": "apiceconsultoria.com"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "PB",
+    "Medio",
+    "Saude",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Poço Dantas",
@@ -15540,7 +18551,15 @@
      "dominio": "igecap.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "PB",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de São José do Sabugi",
@@ -15576,7 +18595,15 @@
      "dominio": "concursos.facetconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "PB",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "CBM - Corpo de Bombeiros Militar",
@@ -15608,7 +18635,14 @@
      "dominio": "institutoaocp.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "PE",
+    "Medio",
+    "Superior",
+    "Policial",
+    "Militar"
+   ]
   },
   {
    "orgao": "PMPE - Polícia Militar de Pernambuco",
@@ -15640,7 +18674,14 @@
      "dominio": "institutoaocp.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "PE",
+    "Medio",
+    "Superior",
+    "Policial",
+    "Militar"
+   ]
   },
   {
    "orgao": "Prefeitura do Município de Trindade",
@@ -15677,7 +18718,14 @@
      "dominio": "igeduc.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "PE",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Belo Jardim",
@@ -15713,7 +18761,15 @@
      "dominio": "funvapi.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "PE",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Caruaru",
@@ -15750,7 +18806,13 @@
      "dominio": "ibam-concursos.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "PE",
+    "Superior",
+    "Fiscal",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Ferreiros",
@@ -15786,7 +18848,15 @@
      "dominio": "idhtec.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "PE",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Floresta",
@@ -15824,7 +18894,15 @@
      "dominio": "concursos.facetconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "PE",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Goiana",
@@ -15861,7 +18939,14 @@
      "dominio": "igeduc.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "PE",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura do Recife",
@@ -15897,7 +18982,13 @@
      "dominio": "fundatec.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "PE",
+    "Medio",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "SDS - Secretaria de Defesa Social",
@@ -15928,7 +19019,12 @@
      "dominio": "cebraspe.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "PE",
+    "Superior",
+    "Policial"
+   ]
   },
   {
    "orgao": "UPE - Universidade de Pernambuco",
@@ -15964,7 +19060,13 @@
      "dominio": "upenet.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "PE",
+    "Superior",
+    "Educacao",
+    "Juridico"
+   ]
   },
   {
    "orgao": "Câmara de Dom Expedito Lopes",
@@ -16000,7 +19102,14 @@
      "dominio": "funvapi.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "PI",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Prefeitura de Bela Vista do Piauí",
@@ -16036,7 +19145,15 @@
      "dominio": "legatus.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "PI",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Brasileira",
@@ -16072,7 +19189,14 @@
      "dominio": "consep-pi.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "PI",
+    "Superior",
+    "Educacao",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de Francisco Macedo",
@@ -16108,7 +19232,15 @@
      "dominio": "institutoibed.org"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "PI",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de São João da Varjota",
@@ -16144,7 +19276,15 @@
      "dominio": "institutoibed.org"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "PI",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Câmara de Acari",
@@ -16180,7 +19320,14 @@
      "dominio": "igeduc.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RN",
+    "Superior",
+    "Juridico",
+    "Fiscal",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Câmara de Cerro Corá",
@@ -16216,7 +19363,12 @@
      "dominio": "igeduc.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RN",
+    "Superior",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Câmara de Mossoró",
@@ -16253,7 +19405,14 @@
      "dominio": "comperve.ufrn.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RN",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Câmara de Santana do Seridó",
@@ -16289,7 +19448,13 @@
      "dominio": "igeduc.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RN",
+    "Fundamental",
+    "Superior",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Câmara de São João do Sabugi",
@@ -16325,7 +19490,16 @@
      "dominio": "igeduc.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RN",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "TI",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Câmara de Tibau do Sul",
@@ -16361,7 +19535,14 @@
      "dominio": "concursos.facetconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RN",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Legislativo"
+   ]
   },
   {
    "orgao": "Prefeitura de Acari",
@@ -16397,7 +19578,13 @@
      "dominio": "igeduc.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RN",
+    "Medio",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Jucurutu",
@@ -16433,7 +19620,14 @@
      "dominio": "igeduc.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RN",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "Prefeitura de Marcelino Vieira",
@@ -16464,7 +19658,15 @@
      "dominio": "marcelinovieira.rn.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RN",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
   },
   {
    "orgao": "Prefeitura de São Fernando",
@@ -16501,7 +19703,14 @@
      "dominio": "igeduc.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "RN",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Prefeitura"
+   ]
   },
   {
    "orgao": "CRO - Conselho Regional de Odontologia de Sergipe",
@@ -16537,7 +19746,13 @@
      "dominio": "institutoconsulplan.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18"
+   "detalhado_em": "2026-10-18",
+   "tags": [
+    "SE",
+    "Medio",
+    "Superior",
+    "Saude"
+   ]
   },
   {
    "orgao": "DER RJ",
@@ -16557,7 +19772,12 @@
    "ufs": [
     "rj"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "RJ",
+    "Transito",
+    "Previsto"
+   ]
   },
   {
    "orgao": "IBRAM",
@@ -16577,7 +19797,11 @@
    "ufs": [
     "df"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "DF",
+    "Previsto"
+   ]
   },
   {
    "orgao": "Prefeitura de Atalaia do Norte",
@@ -16597,7 +19821,12 @@
    "ufs": [
     "am"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "AM",
+    "Prefeitura",
+    "Previsto"
+   ]
   },
   {
    "orgao": "IBGE",
@@ -16617,7 +19846,11 @@
    "ufs": [
     "br"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "Nacional",
+    "Previsto"
+   ]
   },
   {
    "orgao": "Prefeitura de Parnaíba",
@@ -16637,7 +19870,12 @@
    "ufs": [
     "pi"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "PI",
+    "Prefeitura",
+    "Previsto"
+   ]
   },
   {
    "orgao": "CREF-16",
@@ -16657,7 +19895,11 @@
    "ufs": [
     "rn"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "RN",
+    "Previsto"
+   ]
   },
   {
    "orgao": "IMA SC",
@@ -16677,7 +19919,11 @@
    "ufs": [
     "sc"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "SC",
+    "Previsto"
+   ]
   },
   {
    "orgao": "Metrô DF",
@@ -16697,7 +19943,11 @@
    "ufs": [
     "df"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "DF",
+    "Previsto"
+   ]
   },
   {
    "orgao": "Prefeitura do Recife",
@@ -16717,7 +19967,12 @@
    "ufs": [
     "pe"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "PE",
+    "Prefeitura",
+    "Previsto"
+   ]
   },
   {
    "orgao": "Câmara dos Deputados",
@@ -16737,7 +19992,12 @@
    "ufs": [
     "br"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "Nacional",
+    "Legislativo",
+    "Previsto"
+   ]
   },
   {
    "orgao": "PGE BA",
@@ -16757,7 +20017,11 @@
    "ufs": [
     "ba"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "BA",
+    "Previsto"
+   ]
   },
   {
    "orgao": "GCM Goiânia",
@@ -16777,7 +20041,11 @@
    "ufs": [
     "go"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "GO",
+    "Previsto"
+   ]
   },
   {
    "orgao": "Prefeitura de Aparecida de Goiânia",
@@ -16797,7 +20065,12 @@
    "ufs": [
     "go"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "GO",
+    "Prefeitura",
+    "Previsto"
+   ]
   },
   {
    "orgao": "Coren-SP",
@@ -16817,7 +20090,11 @@
    "ufs": [
     "sp"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "SP",
+    "Previsto"
+   ]
   },
   {
    "orgao": "FAETEC RJ",
@@ -16837,7 +20114,12 @@
    "ufs": [
     "rj"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "RJ",
+    "Temporario",
+    "Previsto"
+   ]
   },
   {
    "orgao": "Ministério da Saúde",
@@ -16857,7 +20139,13 @@
    "ufs": [
     "br"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "Nacional",
+    "Saude",
+    "Temporario",
+    "Previsto"
+   ]
   },
   {
    "orgao": "Prefeitura de Santana",
@@ -16877,7 +20165,13 @@
    "ufs": [
     "ap"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "AP",
+    "Policial",
+    "Prefeitura",
+    "Previsto"
+   ]
   },
   {
    "orgao": "SME SP",
@@ -16897,7 +20191,12 @@
    "ufs": [
     "sp"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "SP",
+    "Prefeitura",
+    "Previsto"
+   ]
   },
   {
    "orgao": "ADEAL",
@@ -16917,7 +20216,11 @@
    "ufs": [
     "al"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "AL",
+    "Previsto"
+   ]
   },
   {
    "orgao": "DETRAN PR",
@@ -16937,7 +20240,12 @@
    "ufs": [
     "pr"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "PR",
+    "Transito",
+    "Previsto"
+   ]
   },
   {
    "orgao": "PM PE",
@@ -16957,7 +20265,12 @@
    "ufs": [
     "pe"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "PE",
+    "Policial",
+    "Previsto"
+   ]
   },
   {
    "orgao": "DPE SP",
@@ -16977,7 +20290,11 @@
    "ufs": [
     "sp"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "SP",
+    "Previsto"
+   ]
   },
   {
    "orgao": "BACEN",
@@ -16997,7 +20314,12 @@
    "ufs": [
     "br"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "Nacional",
+    "Bancario",
+    "Previsto"
+   ]
   },
   {
    "orgao": "Receita Federal",
@@ -17017,7 +20339,12 @@
    "ufs": [
     "br"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "Nacional",
+    "Fiscal",
+    "Previsto"
+   ]
   },
   {
    "orgao": "SES TO",
@@ -17037,7 +20364,11 @@
    "ufs": [
     "to"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "TO",
+    "Previsto"
+   ]
   },
   {
    "orgao": "PM SP",
@@ -17057,7 +20388,13 @@
    "ufs": [
     "sp"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "SP",
+    "Policial",
+    "Militar",
+    "Previsto"
+   ]
   },
   {
    "orgao": "SEDUC",
@@ -17077,7 +20414,11 @@
    "ufs": [
     "am"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "AM",
+    "Previsto"
+   ]
   },
   {
    "orgao": "CGU",
@@ -17097,7 +20438,12 @@
    "ufs": [
     "br"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "Nacional",
+    "Fiscal",
+    "Previsto"
+   ]
   },
   {
    "orgao": "INEA RJ",
@@ -17117,7 +20463,11 @@
    "ufs": [
     "rj"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "RJ",
+    "Previsto"
+   ]
   },
   {
    "orgao": "PMERJ",
@@ -17137,7 +20487,11 @@
    "ufs": [
     "rj"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "RJ",
+    "Previsto"
+   ]
   },
   {
    "orgao": "Ministério da Saúde",
@@ -17157,7 +20511,12 @@
    "ufs": [
     "br"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "Nacional",
+    "Saude",
+    "Previsto"
+   ]
   },
   {
    "orgao": "CRT BA",
@@ -17177,7 +20536,11 @@
    "ufs": [
     "ba"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "BA",
+    "Previsto"
+   ]
   },
   {
    "orgao": "ANPD",
@@ -17197,7 +20560,11 @@
    "ufs": [
     "br"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "Nacional",
+    "Previsto"
+   ]
   },
   {
    "orgao": "CRA AM",
@@ -17217,7 +20584,11 @@
    "ufs": [
     "am"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "AM",
+    "Previsto"
+   ]
   },
   {
    "orgao": "AGU",
@@ -17237,7 +20608,12 @@
    "ufs": [
     "df"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "DF",
+    "Juridico",
+    "Previsto"
+   ]
   },
   {
    "orgao": "DETRAN RJ",
@@ -17257,7 +20633,12 @@
    "ufs": [
     "rj"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "RJ",
+    "Transito",
+    "Previsto"
+   ]
   },
   {
    "orgao": "SEED AP",
@@ -17277,7 +20658,13 @@
    "ufs": [
     "ap"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "AP",
+    "Educacao",
+    "Temporario",
+    "Previsto"
+   ]
   },
   {
    "orgao": "Segurança MA",
@@ -17297,7 +20684,11 @@
    "ufs": [
     "ma"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "MA",
+    "Previsto"
+   ]
   },
   {
    "orgao": "SMED de Salvador",
@@ -17317,7 +20708,11 @@
    "ufs": [
     "ba"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "BA",
+    "Previsto"
+   ]
   },
   {
    "orgao": "SED MS",
@@ -17337,7 +20732,12 @@
    "ufs": [
     "ms"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "MS",
+    "Educacao",
+    "Previsto"
+   ]
   },
   {
    "orgao": "SASC PI",
@@ -17357,7 +20757,12 @@
    "ufs": [
     "pi"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "PI",
+    "Temporario",
+    "Previsto"
+   ]
   },
   {
    "orgao": "SEMA BA",
@@ -17377,7 +20782,11 @@
    "ufs": [
     "ba"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "BA",
+    "Previsto"
+   ]
   },
   {
    "orgao": "Prefeitura de Bom Jesus do Oeste",
@@ -17397,7 +20806,12 @@
    "ufs": [
     "sc"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "SC",
+    "Prefeitura",
+    "Previsto"
+   ]
   },
   {
    "orgao": "Banco do Brasil",
@@ -17417,7 +20831,12 @@
    "ufs": [
     "br"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "Nacional",
+    "Bancario",
+    "Previsto"
+   ]
   },
   {
    "orgao": "Prefeitura de Camalaú",
@@ -17437,7 +20856,12 @@
    "ufs": [
     "pb"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "PB",
+    "Prefeitura",
+    "Previsto"
+   ]
   },
   {
    "orgao": "SP Águas e IPA SP",
@@ -17457,7 +20881,11 @@
    "ufs": [
     "sp"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "SP",
+    "Previsto"
+   ]
   },
   {
    "orgao": "MIDR",
@@ -17477,7 +20905,12 @@
    "ufs": [
     "df"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "DF",
+    "Temporario",
+    "Previsto"
+   ]
   },
   {
    "orgao": "Petrobras",
@@ -17497,7 +20930,11 @@
    "ufs": [
     "br"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "Nacional",
+    "Previsto"
+   ]
   },
   {
    "orgao": "DPE AM",
@@ -17517,7 +20954,11 @@
    "ufs": [
     "am"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "AM",
+    "Previsto"
+   ]
   },
   {
    "orgao": "Prefeitura de Xapuri",
@@ -17537,7 +20978,13 @@
    "ufs": [
     "ac"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "AC",
+    "Prefeitura",
+    "Temporario",
+    "Previsto"
+   ]
   },
   {
    "orgao": "UNEMAT",
@@ -17557,7 +21004,11 @@
    "ufs": [
     "mt"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "MT",
+    "Previsto"
+   ]
   },
   {
    "orgao": "Prefeitura de Feira de Santana",
@@ -17577,7 +21028,14 @@
    "ufs": [
     "ba"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "BA",
+    "Educacao",
+    "Prefeitura",
+    "Temporario",
+    "Previsto"
+   ]
   },
   {
    "orgao": "SEDUC PA",
@@ -17597,7 +21055,11 @@
    "ufs": [
     "pa"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "PA",
+    "Previsto"
+   ]
   },
   {
    "orgao": "SES DF",
@@ -17617,7 +21079,12 @@
    "ufs": [
     "df"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "DF",
+    "Temporario",
+    "Previsto"
+   ]
   },
   {
    "orgao": "Concurso Saúde do Tocantins",
@@ -17637,7 +21104,12 @@
    "ufs": [
     "to"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "TO",
+    "Saude",
+    "Previsto"
+   ]
   },
   {
    "orgao": "CBMERJ",
@@ -17657,7 +21129,11 @@
    "ufs": [
     "rj"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "RJ",
+    "Previsto"
+   ]
   },
   {
    "orgao": "FUNSAU MS",
@@ -17677,7 +21153,12 @@
    "ufs": [
     "ms"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "MS",
+    "Saude",
+    "Previsto"
+   ]
   },
   {
    "orgao": "Prefeitura de Belo Horizonte",
@@ -17697,7 +21178,12 @@
    "ufs": [
     "mg"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "MG",
+    "Prefeitura",
+    "Previsto"
+   ]
   },
   {
    "orgao": "IBGE",
@@ -17717,7 +21203,12 @@
    "ufs": [
     "br"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "Nacional",
+    "Temporario",
+    "Previsto"
+   ]
   },
   {
    "orgao": "SEED AP",
@@ -17737,7 +21228,12 @@
    "ufs": [
     "ap"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "AP",
+    "Educacao",
+    "Previsto"
+   ]
   },
   {
    "orgao": "IFAL",
@@ -17757,7 +21253,11 @@
    "ufs": [
     "al"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "AL",
+    "Previsto"
+   ]
   },
   {
    "orgao": "Prefeitura de Parintins",
@@ -17777,7 +21277,12 @@
    "ufs": [
     "am"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "AM",
+    "Prefeitura",
+    "Previsto"
+   ]
   },
   {
    "orgao": "PM PI",
@@ -17797,7 +21302,12 @@
    "ufs": [
     "pi"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "PI",
+    "Policial",
+    "Previsto"
+   ]
   },
   {
    "orgao": "SEMA MT",
@@ -17817,7 +21327,11 @@
    "ufs": [
     "mt"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "MT",
+    "Previsto"
+   ]
   },
   {
    "orgao": "Corpo de Bombeiros RR",
@@ -17837,7 +21351,12 @@
    "ufs": [
     "rr"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "RR",
+    "Policial",
+    "Previsto"
+   ]
   },
   {
    "orgao": "Prefeitura de Aracaju",
@@ -17857,7 +21376,12 @@
    "ufs": [
     "se"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "SE",
+    "Prefeitura",
+    "Previsto"
+   ]
   },
   {
    "orgao": "Prefeitura de Natal",
@@ -17877,7 +21401,12 @@
    "ufs": [
     "rn"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "RN",
+    "Prefeitura",
+    "Previsto"
+   ]
   },
   {
    "orgao": "CBM MG",
@@ -17897,7 +21426,12 @@
    "ufs": [
     "mg"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "MG",
+    "Policial",
+    "Previsto"
+   ]
   },
   {
    "orgao": "EPC PB",
@@ -17917,7 +21451,11 @@
    "ufs": [
     "pb"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "PB",
+    "Previsto"
+   ]
   },
   {
    "orgao": "Brigada Militar RS",
@@ -17937,7 +21475,13 @@
    "ufs": [
     "rs"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "RS",
+    "Militar",
+    "Temporario",
+    "Previsto"
+   ]
   },
   {
    "orgao": "Fundação Liberato",
@@ -17957,7 +21501,11 @@
    "ufs": [
     "rs"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "RS",
+    "Previsto"
+   ]
   },
   {
    "orgao": "Câmara de Lagoa",
@@ -17977,7 +21525,12 @@
    "ufs": [
     "pb"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "PB",
+    "Legislativo",
+    "Previsto"
+   ]
   },
   {
    "orgao": "CGE AM",
@@ -17997,7 +21550,11 @@
    "ufs": [
     "am"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "AM",
+    "Previsto"
+   ]
   },
   {
    "orgao": "EMGEPRON",
@@ -18017,7 +21574,12 @@
    "ufs": [
     "br"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "Nacional",
+    "Temporario",
+    "Previsto"
+   ]
   },
   {
    "orgao": "GCM",
@@ -18037,7 +21599,11 @@
    "ufs": [
     "sp"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "SP",
+    "Previsto"
+   ]
   },
   {
    "orgao": "PM AL",
@@ -18057,7 +21623,12 @@
    "ufs": [
     "al"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "AL",
+    "Policial",
+    "Previsto"
+   ]
   },
   {
    "orgao": "Prefeitura de Pouso Alegre",
@@ -18077,7 +21648,12 @@
    "ufs": [
     "mg"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "MG",
+    "Prefeitura",
+    "Previsto"
+   ]
   },
   {
    "orgao": "CREMERJ",
@@ -18097,7 +21673,12 @@
    "ufs": [
     "rj"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "RJ",
+    "Temporario",
+    "Previsto"
+   ]
   },
   {
    "orgao": "Prefeitura de Manaus",
@@ -18117,7 +21698,12 @@
    "ufs": [
     "am"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "AM",
+    "Prefeitura",
+    "Previsto"
+   ]
   },
   {
    "orgao": "Prefeitura de Monte Mor",
@@ -18137,7 +21723,14 @@
    "ufs": [
     "sp"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "SP",
+    "Educacao",
+    "Prefeitura",
+    "Temporario",
+    "Previsto"
+   ]
   },
   {
    "orgao": "Sefaz BA",
@@ -18157,7 +21750,11 @@
    "ufs": [
     "ba"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "BA",
+    "Previsto"
+   ]
   },
   {
    "orgao": "Cofen",
@@ -18177,7 +21774,11 @@
    "ufs": [
     "df"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "DF",
+    "Previsto"
+   ]
   },
   {
    "orgao": "PM SP",
@@ -18197,7 +21798,12 @@
    "ufs": [
     "sp"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "SP",
+    "Policial",
+    "Previsto"
+   ]
   },
   {
    "orgao": "SEDF",
@@ -18217,7 +21823,11 @@
    "ufs": [
     "df"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "DF",
+    "Previsto"
+   ]
   },
   {
    "orgao": "SES RJ",
@@ -18237,7 +21847,11 @@
    "ufs": [
     "rj"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "RJ",
+    "Previsto"
+   ]
   },
   {
    "orgao": "INSS",
@@ -18257,7 +21871,11 @@
    "ufs": [
     "br"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "Nacional",
+    "Previsto"
+   ]
   },
   {
    "orgao": "SEFAZ DF",
@@ -18277,7 +21895,11 @@
    "ufs": [
     "df"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "DF",
+    "Previsto"
+   ]
   },
   {
    "orgao": "PC TO",
@@ -18297,7 +21919,12 @@
    "ufs": [
     "to"
    ],
-   "fonte": "cnb"
+   "fonte": "cnb",
+   "tags": [
+    "TO",
+    "Policial",
+    "Previsto"
+   ]
   }
  ]
 }

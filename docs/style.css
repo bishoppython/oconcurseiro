@@ -1,30 +1,37 @@
 :root {
-  --bg: #f4f6fb;
+  /* identidade da logo: azul-marinho profundo + anel azul vivo */
+  --navy: #031234;
+  --azul-vivo: #00a8fe;
+  --bg: #f3f6fc;
   --card: #ffffff;
-  --ink: #0f172a;
-  --muted: #5b6478;
-  --line: #e2e6f0;
-  --brand: #1d4ed8;
+  --ink: #0b1733;
+  --muted: #56617a;
+  --line: #dfe5f1;
+  --brand: #0a5bd3;
   --brand-ink: #ffffff;
-  --hero-1: #1d4ed8;
-  --hero-2: #0ea5e9;
+  --hero-1: #020b24;
+  --hero-2: #0b3a91;
   --open: #15803d;
   --open-bg: #dcfce7;
   --soon: #b45309;
   --soon-bg: #fef3c7;
-  --chip: #eef2ff;
+  --chip: #e8f1ff;
+  --tag: #e6f6ff;
+  --tag-ink: #075a99;
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
-    --bg: #0b1020; --card: #131a2e; --ink: #e8ecf6; --muted: #9aa4bb; --line: #243050;
-    --brand: #60a5fa; --brand-ink: #0b1020; --hero-1: #1e3a8a; --hero-2: #0c4a6e;
-    --open: #4ade80; --open-bg: #14321f; --soon: #fbbf24; --soon-bg: #3a2a0c; --chip: #1c2541;
+    --bg: #050d22; --card: #0d1a38; --ink: #e8eefc; --muted: #9eabc6; --line: #1f3160;
+    --brand: #4cc3ff; --brand-ink: #031234; --hero-1: #01081a; --hero-2: #082c70;
+    --open: #4ade80; --open-bg: #13311f; --soon: #fbbf24; --soon-bg: #3a2a0c; --chip: #13254d;
+    --tag: #0b2a52; --tag-ink: #7fd3ff;
   }
 }
 :root[data-theme="dark"] {
-  --bg: #0b1020; --card: #131a2e; --ink: #e8ecf6; --muted: #9aa4bb; --line: #243050;
-  --brand: #60a5fa; --brand-ink: #0b1020; --hero-1: #1e3a8a; --hero-2: #0c4a6e;
-  --open: #4ade80; --open-bg: #14321f; --soon: #fbbf24; --soon-bg: #3a2a0c; --chip: #1c2541;
+  --bg: #050d22; --card: #0d1a38; --ink: #e8eefc; --muted: #9eabc6; --line: #1f3160;
+  --brand: #4cc3ff; --brand-ink: #031234; --hero-1: #01081a; --hero-2: #082c70;
+  --open: #4ade80; --open-bg: #13311f; --soon: #fbbf24; --soon-bg: #3a2a0c; --chip: #13254d;
+  --tag: #0b2a52; --tag-ink: #7fd3ff;
 }
 
 * { box-sizing: border-box; margin: 0; }
@@ -33,8 +40,18 @@ a { color: var(--brand); }
 .wrap { max-width: 1100px; margin: 0 auto; padding: 0 16px; }
 .sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
 
-.hero { background: linear-gradient(135deg, var(--hero-1), var(--hero-2)); color: #fff; padding: 28px 0 72px; }
-.brand { color: #fff; text-decoration: none; font-weight: 800; font-size: 1.1rem; }
+.hero {
+  color: #fff; padding: 24px 0 72px;
+  background: radial-gradient(circle at 85% 30%, rgb(0 168 254 / .28), transparent 45%),
+              linear-gradient(135deg, var(--hero-1), var(--hero-2));
+}
+.hero-grid { display: grid; grid-template-columns: 1fr; align-items: center; gap: 24px; }
+@media (min-width: 860px) { .hero-grid { grid-template-columns: 1fr 260px; } }
+.hero-logo { display: none; width: 260px; height: 260px; filter: drop-shadow(0 18px 40px rgb(0 168 254 / .35)); }
+@media (min-width: 860px) { .hero-logo { display: block; } }
+.brand { display: inline-flex; align-items: center; gap: 10px; color: #fff; text-decoration: none; font-weight: 800; font-size: 1.25rem; }
+.brand img { width: 44px; height: 44px; }
+.brand b { color: var(--azul-vivo); }
 .hero h1 { font-size: clamp(1.6rem, 4vw, 2.5rem); font-weight: 800; line-height: 1.15; margin-top: 28px; max-width: 18ch; }
 .sub { opacity: .9; margin-top: 10px; max-width: 52ch; }
 .stats { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 22px; }
@@ -60,6 +77,17 @@ a { color: var(--brand); }
   border: 1px solid var(--line); background: var(--bg); color: var(--ink); border-radius: 8px; padding: 9px 10px;
 }
 .chips button.on { background: var(--brand); border-color: var(--brand); color: var(--brand-ink); }
+
+.tags-populares { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 12px; align-items: center; }
+.tags-populares::before { content: "Tags:"; font-size: .75rem; font-weight: 600; color: var(--muted); margin-right: 2px; }
+.tag {
+  font: inherit; font-size: .72rem; font-weight: 600; cursor: pointer; line-height: 1.2;
+  background: var(--tag); color: var(--tag-ink); border: 1px solid transparent; border-radius: 999px; padding: 3px 9px;
+}
+.tag:hover { border-color: var(--tag-ink); }
+.tag.on { background: var(--tag-ink); color: var(--card); }
+.tag small { opacity: .7; font-weight: 500; margin-left: 3px; }
+.card .tags { display: flex; flex-wrap: wrap; gap: 5px; }
 
 .count { color: var(--muted); font-size: .85rem; margin: 22px 2px 10px; }
 .list { display: grid; grid-template-columns: 1fr; gap: 10px; }

@@ -104,7 +104,12 @@ BOT = "@oConcurseiroBR_bot"
 
 
 def hashtags(concurso):
-    """#PE #Superior #Previsto — para quem segue o canal filtrar tocando na hashtag."""
+    """#PE #Superior #Saude #Previsto — para quem segue o canal filtrar tocando na hashtag.
+
+    Usa as tags calculadas pelo extrator (as mesmas do portal); sem elas, monta o básico.
+    """
+    if concurso.get("tags"):
+        return " ".join(f"#{t}" for t in concurso["tags"])
     tags = ["#Nacional"] if concurso.get("nacional") else [f"#{u.upper()}" for u in concurso.get("ufs", [])]
     esc = sem_acento(concurso.get("escolaridade", ""))
     tags += [f"#{nome.replace('é', 'e')}" for chave, nome in ESCOLARIDADES.items() if chave in esc]
