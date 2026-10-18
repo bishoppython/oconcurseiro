@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-18T05:29:59+00:00",
+ "atualizado": "2026-10-18T05:38:13+00:00",
  "fontes": {
   "pci": "https://www.pciconcursos.com.br/concursos/",
   "cnb": "https://concursosnobrasil.com"
@@ -50,9 +50,9 @@
    "inscricao_fim": "2026-11-17",
    "inscricao_texto": "17/11/2026",
    "publicado": null,
-   "nacional": true,
+   "nacional": false,
    "ufs": [
-    "br"
+    "df"
    ],
    "fonte": "pci"
   },
@@ -90,9 +90,10 @@
    "inscricao_fim": "2026-11-10",
    "inscricao_texto": "10/11/2026",
    "publicado": null,
-   "nacional": true,
+   "nacional": false,
    "ufs": [
-    "br"
+    "rj",
+    "mg"
    ],
    "fonte": "pci"
   },
@@ -110,9 +111,10 @@
    "inscricao_fim": "2026-11-10",
    "inscricao_texto": "10/11/2026",
    "publicado": null,
-   "nacional": true,
+   "nacional": false,
    "ufs": [
-    "br"
+    "am",
+    "ro"
    ],
    "fonte": "pci"
   },
@@ -130,9 +132,11 @@
    "inscricao_fim": "2026-10-21",
    "inscricao_texto": "21/10/2026",
    "publicado": null,
-   "nacional": true,
+   "nacional": false,
    "ufs": [
-    "br"
+    "sp",
+    "mt",
+    "ms"
    ],
    "fonte": "pci"
   },
@@ -150,9 +154,13 @@
    "inscricao_fim": "2026-10-30",
    "inscricao_texto": "20 a 30/10/2026",
    "publicado": null,
-   "nacional": true,
+   "nacional": false,
    "ufs": [
-    "br"
+    "ro",
+    "to",
+    "ap",
+    "ac",
+    "rr"
    ],
    "fonte": "pci"
   },
@@ -190,9 +198,13 @@
    "inscricao_fim": "2026-11-10",
    "inscricao_texto": "10/11/2026",
    "publicado": null,
-   "nacional": true,
+   "nacional": false,
    "ufs": [
-    "br"
+    "ce",
+    "rn",
+    "pb",
+    "pe",
+    "al"
    ],
    "fonte": "pci"
   },
@@ -210,9 +222,12 @@
    "inscricao_fim": "2026-11-10",
    "inscricao_texto": "10/11/2026",
    "publicado": null,
-   "nacional": true,
+   "nacional": false,
    "ufs": [
-    "br"
+    "pa",
+    "ap",
+    "ma",
+    "pi"
    ],
    "fonte": "pci"
   },
@@ -230,9 +245,11 @@
    "inscricao_fim": "2026-11-10",
    "inscricao_texto": "10/11/2026",
    "publicado": null,
-   "nacional": true,
+   "nacional": false,
    "ufs": [
-    "br"
+    "df",
+    "go",
+    "to"
    ],
    "fonte": "pci"
   },
@@ -250,9 +267,9 @@
    "inscricao_fim": "2026-11-09",
    "inscricao_texto": "19/10 a 09/11/2026",
    "publicado": null,
-   "nacional": true,
+   "nacional": false,
    "ufs": [
-    "br"
+    "mg"
    ],
    "fonte": "pci"
   },

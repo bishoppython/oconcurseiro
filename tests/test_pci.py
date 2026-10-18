@@ -12,6 +12,12 @@ HTML = """
   </div><div class="ce"><span>17/11/2026</span></div>
   <div class="clear"></div>
 </div></div>
+<div class="da" data-url="w">
+  <div class="ca"><a href="https://www.pciconcursos.com.br/noticias/cgu" title="CGU abre concurso público com vagas para auditores">CGU - Controladoria-Geral da União</a>
+  <div class="cc">&nbsp;</div>
+  <div class="cd">60 vagas até R$ 23.000,00<br><span>Auditor<br><span>Superior</span></span>
+  </div><div class="ce"><span>20/11/2026</span></div>
+</div></div>
 <div id="PE" class="ua"><div class="uf">PERNAMBUCO</div></div>
 <div class="da" data-url="y">
   <div class="ca"><a href="https://www.pciconcursos.com.br/noticias/bombeiros-pe" title="Bombeiros PE">CBM - Corpo de Bombeiros Militar</a>
@@ -29,8 +35,10 @@ HTML = """
 
 
 def test_extrai_nacional_e_estadual():
-    camara, bombeiros, prefeitura = extrair(HTML)
-    assert camara["nacional"] and camara["ufs"] == ["br"]
+    camara, cgu, bombeiros, prefeitura = extrair(HTML)
+    # estava na seção "Nacional" do PCI, mas o título diz "- DF"
+    assert not camara["nacional"] and camara["ufs"] == ["df"]
+    assert cgu["nacional"] and cgu["ufs"] == ["br"]
     assert camara["vagas"] == 184
     assert camara["salario_max"] == 32070.88
     assert camara["cargos"] == "Analista Legislativo, Engenheiro"

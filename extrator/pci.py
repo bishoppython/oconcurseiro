@@ -8,6 +8,8 @@ import re
 
 from bs4 import BeautifulSoup
 
+from extrator.ufs import ufs_citadas
+
 URL = "https://www.pciconcursos.com.br/concursos/"
 
 RE_DATA = re.compile(r"(\d{1,2})/(\d{1,2})/(\d{4})")
@@ -69,11 +71,17 @@ def extrair(html):
         cc, cd, ce = (item.find("div", class_=c) for c in ("cc", "cd", "ce"))
         prazo = ce.get_text(" ", strip=True) if ce else ""
         inicio, fim = inscricao(prazo)
-        nacional = secao == "nacional"
+        titulo = (link.get("title") or "").strip()
         uf = (cc.get_text(strip=True).lower() if cc else "") or secao
+        ufs = [uf]
+        if secao == "nacional":
+            # a seção "Nacional" do PCI também traz federais de poucos estados
+            # ("Câmara dos Deputados - DF", "Marinha - AM e RO"): só é nacional se nenhum estado for citado
+            ufs = ufs_citadas(titulo, link.get_text(strip=True)) or ["br"]
+        nacional = ufs == ["br"]
         concursos.append({
             "orgao": link.get_text(strip=True),
-            "titulo": (link.get("title") or "").strip(),
+            "titulo": titulo,
             "link": link["href"].strip(),
             **(detalhes(cd) if cd else {"vagas": None, "vagas_texto": "Várias", "salario_max": None,
                                         "cargos": "", "escolaridade": ""}),
@@ -83,7 +91,7 @@ def extrair(html):
             "inscricao_texto": prazo,
             "publicado": None,
             "nacional": nacional,
-            "ufs": ["br"] if nacional else [uf],
+            "ufs": ufs,
             "fonte": "pci",
         })
     return concursos

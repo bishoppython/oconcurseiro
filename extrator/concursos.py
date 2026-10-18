@@ -20,6 +20,7 @@ import requests
 from bs4 import BeautifulSoup
 
 from extrator import pci
+from extrator.ufs import UFS, ufs_citadas
 
 BASE_URL = "https://concursosnobrasil.com/concursos/{uf}/"
 USER_AGENT = "Mozilla/5.0 (compatible; oConcurseiro/1.0; +https://github.com/bishoppython/oconcurseiro)"
@@ -27,14 +28,6 @@ PAUSA_S = 1.0  # entre uma página e outra, para não sobrecarregar a fonte
 MIN_UFS_NACIONAL = 5  # listado em tantas UFs = nacional
 MIN_PCI = 50  # menos que isso = página do PCI fora do ar ou com layout novo
 
-UFS = {
-    "br": "Nacional", "ac": "Acre", "al": "Alagoas", "ap": "Amapá", "am": "Amazonas", "ba": "Bahia",
-    "ce": "Ceará", "df": "Distrito Federal", "es": "Espírito Santo", "go": "Goiás", "ma": "Maranhão",
-    "mt": "Mato Grosso", "ms": "Mato Grosso do Sul", "mg": "Minas Gerais", "pa": "Pará", "pb": "Paraíba",
-    "pr": "Paraná", "pe": "Pernambuco", "pi": "Piauí", "rj": "Rio de Janeiro", "rn": "Rio Grande do Norte",
-    "rs": "Rio Grande do Sul", "ro": "Rondônia", "rr": "Roraima", "sc": "Santa Catarina", "sp": "São Paulo",
-    "se": "Sergipe", "to": "Tocantins",
-}
 
 RE_DATA = re.compile(r"/(\d{4})/(\d{2})/(\d{2})/")
 # "R$ 13,5 mil", "R$ 4.100,00", "R$ 9 mil" — pega o maior valor citado no título
@@ -95,7 +88,8 @@ def extrair(html, uf):
 def mesclar(listas):
     """Junta as listas de todas as UFs; o mesmo link vira um item só, com todas as UFs.
 
-    Nacional = está na página "br" ou aparece em MIN_UFS_NACIONAL páginas ou mais (ex.: CGU).
+    Nacional = está na página "br" ou aparece em MIN_UFS_NACIONAL páginas ou mais (ex.: CGU),
+    desde que o título ou o nome do órgão não cite um estado.
     """
     por_link = {}
     for lista in listas:
@@ -108,8 +102,10 @@ def mesclar(listas):
                 por_link[c["link"]] = dict(c)
     for c in por_link.values():
         if c["nacional"] or len(c["ufs"]) >= MIN_UFS_NACIONAL:
-            c["nacional"] = True
-            c["ufs"] = ["br"]
+            # estado citado ("MGS (MG)") vence a regra: o concurso é daquele estado, não nacional
+            citadas = ufs_citadas(c["titulo"], c["orgao"])
+            c["nacional"] = not citadas
+            c["ufs"] = citadas or ["br"]
     return sorted(por_link.values(), key=lambda c: c["publicado"] or "", reverse=True)
 
 
