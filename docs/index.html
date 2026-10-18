@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>oConcurseiro</title>
+<meta name="description" content="Encontre concursos públicos abertos e previstos em todo o Brasil, por estado, vagas e salário.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📢</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="hero">
+  <div class="wrap">
+    <a class="brand" href="./">📢 oConcurseiro</a>
+    <h1>Todos os concursos do Brasil em um só lugar</h1>
+    <p class="sub">Concursos abertos e previstos nos 26 estados, no DF e nacionais, atualizados várias vezes por dia.</p>
+    <div class="stats" id="stats" aria-live="polite"></div>
+  </div>
+</header>
+
+<main class="wrap">
+  <section class="filters" aria-label="Filtros">
+    <label class="search">
+      <span class="sr">Buscar</span>
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10.5 3a7.5 7.5 0 0 1 5.9 12.1l4.3 4.3-1.4 1.4-4.3-4.3A7.5 7.5 0 1 1 10.5 3zm0 2a5.5 5.5 0 1 0 0 11 5.5 5.5 0 0 0 0-11z"/></svg>
+      <input id="q" type="search" placeholder="Órgão, cargo ou cidade: PM, prefeitura do Recife, tribunal…" autocomplete="off">
+    </label>
+    <div class="row">
+      <label class="field"><span>Estado</span>
+        <select id="uf"><option value="">Todo o Brasil</option></select>
+      </label>
+      <label class="field"><span>Ordenar por</span>
+        <select id="ordem">
+          <option value="recentes">Mais recentes</option>
+          <option value="vagas">Mais vagas</option>
+          <option value="salario">Maior salário</option>
+        </select>
+      </label>
+      <div class="chips" role="group" aria-label="Situação">
+        <button data-status="" class="on">Todos</button>
+        <button data-status="aberto">Abertos</button>
+        <button data-status="previsto">Previstos</button>
+      </div>
+    </div>
+  </section>
+
+  <p class="count" id="count"></p>
+  <section class="list" id="list" aria-live="polite"></section>
+  <button class="more" id="more" hidden>Mostrar mais</button>
+</main>
+
+<footer class="wrap foot">
+  <p>Dados extraídos de <a href="https://concursosnobrasil.com" target="_blank" rel="noopener">ConcursosNoBrasil.com</a>, a quem pertence o conteúdo. Site não oficial: confira sempre o edital antes de se inscrever.</p>
+  <p>Extrator inspirado em <a href="https://github.com/Vinimartinsc/concursosPublicosAPI" target="_blank" rel="noopener">concursosPublicosAPI</a> e <a href="https://github.com/Jeiel0rbit/concursos-api-deno" target="_blank" rel="noopener">concursos-api-deno</a> (MIT). Código no <a href="https://github.com/bishoppython/oconcurseiro" target="_blank" rel="noopener">GitHub</a>.</p>
+  <p>Feito por <a href="https://bishoppython.github.io/obispo/" target="_blank" rel="noopener">Anderson Bispo · oBispo</a></p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
