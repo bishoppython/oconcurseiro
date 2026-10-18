@@ -97,6 +97,8 @@ python3.11 -m venv .venv
 cd docs && python3 -m http.server 8000        # portal em http://localhost:8000
 ```
 
+Ao mudar `docs/app.js` ou `docs/style.css`, aumente o `?v=` deles no `docs/index.html`: o GitHub Pages deixa os arquivos 10 minutos em cache no navegador, e o número novo força o download.
+
 ## Próximos passos
 
 - Alertas no Telegram e no WhatsApp por estado e palavra-chave
