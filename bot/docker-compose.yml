@@ -1,0 +1,16 @@
+services:
+  oconcurseiro-bot:
+    build:
+      context: ..
+      dockerfile: bot/Dockerfile
+    container_name: oconcurseiro-bot
+    restart: unless-stopped
+    env_file: .env          # TELEGRAM_TOKEN=... (nunca versionado)
+    environment:
+      BANCO: /app/data/oconcurseiro.db
+      INTERVALO_MIN: "30"
+    volumes:
+      - ./data:/app/data    # inscritos e filtros: fica só no servidor
+    logging:
+      driver: json-file
+      options: { max-size: "5m", max-file: "3" }

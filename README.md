@@ -99,9 +99,14 @@ cd docs && python3 -m http.server 8000        # portal em http://localhost:8000
 
 Ao mudar `docs/app.js` ou `docs/style.css`, aumente o `?v=` deles no `docs/index.html`: o GitHub Pages deixa os arquivos 10 minutos em cache no navegador, e o número novo força o download.
 
+## Alertas no Telegram
+
+O bot em [`bot/`](bot/README.md) avisa no privado quando sai concurso novo por estado, palavra-chave e escolaridade (`/estado PE`, `/palavra professor`). Roda em Docker num servidor próprio; os inscritos ficam num SQLite só no servidor.
+
 ## Próximos passos
 
-- Alertas no Telegram e no WhatsApp por estado e palavra-chave
+- Alertas no WhatsApp
+- Lembrete de "último dia de inscrição" para quem segue um concurso
 - Resumo por e-mail com os concursos novos da semana
 - Página de detalhe com banca e datas de prova
 
