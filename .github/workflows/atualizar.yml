@@ -11,6 +11,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: atualizar
+  cancel-in-progress: false
+
 jobs:
   atualizar:
     runs-on: ubuntu-latest
@@ -28,5 +32,7 @@ jobs:
           git config user.name "oconcurseiro-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add docs/data/concursos.json
-          git diff --cached --quiet || git commit -m "dados: atualização automática dos concursos"
+          git diff --cached --quiet && exit 0
+          git commit -m "dados: atualização automática dos concursos"
+          git pull --rebase  # alguém pode ter feito push durante a coleta
           git push
