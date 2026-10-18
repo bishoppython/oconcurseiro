@@ -120,3 +120,36 @@ def test_estados_por_sigla_ou_nome():
     assert ler_estados("Pernambuco, Paraíba") == (["pe", "pb"], [])
     assert ler_estados("mato grosso do sul e Rio de Janeiro") == (["ms", "rj"], [])
     assert ler_estados("Pernambuc") == ([], ["Pernambuc"])
+
+
+def test_hashtags_e_post_do_canal():
+    from bot.filtros import hashtags, post_canal
+    c = concurso("a", ufs=["pe"], escolaridade="Médio / Técnico / Superior")
+    assert hashtags(c) == "#PE #Medio #Tecnico #Superior"
+    assert hashtags(concurso("b", ufs=["br"], nacional=True, status="previsto")) == "#Nacional #Previsto"
+    post = post_canal(c, HOJE)
+    assert post.startswith("🆕 <b>Prefeitura X</b>") and "#PE" in post and "@oConcurseiroBR_bot" in post
+
+
+def test_canal_recebe_novos_em_fila_com_pausa(bot, monkeypatch):
+    relogio = {"t": 1000.0}
+    monkeypatch.setattr("bot.main.time.time", lambda: relogio["t"])
+    bot.canal = "@canal"
+    bot.notificar()  # primeira carga: nada vai para o canal
+    assert bot.banco.tamanho_fila() == 0
+    bot.lote["dados"] += [concurso("n1", inscricao_fim="2026-11-30"), concurso("n2", inscricao_fim="2026-10-20")]
+    bot.notificar()
+    assert bot.banco.tamanho_fila() == 2
+    assert bot.publicar_no_canal() is True        # publica o primeiro (n2, que encerra antes)
+    assert bot.publicar_no_canal() is True        # ainda dentro da pausa: não publica
+    relogio["t"] += 4
+    assert bot.publicar_no_canal() is False       # publica o segundo; fila vazia
+    canal = [t for chat, t in bot.tg.enviadas if chat == "@canal"]
+    assert len(canal) == 2 and "20/10/2026" in canal[0]
+
+
+def test_falha_no_canal_nao_trava_a_fila(bot):
+    bot.canal = "@canal"
+    bot.tg.bloqueados.add("@canal")
+    bot.banco.enfileirar(["post"])
+    assert bot.publicar_no_canal() is False and bot.banco.tamanho_fila() == 0

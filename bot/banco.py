@@ -23,6 +23,10 @@ CREATE TABLE IF NOT EXISTS vistos (
     link TEXT PRIMARY KEY,
     visto_em TEXT NOT NULL
 );
+CREATE TABLE IF NOT EXISTS fila_canal (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    texto TEXT NOT NULL
+);
 CREATE TABLE IF NOT EXISTS estado (
     chave TEXT PRIMARY KEY,
     valor TEXT NOT NULL
@@ -90,6 +94,22 @@ class Banco:
     def marcar_vistos(self, links):
         with self.con:
             self.con.executemany("INSERT OR IGNORE INTO vistos VALUES (?, ?)", [(l, agora()) for l in links])
+
+    # posts do canal esperando a vez (o Telegram aceita ~20 por minuto num canal) ---
+    def enfileirar(self, textos):
+        with self.con:
+            self.con.executemany("INSERT INTO fila_canal (texto) VALUES (?)", [(t,) for t in textos])
+
+    def proximo_da_fila(self):
+        """(id, texto) do post mais antigo, ou None."""
+        return self.con.execute("SELECT id, texto FROM fila_canal ORDER BY id LIMIT 1").fetchone()
+
+    def tirar_da_fila(self, id_):
+        with self.con:
+            self.con.execute("DELETE FROM fila_canal WHERE id = ?", (id_,))
+
+    def tamanho_fila(self):
+        return self.con.execute("SELECT COUNT(*) FROM fila_canal").fetchone()[0]
 
     # estado do bot (offset do Telegram) -----------------------------------
     def ler(self, chave, padrao=None):

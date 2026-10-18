@@ -5,7 +5,7 @@ services:
       dockerfile: bot/Dockerfile
     container_name: oconcurseiro-bot
     restart: unless-stopped
-    env_file: .env          # TELEGRAM_TOKEN=... (nunca versionado)
+    env_file: .env          # TELEGRAM_TOKEN e TELEGRAM_CANAL (nunca versionado)
     environment:
       BANCO: /app/data/oconcurseiro.db
       INTERVALO_MIN: "30"

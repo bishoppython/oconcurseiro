@@ -100,6 +100,25 @@ def cartao(concurso, hoje=None):
     return "\n".join(partes)
 
 
+BOT = "@oConcurseiroBR_bot"
+
+
+def hashtags(concurso):
+    """#PE #Superior #Previsto — para quem segue o canal filtrar tocando na hashtag."""
+    tags = ["#Nacional"] if concurso.get("nacional") else [f"#{u.upper()}" for u in concurso.get("ufs", [])]
+    esc = sem_acento(concurso.get("escolaridade", ""))
+    tags += [f"#{nome.replace('é', 'e')}" for chave, nome in ESCOLARIDADES.items() if chave in esc]
+    if concurso.get("status") == "previsto":
+        tags.append("#Previsto")
+    return " ".join(tags)
+
+
+def post_canal(concurso, hoje=None):
+    """Post do canal: o mesmo cartão do privado, com hashtags e convite para os alertas."""
+    texto = cartao(concurso, hoje)
+    return f"{texto}\n\n{hashtags(concurso)}\n🔔 Alertas só do seu estado ou cargo: {BOT}"
+
+
 def resumo(concursos, filtros, hoje=None):
     """Uma mensagem só quando há muitos concursos novos para a mesma pessoa."""
     hoje = hoje or date.today()

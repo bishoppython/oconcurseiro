@@ -3,7 +3,9 @@
 Laço único: espera mensagens (long polling) e, a cada INTERVALO_MIN, baixa o JSON do portal
 e avisa cada inscrito dos concursos novos que combinam com os filtros dele.
 
-Variáveis: TELEGRAM_TOKEN (obrigatória), DADOS_URL, BANCO, INTERVALO_MIN.
+Concursos novos também vão para o canal público (TELEGRAM_CANAL), um a cada PAUSA_CANAL_S.
+
+Variáveis: TELEGRAM_TOKEN (obrigatória), TELEGRAM_CANAL, DADOS_URL, BANCO, INTERVALO_MIN.
 """
 
 import logging
@@ -14,14 +16,17 @@ import time
 import requests
 
 from bot.banco import Banco
-from bot.filtros import ESCOLARIDADES, PORTAL, buscar, cartao, link_portal, mensagens_para, sem_acento
+from bot.filtros import (ESCOLARIDADES, PORTAL, buscar, cartao, link_portal, mensagens_para, post_canal,
+                         sem_acento)
 from bot.telegram import Bloqueado, Telegram
 from extrator.ufs import UFS as NOMES_UF
 
 DADOS_URL = os.environ.get("DADOS_URL", PORTAL + "data/concursos.json")
 BANCO = os.environ.get("BANCO", "data/oconcurseiro.db")
 INTERVALO_MIN = int(os.environ.get("INTERVALO_MIN", "30"))
+CANAL = os.environ.get("TELEGRAM_CANAL", "").strip()  # "@oConcurseiroBR"; vazio = sem canal
 PAUSA_ENVIO_S = 0.05  # bem abaixo do limite de ~30 mensagens/s do Telegram
+PAUSA_CANAL_S = 3.5   # num mesmo canal o limite é ~20 mensagens por minuto
 
 UFS = {uf for uf in NOMES_UF if uf != "br"}
 UF_POR_NOME = {sem_acento(nome): uf for uf, nome in NOMES_UF.items() if uf != "br"}
@@ -91,6 +96,8 @@ class Bot:
         self.tg, self.banco = tg, banco
         self.baixar = baixar or self._baixar
         self.concursos = []  # última leva baixada, usada pelo /buscar
+        self.canal = CANAL
+        self.ultimo_post = 0.0
 
     # dados do portal ------------------------------------------------------
     @staticmethod
@@ -192,6 +199,10 @@ class Bot:
         vistos = self.banco.vistos()
         novos = [c for c in self.concursos if c["link"] not in vistos]
         enviadas = 0
+        if novos and self.canal:
+            # os que encerram antes primeiro; previstos no fim
+            ordem = sorted(novos, key=lambda c: (c.get("status") == "previsto", c.get("inscricao_fim") or "9999"))
+            self.banco.enfileirar(post_canal(c) for c in ordem)
         if novos:
             for chat_id, filtros in self.banco.todos_os_filtros().items():
                 for texto in mensagens_para(novos, filtros):
@@ -201,6 +212,24 @@ class Bot:
             self.banco.marcar_vistos(c["link"] for c in novos)
         log.info("%d concursos novos, %d mensagens enviadas", len(novos), enviadas)
         return enviadas
+
+    def publicar_no_canal(self):
+        """Publica o próximo post da fila, se já passou a pausa. Volta True se ainda há fila."""
+        if not self.canal:
+            return False
+        item = self.banco.proximo_da_fila()
+        if not item:
+            return False
+        if time.time() - self.ultimo_post >= PAUSA_CANAL_S:
+            id_, texto = item
+            try:
+                self.tg.enviar(self.canal, texto)
+            except (Bloqueado, RuntimeError) as e:
+                # bot fora do canal ou sem permissão: descarta para não travar a fila
+                log.warning("não consegui publicar no canal %s: %s", self.canal, e)
+            self.banco.tirar_da_fila(id_)
+            self.ultimo_post = time.time()
+        return self.banco.tamanho_fila() > 0
 
     def _enviar(self, chat_id, texto):
         try:
@@ -217,13 +246,15 @@ class Bot:
         self.tg.definir_comandos(COMANDOS)
         offset = int(self.banco.ler("offset", 0))
         proxima = 0.0
-        log.info("no ar; %d inscritos", self.banco.total_inscritos())
+        log.info("no ar; %d inscritos; canal: %s", self.banco.total_inscritos(), self.canal or "nenhum")
         while True:
             try:
                 if time.time() >= proxima:
                     proxima = time.time() + INTERVALO_MIN * 60
                     self.notificar()
-                for upd in self.tg.atualizacoes(offset):
+                # com fila no canal, espera pouco por mensagens para voltar logo ao próximo post
+                espera = 3 if self.publicar_no_canal() else 25
+                for upd in self.tg.atualizacoes(offset, espera):
                     offset = upd["update_id"] + 1
                     msg = upd.get("message") or {}
                     chat = msg.get("chat", {})

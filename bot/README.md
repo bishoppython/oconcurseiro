@@ -23,6 +23,14 @@ Cada pessoa escolhe estados, palavras-chave e escolaridade, e o bot avisa no pri
 - Até 5 concursos novos de uma vez chegam um por mensagem; acima disso, chega um resumo com link para o portal.
 - Na primeira execução, tudo o que já existe é marcado como visto: ninguém recebe centenas de mensagens.
 
+## Canal público
+
+Com `TELEGRAM_CANAL=@oConcurseiroBR` no `.env`, todo concurso novo também é publicado no canal, com hashtags para filtrar (`#PE`, `#Nacional`, `#Superior`, `#Previsto`) e convite para os alertas personalizados do bot.
+
+- O bot precisa ser **administrador do canal** com permissão de publicar.
+- Os posts entram numa fila no SQLite e saem um a cada 3,5 s (o Telegram limita ~20 mensagens por minuto num mesmo canal); a fila sobrevive a reinícios.
+- Os que encerram antes saem primeiro; previstos por último. A primeira carga não publica nada.
+
 ## Privacidade (LGPD)
 
 O banco SQLite (`data/oconcurseiro.db`) fica **só no servidor** e guarda apenas o número do chat, os filtros e os links já vistos. Nada disso vai para o repositório. `/parar` apaga tudo da pessoa, e quem bloqueia o bot tem os dados apagados automaticamente.
@@ -51,6 +59,7 @@ Atualizar: `git pull && docker compose up -d --build`.
 | Variável | Padrão | |
 |---|---|---|
 | `TELEGRAM_TOKEN` | — | token do bot (obrigatório, só no `.env`) |
+| `TELEGRAM_CANAL` | vazio | @ do canal onde publicar os concursos novos (vazio = sem canal) |
 | `DADOS_URL` | JSON do portal | de onde vêm os concursos |
 | `INTERVALO_MIN` | 30 | intervalo entre checagens |
 | `BANCO` | `data/oconcurseiro.db` | caminho do SQLite |
