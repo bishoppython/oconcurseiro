@@ -34,7 +34,7 @@ class Telegram:
     def atualizacoes(self, offset, espera=25):
         """Mensagens novas; segura a conexão até `espera` s se não houver nenhuma."""
         return self._chamar("getUpdates", tempo_http=espera + 10, offset=offset, timeout=espera,
-                            allowed_updates=["message"])
+                            allowed_updates=["message", "my_chat_member", "channel_post"])
 
     def enviar(self, chat_id, texto):
         self._chamar("sendMessage", chat_id=chat_id, text=texto, parse_mode="HTML",

@@ -213,6 +213,17 @@ class Bot:
         log.info("%d concursos novos, %d mensagens enviadas", len(novos), enviadas)
         return enviadas
 
+    def anotar_canal(self, upd):
+        """Registra o canal quando o bot vira admin dele ou quando há post lá (para achar o ID)."""
+        evento = upd.get("my_chat_member") or upd.get("channel_post")
+        chat = (evento or {}).get("chat", {})
+        if chat.get("type") != "channel":
+            return
+        status = (upd.get("my_chat_member") or {}).get("new_chat_member", {}).get("status", "post")
+        nome = f"@{chat['username']}" if chat.get("username") else "(canal privado)"
+        log.info("canal detectado: %s %s id=%s status=%s", chat.get("title"), nome, chat.get("id"), status)
+        self.banco.gravar("canal_detectado", f"{chat.get('id')} {nome} {chat.get('title')}")
+
     def publicar_no_canal(self):
         """Publica o próximo post da fila, se já passou a pausa. Volta True se ainda há fila."""
         if not self.canal:
@@ -256,6 +267,7 @@ class Bot:
                 espera = 3 if self.publicar_no_canal() else 25
                 for upd in self.tg.atualizacoes(offset, espera):
                     offset = upd["update_id"] + 1
+                    self.anotar_canal(upd)
                     msg = upd.get("message") or {}
                     chat = msg.get("chat", {})
                     if chat.get("type") != "private" or "text" not in msg:

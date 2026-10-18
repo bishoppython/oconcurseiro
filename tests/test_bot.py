@@ -153,3 +153,12 @@ def test_falha_no_canal_nao_trava_a_fila(bot):
     bot.tg.bloqueados.add("@canal")
     bot.banco.enfileirar(["post"])
     assert bot.publicar_no_canal() is False and bot.banco.tamanho_fila() == 0
+
+
+def test_anota_canal_quando_vira_admin(bot):
+    bot.anotar_canal({"my_chat_member": {"chat": {"id": -100123, "type": "channel", "title": "oConcurseiro",
+                                                  "username": "oConcurseiroBR"},
+                                         "new_chat_member": {"status": "administrator"}}})
+    assert bot.banco.ler("canal_detectado") == "-100123 @oConcurseiroBR oConcurseiro"
+    bot.anotar_canal({"message": {"chat": {"id": 5, "type": "private"}}})  # privado não mexe
+    assert bot.banco.ler("canal_detectado").startswith("-100123")
