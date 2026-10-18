@@ -76,6 +76,12 @@ a { color: var(--brand); }
 .badge { font-size: .7rem; font-weight: 700; padding: 3px 8px; border-radius: 999px; white-space: nowrap; }
 .badge.aberto { background: var(--open-bg); color: var(--open); }
 .badge.previsto { background: var(--soon-bg); color: var(--soon); }
+.badge.suspenso, .badge.encerrado { background: var(--chip); color: var(--muted); }
+.prazo { font-size: .8rem; font-weight: 600; }
+.prazo.urgente { color: #dc2626; }
+.prazo.encerrado { color: var(--muted); font-weight: 500; }
+.cargos { font-size: .8rem; color: var(--ink); }
+.cargos span { color: var(--muted); }
 .card p { font-size: .85rem; color: var(--muted); }
 .facts { display: flex; flex-wrap: wrap; gap: 6px 14px; font-size: .8rem; margin-top: auto; padding-top: 4px; }
 .facts b { font-variant-numeric: tabular-nums; }

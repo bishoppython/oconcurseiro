@@ -1,8 +1,10 @@
 """Extrator de concursos públicos do oConcurseiro.
 
-Lê as páginas por UF do ConcursosNoBrasil.com (mesma fonte e mesma ideia das APIs
-Vinimartinsc/concursosPublicosAPI e Jeiel0rbit/concursos-api-deno) e gera um único
-JSON com todos os concursos do país, sem duplicatas, para o portal em docs/.
+Junta duas fontes em um único JSON para o portal em docs/:
+- abertos: PCI Concursos (extrator/pci.py), que traz o prazo de inscrição, cargos e escolaridade;
+- previstos: páginas por UF do ConcursosNoBrasil.com (mesma fonte e mesma ideia das APIs
+  Vinimartinsc/concursosPublicosAPI e Jeiel0rbit/concursos-api-deno).
+Os abertos do ConcursosNoBrasil são descartados: os links diferem do PCI e duplicariam a lista.
 
 Uso: python -m extrator.concursos [saida.json]
 """
@@ -17,10 +19,13 @@ from pathlib import Path
 import requests
 from bs4 import BeautifulSoup
 
+from extrator import pci
+
 BASE_URL = "https://concursosnobrasil.com/concursos/{uf}/"
 USER_AGENT = "Mozilla/5.0 (compatible; oConcurseiro/1.0; +https://github.com/bishoppython/oconcurseiro)"
 PAUSA_S = 1.0  # entre uma página e outra, para não sobrecarregar a fonte
 MIN_UFS_NACIONAL = 5  # listado em tantas UFs = nacional
+MIN_PCI = 50  # menos que isso = página do PCI fora do ar ou com layout novo
 
 UFS = {
     "br": "Nacional", "ac": "Acre", "al": "Alagoas", "ap": "Amapá", "am": "Amazonas", "ba": "Bahia",
@@ -74,9 +79,15 @@ def extrair(html, uf):
             "vagas_texto": vagas_texto,
             "salario_max": salario_max(titulo),
             "status": "previsto" if linha.select_one(".label-previsto") else "aberto",
+            "inscricao_inicio": None,
+            "inscricao_fim": None,
+            "inscricao_texto": "",
+            "cargos": "",
+            "escolaridade": "",
             "publicado": "-".join(data.groups()) if data else None,
             "nacional": uf == "br",
             "ufs": [uf],
+            "fonte": "cnb",
         })
     return concursos
 
@@ -108,9 +119,7 @@ def baixar(uf, sessao):
     return r.text
 
 
-def coletar():
-    sessao = requests.Session()
-    sessao.headers["User-Agent"] = USER_AGENT
+def coletar_cnb(sessao):
     listas, falhas = [], []
     for uf in UFS:
         try:
@@ -124,21 +133,48 @@ def coletar():
     return mesclar(listas), falhas
 
 
+def coletar_pci(sessao):
+    r = sessao.get(pci.URL, timeout=60)
+    r.raise_for_status()
+    return pci.extrair(r.text)
+
+
+def previstos_anteriores(saida):
+    try:
+        anterior = json.loads(saida.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        return []
+    return [c for c in anterior.get("concursos", []) if c.get("status") == "previsto"]
+
+
 def main():
     saida = Path(sys.argv[1] if len(sys.argv) > 1 else "docs/data/concursos.json")
-    concursos, falhas = coletar()
-    if len(falhas) > len(UFS) // 2 or not concursos:
-        # fonte fora do ar ou mudou o layout: mantém o JSON anterior em vez de publicar vazio
-        sys.exit(f"coleta incompleta ({len(falhas)} UFs falharam); JSON anterior mantido")
+    sessao = requests.Session()
+    sessao.headers["User-Agent"] = USER_AGENT
+    try:
+        abertos = coletar_pci(sessao)
+    except requests.RequestException as e:
+        sys.exit(f"PCI falhou ({e}); JSON anterior mantido")
+    print(f"PCI: {len(abertos)} concursos com inscrições abertas")
+    if len(abertos) < MIN_PCI:
+        # fonte fora do ar ou mudou o layout: mantém o JSON anterior em vez de publicar quase vazio
+        sys.exit(f"PCI trouxe só {len(abertos)} concursos; JSON anterior mantido")
+
+    cnb, falhas = coletar_cnb(sessao)
+    previstos = [c for c in cnb if c["status"] == "previsto"]
+    if len(falhas) > len(UFS) // 2 or not previstos:
+        previstos = previstos_anteriores(saida)
+        print(f"ConcursosNoBrasil incompleto; mantidos {len(previstos)} previstos da coleta anterior")
+
     saida.parent.mkdir(parents=True, exist_ok=True)
     saida.write_text(json.dumps({
         "atualizado": datetime.now(timezone.utc).isoformat(timespec="seconds"),
-        "fonte": "https://concursosnobrasil.com",
+        "fontes": {"pci": "https://www.pciconcursos.com.br/concursos/", "cnb": "https://concursosnobrasil.com"},
         "ufs": UFS,
         "falhas": falhas,
-        "concursos": concursos,
+        "concursos": abertos + previstos,
     }, ensure_ascii=False, indent=1), encoding="utf-8")
-    print(f"{len(concursos)} concursos salvos em {saida}")
+    print(f"{len(abertos)} abertos e {len(previstos)} previstos salvos em {saida}")
 
 
 if __name__ == "__main__":

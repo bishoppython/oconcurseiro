@@ -16,7 +16,7 @@
   <div class="wrap">
     <a class="brand" href="./">📢 oConcurseiro</a>
     <h1>Todos os concursos do Brasil em um só lugar</h1>
-    <p class="sub">Concursos abertos e previstos nos 26 estados, no DF e nacionais, atualizados várias vezes por dia.</p>
+    <p class="sub">Concursos com inscrições abertas e previstos nos 26 estados, no DF e nacionais, com prazo de inscrição, cargos e salários. Atualizado várias vezes por dia.</p>
     <div class="stats" id="stats" aria-live="polite"></div>
   </div>
 </header>
@@ -26,17 +26,27 @@
     <label class="search">
       <span class="sr">Buscar</span>
       <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10.5 3a7.5 7.5 0 0 1 5.9 12.1l4.3 4.3-1.4 1.4-4.3-4.3A7.5 7.5 0 1 1 10.5 3zm0 2a5.5 5.5 0 1 0 0 11 5.5 5.5 0 0 0 0-11z"/></svg>
-      <input id="q" type="search" placeholder="Órgão, cargo ou cidade: PM, prefeitura do Recife, tribunal…" autocomplete="off">
+      <input id="q" type="search" placeholder="Órgão, cargo ou cidade: PM, professor, prefeitura do Recife…" autocomplete="off">
     </label>
     <div class="row">
       <label class="field"><span>Estado</span>
         <select id="uf"><option value="">Todo o Brasil</option></select>
       </label>
+      <label class="field"><span>Escolaridade</span>
+        <select id="escolaridade">
+          <option value="">Todas</option>
+          <option value="fundamental">Fundamental</option>
+          <option value="medio">Médio</option>
+          <option value="tecnico">Técnico</option>
+          <option value="superior">Superior</option>
+        </select>
+      </label>
       <label class="field"><span>Ordenar por</span>
         <select id="ordem">
-          <option value="recentes">Mais recentes</option>
+          <option value="prazo">Inscrições terminando</option>
           <option value="vagas">Mais vagas</option>
           <option value="salario">Maior salário</option>
+          <option value="recentes">Previstos mais recentes</option>
         </select>
       </label>
       <div class="chips" role="group" aria-label="Situação">
@@ -53,7 +63,7 @@
 </main>
 
 <footer class="wrap foot">
-  <p>Dados extraídos de <a href="https://concursosnobrasil.com" target="_blank" rel="noopener">ConcursosNoBrasil.com</a>, a quem pertence o conteúdo. Site não oficial: confira sempre o edital antes de se inscrever.</p>
+  <p>Concursos abertos extraídos do <a href="https://www.pciconcursos.com.br/concursos/" target="_blank" rel="noopener">PCI Concursos</a> e previstos do <a href="https://concursosnobrasil.com" target="_blank" rel="noopener">ConcursosNoBrasil.com</a>, a quem pertence o conteúdo. Site não oficial: confira sempre o edital antes de se inscrever.</p>
   <p>Extrator inspirado em <a href="https://github.com/Vinimartinsc/concursosPublicosAPI" target="_blank" rel="noopener">concursosPublicosAPI</a> e <a href="https://github.com/Jeiel0rbit/concursos-api-deno" target="_blank" rel="noopener">concursos-api-deno</a> (MIT). Código no <a href="https://github.com/bishoppython/oconcurseiro" target="_blank" rel="noopener">GitHub</a>.</p>
   <p>Feito por <a href="https://bishoppython.github.io/obispo/" target="_blank" rel="noopener">Anderson Bispo · oBispo</a></p>
 </footer>

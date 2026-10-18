@@ -1,6 +1,6 @@
 # 📢 oConcurseiro
 
-Buscador de concursos públicos do Brasil. Um extrator em Python coleta os concursos **abertos e previstos** dos 26 estados, do DF e os nacionais, junta tudo em um único JSON e publica um portal de busca no GitHub Pages.
+Buscador de concursos públicos do Brasil. Um extrator em Python coleta os concursos **com inscrições abertas** (com prazo de inscrição, cargos, escolaridade, vagas e salário) e os **previstos** dos 26 estados, do DF e os nacionais, junta tudo em um único JSON e publica um portal de busca no GitHub Pages.
 
 **Portal:** https://bishoppython.github.io/oconcurseiro/
 
@@ -8,9 +8,11 @@ Buscador de concursos públicos do Brasil. Um extrator em Python coleta os concu
 
 ## O que o portal faz
 
+- Prazo de inscrição em cada concurso, com contagem de dias (em vermelho quando faltam 7 dias ou menos)
 - Busca por órgão, cargo ou cidade, sem diferenciar acentos (os termos encontrados ficam destacados)
-- Filtro por estado (os nacionais aparecem em todos) e por situação (abertos ou previstos)
-- Ordenação por mais recentes, mais vagas ou maior salário
+- Filtro por estado (os nacionais aparecem em todos), escolaridade e situação (abertos ou previstos)
+- Ordenação por inscrições terminando, mais vagas, maior salário ou previstos mais recentes
+- Concursos cujo prazo já passou aparecem como "Encerrado", no fim da lista
 - Filtros guardados na URL, para compartilhar uma busca: [`?uf=pe&q=prefeitura`](https://bishoppython.github.io/oconcurseiro/?uf=pe&q=prefeitura)
 - Tema claro e escuro, funciona no celular
 
@@ -19,11 +21,14 @@ Buscador de concursos públicos do Brasil. Um extrator em Python coleta os concu
 ```
 GitHub Actions (6h, 12h e 18h em Recife)
    │
-   ▼
-extrator/concursos.py ── baixa /concursos/{uf}/ das 28 páginas (1 s entre elas)
-   │                     lê a tabela: órgão, título, link, vagas, "previsto"
-   │                     deduz data (do link) e salário máximo (do título)
-   │                     junta repetidos: o mesmo link vira um item só
+   ├─► extrator/pci.py ─────── ABERTOS: pciconcursos.com.br/concursos/ (1 página, o país inteiro)
+   │                           órgão, link, UF, vagas, salário, cargos, escolaridade e
+   │                           prazo de inscrição ("17/11/2026", "07/11 a 23/11/2026",
+   │                           "Prorrogado até…", "Suspenso")
+   │
+   └─► extrator/concursos.py ─ PREVISTOS: concursosnobrasil.com/concursos/{uf}/ (28 páginas, 1 s entre elas)
+                               só os marcados "previsto"; data tirada do link; repetidos viram um item só
+   │
    ▼
 docs/data/concursos.json ── commit automático só quando algo mudou
    │
@@ -31,36 +36,46 @@ docs/data/concursos.json ── commit automático só quando algo mudou
 docs/ (GitHub Pages) ── portal estático, filtra tudo no navegador
 ```
 
-**Concurso nacional:** aparece na página "br" ou em 5 estados ou mais (ex.: CGU, IBGE, INSS).
+**Por que duas fontes:** o PCI traz o prazo de inscrição e os detalhes de cada concurso aberto, mas a página de previstos dele é só uma lista de notícias. O ConcursosNoBrasil marca os previstos na mesma tabela dos abertos. Os abertos do ConcursosNoBrasil são descartados, porque os links diferem dos do PCI e a lista ficaria duplicada.
 
-**Proteção contra falhas:** se mais da metade das páginas falhar ou nada for extraído (fonte fora do ar ou layout novo), o extrator encerra com erro e o JSON anterior continua publicado.
+**Concurso nacional:** no PCI, está na seção "Nacional". Nos previstos, aparece na página "br" ou em 5 estados ou mais (ex.: CGU, IBGE, INSS).
+
+**Proteção contra falhas:** se o PCI falhar ou trouxer menos de 50 concursos (fonte fora do ar ou layout novo), o extrator encerra com erro e o JSON anterior continua publicado. Se o ConcursosNoBrasil falhar, os previstos da coleta anterior são mantidos.
 
 ### Formato do JSON
 
 ```json
 {
   "atualizado": "2026-10-18T05:09:25+00:00",
-  "fonte": "https://concursosnobrasil.com",
+  "fontes": { "pci": "https://www.pciconcursos.com.br/concursos/", "cnb": "https://concursosnobrasil.com" },
   "ufs": { "br": "Nacional", "pe": "Pernambuco", "...": "..." },
   "falhas": [],
   "concursos": [
     {
-      "orgao": "PC PE",
-      "titulo": "Concurso PC PE edital oferece 1.315 vagas com salários de até R$ 13,5 mil",
-      "link": "https://concursosnobrasil.com/concursos/pe/2026/10/02/...",
-      "vagas": 1315,
-      "vagas_texto": "1.315",
-      "salario_max": 13500.0,
+      "orgao": "CBM - Corpo de Bombeiros Militar",
+      "titulo": "Secretaria de Defesa Social - PE retifica concurso com 570 vagas para Bombeiros",
+      "link": "https://www.pciconcursos.com.br/noticias/...",
+      "vagas": 570,
+      "vagas_texto": "570",
+      "salario_max": 12937.33,
+      "cargos": "Soldado, 2º Tenente",
+      "escolaridade": "Médio / Superior",
       "status": "aberto",
-      "publicado": "2026-10-02",
+      "inscricao_inicio": null,
+      "inscricao_fim": "2026-11-23",
+      "inscricao_texto": "Prorrogado até 23/11/2026",
+      "publicado": null,
       "nacional": false,
-      "ufs": ["pe"]
+      "ufs": ["pe"],
+      "fonte": "pci"
     }
   ]
 }
 ```
 
-`vagas` é `null` quando a fonte diz "Várias". `salario_max` é `null` quando o título não cita valor.
+- `status`: `aberto`, `suspenso` (PCI) ou `previsto` (ConcursosNoBrasil). O portal mostra como "Encerrado" um aberto cujo `inscricao_fim` já passou.
+- `vagas` é `null` quando a fonte diz "Várias" ou "Cadastro reserva" (texto em `vagas_texto`). `salario_max` é `null` quando não há valor.
+- `inscricao_*` e `cargos`/`escolaridade` só existem nos abertos (PCI); `publicado` (data da notícia) só nos previstos.
 
 O JSON também serve como API pública: `https://bishoppython.github.io/oconcurseiro/data/concursos.json`.
 
@@ -82,8 +97,8 @@ cd docs && python3 -m http.server 8000        # portal em http://localhost:8000
 
 ## Créditos
 
-- Dados: [ConcursosNoBrasil.com](https://concursosnobrasil.com), a quem pertence o conteúdo. Projeto não oficial e educativo: confira sempre o edital.
-- O extrator une as abordagens de duas APIs abertas (MIT):
+- Dados: [PCI Concursos](https://www.pciconcursos.com.br/concursos/) e [ConcursosNoBrasil.com](https://concursosnobrasil.com), a quem pertence o conteúdo. Projeto não oficial e educativo: confira sempre o edital.
+- O extrator do ConcursosNoBrasil une as abordagens de duas APIs abertas (MIT), e o do PCI segue a mesma lógica:
   - [Vinimartinsc/concursosPublicosAPI](https://github.com/Vinimartinsc/concursosPublicosAPI) (Flask + BeautifulSoup): link, vagas e status "previsto" por categoria
   - [Jeiel0rbit/concursos-api-deno](https://github.com/Jeiel0rbit/concursos-api-deno) (Deno): leitura da tabela por UF, coleta periódica e separação entre abertos e previstos
 
