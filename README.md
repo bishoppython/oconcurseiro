@@ -93,7 +93,7 @@ cd docs && python3 -m http.server 8000        # portal em http://localhost:8000
 
 - Alertas no Telegram e no WhatsApp por estado e palavra-chave
 - Resumo por e-mail com os concursos novos da semana
-- Página de detalhe com cargos, escolaridade e prazos de inscrição
+- Página de detalhe com banca, datas de prova e link direto para o edital
 
 ## Créditos
 
