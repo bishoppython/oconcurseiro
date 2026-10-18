@@ -1,4 +1,4 @@
-from extrator.pci import extrair, inscricao
+from extrator.pci import detalhes_noticia, extrair, inscricao
 
 HTML = """
 <h2>NACIONAL</h2>
@@ -68,3 +68,29 @@ def test_formatos_de_prazo():
 
 def test_pagina_sem_concursos():
     assert extrair("<html><body>manutenção</body></html>") == []
+
+
+NOTICIA = """
+<article>
+  <p>Inscrições no site <a href="https://www.cebraspe.org.br/concursos/cd_26_analista">www.cebraspe.org.br/concursos/cd_26_analista</a>.</p>
+  <p>Mais em <a href="https://www.camara.leg.br/">Câmara dos Deputados</a> e
+     <a href="https://www.cebraspe.org.br/">Cebraspe</a> (mesmo domínio, ignorado).</p>
+  <a href="https://www.pciconcursos.com.br/noticias/outra">outra notícia</a>
+  <a href="https://t.me/share/url?url=x">Telegram</a>
+</article>
+<aside id="links"><ul>
+  <li class="pdf"><a href="javascript:void(0);" class="edital-pdf-link" data-link="1" title="EDITAL Nº 1">EDITAL Nº 1</a></li>
+  <li class="pdf"><a href="javascript:void(0);" class="edital-pdf-link" data-link="2" title="RETIFICAÇÃO Nº 1">RETIFICAÇÃO Nº 1</a></li>
+</ul></aside>
+"""
+
+
+def test_detalhes_da_noticia():
+    d = detalhes_noticia(NOTICIA)
+    assert d["editais"] == ["EDITAL Nº 1", "RETIFICAÇÃO Nº 1"]
+    assert [l["dominio"] for l in d["links_oficiais"]] == ["cebraspe.org.br", "camara.leg.br"]
+    assert d["links_oficiais"][0]["url"] == "https://www.cebraspe.org.br/concursos/cd_26_analista"
+
+
+def test_noticia_sem_editais():
+    assert detalhes_noticia("<article><p>texto</p></article>") == {"editais": [], "links_oficiais": []}

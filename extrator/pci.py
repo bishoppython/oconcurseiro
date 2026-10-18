@@ -95,3 +95,32 @@ def extrair(html):
             "fonte": "pci",
         })
     return concursos
+
+
+# links de compartilhamento e do próprio PCI não são "links oficiais"
+IGNORAR_DOMINIOS = ("pciconcursos.com.br", "pci.app.br", "t.me", "linkedin.com", "facebook.com", "x.com",
+                    "twitter.com", "whatsapp.com", "wa.me", "instagram.com", "youtube.com", "google.com")
+MAX_LINKS_OFICIAIS = 3
+
+
+def dominio(url):
+    return re.sub(r"^www\.", "", url.split("/")[2].lower()) if url.count("/") >= 2 else ""
+
+
+def detalhes_noticia(html):
+    """Da página da notícia: nomes dos editais (o PDF fica atrás de captcha, então não é baixado)
+    e links oficiais citados no texto (site da banca e do órgão)."""
+    soup = BeautifulSoup(html, "html.parser")
+    editais = [a.get("title") or a.get_text(strip=True) for a in soup.select("#links a.edital-pdf-link")]
+    links, vistos = [], set()
+    artigo = soup.find("article")
+    for a in artigo.find_all("a", href=True) if artigo else []:
+        url = a["href"].strip()
+        dom = dominio(url)
+        if not url.startswith("http") or not dom or dom in vistos:
+            continue
+        if any(dom == d or dom.endswith("." + d) for d in IGNORAR_DOMINIOS):
+            continue
+        vistos.add(dom)
+        links.append({"texto": a.get_text(strip=True), "url": url, "dominio": dom})
+    return {"editais": [e.strip() for e in editais if e.strip()], "links_oficiais": links[:MAX_LINKS_OFICIAIS]}

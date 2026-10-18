@@ -51,3 +51,33 @@ def test_conversoes():
     assert para_int("Várias") is None
     assert salario_max("ganhos de R$ 4.100,00 a R$ 9 mil") == 9000
     assert salario_max("sem salário") is None
+
+
+def test_detalhar_usa_cache_e_le_so_o_vencido(monkeypatch):
+    from datetime import date, timedelta
+
+    from extrator import concursos
+
+    monkeypatch.setattr(concursos.time, "sleep", lambda s: None)
+    hoje = date.today().isoformat()
+    velho = (date.today() - timedelta(days=10)).isoformat()
+    anteriores = [
+        {"link": "a", "detalhado_em": hoje, "editais": ["E1"], "links_oficiais": []},
+        {"link": "b", "detalhado_em": velho, "editais": ["antigo"], "links_oficiais": []},
+    ]
+    abertos = [{"link": "a"}, {"link": "b"}, {"link": "c"}]
+    lidos = []
+
+    class Resp:
+        text = '<aside id="links"><a class="edital-pdf-link" title="NOVO"></a></aside>'
+        def raise_for_status(self): pass
+
+    class Sessao:
+        def get(self, url, timeout):
+            lidos.append(url)
+            return Resp()
+
+    concursos.detalhar(abertos, anteriores, Sessao())
+    assert lidos == ["b", "c"]  # "a" está no cache e ainda vale
+    assert abertos[0]["editais"] == ["E1"]
+    assert abertos[1]["editais"] == ["NOVO"] and abertos[1]["detalhado_em"] == hoje

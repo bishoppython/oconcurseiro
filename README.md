@@ -9,6 +9,7 @@ Buscador de concursos públicos do Brasil. Um extrator em Python coleta os concu
 ## O que o portal faz
 
 - Prazo de inscrição em cada concurso, com contagem de dias (em vermelho quando faltam 7 dias ou menos)
+- Botões em cada card: notícia, **editais** (lista de PDFs da notícia) e **sites oficiais** (banca e órgão, onde o edital é publicado)
 - Busca por órgão, cargo ou cidade, sem diferenciar acentos (os termos encontrados ficam destacados)
 - Filtro por estado (os nacionais aparecem em todos), escolaridade e situação (abertos ou previstos)
 - Ordenação por inscrições terminando, mais vagas, maior salário ou previstos mais recentes
@@ -25,6 +26,8 @@ GitHub Actions (6h, 12h e 18h em Recife)
    │                           órgão, link, UF, vagas, salário, cargos, escolaridade e
    │                           prazo de inscrição ("17/11/2026", "07/11 a 23/11/2026",
    │                           "Prorrogado até…", "Suspenso")
+   │                           + página de cada notícia: nomes dos editais e links oficiais
+   │                             (só as novas ou lidas há mais de 3 dias; o resto vem do JSON anterior)
    │
    └─► extrator/concursos.py ─ PREVISTOS: concursosnobrasil.com/concursos/{uf}/ (28 páginas, 1 s entre elas)
                                só os marcados "previsto"; data tirada do link; repetidos viram um item só
@@ -38,7 +41,9 @@ docs/ (GitHub Pages) ── portal estático, filtra tudo no navegador
 
 **Por que duas fontes:** o PCI traz o prazo de inscrição e os detalhes de cada concurso aberto, mas a página de previstos dele é só uma lista de notícias. O ConcursosNoBrasil marca os previstos na mesma tabela dos abertos. Os abertos do ConcursosNoBrasil são descartados, porque os links diferem dos do PCI e a lista ficaria duplicada.
 
-**Concurso nacional:** no PCI, está na seção "Nacional". Nos previstos, aparece na página "br" ou em 5 estados ou mais (ex.: CGU, IBGE, INSS).
+**Editais:** no PCI, o link do PDF fica atrás de um captcha (Cloudflare Turnstile) e `/pdf/` é bloqueado no robots.txt. O extrator respeita isso: guarda só os nomes dos editais e manda o usuário para a lista da notícia (`#links`), além dos sites oficiais citados no texto (banca e órgão), onde o edital também é publicado.
+
+**Concurso nacional:** no PCI, está na seção "Nacional" e não cita nenhum estado no título ou no nome do órgão (a seção também traz federais regionais, como "Câmara dos Deputados - DF" e Distritos Navais da Marinha). Nos previstos, aparece na página "br" ou em 5 estados ou mais (ex.: CGU, IBGE, INSS).
 
 **Proteção contra falhas:** se o PCI falhar ou trouxer menos de 50 concursos (fonte fora do ar ou layout novo), o extrator encerra com erro e o JSON anterior continua publicado. Se o ConcursosNoBrasil falhar, os previstos da coleta anterior são mantidos.
 
@@ -67,7 +72,10 @@ docs/ (GitHub Pages) ── portal estático, filtra tudo no navegador
       "publicado": null,
       "nacional": false,
       "ufs": ["pe"],
-      "fonte": "pci"
+      "fonte": "pci",
+      "editais": ["EDITAL DE ABERTURA 002/2026", "PRIMEIRO TERMO DE RETIFICAÇÃO DO EDITAL DE ABERTURA 002/2026"],
+      "links_oficiais": [{ "texto": "www.institutoaocp.org.br", "url": "https://www.institutoaocp.org.br/", "dominio": "institutoaocp.org.br" }],
+      "detalhado_em": "2026-10-18"
     }
   ]
 }
@@ -75,7 +83,7 @@ docs/ (GitHub Pages) ── portal estático, filtra tudo no navegador
 
 - `status`: `aberto`, `suspenso` (PCI) ou `previsto` (ConcursosNoBrasil). O portal mostra como "Encerrado" um aberto cujo `inscricao_fim` já passou.
 - `vagas` é `null` quando a fonte diz "Várias" ou "Cadastro reserva" (texto em `vagas_texto`). `salario_max` é `null` quando não há valor.
-- `inscricao_*` e `cargos`/`escolaridade` só existem nos abertos (PCI); `publicado` (data da notícia) só nos previstos.
+- `inscricao_*`, `cargos`/`escolaridade`, `editais` e `links_oficiais` só existem nos abertos (PCI); `publicado` (data da notícia) só nos previstos.
 
 O JSON também serve como API pública: `https://bishoppython.github.io/oconcurseiro/data/concursos.json`.
 
@@ -93,7 +101,7 @@ cd docs && python3 -m http.server 8000        # portal em http://localhost:8000
 
 - Alertas no Telegram e no WhatsApp por estado e palavra-chave
 - Resumo por e-mail com os concursos novos da semana
-- Página de detalhe com banca, datas de prova e link direto para o edital
+- Página de detalhe com banca e datas de prova
 
 ## Créditos
 

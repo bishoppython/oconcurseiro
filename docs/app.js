@@ -77,6 +77,20 @@ function prazo(c) {
   return `<span class="prazo${dias <= URGENTE_DIAS ? " urgente" : ""}">📝 Inscrições até ${dataBR(c.inscricao_fim)} · ${falta}</span>`;
 }
 
+// o PDF do edital fica atrás de captcha no PCI: o botão leva à lista de editais da notícia,
+// e os links oficiais (banca, órgão) levam aonde o edital é publicado
+function acoes(c) {
+  const botoes = [`<a class="acao" href="${esc(c.link)}" target="_blank" rel="noopener">📰 Notícia</a>`];
+  const editais = c.editais || [];
+  if (editais.length) {
+    botoes.push(`<a class="acao principal" href="${esc(c.link)}#links" target="_blank" rel="noopener" title="${esc(editais.join("\n"))}">📄 ${editais.length === 1 ? "Edital" : `Editais (${editais.length})`}</a>`);
+  }
+  for (const l of c.links_oficiais || []) {
+    botoes.push(`<a class="acao" href="${esc(l.url)}" target="_blank" rel="noopener" title="${esc(l.texto)}">🌐 ${esc(l.dominio)}</a>`);
+  }
+  return `<div class="acoes">${botoes.join("")}</div>`;
+}
+
 function cartao(c, termos) {
   const ufs = c.nacional ? '<span class="uf">Nacional</span>'
     : c.ufs.map((u) => `<span class="uf">${u.toUpperCase()}</span>`).join(" ");
@@ -84,14 +98,15 @@ function cartao(c, termos) {
     : `<span><b>${esc(c.vagas_texto || "Várias")}</b>${c.vagas_texto === "Cadastro reserva" ? "" : " vagas"}</span>`;
   const salario = c.salario_max ? `<span>até <b>${reais(c.salario_max)}</b></span>` : "";
   const cargos = c.cargos ? `<p class="cargos">${destacar(c.cargos, termos)}${c.escolaridade ? ` <span>· ${esc(c.escolaridade)}</span>` : ""}</p>` : "";
-  return `<a class="card" href="${esc(c.link)}" target="_blank" rel="noopener">
-    <div class="card-top"><h2>${destacar(c.orgao, termos)}</h2>
+  return `<article class="card">
+    <div class="card-top"><h2><a href="${esc(c.link)}" target="_blank" rel="noopener">${destacar(c.orgao, termos)}</a></h2>
       <span class="badge ${c._situacao}">${ROTULO[c._situacao]}</span></div>
     <p>${destacar(c.titulo, termos)}</p>
     ${cargos}
     ${prazo(c)}
     <div class="facts">${ufs}${vagas}${salario}</div>
-  </a>`;
+    ${acoes(c)}
+  </article>`;
 }
 
 function render() {

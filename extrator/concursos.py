@@ -13,7 +13,7 @@ import json
 import re
 import sys
 import time
-from datetime import datetime, timezone
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
 import requests
@@ -27,6 +27,8 @@ USER_AGENT = "Mozilla/5.0 (compatible; oConcurseiro/1.0; +https://github.com/bis
 PAUSA_S = 1.0  # entre uma página e outra, para não sobrecarregar a fonte
 MIN_UFS_NACIONAL = 5  # listado em tantas UFs = nacional
 MIN_PCI = 50  # menos que isso = página do PCI fora do ar ou com layout novo
+DETALHES_VALIDADE_DIAS = 3  # notícia relida depois disso, para pegar retificações do edital
+MAX_DETALHES_POR_EXECUCAO = 600  # teto de notícias lidas por execução (a 1 s cada)
 
 
 RE_DATA = re.compile(r"/(\d{4})/(\d{2})/(\d{2})/")
@@ -135,12 +137,38 @@ def coletar_pci(sessao):
     return pci.extrair(r.text)
 
 
-def previstos_anteriores(saida):
+def carregar_anteriores(saida):
     try:
-        anterior = json.loads(saida.read_text(encoding="utf-8"))
+        return json.loads(saida.read_text(encoding="utf-8")).get("concursos", [])
     except (OSError, ValueError):
         return []
-    return [c for c in anterior.get("concursos", []) if c.get("status") == "previsto"]
+
+
+def detalhar(abertos, anteriores, sessao):
+    """Põe editais e links oficiais em cada aberto, lendo só as notícias novas ou vencidas."""
+    cache = {c["link"]: c for c in anteriores if c.get("detalhado_em")}
+    hoje = date.today().isoformat()
+    vencimento = (date.today() - timedelta(days=DETALHES_VALIDADE_DIAS)).isoformat()
+    lidas = falhas = 0
+    for c in abertos:
+        antigo = cache.get(c["link"])
+        if antigo:
+            c.update(editais=antigo.get("editais", []), links_oficiais=antigo.get("links_oficiais", []),
+                     detalhado_em=antigo["detalhado_em"])
+        else:
+            c.update(editais=[], links_oficiais=[])
+        if (antigo and antigo["detalhado_em"] >= vencimento) or lidas >= MAX_DETALHES_POR_EXECUCAO:
+            continue
+        lidas += 1
+        try:
+            r = sessao.get(c["link"], timeout=30)
+            r.raise_for_status()
+            c.update(pci.detalhes_noticia(r.text), detalhado_em=hoje)
+        except requests.RequestException as e:
+            falhas += 1  # fica com o que já havia; tenta de novo na próxima execução
+            print(f"notícia falhou: {c['link']} ({e})", file=sys.stderr)
+        time.sleep(PAUSA_S)
+    print(f"notícias lidas: {lidas} ({falhas} falharam); {len(abertos) - lidas} vieram do cache")
 
 
 def main():
@@ -156,10 +184,13 @@ def main():
         # fonte fora do ar ou mudou o layout: mantém o JSON anterior em vez de publicar quase vazio
         sys.exit(f"PCI trouxe só {len(abertos)} concursos; JSON anterior mantido")
 
+    anteriores = carregar_anteriores(saida)
+    detalhar(abertos, anteriores, sessao)
+
     cnb, falhas = coletar_cnb(sessao)
     previstos = [c for c in cnb if c["status"] == "previsto"]
     if len(falhas) > len(UFS) // 2 or not previstos:
-        previstos = previstos_anteriores(saida)
+        previstos = [c for c in anteriores if c.get("status") == "previsto"]
         print(f"ConcursosNoBrasil incompleto; mantidos {len(previstos)} previstos da coleta anterior")
 
     saida.parent.mkdir(parents=True, exist_ok=True)
