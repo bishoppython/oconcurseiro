@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-19T16:10:46+00:00",
+ "atualizado": "2026-10-20T00:06:32+00:00",
  "fontes": {
   "pci": "https://www.pciconcursos.com.br/concursos/",
   "cnb": "https://concursosnobrasil.com"
@@ -672,6 +672,49 @@
     "Medio",
     "Tecnico",
     "Superior",
+    "Legislativo"
+   ]
+  },
+  {
+   "orgao": "Câmara da Estância Turística de Ibiúna",
+   "titulo": "Câmara de Ibiúna - SP abre concurso público para Assistente Administrativo e Controlador Interno",
+   "link": "https://www.pciconcursos.com.br/noticias/camara-de-ibiuna-sp-abre-concurso-publico-para-assistente-administrativo-e-controlador-interno",
+   "vagas": 2,
+   "vagas_texto": "2",
+   "salario_max": 5570.09,
+   "cargos": "Assistente Administrativo, Controlador Interno",
+   "escolaridade": "Fundamental / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-16",
+   "inscricao_texto": "16/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sp"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 001/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Câmara Municipal da Estância Turística de Ibiúna",
+     "url": "https://www.ibiuna.sp.leg.br/",
+     "dominio": "ibiuna.sp.leg.br"
+    },
+    {
+     "texto": "abconcursospublicos.org",
+     "url": "https://abconcursospublicos.org/",
+     "dominio": "abconcursospublicos.org"
+    }
+   ],
+   "detalhado_em": "2026-10-20",
+   "tags": [
+    "SP",
+    "Fundamental",
+    "Superior",
+    "Administrativo",
     "Legislativo"
    ]
   },
@@ -1476,6 +1519,45 @@
     "SP",
     "Medio",
     "Temporario"
+   ]
+  },
+  {
+   "orgao": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
+   "titulo": "FUNCAMP - SP abre seleções para o Hospital de Clínicas e Hospital Estadual Sumaré",
+   "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-selecoes-para-o-hospital-de-clinicas-e-hospital-estadual-sumare",
+   "vagas": 2,
+   "vagas_texto": "2",
+   "salario_max": 4830.0,
+   "cargos": "Assistente Social, Jardineiro",
+   "escolaridade": "Fundamental / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-04",
+   "inscricao_texto": "04/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sp"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO FUNCAMP Nº 124/2026",
+    "EDITAL DE PROCESSO SELETIVO FUNCAMP Nº 125/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Fundação de Desenvolvimento da Unicamp (FUNCAMP)",
+     "url": "https://www.funcamp.unicamp.br/",
+     "dominio": "funcamp.unicamp.br"
+    }
+   ],
+   "detalhado_em": "2026-10-20",
+   "tags": [
+    "SP",
+    "Fundamental",
+    "Superior",
+    "Saude",
+    "Social"
    ]
   },
   {
@@ -2617,6 +2699,50 @@
    "tags": [
     "SP",
     "Medio",
+    "Educacao",
+    "Prefeitura",
+    "Temporario"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Itatinga",
+   "titulo": "Prefeitura de Itatinga - SP abre processo seletivo para a área da educação",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itatinga-sp-abre-processo-seletivo-para-a-area-da-educacao",
+   "vagas": 13,
+   "vagas_texto": "13",
+   "salario_max": 2558.75,
+   "cargos": "Auxiliar de Desenvolvimento Infantil, Professor de Educação Básica, Professor de Educação Especial",
+   "escolaridade": "Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-12",
+   "inscricao_texto": "12/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sp"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO Nº 002/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Prefeitura Municipal de Itatinga",
+     "url": "https://www.itatinga.sp.gov.br/",
+     "dominio": "itatinga.sp.gov.br"
+    },
+    {
+     "texto": "www.inepam.org.br",
+     "url": "https://www.inepam.org.br/",
+     "dominio": "inepam.org.br"
+    }
+   ],
+   "detalhado_em": "2026-10-20",
+   "tags": [
+    "SP",
+    "Medio",
+    "Superior",
     "Educacao",
     "Prefeitura",
     "Temporario"
@@ -4416,8 +4542,8 @@
   },
   {
    "orgao": "CBMERJ - Corpo de Bombeiros Militar do Estado do Rio de Janeiro",
-   "titulo": "CBMERJ - RJ abre processo seletivo para 1º tenente temporário",
-   "link": "https://www.pciconcursos.com.br/noticias/cbmerj-rj-abre-processo-seletivo-para-1-tenente-temporario",
+   "titulo": "CBMERJ - RJ retifica edital de processo seletivo para 1º tenente temporário",
+   "link": "https://www.pciconcursos.com.br/noticias/cbmerj-rj-retifica-edital-de-processo-seletivo-para-1-tenente-temporario",
    "vagas": 192,
    "vagas_texto": "192",
    "salario_max": 12279.71,
@@ -4434,7 +4560,9 @@
    ],
    "fonte": "pci",
    "editais": [
-    "EDITAL Nº 01/2026"
+    "EDITAL Nº 01/2026",
+    "PRIMEIRO TERMO DE RETIFICAÇÃO DO EDITAL DE ABERTURA Nº 01/2026",
+    "EDITAL RETIFICADO Nº 01/2026"
    ],
    "links_oficiais": [
     {
@@ -4448,7 +4576,7 @@
      "dominio": "institutoaocp.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-20",
    "tags": [
     "RJ",
     "Superior",
@@ -4540,6 +4668,42 @@
     "RJ",
     "Superior",
     "Saude"
+   ]
+  },
+  {
+   "orgao": "MOBI-Rio - Companhia Municipal de Transportes Coletivos",
+   "titulo": "MOBI-Rio - RJ abre processo seletivo com 30 vagas para motoristas de articulado",
+   "link": "https://www.pciconcursos.com.br/noticias/mobi-rio-rj-abre-processo-seletivo-com-30-vagas-para-motoristas-de-articulado",
+   "vagas": 30,
+   "vagas_texto": "30",
+   "salario_max": 4310.48,
+   "cargos": "Motorista de Articulado",
+   "escolaridade": "Fundamental",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-10-22",
+   "inscricao_texto": "22/10/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "rj"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL CMTC Nº 022/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Companhia Municipal de Transportes Coletivos (MOBI-Rio)",
+     "url": "https://mobi-rio.rio.br/processoseletivomobirio/",
+     "dominio": "mobi-rio.rio.br"
+    }
+   ],
+   "detalhado_em": "2026-10-20",
+   "tags": [
+    "RJ",
+    "Fundamental",
+    "Temporario"
    ]
   },
   {
@@ -4705,6 +4869,44 @@
    "tags": [
     "RJ",
     "Superior"
+   ]
+  },
+  {
+   "orgao": "UERJ - Universidade do Estado do Rio de Janeiro",
+   "titulo": "UERJ abre processo seletivo para médicos com salários de até R$ 8.000,00",
+   "link": "https://www.pciconcursos.com.br/noticias/uerj-abre-processo-seletivo-para-medicos-com-salarios-de-ate-8000",
+   "vagas": null,
+   "vagas_texto": "Cadastro reserva",
+   "salario_max": 8000.0,
+   "cargos": "Médico, Técnico de nível superior",
+   "escolaridade": "Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-03",
+   "inscricao_texto": "03/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "rj"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE ABERTURA - PROCESSO SELETIVO SIMPLIFICADO Nº 002/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "www.avalia.org.br",
+     "url": "https://www.avalia.org.br/",
+     "dominio": "avalia.org.br"
+    }
+   ],
+   "detalhado_em": "2026-10-20",
+   "tags": [
+    "RJ",
+    "Superior",
+    "Saude",
+    "Educacao",
+    "Temporario"
    ]
   },
   {
@@ -6142,6 +6344,45 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Araçuaí",
+   "titulo": "Prefeitura de Araçuaí - MG abre processo seletivo para diversos cargos",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-aracuai-mg-abre-processo-seletivo-para-diversos-cargos",
+   "vagas": 13,
+   "vagas_texto": "13",
+   "salario_max": 5122.14,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-11-09",
+   "inscricao_fim": "2026-11-12",
+   "inscricao_texto": "09 a 12/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "mg"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO SIMPLIFICADO Nº 003/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Prefeitura Municipal de Araçuaí",
+     "url": "https://www.aracuai.mg.gov.br/",
+     "dominio": "aracuai.mg.gov.br"
+    }
+   ],
+   "detalhado_em": "2026-10-20",
+   "tags": [
+    "MG",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
+  },
+  {
    "orgao": "Prefeitura de Baldim",
    "titulo": "Prefeitura de Baldim - MG abre concurso público para profissionais de saúde",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-baldim-mg-abre-concurso-publico-para-profissionais-de-saude",
@@ -6524,6 +6765,51 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Confins",
+   "titulo": "Prefeitura de Confins - MG abre processo seletivo com salários de até R$ 23.298,67",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-confins-mg-abre-processo-seletivo-com-salarios-de-ate-23298",
+   "vagas": 153,
+   "vagas_texto": "153",
+   "salario_max": 23298.67,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-10-21",
+   "inscricao_fim": "2026-11-05",
+   "inscricao_texto": "21/10 a 05/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "mg"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 02/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Município de Confins",
+     "url": "https://www.confins.mg.gov.br/",
+     "dominio": "confins.mg.gov.br"
+    },
+    {
+     "texto": "www.ibgpconcursos.com.br",
+     "url": "https://www.ibgpconcursos.com.br/",
+     "dominio": "ibgpconcursos.com.br"
+    }
+   ],
+   "detalhado_em": "2026-10-20",
+   "tags": [
+    "MG",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
+  },
+  {
    "orgao": "Prefeitura de Curvelo",
    "titulo": "Prefeitura de Curvelo - MG abre seleção para professores de educação física e guarda-vidas",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-curvelo-mg-abre-selecao-para-professores-de-educacao-fisica-e-guarda-vidas",
@@ -6642,6 +6928,50 @@
     "Fundamental",
     "Medio",
     "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Itaguara",
+   "titulo": "Prefeitura de Itaguara - MG abre processo seletivo para Agentes de Saúde e de Endemias",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itaguara-mg-abre-processo-seletivo-para-agentes-de-saude-e-de-endemias",
+   "vagas": 7,
+   "vagas_texto": "7",
+   "salario_max": 3242.0,
+   "cargos": "Agente Comunitário de Saúde, Agente de Combate às Endemias",
+   "escolaridade": "Ensino Médio",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-09",
+   "inscricao_texto": "09/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "mg"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 01/2026",
+    "ANEXO I"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Município de Itaguara",
+     "url": "https://www.itaguara.mg.gov.br/",
+     "dominio": "itaguara.mg.gov.br"
+    },
+    {
+     "texto": "IBGP",
+     "url": "https://www.ibgpconcursos.com.br/",
+     "dominio": "ibgpconcursos.com.br"
+    }
+   ],
+   "detalhado_em": "2026-10-20",
+   "tags": [
+    "MG",
+    "Medio",
+    "Saude",
     "Prefeitura",
     "Temporario"
    ]
@@ -7508,6 +7838,49 @@
     "Medio",
     "Tecnico",
     "Superior",
+    "Prefeitura"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de São João del-Rei",
+   "titulo": "Prefeitura de São João del-Rei - MG abre seleção para agentes comunitários de saúde",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-joao-del-rei-mg-abre-selecao-para-agentes-comunitarios-de-saude",
+   "vagas": 66,
+   "vagas_texto": "66",
+   "salario_max": 3242.0,
+   "cargos": "Agente Comunitário de Saúde",
+   "escolaridade": "Ensino Médio",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-12",
+   "inscricao_texto": "12/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "mg"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 01/2026",
+    "RETIFICAÇÃO Nº 01"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Município de São João del-Rei",
+     "url": "https://www.saojoaodelrei.mg.gov.br/",
+     "dominio": "saojoaodelrei.mg.gov.br"
+    },
+    {
+     "texto": "IBGP",
+     "url": "https://www.ibgpconcursos.com.br/",
+     "dominio": "ibgpconcursos.com.br"
+    }
+   ],
+   "detalhado_em": "2026-10-20",
+   "tags": [
+    "MG",
+    "Medio",
+    "Saude",
     "Prefeitura"
    ]
   },
@@ -8403,6 +8776,45 @@
    ]
   },
   {
+   "orgao": "Prefeitura da Serra",
+   "titulo": "Prefeitura da Serra - ES abre seleção para cadastro de reserva na saúde",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-da-serra-es-abre-selecao-para-cadastro-de-reserva-na-saude",
+   "vagas": null,
+   "vagas_texto": "Cadastro reserva",
+   "salario_max": 8237.84,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-10-22",
+   "inscricao_texto": "22/10/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "es"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 008/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Prefeitura Municipal da Serra",
+     "url": "https://selecao.serra.es.gov.br/",
+     "dominio": "selecao.serra.es.gov.br"
+    }
+   ],
+   "detalhado_em": "2026-10-20",
+   "tags": [
+    "ES",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Saude",
+    "Prefeitura"
+   ]
+  },
+  {
    "orgao": "Prefeitura de Irupi",
    "titulo": "Prefeitura de Irupi - ES abre seleção para Cuidador Escolar",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-irupi-es-abre-selecao-para-cuidador-escolar",
@@ -9251,6 +9663,50 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Ivaí",
+   "titulo": "Prefeitura de Ivaí - PR abre processo seletivo com salários de até R$ 4.464,64",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ivai-pr-abre-processo-seletivo-com-salarios-de-ate-4464",
+   "vagas": 8,
+   "vagas_texto": "8",
+   "salario_max": 4464.64,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-10-23",
+   "inscricao_fim": "2026-11-23",
+   "inscricao_texto": "23/10 a 23/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "pr"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 001/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Município de Ivaí",
+     "url": "https://www.ivai.pr.gov.br/",
+     "dominio": "ivai.pr.gov.br"
+    },
+    {
+     "texto": "www.objetivas.com.br",
+     "url": "https://www.objetivas.com.br/",
+     "dominio": "objetivas.com.br"
+    }
+   ],
+   "detalhado_em": "2026-10-20",
+   "tags": [
+    "PR",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
+  },
+  {
    "orgao": "Prefeitura de Lobato",
    "titulo": "Prefeitura de Lobato - PR abre processo seletivo com vagas imediatas e cadastro de reserva",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lobato-pr-abre-processo-seletivo-com-vagas-imediatas-e-cadastro-de-reserva",
@@ -9283,6 +9739,46 @@
    "tags": [
     "PR",
     "Fundamental",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Mallet",
+   "titulo": "Prefeitura de Mallet - PR abre processo seletivo com salários de até R$ 10.440,05",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mallet-pr-abre-processo-seletivo-com-salarios-de-ate-10440",
+   "vagas": 8,
+   "vagas_texto": "8",
+   "salario_max": 10440.05,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-10-20",
+   "inscricao_fim": "2026-10-26",
+   "inscricao_texto": "20 a 26/10/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "pr"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE ABERTURA Nº 001.005 PSS 005/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Prefeitura Municipal de Mallet",
+     "url": "https://mallet.pr.gov.br/",
+     "dominio": "mallet.pr.gov.br"
+    }
+   ],
+   "detalhado_em": "2026-10-20",
+   "tags": [
+    "PR",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
     "Superior",
     "Prefeitura",
     "Temporario"
@@ -9998,6 +10494,44 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Caibaté",
+   "titulo": "Prefeitura de Caibaté - RS abre processo seletivo para psicólogo da família",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-caibate-rs-abre-processo-seletivo-para-psicologo-da-familia",
+   "vagas": null,
+   "vagas_texto": "Cadastro reserva",
+   "salario_max": 6434.15,
+   "cargos": "Psicólogo da família",
+   "escolaridade": "Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-10-23",
+   "inscricao_texto": "23/10/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "rs"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 65/2026 - PROCESSO SELETIVO Nº 11/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Prefeitura Municipal de Caibaté",
+     "url": "https://www.caibate.rs.gov.br/",
+     "dominio": "caibate.rs.gov.br"
+    }
+   ],
+   "detalhado_em": "2026-10-20",
+   "tags": [
+    "RS",
+    "Superior",
+    "Saude",
+    "Prefeitura",
+    "Temporario"
+   ]
+  },
+  {
    "orgao": "Prefeitura de Campo Bom",
    "titulo": "Prefeitura de Campo Bom - RS abre processo seletivo para serviços gerais de construção civil",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-campo-bom-rs-abre-processo-seletivo-para-servicos-gerais-de-construcao-civil",
@@ -10208,6 +10742,45 @@
     "Tecnico",
     "Superior",
     "Prefeitura"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Coronel Bicaco",
+   "titulo": "Prefeitura de Coronel Bicaco - RS abre processos seletivos para diversas áreas",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-coronel-bicaco-rs-abre-processos-seletivos-para-diversas-areas",
+   "vagas": 12,
+   "vagas_texto": "12",
+   "salario_max": null,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-10-23",
+   "inscricao_texto": "23/10/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "rs"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 005/2026",
+    "EDITAL Nº 06/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Prefeitura Municipal de Coronel Bicaco",
+     "url": "https://coronelbicaco.atende.net/cidadao/",
+     "dominio": "coronelbicaco.atende.net"
+    }
+   ],
+   "detalhado_em": "2026-10-20",
+   "tags": [
+    "RS",
+    "Medio",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
    ]
   },
   {
@@ -11285,6 +11858,37 @@
    ]
   },
   {
+   "orgao": "UFSM - Universidade Federal de Santa Maria",
+   "titulo": "FAURGS e UFSM - RS abrem processo seletivo para o cargo de Químico",
+   "link": "https://www.pciconcursos.com.br/noticias/faurgs-e-ufsm-rs-abrem-processo-seletivo-para-o-cargo-de-quimico",
+   "vagas": 1,
+   "vagas_texto": "1",
+   "salario_max": 13778.5,
+   "cargos": "Químico",
+   "escolaridade": "Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-10-26",
+   "inscricao_texto": "26/10/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "rs"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 15/2026 UFSM"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-10-20",
+   "tags": [
+    "RS",
+    "Superior",
+    "Educacao",
+    "Temporario"
+   ]
+  },
+  {
    "orgao": "Câmara de Capinzal",
    "titulo": "Câmara de Capinzal - SC anuncia concurso público para cargos de nível superior",
    "link": "https://www.pciconcursos.com.br/noticias/camara-de-capinzal-sc-anuncia-concurso-publico-para-cargos-de-nivel-superior",
@@ -11633,6 +12237,47 @@
     "Medio",
     "Tecnico",
     "Superior"
+   ]
+  },
+  {
+   "orgao": "CIDEMA - Consórcio Intermunicipal de Desenvolvimento Econômico, Social e do Meio Ambiente",
+   "titulo": "CIDEMA - SC abre processo seletivo para Analista Técnico em Gestão Ambiental",
+   "link": "https://www.pciconcursos.com.br/noticias/cidema-sc-abre-processo-seletivo-para-analista-tecnico-em-gestao-ambiental",
+   "vagas": 1,
+   "vagas_texto": "1",
+   "salario_max": 6000.0,
+   "cargos": "Analista Técnico em Gestão Ambiental",
+   "escolaridade": "Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-10-21",
+   "inscricao_fim": "2026-11-04",
+   "inscricao_texto": "21/10 a 04/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE ABERTURA Nº 01.1/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Consórcio Intermunicipal de Desenvolvimento Econômico, Social e do Meio Ambiente (CIDEMA)",
+     "url": "https://cidema.sc.gov.br/",
+     "dominio": "cidema.sc.gov.br"
+    },
+    {
+     "texto": "www.fundacaofafipa.org.br",
+     "url": "https://www.fundacaofafipa.org.br/",
+     "dominio": "fundacaofafipa.org.br"
+    }
+   ],
+   "detalhado_em": "2026-10-20",
+   "tags": [
+    "SC",
+    "Superior",
+    "Temporario"
    ]
   },
   {
@@ -12011,6 +12656,79 @@
    ]
   },
   {
+   "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
+   "titulo": "FAHECE - SC abre seleção para Técnico Auxiliar de Regulação Médica no SAMU de Florianópolis",
+   "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-selecao-para-tecnico-auxiliar-de-regulacao-medica-no-samu-de-florianopolis",
+   "vagas": 1,
+   "vagas_texto": "1",
+   "salario_max": 2499.35,
+   "cargos": "Técnico Auxiliar de Regulação Médica",
+   "escolaridade": "Ensino Médio",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-10-21",
+   "inscricao_texto": "21/10/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO Nº 517/26"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "FAHECE",
+     "url": "https://www.fahece.org.br/",
+     "dominio": "fahece.org.br"
+    }
+   ],
+   "detalhado_em": "2026-10-20",
+   "tags": [
+    "SC",
+    "Medio",
+    "Saude"
+   ]
+  },
+  {
+   "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
+   "titulo": "FAHECE - SC anuncia processo seletivo para Analista Administrativo I em Joinville",
+   "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-processo-seletivo-para-analista-administrativo-i-em-joinville",
+   "vagas": 1,
+   "vagas_texto": "1",
+   "salario_max": 4752.55,
+   "cargos": "Analista Administrativo I",
+   "escolaridade": "Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-10-21",
+   "inscricao_texto": "21/10/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO Nº 523/26"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "FAHECE",
+     "url": "https://www.fahece.org.br/",
+     "dominio": "fahece.org.br"
+    }
+   ],
+   "detalhado_em": "2026-10-20",
+   "tags": [
+    "SC",
+    "Superior",
+    "Administrativo",
+    "Temporario"
+   ]
+  },
+  {
    "orgao": "FCC - Fundação Catarinense de Cultura",
    "titulo": "Fundação Catarinense de Cultura - SC abre processo seletivo para Analista Contador",
    "link": "https://www.pciconcursos.com.br/noticias/fundacao-catarinense-de-cultura-sc-abre-processo-seletivo-para-analista-contador",
@@ -12141,6 +12859,47 @@
    ]
   },
   {
+   "orgao": "IPREARROIO - Instituto de Previdência Social dos Servidores Públicos do Município de Arroio Trinta",
+   "titulo": "IPREARROIO - SC abre concurso público para o cargo de Agente Previdenciário",
+   "link": "https://www.pciconcursos.com.br/noticias/iprearroio-sc-abre-concurso-publico-para-o-cargo-de-agente-previdenciario",
+   "vagas": 1,
+   "vagas_texto": "1",
+   "salario_max": 5025.59,
+   "cargos": "Agente Previdenciário",
+   "escolaridade": "Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-10-20",
+   "inscricao_fim": "2026-11-18",
+   "inscricao_texto": "20/10 a 18/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 01/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Instituto de Previdência Social dos Servidores Públicos do Município de Arroio Trinta (IPREARROIO)",
+     "url": "https://arroiotrinta.sc.gov.br/",
+     "dominio": "arroiotrinta.sc.gov.br"
+    },
+    {
+     "texto": "Actio Assessoria",
+     "url": "https://portal.actio.srv.br/",
+     "dominio": "portal.actio.srv.br"
+    }
+   ],
+   "detalhado_em": "2026-10-20",
+   "tags": [
+    "SC",
+    "Superior",
+    "Prefeitura"
+   ]
+  },
+  {
    "orgao": "PGM - Procuradoria-Geral do Município de Blumenau",
    "titulo": "Prefeitura de Blumenau - SC abre seleção para o Programa de Residência Jurídica",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-blumenau-sc-abre-selecao-para-o-programa-de-residencia-juridica",
@@ -12224,6 +12983,48 @@
     "Tecnico",
     "Superior",
     "Prefeitura"
+   ]
+  },
+  {
+   "orgao": "PMSC - Polícia Militar de Santa Catarina",
+   "titulo": "PMSC abre concurso com 500 vagas para Soldados do Quadro de Praças Policial Militar",
+   "link": "https://www.pciconcursos.com.br/noticias/pmsc-abre-concurso-com-500-vagas-para-soldados-do-quadro-de-pracas-policial-militar",
+   "vagas": 500,
+   "vagas_texto": "500",
+   "salario_max": 8505.0,
+   "cargos": "Soldado do Quadro de Praças Policial Militar",
+   "escolaridade": "Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-10-26",
+   "inscricao_fim": "2026-11-16",
+   "inscricao_texto": "26/10 a 16/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE CONCURSO PÚBLICO Nº 002/CCP/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Polícia Militar de Santa Catarina (PMSC)",
+     "url": "https://www.pm.sc.gov.br/",
+     "dominio": "pm.sc.gov.br"
+    },
+    {
+     "texto": "www.institutoaocp.org.br",
+     "url": "https://www.institutoaocp.org.br/",
+     "dominio": "institutoaocp.org.br"
+    }
+   ],
+   "detalhado_em": "2026-10-20",
+   "tags": [
+    "SC",
+    "Superior",
+    "Policial",
+    "Militar"
    ]
   },
   {
@@ -13319,6 +14120,45 @@
     "Tecnico",
     "Superior",
     "Prefeitura"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Novo Horizonte",
+   "titulo": "Prefeitura de Novo Horizonte - SC abre processo seletivo com salários de até R$ 6.201,33",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-horizonte-sc-abre-processo-seletivo-com-salarios-de-ate-6201",
+   "vagas": 13,
+   "vagas_texto": "13",
+   "salario_max": 6201.33,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-10-30",
+   "inscricao_texto": "30/10/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL PROCESSO SELETIVO SIMPLIFICADO Nº 03/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Prefeitura Municipal de Novo Horizonte",
+     "url": "https://www.novohorizonte.sc.gov.br/",
+     "dominio": "novohorizonte.sc.gov.br"
+    }
+   ],
+   "detalhado_em": "2026-10-20",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
    ]
   },
   {
@@ -16475,8 +17315,8 @@
   },
   {
    "orgao": "SESA - Secretaria de Estado da Saúde do Amapá",
-   "titulo": "Governo do Estado do Amapá - AP retifica edital de concurso público",
-   "link": "https://www.pciconcursos.com.br/noticias/governo-do-estado-do-amapa-ap-retifica-edital-de-concurso-publico",
+   "titulo": "Governo do Estado do Amapá - AP prorroga inscrições para concurso público",
+   "link": "https://www.pciconcursos.com.br/noticias/governo-do-estado-do-amapa-ap-prorroga-inscricoes-para-concurso-publico",
    "vagas": 4208,
    "vagas_texto": "4208",
    "salario_max": 11116.42,
@@ -16498,16 +17338,17 @@
     "PRIMEIRO TERMO DE RETIFICAÇÃO DO EDITAL DE ABERTURA DO CONCURSO PÚBLICO Nº 001/2026",
     "SEGUNDO TERMO DE RETIFICAÇÃO DO EDITAL DE ABERTURA DO CONCURSO PÚBLICO Nº 001/2026",
     "TERCEIRO TERMO DE RETIFICAÇÃO DO EDITAL DE ABERTURA DO CONCURSO PÚBLICO Nº 001/2026",
-    "COMUNICADO OFICIAL - SOLICITAÇÃO DE DEVOLUÇÃO DA TAXA"
+    "COMUNICADO OFICIAL - SOLICITAÇÃO DE DEVOLUÇÃO DA TAXA",
+    "QUARTO TERMO DE RETIFICAÇÃO DO EDITAL DE ABERTURA DO CONCURSO PÚBLICO Nº 001/2026"
    ],
    "links_oficiais": [
     {
      "texto": "www.institutoaocp.org.br",
-     "url": "https://www.institutoaocp.org.br",
+     "url": "https://www.institutoaocp.org.br/",
      "dominio": "institutoaocp.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-20",
    "tags": [
     "AP",
     "Medio",
