@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-20T14:05:07+00:00",
+ "atualizado": "2026-10-20T18:54:04+00:00",
  "fontes": {
   "pci": "https://www.pciconcursos.com.br/concursos/",
   "cnb": "https://concursosnobrasil.com"
@@ -1679,6 +1679,41 @@
     "SP",
     "Superior",
     "Saude"
+   ]
+  },
+  {
+   "orgao": "IPA - Instituto de Pesquisas Ambientais",
+   "titulo": "IPA - SP abre concurso público para pesquisadores científicos",
+   "link": "https://www.pciconcursos.com.br/noticias/ipa-sp-abre-concurso-publico-para-pesquisadores-cientificos",
+   "vagas": 98,
+   "vagas_texto": "98",
+   "salario_max": 9052.47,
+   "cargos": "Pesquisador Científico I A",
+   "escolaridade": "Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-11-18",
+   "inscricao_fim": "2026-12-22",
+   "inscricao_texto": "18/11 a 22/12/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sp"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº : 01/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Fundação VUNESP",
+     "url": "https://www.vunesp.com.br/",
+     "dominio": "vunesp.com.br"
+    }
+   ],
+   "detalhado_em": "2026-10-20",
+   "tags": [
+    "SP",
+    "Superior"
    ]
   },
   {
@@ -7284,6 +7319,48 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Olímpio Noronha",
+   "titulo": "Prefeitura de Olímpio Noronha - MG abre processo seletivo para profissionais de nível superior",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-olimpio-noronha-mg-abre-processo-seletivo-para-profissionais-de-nivel-superior",
+   "vagas": 4,
+   "vagas_texto": "4",
+   "salario_max": 5396.57,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-10-21",
+   "inscricao_fim": "2026-11-03",
+   "inscricao_texto": "21/10 a 03/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "mg"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 01/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Município de Olímpio Noronha",
+     "url": "https://www.olimpionoronha.mg.gov.br/",
+     "dominio": "olimpionoronha.mg.gov.br"
+    },
+    {
+     "texto": "IBGP",
+     "url": "https://www.ibgpconcursos.com.br/",
+     "dominio": "ibgpconcursos.com.br"
+    }
+   ],
+   "detalhado_em": "2026-10-20",
+   "tags": [
+    "MG",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
+  },
+  {
    "orgao": "Prefeitura de Paiva",
    "titulo": "Prefeitura de Paiva - MG abre concurso público com salários de até R$ 11.715,84",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-paiva-mg-abre-concurso-publico-com-salarios-de-ate-11715",
@@ -8689,6 +8766,48 @@
     "ES",
     "Superior",
     "Saude"
+   ]
+  },
+  {
+   "orgao": "MGS - Minas Gerais Administração e Serviços S.A.",
+   "titulo": "MGS - ES abre processo seletivo com salários de até R$ 4.508,11",
+   "link": "https://www.pciconcursos.com.br/noticias/mgs-es-abre-processo-seletivo-com-salarios-de-ate-4508",
+   "vagas": null,
+   "vagas_texto": "Várias",
+   "salario_max": 4508.11,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-10-21",
+   "inscricao_fim": "2026-11-09",
+   "inscricao_texto": "21/10 a 09/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "es"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL MGS/ES Nº 06/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Minas Gerais Administração e Serviços S.A. (MGS)",
+     "url": "https://www.mgs.srv.br/",
+     "dominio": "mgs.srv.br"
+    },
+    {
+     "texto": "site do IBFC",
+     "url": "https://www.ibfc.org.br/",
+     "dominio": "ibfc.org.br"
+    }
+   ],
+   "detalhado_em": "2026-10-20",
+   "tags": [
+    "ES",
+    "Medio",
+    "Superior",
+    "Temporario"
    ]
   },
   {
@@ -10152,6 +10271,48 @@
     "Medio",
     "Superior",
     "Saude"
+   ]
+  },
+  {
+   "orgao": "HCPA - Hospital de Clínicas de Porto Alegre",
+   "titulo": "HCPA - RS abre processo seletivo para médicos",
+   "link": "https://www.pciconcursos.com.br/noticias/hcpa-rs-abre-processo-seletivo-para-medicos",
+   "vagas": null,
+   "vagas_texto": "Cadastro reserva",
+   "salario_max": 80.08,
+   "cargos": "Médico I",
+   "escolaridade": "Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-05",
+   "inscricao_texto": "05/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "rs"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 06/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Hospital de Clínicas de Porto Alegre (HCPA)",
+     "url": "https://www.hcpa.edu.br/venha-para-o-hcpa/processo-seletivo-publico",
+     "dominio": "hcpa.edu.br"
+    },
+    {
+     "texto": "site da FAURGS",
+     "url": "https://www.faurgs.com.br/concursos/",
+     "dominio": "faurgs.com.br"
+    }
+   ],
+   "detalhado_em": "2026-10-20",
+   "tags": [
+    "RS",
+    "Superior",
+    "Saude",
+    "Temporario"
    ]
   },
   {
@@ -15987,6 +16148,50 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Brasnorte",
+   "titulo": "Prefeitura de Brasnorte - MT abre concurso público para profissionais da educação",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-brasnorte-mt-abre-concurso-publico-para-profissionais-da-educacao",
+   "vagas": 28,
+   "vagas_texto": "28",
+   "salario_max": 5771.72,
+   "cargos": "Professor Classe B, Técnico Administrativo Educacional",
+   "escolaridade": "Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-10-27",
+   "inscricao_fim": "2026-11-26",
+   "inscricao_texto": "27/10 a 26/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "mt"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE CONCURSO PÚBLICO Nº 001/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Prefeitura Municipal de Brasnorte",
+     "url": "https://www.brasnorte.mt.gov.br/",
+     "dominio": "brasnorte.mt.gov.br"
+    },
+    {
+     "texto": "Instituto Atame",
+     "url": "https://institutoatame.org.br/",
+     "dominio": "institutoatame.org.br"
+    }
+   ],
+   "detalhado_em": "2026-10-20",
+   "tags": [
+    "MT",
+    "Medio",
+    "Superior",
+    "Educacao",
+    "Administrativo",
+    "Prefeitura"
+   ]
+  },
+  {
    "orgao": "Prefeitura de Colniza",
    "titulo": "Prefeitura de Colniza - MT abre processo seletivo para cadastro de reserva em várias áreas",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-colniza-mt-abre-processo-seletivo-para-cadastro-de-reserva-em-varias-areas",
@@ -16147,6 +16352,46 @@
     "MT",
     "Fundamental",
     "Medio",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Novo Horizonte do Norte",
+   "titulo": "Prefeitura de Novo Horizonte do Norte - MT abre processo seletivo com vagas imediatas e cadastro de reserva",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-horizonte-do-norte-mt-abre-processo-seletivo-com-vagas-imediatas-e-cadastro-de-reserva",
+   "vagas": 18,
+   "vagas_texto": "18",
+   "salario_max": 5709.69,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-06",
+   "inscricao_texto": "06/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "mt"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DO PROCESSO SELETIVO SIMPLIFICADO Nº 001/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Prefeitura Municipal de Novo Horizonte do Norte",
+     "url": "https://www.novohorizontedonorte.mt.gov.br/home",
+     "dominio": "novohorizontedonorte.mt.gov.br"
+    }
+   ],
+   "detalhado_em": "2026-10-20",
+   "tags": [
+    "MT",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
     "Superior",
     "Prefeitura",
     "Temporario"
@@ -16613,8 +16858,8 @@
   },
   {
    "orgao": "Polícia Civil",
-   "titulo": "SEAD - AP publica edital retificado de concurso para Delegado e Oficial Investigador de Polícia Civil",
-   "link": "https://www.pciconcursos.com.br/noticias/sead-ap-publica-edital-retificado-de-concurso-para-delegado-e-oficial-investigador-de-policia-civil",
+   "titulo": "SEAD - AP prorroga inscrições de concurso para Delegado e Oficial Investigador de Polícia Civil",
+   "link": "https://www.pciconcursos.com.br/noticias/sead-ap-prorroga-inscricoes-de-concurso-para-delegado-e-oficial-investigador-de-policia-civil",
    "vagas": 396,
    "vagas_texto": "396",
    "salario_max": 31439.06,
@@ -16623,7 +16868,7 @@
    "status": "aberto",
    "inscricao_inicio": null,
    "inscricao_fim": "2026-10-19",
-   "inscricao_texto": "19/10/2026",
+   "inscricao_texto": "Prorrogado até 19/10/2026",
    "publicado": null,
    "nacional": false,
    "ufs": [
@@ -16633,7 +16878,8 @@
    "editais": [
     "EDITAL Nº 001/2026",
     "EDITAL DE RETIFICAÇÃO",
-    "EDITAL RETIFICADO Nº 001/2026"
+    "EDITAL RETIFICADO Nº 001/2026",
+    "EDITAL DE RETIFICAÇÃO - CRONOGRAMA"
    ],
    "links_oficiais": [
     {
@@ -16647,7 +16893,7 @@
      "dominio": "cesgranrio.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-20",
    "tags": [
     "AP",
     "Superior",
@@ -18511,6 +18757,53 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Conceição",
+   "titulo": "Prefeitura de Conceição - PB reabre inscrições para concurso público",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-conceicao-pb-reabre-inscricoes-para-concurso-publico",
+   "vagas": 129,
+   "vagas_texto": "129",
+   "salario_max": 7000.0,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-08",
+   "inscricao_texto": "Reaberto até 08/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "pb"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 01/2026",
+    "EDITAL RETIFICADO Nº 01/2026",
+    "SUSPENSÃO",
+    "REABERTURA DAS INSCRIÇÃO"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Prefeitura de Conceição",
+     "url": "https://conceicao.pb.gov.br/",
+     "dominio": "conceicao.pb.gov.br"
+    },
+    {
+     "texto": "www.educapb.com.br",
+     "url": "https://www.educapb.com.br/",
+     "dominio": "educapb.com.br"
+    }
+   ],
+   "detalhado_em": "2026-10-20",
+   "tags": [
+    "PB",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
+  },
+  {
    "orgao": "Prefeitura de Cruz do Espírito Santo",
    "titulo": "Prefeitura de Cruz do Espírito Santo - PB prorroga inscrições de concurso público",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cruz-do-espirito-santo-pb-prorroga-inscricoes-de-concurso-publico",
@@ -18730,6 +19023,48 @@
     "Tecnico",
     "Superior",
     "Prefeitura"
+   ]
+  },
+  {
+   "orgao": "TJPB - Tribunal de Justiça do Estado da Paraíba",
+   "titulo": "TJPB abre concurso público para analistas judiciários",
+   "link": "https://www.pciconcursos.com.br/noticias/tjpb-abre-concurso-publico-para-analistas-judiciarios",
+   "vagas": 50,
+   "vagas_texto": "50",
+   "salario_max": 7526.14,
+   "cargos": "Analista Judiciário, Contabilidade",
+   "escolaridade": "Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-18",
+   "inscricao_texto": "18/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "pb"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 01/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Tribunal de Justiça do Estado da Paraíba (TJPB)",
+     "url": "https://www.tjpb.jus.br/",
+     "dominio": "tjpb.jus.br"
+    },
+    {
+     "texto": "site da Fundação Getulio Vargas (FGV)",
+     "url": "https://conhecimento.fgv.br/",
+     "dominio": "conhecimento.fgv.br"
+    }
+   ],
+   "detalhado_em": "2026-10-20",
+   "tags": [
+    "PB",
+    "Superior",
+    "Tribunais",
+    "Fiscal"
    ]
   },
   {
@@ -19273,6 +19608,50 @@
     }
    ],
    "detalhado_em": "2026-10-18",
+   "tags": [
+    "PI",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Monsenhor Gil",
+   "titulo": "Prefeitura de Monsenhor Gil - PI abre concurso público com salários de até R$ 8.000,00",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-monsenhor-gil-pi-abre-concurso-publico-com-salarios-de-ate-8000",
+   "vagas": 101,
+   "vagas_texto": "101",
+   "salario_max": 8000.0,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-23",
+   "inscricao_texto": "23/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "pi"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 01/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Prefeitura Municipal de Monsenhor Gil",
+     "url": "https://monsenhorgil.pi.gov.br/",
+     "dominio": "monsenhorgil.pi.gov.br"
+    },
+    {
+     "texto": "site do Instituto Legatus",
+     "url": "https://www.legatus.org.br/",
+     "dominio": "legatus.org.br"
+    }
+   ],
+   "detalhado_em": "2026-10-20",
    "tags": [
     "PI",
     "Fundamental",
