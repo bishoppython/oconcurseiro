@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-21T14:20:09+00:00",
+ "atualizado": "2026-10-21T19:06:18+00:00",
  "fontes": {
   "pci": "https://www.pciconcursos.com.br/concursos/",
   "cnb": "https://concursosnobrasil.com"
@@ -1701,6 +1701,79 @@
     "Superior",
     "Saude",
     "Social"
+   ]
+  },
+  {
+   "orgao": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
+   "titulo": "FUNCAMP - SP abre processo seletivo para Analista de Pesquisa Clínica Júnior no Hemocentro",
+   "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-analista-de-pesquisa-clinica-junior-no-hemocentro",
+   "vagas": 1,
+   "vagas_texto": "1",
+   "salario_max": 4526.93,
+   "cargos": "Analista de Pesquisa Clínica Júnior",
+   "escolaridade": "Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-06",
+   "inscricao_texto": "06/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sp"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO FUNCAMP Nº 126/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Fundação de Desenvolvimento da Unicamp (FUNCAMP)",
+     "url": "https://www.funcamp.unicamp.br/",
+     "dominio": "funcamp.unicamp.br"
+    }
+   ],
+   "detalhado_em": "2026-10-21",
+   "tags": [
+    "SP",
+    "Superior",
+    "Temporario"
+   ]
+  },
+  {
+   "orgao": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
+   "titulo": "FUNCAMP - SP abre processo seletivo para Instalador Hidráulico no Hospital Estadual Sumaré",
+   "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-instalador-hidraulico-no-hospital-estadual-sumare",
+   "vagas": 1,
+   "vagas_texto": "1",
+   "salario_max": 2543.79,
+   "cargos": "Instalador hidráulico",
+   "escolaridade": "Fundamental",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-06",
+   "inscricao_texto": "06/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sp"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO FUNCAMP Nº 127/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Fundação de Desenvolvimento da Unicamp (FUNCAMP)",
+     "url": "https://www.funcamp.unicamp.br/",
+     "dominio": "funcamp.unicamp.br"
+    }
+   ],
+   "detalhado_em": "2026-10-21",
+   "tags": [
+    "SP",
+    "Fundamental",
+    "Saude",
+    "Temporario"
    ]
   },
   {
@@ -5502,6 +5575,49 @@
    "tags": [
     "MG",
     "Medio",
+    "Legislativo"
+   ]
+  },
+  {
+   "orgao": "Câmara de Caxambu",
+   "titulo": "Câmara de Caxambu - MG abre concurso público para cinco vagas imediatas",
+   "link": "https://www.pciconcursos.com.br/noticias/camara-de-caxambu-mg-abre-concurso-publico-para-cinco-vagas-imediatas",
+   "vagas": 5,
+   "vagas_texto": "5",
+   "salario_max": 3457.85,
+   "cargos": "Agente Legislativo, Analista de Comunicação, Analista Contábil",
+   "escolaridade": "Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-12-28",
+   "inscricao_fim": "2027-01-28",
+   "inscricao_texto": "28/12/2026 a 28/01/2027",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "mg"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 1"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Câmara Municipal de Caxambu",
+     "url": "https://camaracaxambu.mg.gov.br/v2/",
+     "dominio": "camaracaxambu.mg.gov.br"
+    },
+    {
+     "texto": "www.institutoconsulplan.org.br",
+     "url": "https://www.institutoconsulplan.org.br/",
+     "dominio": "institutoconsulplan.org.br"
+    }
+   ],
+   "detalhado_em": "2026-10-21",
+   "tags": [
+    "MG",
+    "Medio",
+    "Superior",
+    "Fiscal",
     "Legislativo"
    ]
   },
@@ -9768,6 +9884,49 @@
     "Superior",
     "Prefeitura",
     "Temporario"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Quedas do Iguaçu",
+   "titulo": "Prefeitura de Quedas do Iguaçu - PR abre concurso público com salários de até R$ 11.998,88",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-quedas-do-iguacu-pr-abre-concurso-publico-com-salarios-de-ate-11998",
+   "vagas": 140,
+   "vagas_texto": "140",
+   "salario_max": 11998.88,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-10-24",
+   "inscricao_fim": "2026-11-25",
+   "inscricao_texto": "24/10 a 25/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "pr"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 030/2026 - CONCURSO PÚBLICO Nº 001/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Prefeitura Municipal de Quedas do Iguaçu",
+     "url": "https://quedasdoiguacu.pr.gov.br/",
+     "dominio": "quedasdoiguacu.pr.gov.br"
+    },
+    {
+     "texto": "site da Universidade Estadual do Oeste do Paraná (Unioeste)",
+     "url": "https://concursos.unioeste.br/",
+     "dominio": "concursos.unioeste.br"
+    }
+   ],
+   "detalhado_em": "2026-10-21",
+   "tags": [
+    "PR",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
    ]
   },
   {
@@ -15675,6 +15834,51 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Aral Moreira",
+   "titulo": "Prefeitura de Aral Moreira - MS abre concurso público para diversos níveis de escolaridade",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-aral-moreira-ms-abre-concurso-publico-para-diversos-niveis-de-escolaridade",
+   "vagas": 174,
+   "vagas_texto": "174",
+   "salario_max": 4318.18,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-10-22",
+   "inscricao_fim": "2026-11-04",
+   "inscricao_texto": "22/10 a 04/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "ms"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE ABERTURA DO CONCURSO PÚBLICO Nº 01/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Prefeitura Municipal de Aral Moreira",
+     "url": "https://www.aralmoreira.ms.gov.br/",
+     "dominio": "aralmoreira.ms.gov.br"
+    },
+    {
+     "texto": "portal.imperioconcursos.com.br",
+     "url": "https://portal.imperioconcursos.com.br/",
+     "dominio": "portal.imperioconcursos.com.br"
+    }
+   ],
+   "detalhado_em": "2026-10-21",
+   "tags": [
+    "MS",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Educacao",
+    "Prefeitura"
+   ]
+  },
+  {
    "orgao": "Prefeitura de Guia Lopes da Laguna",
    "titulo": "Prefeitura de Guia Lopes da Laguna - MS abre seleções para Motorista, Gari e Auxiliar de Serviços Diversos",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guia-lopes-da-laguna-ms-abre-selecoes-para-motorista-gari-e-auxiliar-de-servicos-diversos",
@@ -16040,6 +16244,50 @@
     }
    ],
    "detalhado_em": "2026-10-18",
+   "tags": [
+    "MT",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Nobres",
+   "titulo": "Prefeitura de Nobres - MT abre processo seletivo para formação de cadastro de reserva",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nobres-mt-abre-processo-seletivo-para-formacao-de-cadastro-de-reserva",
+   "vagas": null,
+   "vagas_texto": "Cadastro reserva",
+   "salario_max": 6397.65,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-09",
+   "inscricao_texto": "09/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "mt"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "NOBRES 1 PS"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Prefeitura Municipal de Nobres",
+     "url": "https://www.nobres.mt.gov.br/",
+     "dominio": "nobres.mt.gov.br"
+    },
+    {
+     "texto": "Instituto Selecon",
+     "url": "https://selecon.org.br/",
+     "dominio": "selecon.org.br"
+    }
+   ],
+   "detalhado_em": "2026-10-21",
    "tags": [
     "MT",
     "Fundamental",
@@ -16945,6 +17193,43 @@
     "Medio",
     "Tecnico",
     "Superior",
+    "Prefeitura"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Novo Repartimento",
+   "titulo": "Prefeitura de Novo Repartimento - PA abre seleção para técnico em enfermagem",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-repartimento-pa-abre-selecao-para-tecnico-em-enfermagem",
+   "vagas": 1,
+   "vagas_texto": "1",
+   "salario_max": 2494.94,
+   "cargos": "Técnico em Enfermagem",
+   "escolaridade": "Ensino Técnico",
+   "status": "aberto",
+   "inscricao_inicio": "2026-10-22",
+   "inscricao_fim": "2026-10-26",
+   "inscricao_texto": "22 a 26/10/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "pa"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO SIMPLIFICADO N. 008"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Prefeitura Municipal de Novo Repartimento",
+     "url": "https://www.novorepartimento.pa.gov.br/web/pag_trans.php?pg=concursos/list&secao=abertos",
+     "dominio": "novorepartimento.pa.gov.br"
+    }
+   ],
+   "detalhado_em": "2026-10-21",
+   "tags": [
+    "PA",
+    "Tecnico",
+    "Saude",
     "Prefeitura"
    ]
   },
@@ -18582,6 +18867,50 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Serra Grande",
+   "titulo": "Prefeitura de Serra Grande - PB abre concurso público com vagas para diversos cargos",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-serra-grande-pb-abre-concurso-publico-com-vagas-para-diversos-cargos",
+   "vagas": 41,
+   "vagas_texto": "41",
+   "salario_max": 3651.0,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-10-29",
+   "inscricao_fim": "2026-11-29",
+   "inscricao_texto": "29/10 a 29/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "pb"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL NORMATIVO DE CONCURSO PÚBLICO Nº 001/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Prefeitura Municipal de Serra Grande",
+     "url": "https://serragrande.pb.gov.br/",
+     "dominio": "serragrande.pb.gov.br"
+    },
+    {
+     "texto": "área do candidato",
+     "url": "https://sistemas.cpcon.uepb.edu.br/sigeps-app/login",
+     "dominio": "sistemas.cpcon.uepb.edu.br"
+    }
+   ],
+   "detalhado_em": "2026-10-21",
+   "tags": [
+    "PB",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
+  },
+  {
    "orgao": "TJPB - Tribunal de Justiça do Estado da Paraíba",
    "titulo": "TJPB abre concurso público para analistas judiciários",
    "link": "https://www.pciconcursos.com.br/noticias/tjpb-abre-concurso-publico-para-analistas-judiciarios",
@@ -19040,6 +19369,48 @@
     "Superior",
     "Educacao",
     "Juridico"
+   ]
+  },
+  {
+   "orgao": "Câmara de Dom Inocêncio",
+   "titulo": "Câmara de Dom Inocêncio - PI abre concurso público com salários de até R$ 6.000,00",
+   "link": "https://www.pciconcursos.com.br/noticias/camara-de-dom-inocencio-pi-abre-concurso-publico-com-salarios-de-ate-6000",
+   "vagas": 6,
+   "vagas_texto": "6",
+   "salario_max": 6000.0,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-10-22",
+   "inscricao_fim": "2026-11-13",
+   "inscricao_texto": "22/10 a 13/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "pi"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "CAM DOM INOCENCIO 1 CP"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Câmara Municipal de Dom Inocêncio",
+     "url": "https://dominocencio.pi.leg.br/",
+     "dominio": "dominocencio.pi.leg.br"
+    },
+    {
+     "texto": "www.gabrielexcelencia.net.br",
+     "url": "https://www.gabrielexcelencia.net.br/",
+     "dominio": "gabrielexcelencia.net.br"
+    }
+   ],
+   "detalhado_em": "2026-10-21",
+   "tags": [
+    "PI",
+    "Medio",
+    "Superior",
+    "Legislativo"
    ]
   },
   {
