@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-21T19:06:18+00:00",
+ "atualizado": "2026-10-21T23:54:08+00:00",
  "fontes": {
   "pci": "https://www.pciconcursos.com.br/concursos/",
   "cnb": "https://concursosnobrasil.com"
@@ -1402,6 +1402,53 @@
    ]
   },
   {
+   "orgao": "FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar",
+   "titulo": "FAMESP divulga 10 processos seletivos em Marília - SP",
+   "link": "https://www.pciconcursos.com.br/noticias/famesp-divulga-10-processos-seletivos-em-marilia-sp",
+   "vagas": 10,
+   "vagas_texto": "10",
+   "salario_max": 6077.09,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-10-27",
+   "inscricao_fim": "2026-11-05",
+   "inscricao_texto": "27/10 a 05/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sp"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 297/2026",
+    "EDITAL Nº 298/2026",
+    "EDITAL Nº 299/2026",
+    "EDITAL Nº 300/2026",
+    "EDITAL Nº 301/2026",
+    "EDITAL Nº 302/2026",
+    "EDITAL Nº 303/2026",
+    "EDITAL Nº 304/2026",
+    "EDITAL Nº 305/2026",
+    "EDITAL Nº 306/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Fundação para o Desenvolvimento Médico e Hospitalar (FAMESP)",
+     "url": "https://www.famesp.org.br/",
+     "dominio": "famesp.org.br"
+    }
+   ],
+   "detalhado_em": "2026-10-21",
+   "tags": [
+    "SP",
+    "Medio",
+    "Superior",
+    "Saude",
+    "Temporario"
+   ]
+  },
+  {
    "orgao": "FJPO - Fundação José Pedro de Oliveira",
    "titulo": "Fundação José Pedro de Oliveira - SP abre concurso público com salários de até R$ 8.991,96",
    "link": "https://www.pciconcursos.com.br/noticias/fundacao-jose-pedro-de-oliveira-sp-abre-concurso-publico-com-salarios-de-ate-8991",
@@ -2302,6 +2349,50 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Birigui",
+   "titulo": "Prefeitura de Birigui - SP abre concurso público com salários de até R$ 13.881,85",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-birigui-sp-abre-concurso-publico-com-salarios-de-ate-13881",
+   "vagas": 171,
+   "vagas_texto": "171",
+   "salario_max": 13881.85,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-10-22",
+   "inscricao_fim": "2026-12-10",
+   "inscricao_texto": "22/10 a 10/12/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sp"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 220/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Prefeitura Municipal de Birigui",
+     "url": "https://www.birigui.sp.gov.br/birigui/home.php",
+     "dominio": "birigui.sp.gov.br"
+    },
+    {
+     "texto": "Instituto ACCESS",
+     "url": "https://www.access.org.br/",
+     "dominio": "access.org.br"
+    }
+   ],
+   "detalhado_em": "2026-10-21",
+   "tags": [
+    "SP",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
+  },
+  {
    "orgao": "Prefeitura de Buritizal",
    "titulo": "Prefeitura de Buritizal - SP abre processo seletivo para a área da educação",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-buritizal-sp-abre-processo-seletivo-para-a-area-da-educacao",
@@ -2385,6 +2476,50 @@
     "Medio",
     "Policial",
     "Prefeitura"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Canitar",
+   "titulo": "Prefeitura de Canitar - SP abre processo seletivo para a área da educação",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-canitar-sp-abre-processo-seletivo-para-a-area-da-educacao",
+   "vagas": null,
+   "vagas_texto": "Cadastro reserva",
+   "salario_max": 1621.0,
+   "cargos": "Profissional de Apoio Escolar, PEB I, PEB II",
+   "escolaridade": "Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-10-23",
+   "inscricao_fim": "2026-11-18",
+   "inscricao_texto": "23/10 a 18/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sp"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO Nº 001/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Prefeitura Municipal de Canitar",
+     "url": "https://www.canitar.sp.gov.br/",
+     "dominio": "canitar.sp.gov.br"
+    },
+    {
+     "texto": "www.inepam.org.br",
+     "url": "https://www.inepam.org.br/",
+     "dominio": "inepam.org.br"
+    }
+   ],
+   "detalhado_em": "2026-10-21",
+   "tags": [
+    "SP",
+    "Medio",
+    "Superior",
+    "Educacao",
+    "Prefeitura",
+    "Temporario"
    ]
   },
   {
@@ -7443,6 +7578,43 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Nova Era",
+   "titulo": "Prefeitura de Nova Era - MG abre processo seletivo para Auxiliar de Serviços Gerais",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-era-mg-abre-processo-seletivo-para-auxiliar-de-servicos-gerais",
+   "vagas": 5,
+   "vagas_texto": "5",
+   "salario_max": 1672.53,
+   "cargos": "Auxiliar de Serviços Gerais",
+   "escolaridade": "Fundamental",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-10-25",
+   "inscricao_texto": "25/10/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "mg"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 51/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Prefeitura Municipal de Nova Era",
+     "url": "https://www.novaera.mg.gov.br/",
+     "dominio": "novaera.mg.gov.br"
+    }
+   ],
+   "detalhado_em": "2026-10-21",
+   "tags": [
+    "MG",
+    "Fundamental",
+    "Prefeitura",
+    "Temporario"
+   ]
+  },
+  {
    "orgao": "Prefeitura de Olímpio Noronha",
    "titulo": "Prefeitura de Olímpio Noronha - MG abre processo seletivo para profissionais de nível superior",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-olimpio-noronha-mg-abre-processo-seletivo-para-profissionais-de-nivel-superior",
@@ -8341,8 +8513,8 @@
   },
   {
    "orgao": "Prefeitura de São Vicente de Minas",
-   "titulo": "Prefeitura de São Vicente de Minas - MG abre concurso público com salários de até R$ 15.142,28",
-   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-vicente-de-minas-mg-abre-concurso-publico-com-salarios-de-ate-15142",
+   "titulo": "Prefeitura de São Vicente de Minas - MG retifica edital de concurso público",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-vicente-de-minas-mg-retifica-edital-de-concurso-publico",
    "vagas": 35,
    "vagas_texto": "35",
    "salario_max": 15142.28,
@@ -8359,7 +8531,9 @@
    ],
    "fonte": "pci",
    "editais": [
-    "EDITAL Nº 01/2026"
+    "EDITAL Nº 01/2026",
+    "RETIFICAÇÃO I AO EDITAL Nº 1/2026",
+    "EDITAL RETIFICADO Nº 01/2026"
    ],
    "links_oficiais": [
     {
@@ -8368,7 +8542,7 @@
      "dominio": "access.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-21",
    "tags": [
     "MG",
     "Fundamental",
@@ -9639,6 +9813,49 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Balsa Nova",
+   "titulo": "Prefeitura de Balsa Nova - PR abre processo seletivo para o cargo de Pedagogo",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-balsa-nova-pr-abre-processo-seletivo-para-o-cargo-de-pedagogo",
+   "vagas": 1,
+   "vagas_texto": "1",
+   "salario_max": 5677.08,
+   "cargos": "Trabalhador da Educação - Pedagogo",
+   "escolaridade": "Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-04",
+   "inscricao_texto": "04/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "pr"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "BALSA NOVA 18 PS"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Prefeitura Municipal de Balsa Nova",
+     "url": "https://www.balsanova.pr.gov.br/",
+     "dominio": "balsanova.pr.gov.br"
+    },
+    {
+     "texto": "protocolo eletrônico do município",
+     "url": "https://balsanova.oxy.elotech.com.br/protocolo/1/aberturaProcessoExterno",
+     "dominio": "balsanova.oxy.elotech.com.br"
+    }
+   ],
+   "detalhado_em": "2026-10-21",
+   "tags": [
+    "PR",
+    "Superior",
+    "Educacao",
+    "Prefeitura",
+    "Temporario"
+   ]
+  },
+  {
    "orgao": "Prefeitura de Boa Vista da Aparecida",
    "titulo": "Prefeitura de Boa Vista da Aparecida - PR abre processo seletivo para Assistente Social e Mãe Social",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-boa-vista-da-aparecida-pr-abre-processo-seletivo-para-assistente-social-e-mae-social",
@@ -10556,6 +10773,45 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Bom Retiro do Sul",
+   "titulo": "Prefeitura de Bom Retiro do Sul - RS abre processo seletivo com salários de até R$ 4.433,75",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bom-retiro-do-sul-rs-abre-processo-seletivo-com-salarios-de-ate-4433",
+   "vagas": null,
+   "vagas_texto": "Cadastro reserva",
+   "salario_max": 4433.75,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-10-29",
+   "inscricao_texto": "29/10/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "rs"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 062/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Município de Bom Retiro do Sul",
+     "url": "https://bomretirodosul.rs.gov.br/portal/rh",
+     "dominio": "bomretirodosul.rs.gov.br"
+    }
+   ],
+   "detalhado_em": "2026-10-21",
+   "tags": [
+    "RS",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
+  },
+  {
    "orgao": "Prefeitura de Caibaté",
    "titulo": "Prefeitura de Caibaté - RS abre processo seletivo para psicólogo da família",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-caibate-rs-abre-processo-seletivo-para-psicologo-da-familia",
@@ -10929,6 +11185,45 @@
     "Fundamental",
     "Medio",
     "Prefeitura"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Imbé",
+   "titulo": "Prefeitura de Imbé - RS abre processo seletivo para formação de cadastro reserva em diversos cargos",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-imbe-rs-abre-processo-seletivo-para-formacao-de-cadastro-reserva-em-diversos-cargos",
+   "vagas": null,
+   "vagas_texto": "Cadastro reserva",
+   "salario_max": 2112.5,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-10-23",
+   "inscricao_fim": "2026-10-29",
+   "inscricao_texto": "23 a 29/10/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "rs"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 409/2026 - PSS 008/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Prefeitura Municipal de Imbé",
+     "url": "https://www.imbe.rs.gov.br/",
+     "dominio": "imbe.rs.gov.br"
+    }
+   ],
+   "detalhado_em": "2026-10-21",
+   "tags": [
+    "RS",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
    ]
   },
   {
@@ -11595,6 +11890,42 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Taquari",
+   "titulo": "Prefeitura de Taquari - RS abre seleção para motoristas",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-taquari-rs-abre-selecao-para-motoristas",
+   "vagas": 3,
+   "vagas_texto": "3",
+   "salario_max": 2657.14,
+   "cargos": "Motorista",
+   "escolaridade": "Fundamental",
+   "status": "aberto",
+   "inscricao_inicio": "2026-10-26",
+   "inscricao_fim": "2026-10-28",
+   "inscricao_texto": "26 a 28/10/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "rs"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO SIMPLIFICADO 013/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Município de Taquari",
+     "url": "https://www.taquari.rs.gov.br/concurso/id/202/?processo-seletivo.html",
+     "dominio": "taquari.rs.gov.br"
+    }
+   ],
+   "detalhado_em": "2026-10-21",
+   "tags": [
+    "RS",
+    "Fundamental",
+    "Prefeitura"
+   ]
+  },
+  {
    "orgao": "Prefeitura de Tio Hugo",
    "titulo": "Prefeitura de Tio Hugo - RS abre concurso com vagas imediatas e cadastro de reserva",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tio-hugo-rs-abre-concurso-com-vagas-imediatas-e-cadastro-de-reserva",
@@ -12048,6 +12379,44 @@
     "SC",
     "Superior",
     "Juridico",
+    "Legislativo",
+    "Temporario"
+   ]
+  },
+  {
+   "orgao": "Câmara de Vereadores de Santiago do Sul",
+   "titulo": "Câmara de Santiago do Sul - SC abre processo seletivo para auxiliar administrativo",
+   "link": "https://www.pciconcursos.com.br/noticias/camara-de-santiago-do-sul-sc-abre-processo-seletivo-para-auxiliar-administrativo",
+   "vagas": 1,
+   "vagas_texto": "1",
+   "salario_max": 2000.0,
+   "cargos": "Auxiliar Administrativo",
+   "escolaridade": "Ensino Médio",
+   "status": "aberto",
+   "inscricao_inicio": "2026-10-22",
+   "inscricao_fim": "2026-11-08",
+   "inscricao_texto": "22/10 a 08/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO SIMPLIFICADO Nº 02/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Câmara Municipal de Vereadores de Santiago do Sul",
+     "url": "https://www.santiagodosul.sc.leg.br/",
+     "dominio": "santiagodosul.sc.leg.br"
+    }
+   ],
+   "detalhado_em": "2026-10-21",
+   "tags": [
+    "SC",
+    "Medio",
+    "Administrativo",
     "Legislativo",
     "Temporario"
    ]
@@ -18601,6 +18970,49 @@
    ]
   },
   {
+   "orgao": "Câmara de Areia",
+   "titulo": "Câmara de Areia - PB abre concurso para Auxiliar de Serviços Gerais e Auxiliar Administrativo",
+   "link": "https://www.pciconcursos.com.br/noticias/camara-de-areia-pb-abre-concurso-para-auxiliar-de-servicos-gerais-e-auxiliar-administrativo",
+   "vagas": 4,
+   "vagas_texto": "4",
+   "salario_max": 1621.0,
+   "cargos": "Auxiliar de Serviços Gerais, Auxiliar Administrativo",
+   "escolaridade": "Fundamental / Médio",
+   "status": "aberto",
+   "inscricao_inicio": "2026-10-29",
+   "inscricao_fim": "2026-11-29",
+   "inscricao_texto": "29/10 a 29/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "pb"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL NORMATIVO DE CONCURSO PÚBLICO Nº 001/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Câmara Municipal de Areia",
+     "url": "https://camaraareia.pb.gov.br/",
+     "dominio": "camaraareia.pb.gov.br"
+    },
+    {
+     "texto": "área do candidato do SIGEPS",
+     "url": "https://sistemas.cpcon.uepb.edu.br/sigeps-app/login",
+     "dominio": "sistemas.cpcon.uepb.edu.br"
+    }
+   ],
+   "detalhado_em": "2026-10-21",
+   "tags": [
+    "PB",
+    "Fundamental",
+    "Medio",
+    "Administrativo",
+    "Legislativo"
+   ]
+  },
+  {
    "orgao": "Câmara de Guarabira",
    "titulo": "Câmara de Guarabira - PB abre concurso público com salários de até R$ 3.354,70",
    "link": "https://www.pciconcursos.com.br/noticias/camara-de-guarabira-pb-abre-concurso-publico-com-salarios-de-ate-3354",
@@ -19414,6 +19826,49 @@
    ]
   },
   {
+   "orgao": "Câmara de Joca Marques",
+   "titulo": "Câmara de Joca Marques - PI abre concurso público com oito vagas imediatas",
+   "link": "https://www.pciconcursos.com.br/noticias/camara-de-joca-marques-pi-abre-concurso-publico-com-oito-vagas-imediatas",
+   "vagas": 8,
+   "vagas_texto": "8",
+   "salario_max": 3800.0,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-16",
+   "inscricao_texto": "16/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "pi"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 01/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Câmara Municipal de Joca Marques",
+     "url": "https://jocamarques.pi.leg.br/",
+     "dominio": "jocamarques.pi.leg.br"
+    },
+    {
+     "texto": "Instituto Legatus",
+     "url": "https://www.legatus.org.br/",
+     "dominio": "legatus.org.br"
+    }
+   ],
+   "detalhado_em": "2026-10-21",
+   "tags": [
+    "PI",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Legislativo"
+   ]
+  },
+  {
    "orgao": "Prefeitura de Bela Vista do Piauí",
    "titulo": "Prefeitura de Bela Vista do Piauí - PI abre concurso público para diversos cargos",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bela-vista-do-piaui-pi-abre-concurso-publico-para-diversos-cargos",
@@ -19717,6 +20172,52 @@
     "Tecnico",
     "Superior",
     "Prefeitura"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de São João do Piauí",
+   "titulo": "Prefeitura de São João do Piauí - PI abre processos seletivos com salários de até R$ 16.800,00",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-joao-do-piaui-pi-abre-processos-seletivos-com-salarios-de-ate-16800",
+   "vagas": 590,
+   "vagas_texto": "590",
+   "salario_max": 16800.0,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-09",
+   "inscricao_texto": "09/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "pi"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 003/2026",
+    "EDITAL Nº 004/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Prefeitura Municipal de São João do Piauí",
+     "url": "https://www.saojoaodopiaui.pi.gov.br/",
+     "dominio": "saojoaodopiaui.pi.gov.br"
+    },
+    {
+     "texto": "site do Instituto CONSULPAM",
+     "url": "https://www.consulpam.com.br/",
+     "dominio": "consulpam.com.br"
+    }
+   ],
+   "detalhado_em": "2026-10-21",
+   "tags": [
+    "PI",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
    ]
   },
   {
