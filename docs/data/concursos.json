@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-22T19:02:58+00:00",
+ "atualizado": "2026-10-22T23:52:46+00:00",
  "fontes": {
   "pci": "https://www.pciconcursos.com.br/concursos/",
   "cnb": "https://concursosnobrasil.com"
@@ -3036,8 +3036,8 @@
   },
   {
    "orgao": "Prefeitura de Itatiba",
-   "titulo": "Prefeitura de Itatiba - SP abre processo seletivo para profissionais de apoio na educação",
-   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itatiba-sp-abre-processo-seletivo-para-profissionais-de-apoio-na-educacao",
+   "titulo": "Prefeitura de Itatiba - SP retifica processo seletivo para profissionais de apoio na educação",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itatiba-sp-retifica-processo-seletivo-para-profissionais-de-apoio-na-educacao",
    "vagas": null,
    "vagas_texto": "Cadastro reserva",
    "salario_max": 2786.98,
@@ -3054,7 +3054,9 @@
    ],
    "fonte": "pci",
    "editais": [
-    "EDITAL Nº 04/2026"
+    "EDITAL Nº 04/2026",
+    "RETIFICAÇÃO Nº 01",
+    "EDITAL Nº 04/2026 ATUALIZADO"
    ],
    "links_oficiais": [
     {
@@ -3967,6 +3969,48 @@
     "Fundamental",
     "Medio",
     "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de São José da Bela Vista",
+   "titulo": "Prefeitura de São José da Bela Vista - SP abre concurso público para cadastro de reserva",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-da-bela-vista-sp-abre-concurso-publico-para-cadastro-de-reserva",
+   "vagas": null,
+   "vagas_texto": "Cadastro reserva",
+   "salario_max": 7078.72,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-10-23",
+   "inscricao_fim": "2026-11-05",
+   "inscricao_texto": "23/10 a 05/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sp"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE ABERTURA CONCURSO PÚBLICO Nº 002/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Prefeitura Municipal de São José da Bela Vista",
+     "url": "https://www.saojosedabelavista.sp.gov.br/",
+     "dominio": "saojosedabelavista.sp.gov.br"
+    },
+    {
+     "texto": "institutoindec.org.br",
+     "url": "https://institutoindec.org.br/",
+     "dominio": "institutoindec.org.br"
+    }
+   ],
+   "detalhado_em": "2026-10-22",
+   "tags": [
+    "SP",
+    "Medio",
     "Superior",
     "Prefeitura"
    ]
@@ -9807,6 +9851,46 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Francisco Beltrão",
+   "titulo": "Prefeitura de Francisco Beltrão - PR abre processo seletivo para diversos cargos",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-francisco-beltrao-pr-abre-processo-seletivo-para-diversos-cargos",
+   "vagas": null,
+   "vagas_texto": "Cadastro reserva",
+   "salario_max": 6749.53,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-09",
+   "inscricao_texto": "09/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "pr"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 415"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Município de Francisco Beltrão",
+     "url": "https://franciscobeltrao.pr.gov.br/concursos/",
+     "dominio": "franciscobeltrao.pr.gov.br"
+    }
+   ],
+   "detalhado_em": "2026-10-22",
+   "tags": [
+    "PR",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
+  },
+  {
    "orgao": "Prefeitura de Ivaí",
    "titulo": "Prefeitura de Ivaí - PR abre processo seletivo com salários de até R$ 4.464,64",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ivai-pr-abre-processo-seletivo-com-salarios-de-ate-4464",
@@ -11088,6 +11172,43 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Igrejinha",
+   "titulo": "Prefeitura de Igrejinha - RS abre seleção para Auxiliar de Educação",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-igrejinha-rs-abre-selecao-para-auxiliar-de-educacao",
+   "vagas": 1,
+   "vagas_texto": "1",
+   "salario_max": 1851.11,
+   "cargos": "Auxiliar de Educação",
+   "escolaridade": "Ensino Médio",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-06",
+   "inscricao_texto": "06/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "rs"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO SIMPLIFICADO Nº 087/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Município de Igrejinha",
+     "url": "https://www.igrejinha.rs.gov.br/",
+     "dominio": "igrejinha.rs.gov.br"
+    }
+   ],
+   "detalhado_em": "2026-10-22",
+   "tags": [
+    "RS",
+    "Medio",
+    "Educacao",
+    "Prefeitura"
+   ]
+  },
+  {
    "orgao": "Prefeitura de Imbé",
    "titulo": "Prefeitura de Imbé - RS abre processo seletivo para formação de cadastro reserva em diversos cargos",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-imbe-rs-abre-processo-seletivo-para-formacao-de-cadastro-reserva-em-diversos-cargos",
@@ -12202,6 +12323,50 @@
     "Medio",
     "Superior",
     "Administrativo",
+    "Legislativo"
+   ]
+  },
+  {
+   "orgao": "Câmara de Vereadores de Erval Velho",
+   "titulo": "Câmara de Erval Velho - SC abre concurso público com salários de até R$ 6.497,10",
+   "link": "https://www.pciconcursos.com.br/noticias/camara-de-erval-velho-sc-abre-concurso-publico-com-salarios-de-ate-6497",
+   "vagas": 3,
+   "vagas_texto": "3",
+   "salario_max": 6497.1,
+   "cargos": "Agente de Asseio e Conservação, Oficial Legislativo, Contador",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-20",
+   "inscricao_texto": "20/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE CONCURSO PÚBLICO Nº 01/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Câmara Municipal de Vereadores de Erval Velho",
+     "url": "https://www.camaraervalvelho.sc.gov.br/",
+     "dominio": "camaraervalvelho.sc.gov.br"
+    },
+    {
+     "texto": "www.aprendersc.srv.br",
+     "url": "https://www.aprendersc.srv.br/",
+     "dominio": "aprendersc.srv.br"
+    }
+   ],
+   "detalhado_em": "2026-10-22",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Fiscal",
     "Legislativo"
    ]
   },
@@ -13810,6 +13975,51 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Itapiranga",
+   "titulo": "Prefeitura de Itapiranga - SC divulga editais de concursos públicos e processo seletivo",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itapiranga-sc-divulga-editais-de-concursos-publicos-e-processo-seletivo",
+   "vagas": 4,
+   "vagas_texto": "4",
+   "salario_max": 4992.82,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-10-23",
+   "inscricao_fim": "2026-11-23",
+   "inscricao_texto": "23/10 a 23/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE CONCURSO PÚBLICO Nº 006/2026",
+    "EDITAL DE CONCURSO PÚBLICO PARA EMPREGO PÚBLICO Nº 007/2026",
+    "EDITAL DE PROCESSO SELETIVO Nº 008/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Prefeitura Municipal de Itapiranga",
+     "url": "https://itapiranga.atende.net/cidadao",
+     "dominio": "itapiranga.atende.net"
+    },
+    {
+     "texto": "Associação dos Municípios do Extremo Oeste de Santa Catarina (AMEOSC)",
+     "url": "https://ameosc.org.br/",
+     "dominio": "ameosc.org.br"
+    }
+   ],
+   "detalhado_em": "2026-10-22",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
+  },
+  {
    "orgao": "Prefeitura de Lages - Secretaria da Saúde",
    "titulo": "Prefeitura de Lages - SC abre seleção para diversos cargos na Secretaria da Saúde",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lages-sc-abre-selecao-para-diversos-cargos-na-secretaria-da-saude",
@@ -14243,6 +14453,44 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Rancho Queimado",
+   "titulo": "Prefeitura de Rancho Queimado - SC abre processo seletivo para Assistente Administrativo",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rancho-queimado-sc-abre-processo-seletivo-para-assistente-administrativo",
+   "vagas": 1,
+   "vagas_texto": "1",
+   "salario_max": 3924.78,
+   "cargos": "Assistente Administrativo",
+   "escolaridade": "Ensino Médio",
+   "status": "aberto",
+   "inscricao_inicio": "2026-10-23",
+   "inscricao_fim": "2026-10-27",
+   "inscricao_texto": "23 a 27/10/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO SIMPLIFICADO Nº 19/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Prefeitura Municipal de Rancho Queimado",
+     "url": "https://rq.sc.gov.br/",
+     "dominio": "rq.sc.gov.br"
+    }
+   ],
+   "detalhado_em": "2026-10-22",
+   "tags": [
+    "SC",
+    "Medio",
+    "Administrativo",
+    "Prefeitura",
+    "Temporario"
+   ]
+  },
+  {
    "orgao": "Prefeitura de Rio do Campo",
    "titulo": "Prefeitura de Rio do Campo - SC abre processo seletivo para profissionais da educação",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-do-campo-sc-abre-processo-seletivo-para-profissionais-da-educacao",
@@ -14274,6 +14522,50 @@
      "texto": "portal.actio.srv.br",
      "url": "https://portal.actio.srv.br/",
      "dominio": "portal.actio.srv.br"
+    }
+   ],
+   "detalhado_em": "2026-10-22",
+   "tags": [
+    "SC",
+    "Medio",
+    "Superior",
+    "Educacao",
+    "Prefeitura",
+    "Temporario"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Rio do Sul",
+   "titulo": "Prefeitura de Rio do Sul - SC abre processo seletivo para professores e pedagogos",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-do-sul-sc-abre-processo-seletivo-para-professores-e-pedagogos",
+   "vagas": null,
+   "vagas_texto": "Cadastro reserva",
+   "salario_max": 6023.24,
+   "cargos": "Pedagogo, Professor",
+   "escolaridade": "Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-05",
+   "inscricao_texto": "05/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO Nº 007/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Município de Rio do Sul",
+     "url": "https://riodosul.atende.net/",
+     "dominio": "riodosul.atende.net"
+    },
+    {
+     "texto": "Acesse Concursos",
+     "url": "https://www.acesseconcursossc.com.br/",
+     "dominio": "acesseconcursossc.com.br"
     }
    ],
    "detalhado_em": "2026-10-22",
@@ -16009,6 +16301,46 @@
     "Superior",
     "Fiscal",
     "Legislativo"
+   ]
+  },
+  {
+   "orgao": "FUNSAUD - Fundação de Serviços de Saúde de Dourados",
+   "titulo": "FUNSAUD - MS abre processo seletivo para cadastro de reserva",
+   "link": "https://www.pciconcursos.com.br/noticias/funsaud-ms-abre-processo-seletivo-para-cadastro-de-reserva",
+   "vagas": null,
+   "vagas_texto": "Cadastro reserva",
+   "salario_max": 10320.0,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-11-04",
+   "inscricao_fim": "2026-11-05",
+   "inscricao_texto": "04 a 05/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "ms"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL 001"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Fundação de Serviços de Saúde de Dourados (FUNSAUD)",
+     "url": "https://funsaud.dourados.ms.gov.br/",
+     "dominio": "funsaud.dourados.ms.gov.br"
+    }
+   ],
+   "detalhado_em": "2026-10-22",
+   "tags": [
+    "MS",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Saude",
+    "Temporario"
    ]
   },
   {
@@ -17933,6 +18265,46 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Estrela de Alagoas",
+   "titulo": "Prefeitura de Estrela de Alagoas - AL abre seleção para a Secretaria de Saúde",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-estrela-de-alagoas-al-abre-selecao-para-a-secretaria-de-saude",
+   "vagas": 20,
+   "vagas_texto": "20",
+   "salario_max": 2300.0,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-10-23",
+   "inscricao_fim": "2026-10-30",
+   "inscricao_texto": "23 a 30/10/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "al"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DA SELEÇÃO PÚBLICA SIMPLIFICADA Nº 001/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Prefeitura Municipal de Estrela de Alagoas",
+     "url": "https://estreladealagoas.al.gov.br/",
+     "dominio": "estreladealagoas.al.gov.br"
+    }
+   ],
+   "detalhado_em": "2026-10-22",
+   "tags": [
+    "AL",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Saude",
+    "Prefeitura"
+   ]
+  },
+  {
    "orgao": "SEFAZ - Secretaria de Estado da Fazenda de Alagoas",
    "titulo": "Sefaz - AL abre concurso público com vagas para o cargo de Auditor Fiscal",
    "link": "https://www.pciconcursos.com.br/noticias/sefaz-al-abre-concurso-publico-com-vagas-para-o-cargo-de-auditor-fiscal",
@@ -18560,6 +18932,50 @@
     "Medio",
     "Tecnico",
     "Legislativo"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Alto Santo",
+   "titulo": "Prefeitura de Alto Santo - CE retifica concurso para cargos de nível superior",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-alto-santo-ce-retifica-concurso-para-cargos-de-nivel-superior",
+   "vagas": 4,
+   "vagas_texto": "4",
+   "salario_max": 3000.0,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-10",
+   "inscricao_texto": "Reaberto até 10/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "ce"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 002/2026",
+    "1º ADIVITO AO EDITAL",
+    "2º ADIVITO AO EDITAL",
+    "EDITAL RETIFICADO - REABERTURA DAS INSCRIÇÕES"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Prefeitura Municipal de Alto Santo",
+     "url": "https://www.altosanto.ce.gov.br/",
+     "dominio": "altosanto.ce.gov.br"
+    },
+    {
+     "texto": "www.consulpam.com.br",
+     "url": "https://www.consulpam.com.br/",
+     "dominio": "consulpam.com.br"
+    }
+   ],
+   "detalhado_em": "2026-10-22",
+   "tags": [
+    "CE",
+    "Superior",
+    "Prefeitura"
    ]
   },
   {
@@ -22645,31 +23061,6 @@
    "fonte": "cnb",
    "tags": [
     "DF",
-    "Previsto"
-   ]
-  },
-  {
-   "orgao": "PM SP",
-   "titulo": "Concurso PM SP contará com 200 vagas e remuneração de R$ 4,8 mil",
-   "link": "https://concursosnobrasil.com/concursos/sp/2025/10/21/concurso-pm-sp-contara-com-200-vagas-e-remuneracao-de-r-48-mil/",
-   "vagas": 200,
-   "vagas_texto": "200",
-   "salario_max": 4800.0,
-   "status": "previsto",
-   "inscricao_inicio": null,
-   "inscricao_fim": null,
-   "inscricao_texto": "",
-   "cargos": "",
-   "escolaridade": "",
-   "publicado": "2025-10-21",
-   "nacional": false,
-   "ufs": [
-    "sp"
-   ],
-   "fonte": "cnb",
-   "tags": [
-    "SP",
-    "Policial",
     "Previsto"
    ]
   },
