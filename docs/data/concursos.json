@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-21T23:54:08+00:00",
+ "atualizado": "2026-10-22T14:26:34+00:00",
  "fontes": {
   "pci": "https://www.pciconcursos.com.br/concursos/",
   "cnb": "https://concursosnobrasil.com"
@@ -70,7 +70,7 @@
      "dominio": "cebraspe.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "DF",
     "Superior",
@@ -108,7 +108,7 @@
      "dominio": "cebraspe.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "Nacional",
     "Superior",
@@ -146,7 +146,7 @@
      "dominio": "marinha.mil.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "RJ",
     "MG",
@@ -185,58 +185,13 @@
      "dominio": "marinha.mil.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "AM",
     "RO",
     "Superior",
     "Militar",
     "Temporario"
-   ]
-  },
-  {
-   "orgao": "CRBio-01 - Conselho Regional de Biologia da 1ª Região",
-   "titulo": "CRBio-01 - SP, MT e MS abre concurso público com salários de até R$ 7.181,50",
-   "link": "https://www.pciconcursos.com.br/noticias/crbio-01-sp-mt-e-ms-abre-concurso-publico-com-salarios-de-ate-7181",
-   "vagas": 15,
-   "vagas_texto": "15",
-   "salario_max": 7181.5,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Médio / Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-10-21",
-   "inscricao_texto": "21/10/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "sp",
-    "mt",
-    "ms"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL Nº 1"
-   ],
-   "links_oficiais": [
-    {
-     "texto": "CRBio-01",
-     "url": "https://www.crbio01.gov.br/",
-     "dominio": "crbio01.gov.br"
-    },
-    {
-     "texto": "www.quadrix.org.br",
-     "url": "https://www.quadrix.org.br/login",
-     "dominio": "quadrix.org.br"
-    }
-   ],
-   "detalhado_em": "2026-10-18",
-   "tags": [
-    "SP",
-    "MT",
-    "MS",
-    "Medio",
-    "Superior"
    ]
   },
   {
@@ -270,7 +225,7 @@
     "EDITAL Nº 1/2026 - CREF 27ª REGIÃO RR"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "RO",
     "TO",
@@ -316,7 +271,7 @@
      "dominio": "conhecimento.fgv.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "Nacional",
     "Medio",
@@ -362,7 +317,7 @@
      "dominio": "inscricao.marinha.mil.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "CE",
     "RN",
@@ -407,7 +362,7 @@
      "dominio": "marinha.mil.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "PA",
     "AP",
@@ -454,7 +409,7 @@
      "dominio": "areadocandidato.marinha.mil.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "DF",
     "GO",
@@ -498,7 +453,7 @@
      "dominio": "ibfc.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Fundamental",
@@ -542,7 +497,7 @@
      "dominio": "imais.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Fundamental",
@@ -586,7 +541,7 @@
      "dominio": "ibamsp-concursos.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Fundamental",
@@ -629,7 +584,7 @@
      "dominio": "ibamsp-concursos.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Fundamental",
@@ -673,7 +628,7 @@
      "dominio": "avancasp.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Superior",
@@ -715,7 +670,7 @@
      "dominio": "indepac.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Fundamental",
@@ -759,7 +714,7 @@
      "dominio": "indepac.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Fundamental",
@@ -899,48 +854,6 @@
    ]
   },
   {
-   "orgao": "Câmara de Barão de Antonina",
-   "titulo": "Câmara de Barão de Antonina - SP abre concurso público para o cargo de Advogado",
-   "link": "https://www.pciconcursos.com.br/noticias/camara-de-barao-de-antonina-sp-abre-concurso-publico-para-o-cargo-de-advogado",
-   "vagas": 1,
-   "vagas_texto": "1",
-   "salario_max": 6603.39,
-   "cargos": "Advogado",
-   "escolaridade": "Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-10-21",
-   "inscricao_texto": "21/10/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "sp"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL DE ABERTURA Nº 01.01/2026"
-   ],
-   "links_oficiais": [
-    {
-     "texto": "Câmara Municipal de Barão de Antonina",
-     "url": "https://www.camarabaraodeantonina.sp.gov.br/",
-     "dominio": "camarabaraodeantonina.sp.gov.br"
-    },
-    {
-     "texto": "Fundação FAFIPA",
-     "url": "https://www.fundacaofafipa.org.br/",
-     "dominio": "fundacaofafipa.org.br"
-    }
-   ],
-   "detalhado_em": "2026-10-18",
-   "tags": [
-    "SP",
-    "Superior",
-    "Juridico",
-    "Legislativo"
-   ]
-  },
-  {
    "orgao": "Câmara de Cesário Lange",
    "titulo": "Câmara de Cesário Lange - SP abre concurso público com salários de até R$ 3.774,00",
    "link": "https://www.pciconcursos.com.br/noticias/camara-de-cesario-lange-sp-abre-concurso-publico-com-salarios-de-ate-3774",
@@ -974,7 +887,7 @@
      "dominio": "planexcon.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Fundamental",
@@ -1017,7 +930,7 @@
      "dominio": "exitusconcursos.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Superior",
@@ -1058,7 +971,7 @@
      "dominio": "portal.imperioconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Medio",
@@ -1100,7 +1013,7 @@
      "dominio": "indepac.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Superior",
@@ -1117,9 +1030,9 @@
    "cargos": "Procurador Legislativo",
    "escolaridade": "Superior",
    "status": "aberto",
-   "inscricao_inicio": "2026-10-22",
+   "inscricao_inicio": null,
    "inscricao_fim": "2026-11-23",
-   "inscricao_texto": "22/10 a 23/11/2026",
+   "inscricao_texto": "23/11/2026",
    "publicado": null,
    "nacional": false,
    "ufs": [
@@ -1141,7 +1054,7 @@
      "dominio": "conscamweb.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Superior",
@@ -1178,7 +1091,7 @@
      "dominio": "sigmarh.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Fundamental",
@@ -1221,7 +1134,7 @@
      "dominio": "sigmarh.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Fundamental"
@@ -1261,7 +1174,7 @@
      "dominio": "aplicativa.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Fundamental",
@@ -1303,7 +1216,7 @@
      "dominio": "concursosfcc.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Superior",
@@ -1345,7 +1258,7 @@
      "dominio": "avalia.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Superior",
@@ -1391,7 +1304,7 @@
      "dominio": "famesp.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Medio",
@@ -1482,7 +1395,7 @@
      "dominio": "imais.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Fundamental",
@@ -1519,7 +1432,7 @@
      "dominio": "funcamp.unicamp.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Tecnico",
@@ -1557,7 +1470,7 @@
      "dominio": "funcamp.unicamp.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Fundamental",
@@ -1595,7 +1508,7 @@
      "dominio": "funcamp.unicamp.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Fundamental",
@@ -1632,7 +1545,7 @@
      "dominio": "funcamp.unicamp.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Medio",
@@ -1668,7 +1581,7 @@
      "dominio": "funcamp.unicamp.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Medio",
@@ -1704,7 +1617,7 @@
      "dominio": "funcamp.unicamp.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Medio",
@@ -1853,7 +1766,7 @@
      "dominio": "hcribeirao.sp.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Superior",
@@ -1895,9 +1808,49 @@
      "dominio": "hcribeirao.sp.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
+    "Superior",
+    "Saude",
+    "Educacao"
+   ]
+  },
+  {
+   "orgao": "HCFMRP-USP - Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo",
+   "titulo": "HCFMRP-USP - SP abre concursos públicos para Técnico de Enfermagem e Biologista",
+   "link": "https://www.pciconcursos.com.br/noticias/hcfmrp-usp-sp-abre-concursos-publicos-para-tecnico-de-enfermagem-e-biologista",
+   "vagas": 2,
+   "vagas_texto": "2",
+   "salario_max": 2978.36,
+   "cargos": "Técnico de Enfermagem, Agente Técnico de Assistência à Saúde",
+   "escolaridade": "Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-10-26",
+   "inscricao_fim": "2026-11-13",
+   "inscricao_texto": "26/10 a 13/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sp"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE CONCURSO Nº 37/2026",
+    "EDITAL DE CONCURSO Nº 38/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo (HCFMRP-USP)",
+     "url": "https://www.hcribeirao.sp.gov.br/",
+     "dominio": "hcribeirao.sp.gov.br"
+    }
+   ],
+   "detalhado_em": "2026-10-22",
+   "tags": [
+    "SP",
+    "Medio",
+    "Tecnico",
     "Superior",
     "Saude",
     "Educacao"
@@ -2008,7 +1961,7 @@
      "dominio": "institutoaocp.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Superior"
@@ -2044,7 +1997,7 @@
      "dominio": "marinha.mil.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Superior",
@@ -2080,7 +2033,7 @@
      "dominio": "ibamsp-concursos.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Superior",
@@ -2167,7 +2120,7 @@
      "dominio": "abconcursospublicos.org"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Medio",
@@ -2211,7 +2164,7 @@
      "dominio": "abconcursospublicos.org"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Superior",
@@ -2295,7 +2248,7 @@
      "dominio": "avancasp.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Fundamental",
@@ -2339,7 +2292,7 @@
      "dominio": "igecs.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Medio",
@@ -2358,9 +2311,9 @@
    "cargos": "Vários Cargos",
    "escolaridade": "Fundamental / Médio / Técnico / Superior",
    "status": "aberto",
-   "inscricao_inicio": "2026-10-22",
+   "inscricao_inicio": null,
    "inscricao_fim": "2026-12-10",
-   "inscricao_texto": "22/10 a 10/12/2026",
+   "inscricao_texto": "10/12/2026",
    "publicado": null,
    "nacional": false,
    "ufs": [
@@ -2426,7 +2379,7 @@
      "dominio": "consesp.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Medio",
@@ -2470,7 +2423,7 @@
      "dominio": "avancasp.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Medio",
@@ -2556,7 +2509,7 @@
      "dominio": "avancasp.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Medio",
@@ -2598,7 +2551,7 @@
      "dominio": "abconcursospublicos.org"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Medio",
@@ -2641,7 +2594,7 @@
      "dominio": "institutoaplicativa.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Medio",
@@ -2685,7 +2638,7 @@
      "dominio": "ibamsp-concursos.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Medio",
@@ -2728,7 +2681,7 @@
      "dominio": "ipell.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Fundamental",
@@ -2772,7 +2725,7 @@
      "dominio": "institutounique.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Fundamental",
@@ -2816,7 +2769,7 @@
      "dominio": "portal.fenix.selecao.site"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Superior",
@@ -2858,7 +2811,7 @@
      "dominio": "ibamsp-concursos.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Superior",
@@ -2900,7 +2853,7 @@
      "dominio": "portal.cmmconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Medio",
@@ -2944,7 +2897,7 @@
      "dominio": "glconsultoria.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Medio",
@@ -2987,7 +2940,7 @@
      "dominio": "glconsultoria.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Fundamental",
@@ -3031,7 +2984,7 @@
      "dominio": "institutoaplicativa.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Fundamental",
@@ -3074,7 +3027,7 @@
      "dominio": "avancasp.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Medio",
@@ -3115,7 +3068,7 @@
      "dominio": "imais.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Medio",
@@ -3202,7 +3155,7 @@
      "dominio": "glconsultoria.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Fundamental",
@@ -3289,7 +3242,7 @@
      "dominio": "indepac.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Superior",
@@ -3331,7 +3284,7 @@
      "dominio": "indepac.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Fundamental",
@@ -3374,7 +3327,7 @@
      "dominio": "avancasp.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Medio",
@@ -3462,7 +3415,7 @@
      "dominio": "valespe.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Fundamental",
@@ -3550,7 +3503,7 @@
      "dominio": "consesp.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Superior",
@@ -3587,7 +3540,7 @@
      "dominio": "maua.sp.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Superior",
@@ -3662,7 +3615,7 @@
      "dominio": "mongagua.sp.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Medio",
@@ -3705,7 +3658,7 @@
      "dominio": "institutoindec.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Fundamental",
@@ -3748,7 +3701,7 @@
      "dominio": "conscamweb.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Fundamental",
@@ -3791,7 +3744,7 @@
      "dominio": "institutodom.com"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Medio",
@@ -3834,7 +3787,7 @@
      "dominio": "fundacaofafipa.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Superior",
@@ -3853,9 +3806,9 @@
    "cargos": "Vários Cargos",
    "escolaridade": "Fundamental / Médio / Técnico / Superior",
    "status": "aberto",
-   "inscricao_inicio": "2026-10-22",
+   "inscricao_inicio": null,
    "inscricao_fim": "2026-11-05",
-   "inscricao_texto": "22/10 a 05/11/2026",
+   "inscricao_texto": "05/11/2026",
    "publicado": null,
    "nacional": false,
    "ufs": [
@@ -3921,7 +3874,7 @@
      "dominio": "igecs.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Fundamental",
@@ -3964,7 +3917,7 @@
      "dominio": "aplicativa.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Superior",
@@ -4008,7 +3961,7 @@
      "dominio": "avalia.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Fundamental",
@@ -4052,7 +4005,7 @@
      "dominio": "publiconsult.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Superior",
@@ -4094,7 +4047,7 @@
      "dominio": "glconsultoria.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Fundamental",
@@ -4140,7 +4093,7 @@
      "dominio": "institutounique.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Fundamental",
@@ -4230,7 +4183,7 @@
      "dominio": "omconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Fundamental",
@@ -4361,7 +4314,7 @@
      "dominio": "rboconcursos.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Medio",
@@ -4404,7 +4357,7 @@
      "dominio": "rboconcursos.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Medio",
@@ -4449,7 +4402,7 @@
      "dominio": "ibamsp-concursos.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Medio",
@@ -4492,7 +4445,7 @@
      "dominio": "consesp.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Fundamental"
@@ -4532,7 +4485,7 @@
      "dominio": "fundacaofafipa.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Fundamental",
@@ -4576,7 +4529,7 @@
      "dominio": "concursosfcc.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Superior"
@@ -4616,7 +4569,7 @@
      "dominio": "indepac.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Superior",
@@ -4657,7 +4610,7 @@
      "dominio": "inscricoes.unesp.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Superior",
@@ -4698,7 +4651,7 @@
      "dominio": "inscricoes.unesp.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SP",
     "Medio",
@@ -4778,7 +4731,7 @@
      "dominio": "institutoconsulplan.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "RJ",
     "Medio",
@@ -4821,7 +4774,7 @@
      "dominio": "selecon.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "RJ",
     "Medio",
@@ -4910,7 +4863,7 @@
      "dominio": "access.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "RJ",
     "Superior",
@@ -4954,51 +4907,6 @@
    ]
   },
   {
-   "orgao": "Prefeitura de Arraial do Cabo",
-   "titulo": "Prefeitura de Arraial do Cabo - RJ retifica processo seletivo para agentes de saúde e de endemias",
-   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-arraial-do-cabo-rj-retifica-processo-seletivo-para-agentes-de-saude-e-de-endemias",
-   "vagas": 100,
-   "vagas_texto": "100",
-   "salario_max": 3242.0,
-   "cargos": "Agente Comunitário de Saúde, Agente de Combate às Endemias",
-   "escolaridade": "Ensino Médio",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-10-21",
-   "inscricao_texto": "21/10/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "rj"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL Nº 01/2026",
-    "EDITAL RETIFICADO Nº 01/2026",
-    "RETIFICAÇÃO Nº 01"
-   ],
-   "links_oficiais": [
-    {
-     "texto": "Prefeitura Municipal de Arraial do Cabo",
-     "url": "https://www.arraial.rj.gov.br/",
-     "dominio": "arraial.rj.gov.br"
-    },
-    {
-     "texto": "www.ibam-concursos.org.br",
-     "url": "https://www.ibam-concursos.org.br/",
-     "dominio": "ibam-concursos.org.br"
-    }
-   ],
-   "detalhado_em": "2026-10-18",
-   "tags": [
-    "RJ",
-    "Medio",
-    "Saude",
-    "Prefeitura",
-    "Temporario"
-   ]
-  },
-  {
    "orgao": "Prefeitura de Queimados",
    "titulo": "Prefeitura de Queimados - RJ abre concurso público com salários de até R$ 11.567,11",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-queimados-rj-abre-concurso-publico-com-salarios-de-ate-11567",
@@ -5032,7 +4940,7 @@
      "dominio": "ian.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "RJ",
     "Medio",
@@ -5074,7 +4982,7 @@
      "dominio": "conhecimento.fgv.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "RJ",
     "Superior"
@@ -5194,7 +5102,7 @@
      "dominio": "gestaodeconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Medio",
@@ -5231,7 +5139,7 @@
      "dominio": "cotec.fadenor.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Fundamental",
@@ -5275,7 +5183,7 @@
      "dominio": "policiamilitar.mg.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Superior",
@@ -5319,7 +5227,7 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Medio",
@@ -5362,7 +5270,7 @@
      "dominio": "ibdoprojetos.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Fundamental",
@@ -5406,7 +5314,7 @@
      "dominio": "cotec.fadenor.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Fundamental",
@@ -5450,7 +5358,7 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Fundamental",
@@ -5492,7 +5400,7 @@
      "dominio": "institutoideap.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Fundamental",
@@ -5535,7 +5443,7 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Fundamental",
@@ -5543,47 +5451,6 @@
     "Superior",
     "Educacao",
     "Administrativo",
-    "Legislativo"
-   ]
-  },
-  {
-   "orgao": "Câmara de Capelinha",
-   "titulo": "Câmara de Capelinha - MG retifica edital do concurso público com salários de até R$ 4.527,60",
-   "link": "https://www.pciconcursos.com.br/noticias/camara-de-capelinha-mg-retifica-edital-do-concurso-publico-com-salarios-de-ate-4527",
-   "vagas": 27,
-   "vagas_texto": "27",
-   "salario_max": 4527.6,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-10-21",
-   "inscricao_texto": "21/10/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "mg"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL Nº 001/2026",
-    "EDITAL RETIFICADO Nº 001/2026",
-    "ERRATA Nº 01"
-   ],
-   "links_oficiais": [
-    {
-     "texto": "Câmara Municipal de Capelinha",
-     "url": "https://portal.imeso.com.br/",
-     "dominio": "portal.imeso.com.br"
-    }
-   ],
-   "detalhado_em": "2026-10-18",
-   "tags": [
-    "MG",
-    "Fundamental",
-    "Medio",
-    "Tecnico",
-    "Superior",
     "Legislativo"
    ]
   },
@@ -5622,7 +5489,7 @@
      "dominio": "portal.fenix.selecao.site"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Fundamental",
@@ -5664,7 +5531,7 @@
      "dominio": "institutoconsulplan.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Superior",
@@ -5706,7 +5573,7 @@
      "dominio": "glconsultoria.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Medio",
@@ -5833,7 +5700,7 @@
      "dominio": "imam.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Superior",
@@ -5876,7 +5743,7 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Fundamental",
@@ -5919,7 +5786,7 @@
      "dominio": "glconsultoria.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Medio",
@@ -5961,7 +5828,7 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Superior",
@@ -6002,7 +5869,7 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Fundamental",
@@ -6045,7 +5912,7 @@
      "dominio": "concursosjcm.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Fundamental",
@@ -6087,7 +5954,7 @@
      "dominio": "portal.mbgestaopublica.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Superior",
@@ -6132,7 +5999,7 @@
      "dominio": "versatilsolucoesadm.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Medio",
@@ -6175,7 +6042,7 @@
      "dominio": "cotec.fadenor.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Fundamental",
@@ -6218,7 +6085,7 @@
      "dominio": "jcmconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Fundamental",
@@ -6260,7 +6127,7 @@
      "dominio": "institutodom.com"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Medio",
@@ -6304,7 +6171,7 @@
      "dominio": "ibdoprojetos.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Superior",
@@ -6345,7 +6212,7 @@
      "dominio": "portal.iadhedconcursos.org"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Fundamental",
@@ -6388,7 +6255,7 @@
      "dominio": "institutoconsulplan.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Superior",
@@ -6429,7 +6296,7 @@
      "dominio": "jcmconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Medio",
@@ -6466,7 +6333,7 @@
      "dominio": "eloassessoriaeservicos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Superior",
@@ -6507,7 +6374,7 @@
      "dominio": "idepi.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Superior",
@@ -6545,7 +6412,7 @@
      "dominio": "gestaodeconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Fundamental",
@@ -6627,7 +6494,7 @@
      "dominio": "access.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Superior",
@@ -6668,7 +6535,7 @@
      "dominio": "institutoconsulplan.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Fundamental",
@@ -6676,6 +6543,44 @@
     "Tecnico",
     "Superior",
     "Prefeitura"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Andradas",
+   "titulo": "Prefeitura de Andradas - MG abre processo seletivo para Motorista e Trabalhador Braçal",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-andradas-mg-abre-processo-seletivo-para-motorista-e-trabalhador-bracal",
+   "vagas": null,
+   "vagas_texto": "Cadastro reserva",
+   "salario_max": 2654.92,
+   "cargos": "Motorista, Trabalhador Braçal",
+   "escolaridade": "Fundamental / Médio",
+   "status": "aberto",
+   "inscricao_inicio": "2026-10-23",
+   "inscricao_fim": "2026-11-05",
+   "inscricao_texto": "23/10 a 05/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "mg"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 004/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Prefeitura Municipal de Andradas",
+     "url": "https://www.andradas.mg.gov.br/",
+     "dominio": "andradas.mg.gov.br"
+    }
+   ],
+   "detalhado_em": "2026-10-22",
+   "tags": [
+    "MG",
+    "Fundamental",
+    "Medio",
+    "Prefeitura",
+    "Temporario"
    ]
   },
   {
@@ -6712,7 +6617,7 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Fundamental",
@@ -6795,56 +6700,13 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Tecnico",
     "Superior",
     "Saude",
     "Prefeitura"
-   ]
-  },
-  {
-   "orgao": "Prefeitura de Belo Vale",
-   "titulo": "Prefeitura de Belo Vale - MG publica edital de processo seletivo para Agentes de Saúde e de Endemias",
-   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-belo-vale-mg-publica-edital-de-processo-seletivo-para-agentes-de-saude-e-de-endemias",
-   "vagas": 30,
-   "vagas_texto": "30",
-   "salario_max": 3242.0,
-   "cargos": "Agente Comunitário de Saúde, Agente de Combate às Endemias",
-   "escolaridade": "Ensino Médio",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-10-21",
-   "inscricao_texto": "21/10/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "mg"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL Nº 01/2026"
-   ],
-   "links_oficiais": [
-    {
-     "texto": "Município de Belo Vale",
-     "url": "https://www.belovale.mg.gov.br/",
-     "dominio": "belovale.mg.gov.br"
-    },
-    {
-     "texto": "Instituto Brasileiro de Gestão e Pesquisa (IBGP)",
-     "url": "https://www.ibgpconcursos.com.br/",
-     "dominio": "ibgpconcursos.com.br"
-    }
-   ],
-   "detalhado_em": "2026-10-18",
-   "tags": [
-    "MG",
-    "Medio",
-    "Saude",
-    "Prefeitura",
-    "Temporario"
    ]
   },
   {
@@ -6881,7 +6743,7 @@
      "dominio": "institutoconsulplan.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Fundamental",
@@ -6927,7 +6789,7 @@
      "dominio": "portal.imeso.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Medio",
@@ -7015,7 +6877,7 @@
      "dominio": "concursosjcm.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Medio",
@@ -7052,7 +6914,7 @@
      "dominio": "claudio.mg.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Superior",
@@ -7090,7 +6952,7 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Superior",
@@ -7134,7 +6996,7 @@
      "dominio": "gestaodeconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Medio",
@@ -7263,7 +7125,7 @@
      "dominio": "portal.imeso.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Medio",
@@ -7301,7 +7163,7 @@
      "dominio": "itabira.mg.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Fundamental",
@@ -7394,7 +7256,7 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Fundamental",
@@ -7438,7 +7300,7 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Fundamental",
@@ -7482,7 +7344,7 @@
      "dominio": "leopoldina-flow.sigmix.net"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Superior",
@@ -7525,7 +7387,7 @@
      "dominio": "cotec.fadenor.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Fundamental",
@@ -7569,7 +7431,7 @@
      "dominio": "ibdoprojetos.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Superior",
@@ -7657,6 +7519,50 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Onça de Pitangui",
+   "titulo": "Prefeitura de Onça de Pitangui - MG abre processo seletivo com salários de até R$ 14.829,31",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-onca-de-pitangui-mg-abre-processo-seletivo-com-salarios-de-ate-14829",
+   "vagas": 11,
+   "vagas_texto": "11",
+   "salario_max": 14829.31,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-10-23",
+   "inscricao_fim": "2026-11-10",
+   "inscricao_texto": "23/10 a 10/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "mg"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 01/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Município de Onça de Pitangui",
+     "url": "https://www.oncadopitangui.mg.gov.br/",
+     "dominio": "oncadopitangui.mg.gov.br"
+    },
+    {
+     "texto": "site do IBGP",
+     "url": "https://www.ibgpconcursos.com.br/",
+     "dominio": "ibgpconcursos.com.br"
+    }
+   ],
+   "detalhado_em": "2026-10-22",
+   "tags": [
+    "MG",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
+  },
+  {
    "orgao": "Prefeitura de Paiva",
    "titulo": "Prefeitura de Paiva - MG abre concurso público com salários de até R$ 11.715,84",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-paiva-mg-abre-concurso-publico-com-salarios-de-ate-11715",
@@ -7690,7 +7596,7 @@
      "dominio": "concursosjcm.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Fundamental",
@@ -7733,7 +7639,7 @@
      "dominio": "cotec.fadenor.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Fundamental",
@@ -7779,7 +7685,7 @@
      "dominio": "concursosjcm.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Fundamental",
@@ -7787,44 +7693,6 @@
     "Tecnico",
     "Superior",
     "Prefeitura"
-   ]
-  },
-  {
-   "orgao": "Prefeitura de Perdigão",
-   "titulo": "Prefeitura de Perdigão - MG abre processo seletivo para o cargo de Psicólogo",
-   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-perdigao-mg-abre-processo-seletivo-para-o-cargo-de-psicologo",
-   "vagas": null,
-   "vagas_texto": "Cadastro reserva",
-   "salario_max": 4827.16,
-   "cargos": "Psicólogo",
-   "escolaridade": "Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-10-21",
-   "inscricao_texto": "21/10/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "mg"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL DE PROCESSO SELETIVO Nº 15/2026"
-   ],
-   "links_oficiais": [
-    {
-     "texto": "Município de Perdigão",
-     "url": "https://perdigao.mg.gov.br/arquivo/concursos-e-processos-seletivos",
-     "dominio": "perdigao.mg.gov.br"
-    }
-   ],
-   "detalhado_em": "2026-10-18",
-   "tags": [
-    "MG",
-    "Superior",
-    "Saude",
-    "Prefeitura",
-    "Temporario"
    ]
   },
   {
@@ -7862,7 +7730,7 @@
      "dominio": "idepi.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Fundamental",
@@ -7910,7 +7778,7 @@
      "dominio": "gamaconsult.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Medio",
@@ -7947,7 +7815,7 @@
      "dominio": "pontenova.mg.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Medio",
@@ -7991,7 +7859,7 @@
      "dominio": "institutoconsulplan.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Fundamental",
@@ -8033,7 +7901,7 @@
      "dominio": "idepi.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Medio",
@@ -8075,7 +7943,7 @@
      "dominio": "portal.progestap.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Medio",
@@ -8117,7 +7985,7 @@
      "dominio": "exameconsultores.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Fundamental",
@@ -8205,7 +8073,7 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Medio",
@@ -8293,7 +8161,7 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Fundamental",
@@ -8340,7 +8208,7 @@
      "dominio": "portal.imeso.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Medio",
@@ -8383,7 +8251,7 @@
      "dominio": "institutoaplicativa.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Fundamental",
@@ -8465,7 +8333,7 @@
      "dominio": "portal.imeso.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Medio",
@@ -8502,7 +8370,7 @@
      "dominio": "staquino.mg.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Superior",
@@ -8522,8 +8390,8 @@
    "escolaridade": "Fundamental / Médio / Técnico / Superior",
    "status": "aberto",
    "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-05",
-   "inscricao_texto": "05/11/2026",
+   "inscricao_fim": "2026-11-19",
+   "inscricao_texto": "19/11/2026",
    "publicado": null,
    "nacional": false,
    "ufs": [
@@ -8587,7 +8455,7 @@
      "dominio": "glconsultoria.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Medio",
@@ -8630,58 +8498,13 @@
      "dominio": "rboconcursos.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Medio",
     "Tecnico",
     "Superior",
     "Prefeitura"
-   ]
-  },
-  {
-   "orgao": "Prefeitura de Viçosa",
-   "titulo": "Prefeitura de Viçosa - MG abre processo seletivo com salários de até R$ 5,6 mil",
-   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vicosa-mg-abre-processo-seletivo-com-salarios-de-ate-5-6-mil",
-   "vagas": 129,
-   "vagas_texto": "129",
-   "salario_max": 5633.12,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-10-21",
-   "inscricao_texto": "21/10/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "mg"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL Nº 01/2026"
-   ],
-   "links_oficiais": [
-    {
-     "texto": "Município de Viçosa",
-     "url": "https://www.vicosa.mg.gov.br/",
-     "dominio": "vicosa.mg.gov.br"
-    },
-    {
-     "texto": "Instituto Brasileiro de Gestão e Pesquisa (IBGP)",
-     "url": "https://www.ibgpconcursos.com.br/",
-     "dominio": "ibgpconcursos.com.br"
-    }
-   ],
-   "detalhado_em": "2026-10-18",
-   "tags": [
-    "MG",
-    "Fundamental",
-    "Medio",
-    "Tecnico",
-    "Superior",
-    "Prefeitura",
-    "Temporario"
    ]
   },
   {
@@ -8718,7 +8541,7 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Fundamental",
@@ -8759,7 +8582,7 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Fundamental",
@@ -8804,7 +8627,7 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Superior",
@@ -8846,7 +8669,7 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MG",
     "Superior",
@@ -8924,7 +8747,7 @@
      "dominio": "concursosfcc.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "ES",
     "Medio",
@@ -8966,7 +8789,7 @@
      "dominio": "quadrix.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "ES",
     "Medio",
@@ -9007,7 +8830,7 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "ES",
     "Superior",
@@ -9163,7 +8986,7 @@
      "dominio": "irupi.es.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "ES",
     "Medio",
@@ -9215,7 +9038,7 @@
      "dominio": "institutoselecao.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "ES",
     "Fundamental",
@@ -9255,7 +9078,7 @@
      "dominio": "montanha.es.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "ES",
     "Fundamental",
@@ -9294,54 +9117,12 @@
      "dominio": "novavenecia.es.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "ES",
     "Superior",
     "Prefeitura",
     "Temporario"
-   ]
-  },
-  {
-   "orgao": "Prefeitura de Santa Maria de Jetibá",
-   "titulo": "Prefeitura de Santa Maria de Jetibá - ES abre concurso público com vagas para guardas municipais",
-   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-maria-de-jetiba-es-abre-concurso-publico-com-vagas-para-guardas-municipais",
-   "vagas": 30,
-   "vagas_texto": "30",
-   "salario_max": 3763.26,
-   "cargos": "Guarda Municipal",
-   "escolaridade": "Ensino Médio",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-10-21",
-   "inscricao_texto": "21/10/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "es"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL DE CONCURSO PÚBLICO Nº 1"
-   ],
-   "links_oficiais": [
-    {
-     "texto": "Prefeitura de Santa Maria de Jetibá",
-     "url": "https://portal.pmsmj.es.gov.br/",
-     "dominio": "portal.pmsmj.es.gov.br"
-    },
-    {
-     "texto": "www.institutoconsulplan.org.br",
-     "url": "https://www.institutoconsulplan.org.br/",
-     "dominio": "institutoconsulplan.org.br"
-    }
-   ],
-   "detalhado_em": "2026-10-18",
-   "tags": [
-    "ES",
-    "Medio",
-    "Policial",
-    "Prefeitura"
    ]
   },
   {
@@ -9373,7 +9154,7 @@
      "dominio": "portal.pmsmj.es.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "ES",
     "Fundamental",
@@ -9418,56 +9199,12 @@
      "dominio": "institutoreferencia.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "ES",
     "Fundamental",
     "Medio",
     "Superior"
-   ]
-  },
-  {
-   "orgao": "SEMMA - Secretaria Municipal de Meio Ambiente de Vila Velha",
-   "titulo": "Prefeitura de Vila Velha - ES republica edital de processo seletivo",
-   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vila-velha-es-republica-edital-de-processo-seletivo",
-   "vagas": 10,
-   "vagas_texto": "10",
-   "salario_max": 7579.95,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Técnico / Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-10-21",
-   "inscricao_texto": "21/10/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "es"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL Nº 001/2026 - SEMMA",
-    "EDITAL REPUBLICADO Nº 001/2026 - SEMMA"
-   ],
-   "links_oficiais": [
-    {
-     "texto": "Secretaria Municipal de Meio Ambiente (SEMMA)",
-     "url": "https://www.vilavelha.es.gov.br/",
-     "dominio": "vilavelha.es.gov.br"
-    },
-    {
-     "texto": "sistemas.vilavelha.es.gov.br",
-     "url": "https://sistemas.vilavelha.es.gov.br/processoseletivo/usuarios/login",
-     "dominio": "sistemas.vilavelha.es.gov.br"
-    }
-   ],
-   "detalhado_em": "2026-10-18",
-   "tags": [
-    "ES",
-    "Tecnico",
-    "Superior",
-    "Prefeitura",
-    "Temporario"
    ]
   },
   {
@@ -9509,7 +9246,7 @@
      "dominio": "fundacaofafipa.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "PR",
     "Medio",
@@ -9552,7 +9289,7 @@
      "dominio": "unioeste.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "PR",
     "Superior",
@@ -9594,7 +9331,7 @@
      "dominio": "fundacaofafipa.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "PR",
     "Fundamental",
@@ -9636,7 +9373,7 @@
      "dominio": "consulpam.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "PR",
     "Medio",
@@ -9678,7 +9415,7 @@
      "dominio": "fundacaofafipa.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "PR",
     "Fundamental",
@@ -9686,48 +9423,6 @@
     "Superior",
     "Fiscal",
     "Legislativo"
-   ]
-  },
-  {
-   "orgao": "CRQ-9ª Região - Conselho Regional de Química da 9ª Região do Paraná",
-   "titulo": "CRQ da 9ª Região do Paraná abre concurso público com salários de até R$ 10.727,55",
-   "link": "https://www.pciconcursos.com.br/noticias/crq-da-9-regiao-do-parana-abre-concurso-publico-com-salarios-de-ate-10727",
-   "vagas": 3,
-   "vagas_texto": "3",
-   "salario_max": 10727.55,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Médio / Técnico / Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-10-21",
-   "inscricao_texto": "21/10/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "pr"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL DE ABERTURA Nº 1/2026"
-   ],
-   "links_oficiais": [
-    {
-     "texto": "Conselho Regional de Química da 9ª Região do Paraná (CRQ-9ª Região)",
-     "url": "https://crq9.gov.br/",
-     "dominio": "crq9.gov.br"
-    },
-    {
-     "texto": "www.quadrix.org.br/login",
-     "url": "https://www.quadrix.org.br/login",
-     "dominio": "quadrix.org.br"
-    }
-   ],
-   "detalhado_em": "2026-10-18",
-   "tags": [
-    "PR",
-    "Medio",
-    "Tecnico",
-    "Superior"
    ]
   },
   {
@@ -9760,7 +9455,7 @@
      "dominio": "concursosfau.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "PR",
     "Fundamental",
@@ -9804,7 +9499,7 @@
      "dominio": "concursosfau.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "PR",
     "Medio",
@@ -9884,7 +9579,7 @@
      "dominio": "boavistadaaparecida.pr.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "PR",
     "Fundamental",
@@ -9928,7 +9623,7 @@
      "dominio": "fundacaofafipa.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "PR",
     "Medio",
@@ -9972,7 +9667,7 @@
      "dominio": "gamaconsult.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "PR",
     "Medio",
@@ -10054,7 +9749,7 @@
      "dominio": "lobato.pr.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "PR",
     "Fundamental",
@@ -10175,7 +9870,7 @@
      "dominio": "teixeirasoares.pr.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "PR",
     "Superior",
@@ -10214,7 +9909,7 @@
      "dominio": "tijucasdosul.pr.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "PR",
     "Tecnico",
@@ -10265,7 +9960,7 @@
      "dominio": "concursosfau.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "PR",
     "Fundamental",
@@ -10307,7 +10002,7 @@
      "dominio": "uem.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "PR",
     "Medio",
@@ -10346,7 +10041,7 @@
      "dominio": "uem.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "PR",
     "Medio",
@@ -10392,7 +10087,7 @@
      "dominio": "sistemas.uepg.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "PR",
     "Medio",
@@ -10429,7 +10124,7 @@
      "dominio": "unioeste.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "PR",
     "Medio",
@@ -10514,7 +10209,7 @@
      "dominio": "fundatec.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "RS",
     "Medio",
@@ -10552,7 +10247,7 @@
      "dominio": "marinha.mil.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "RS",
     "Superior",
@@ -10592,7 +10287,7 @@
      "dominio": "faurgs.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "RS",
     "Medio",
@@ -10678,7 +10373,7 @@
      "dominio": "institutolegalle.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "RS",
     "Fundamental",
@@ -10719,7 +10414,7 @@
      "dominio": "arvorezinha.rs.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "RS",
     "Superior",
@@ -10762,7 +10457,7 @@
      "dominio": "institutodom.com"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "RS",
     "Fundamental",
@@ -10883,12 +10578,49 @@
      "dominio": "forms.gle"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "RS",
     "Fundamental",
     "Prefeitura",
     "Temporario"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Canela",
+   "titulo": "Prefeitura de Canela - RS abre seleção para assistentes sociais",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-canela-rs-abre-selecao-para-assistentes-sociais",
+   "vagas": 4,
+   "vagas_texto": "4",
+   "salario_max": 7988.6,
+   "cargos": "Assistente Social I",
+   "escolaridade": "Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-10-28",
+   "inscricao_texto": "28/10/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "rs"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 34/2026 - PROCESSO SELETIVO SIMPLIFICADO Nº 02/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Prefeitura Municipal de Canela",
+     "url": "https://canela.rs.gov.br/sitenovo/",
+     "dominio": "canela.rs.gov.br"
+    }
+   ],
+   "detalhado_em": "2026-10-22",
+   "tags": [
+    "RS",
+    "Superior",
+    "Social",
+    "Prefeitura"
    ]
   },
   {
@@ -10920,7 +10652,7 @@
      "dominio": "capaodoleao.rs.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "RS",
     "Superior",
@@ -10963,7 +10695,7 @@
      "dominio": "institutofenix.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "RS",
     "Fundamental",
@@ -11008,7 +10740,7 @@
      "dominio": "legalleconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "RS",
     "Fundamental",
@@ -11052,7 +10784,7 @@
      "dominio": "legalleconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "RS",
     "Fundamental",
@@ -11135,7 +10867,7 @@
      "dominio": "legalleconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "RS",
     "Fundamental",
@@ -11260,7 +10992,7 @@
      "dominio": "objetivas.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "RS",
     "Fundamental",
@@ -11304,7 +11036,7 @@
      "dominio": "fundatec.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "RS",
     "Medio",
@@ -11346,7 +11078,7 @@
      "dominio": "legalleconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "RS",
     "Fundamental",
@@ -11354,45 +11086,6 @@
     "Tecnico",
     "Superior",
     "Prefeitura"
-   ]
-  },
-  {
-   "orgao": "Prefeitura de Marau",
-   "titulo": "Prefeitura de Marau - RS abre processo seletivo para diversos cargos",
-   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-marau-rs-abre-processo-seletivo-para-diversos-cargos",
-   "vagas": null,
-   "vagas_texto": "Várias",
-   "salario_max": null,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-10-21",
-   "inscricao_texto": "21/10/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "rs"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL DE SELEÇÃO Nº 245/2026"
-   ],
-   "links_oficiais": [
-    {
-     "texto": "Prefeitura Municipal de Marau",
-     "url": "https://www.pmmarau.com.br/",
-     "dominio": "pmmarau.com.br"
-    }
-   ],
-   "detalhado_em": "2026-10-18",
-   "tags": [
-    "RS",
-    "Fundamental",
-    "Medio",
-    "Superior",
-    "Prefeitura",
-    "Temporario"
    ]
   },
   {
@@ -11429,7 +11122,7 @@
      "dominio": "fundatec.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "RS",
     "Fundamental",
@@ -11473,7 +11166,7 @@
      "dominio": "fundacaolasalle.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "RS",
     "Fundamental",
@@ -11516,50 +11209,13 @@
      "dominio": "fundacaolasalle.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "RS",
     "Medio",
     "Tecnico",
     "Superior",
     "Prefeitura"
-   ]
-  },
-  {
-   "orgao": "Prefeitura de Nova Prata",
-   "titulo": "Prefeitura de Nova Prata - RS abre processo seletivo para serventes",
-   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-prata-rs-abre-processo-seletivo-para-serventes",
-   "vagas": 10,
-   "vagas_texto": "10",
-   "salario_max": 1924.18,
-   "cargos": "Servente",
-   "escolaridade": "Fundamental",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-10-21",
-   "inscricao_texto": "21/10/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "rs"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL Nº 140/2026"
-   ],
-   "links_oficiais": [
-    {
-     "texto": "Prefeitura de Nova Prata",
-     "url": "https://www.novaprata.rs.gov.br/",
-     "dominio": "novaprata.rs.gov.br"
-    }
-   ],
-   "detalhado_em": "2026-10-18",
-   "tags": [
-    "RS",
-    "Fundamental",
-    "Prefeitura",
-    "Temporario"
    ]
   },
   {
@@ -11596,7 +11252,7 @@
      "dominio": "objetivas.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "RS",
     "Fundamental",
@@ -11640,7 +11296,7 @@
      "dominio": "fundatec.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "RS",
     "Fundamental",
@@ -11679,7 +11335,7 @@
      "dominio": "pmpf.rs.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "RS",
     "Medio",
@@ -11721,7 +11377,7 @@
      "dominio": "fundatec.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "RS",
     "Superior",
@@ -11762,7 +11418,7 @@
      "dominio": "fundatec.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "RS",
     "Medio",
@@ -11804,7 +11460,7 @@
      "dominio": "fundacaolasalle.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "RS",
     "Medio",
@@ -11842,7 +11498,7 @@
      "dominio": "restingaseca.rs.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "RS",
     "Fundamental",
@@ -11881,7 +11537,7 @@
      "dominio": "saopedrodosul.atende.net"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "RS",
     "Medio",
@@ -11959,7 +11615,7 @@
      "dominio": "objetivas.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "RS",
     "Fundamental",
@@ -12004,7 +11660,7 @@
      "dominio": "processoseletivo.torres.rs.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "RS",
     "Medio",
@@ -12046,7 +11702,7 @@
      "dominio": "maservicospublicos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "RS",
     "Fundamental",
@@ -12054,6 +11710,47 @@
     "Tecnico",
     "Superior",
     "Prefeitura"
+   ]
+  },
+  {
+   "orgao": "TRT4 - Tribunal Regional do Trabalho da 4ª Região",
+   "titulo": "TRT4 - RS abre concurso público para analistas e técnicos judiciários",
+   "link": "https://www.pciconcursos.com.br/noticias/trt4-rs-abre-concurso-publico-para-analistas-e-tecnicos-judiciarios",
+   "vagas": null,
+   "vagas_texto": "Cadastro reserva",
+   "salario_max": 16040.88,
+   "cargos": "Analista Judiciário, Técnico Judiciário",
+   "escolaridade": "Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-10-26",
+   "inscricao_fim": "2026-11-25",
+   "inscricao_texto": "26/10 a 25/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "rs"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 01/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Tribunal Regional do Trabalho da 4ª Região (TRT4)",
+     "url": "https://www.trt4.jus.br/",
+     "dominio": "trt4.jus.br"
+    },
+    {
+     "texto": "Fundação Carlos Chagas",
+     "url": "https://www.concursosfcc.com.br/",
+     "dominio": "concursosfcc.com.br"
+    }
+   ],
+   "detalhado_em": "2026-10-22",
+   "tags": [
+    "RS",
+    "Superior",
+    "Tribunais"
    ]
   },
   {
@@ -12121,7 +11818,7 @@
      "dominio": "concursos.furb.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Superior",
@@ -12162,7 +11859,7 @@
      "dominio": "ameosc.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Fundamental",
@@ -12205,7 +11902,7 @@
      "dominio": "ibam-concursos.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Fundamental",
@@ -12249,7 +11946,7 @@
      "dominio": "amauc.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Superior",
@@ -12290,7 +11987,7 @@
      "dominio": "aprendersc.srv.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Fundamental",
@@ -12331,7 +12028,7 @@
      "dominio": "concursos.furb.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Medio",
@@ -12374,7 +12071,7 @@
      "dominio": "institutodom.com"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Superior",
@@ -12393,9 +12090,9 @@
    "cargos": "Auxiliar Administrativo",
    "escolaridade": "Ensino Médio",
    "status": "aberto",
-   "inscricao_inicio": "2026-10-22",
+   "inscricao_inicio": null,
    "inscricao_fim": "2026-11-08",
-   "inscricao_texto": "22/10 a 08/11/2026",
+   "inscricao_texto": "08/11/2026",
    "publicado": null,
    "nacional": false,
    "ufs": [
@@ -12468,7 +12165,7 @@
      "dominio": "institutoaocp.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Medio",
@@ -12551,51 +12248,13 @@
      "dominio": "portal.actio.srv.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Medio",
     "Tecnico",
     "Superior",
     "Saude"
-   ]
-  },
-  {
-   "orgao": "Consórcio Intermunicipal de Serviços de Acolhimento da Região da AMURC",
-   "titulo": "Consórcio Intermunicipal da Região da AMURC - SC abre processo seletivo para diversos níveis",
-   "link": "https://www.pciconcursos.com.br/noticias/consorcio-intermunicipal-da-regiao-da-amurc-sc-abre-processo-seletivo-para-diversos-niveis",
-   "vagas": 9,
-   "vagas_texto": "9",
-   "salario_max": 4902.94,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-10-21",
-   "inscricao_texto": "21/10/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "sc"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL DE PROCESSO SELETIVO Nº 02/2026"
-   ],
-   "links_oficiais": [
-    {
-     "texto": "www.egem.org.br",
-     "url": "https://www.egem.org.br/",
-     "dominio": "egem.org.br"
-    }
-   ],
-   "detalhado_em": "2026-10-18",
-   "tags": [
-    "SC",
-    "Fundamental",
-    "Medio",
-    "Superior",
-    "Temporario"
    ]
   },
   {
@@ -12632,7 +12291,7 @@
      "dominio": "amauc.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Superior",
@@ -12668,7 +12327,7 @@
      "dominio": "fahece.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Superior",
@@ -12704,7 +12363,7 @@
      "dominio": "fahece.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Medio",
@@ -12740,155 +12399,10 @@
      "dominio": "fahece.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Medio"
-   ]
-  },
-  {
-   "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
-   "titulo": "FAHECE - SC abre processo seletivo para Enfermeiro I no CEPON de Florianópolis",
-   "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-enfermeiro-i-no-cepon-de-florianopolis",
-   "vagas": 1,
-   "vagas_texto": "1",
-   "salario_max": 5001.11,
-   "cargos": "Enfermeiro I",
-   "escolaridade": "Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-10-21",
-   "inscricao_texto": "21/10/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "sc"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL DE PROCESSO SELETIVO Nº 525/26"
-   ],
-   "links_oficiais": [
-    {
-     "texto": "FAHECE",
-     "url": "https://www.fahece.org.br/",
-     "dominio": "fahece.org.br"
-    }
-   ],
-   "detalhado_em": "2026-10-19",
-   "tags": [
-    "SC",
-    "Superior",
-    "Saude",
-    "Temporario"
-   ]
-  },
-  {
-   "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
-   "titulo": "FAHECE - SC abre seleção para rádio operador no SAMU em Balneário Camboriú",
-   "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-selecao-para-radio-operador-no-samu-em-balneario-camboriu",
-   "vagas": 3,
-   "vagas_texto": "3",
-   "salario_max": 2808.42,
-   "cargos": "Rádio Operador(a)",
-   "escolaridade": "Ensino Médio",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-10-21",
-   "inscricao_texto": "21/10/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "sc"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL DE PROCESSO SELETIVO Nº 529/26"
-   ],
-   "links_oficiais": [
-    {
-     "texto": "FAHECE",
-     "url": "https://www.fahece.org.br/trabalhe-conosco",
-     "dominio": "fahece.org.br"
-    }
-   ],
-   "detalhado_em": "2026-10-19",
-   "tags": [
-    "SC",
-    "Medio"
-   ]
-  },
-  {
-   "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
-   "titulo": "FAHECE - SC abre seleção para Técnico Auxiliar de Regulação Médica no SAMU de Florianópolis",
-   "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-selecao-para-tecnico-auxiliar-de-regulacao-medica-no-samu-de-florianopolis",
-   "vagas": 1,
-   "vagas_texto": "1",
-   "salario_max": 2499.35,
-   "cargos": "Técnico Auxiliar de Regulação Médica",
-   "escolaridade": "Ensino Médio",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-10-21",
-   "inscricao_texto": "21/10/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "sc"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL DE PROCESSO SELETIVO Nº 517/26"
-   ],
-   "links_oficiais": [
-    {
-     "texto": "FAHECE",
-     "url": "https://www.fahece.org.br/",
-     "dominio": "fahece.org.br"
-    }
-   ],
-   "detalhado_em": "2026-10-20",
-   "tags": [
-    "SC",
-    "Medio",
-    "Saude"
-   ]
-  },
-  {
-   "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
-   "titulo": "FAHECE - SC anuncia processo seletivo para Analista Administrativo I em Joinville",
-   "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-processo-seletivo-para-analista-administrativo-i-em-joinville",
-   "vagas": 1,
-   "vagas_texto": "1",
-   "salario_max": 4752.55,
-   "cargos": "Analista Administrativo I",
-   "escolaridade": "Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-10-21",
-   "inscricao_texto": "21/10/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "sc"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL DE PROCESSO SELETIVO Nº 523/26"
-   ],
-   "links_oficiais": [
-    {
-     "texto": "FAHECE",
-     "url": "https://www.fahece.org.br/",
-     "dominio": "fahece.org.br"
-    }
-   ],
-   "detalhado_em": "2026-10-20",
-   "tags": [
-    "SC",
-    "Superior",
-    "Administrativo",
-    "Temporario"
    ]
   },
   {
@@ -12928,6 +12442,116 @@
    ]
   },
   {
+   "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
+   "titulo": "FAHECE - SC abre processo seletivo para médicos reguladores das urgências no SAMU",
+   "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-medicos-reguladores-das-urgencias-no-samu",
+   "vagas": 3,
+   "vagas_texto": "3",
+   "salario_max": 138.9,
+   "cargos": "Médico Regulador das Urgências",
+   "escolaridade": "Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-10-22",
+   "inscricao_texto": "22/10/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO Nº 516/26"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "FAHECE",
+     "url": "https://www.fahece.org.br/",
+     "dominio": "fahece.org.br"
+    }
+   ],
+   "detalhado_em": "2026-10-22",
+   "tags": [
+    "SC",
+    "Superior",
+    "Saude",
+    "Temporario"
+   ]
+  },
+  {
+   "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
+   "titulo": "FAHECE - SC anuncia vaga para Médico do Trabalho em Florianópolis",
+   "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-vaga-para-medico-do-trabalho-em-florianopolis",
+   "vagas": 1,
+   "vagas_texto": "1",
+   "salario_max": 10516.15,
+   "cargos": "Médico do Trabalho",
+   "escolaridade": "Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-10-25",
+   "inscricao_texto": "25/10/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO Nº 524/26",
+    "ERRATA"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "FAHECE",
+     "url": "https://www.fahece.org.br/",
+     "dominio": "fahece.org.br"
+    }
+   ],
+   "detalhado_em": "2026-10-22",
+   "tags": [
+    "SC",
+    "Superior",
+    "Saude"
+   ]
+  },
+  {
+   "orgao": "FAHECE - HEMOSC",
+   "titulo": "FAHECE - SC anuncia processo seletivo para Coordenador de Suprimentos I no HEMOSC de Florianópolis",
+   "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-processo-seletivo-para-coordenador-de-suprimentos-i-no-hemosc-de-florianopolis",
+   "vagas": 1,
+   "vagas_texto": "1",
+   "salario_max": 8895.51,
+   "cargos": "Coordenador de Suprimentos I",
+   "escolaridade": "Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-10-23",
+   "inscricao_texto": "23/10/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO Nº 518/26"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "FAHECE",
+     "url": "https://www.fahece.org.br/",
+     "dominio": "fahece.org.br"
+    }
+   ],
+   "detalhado_em": "2026-10-22",
+   "tags": [
+    "SC",
+    "Superior",
+    "Temporario"
+   ]
+  },
+  {
    "orgao": "FCC - Fundação Catarinense de Cultura",
    "titulo": "Fundação Catarinense de Cultura - SC abre processo seletivo para Analista Contador",
    "link": "https://www.pciconcursos.com.br/noticias/fundacao-catarinense-de-cultura-sc-abre-processo-seletivo-para-analista-contador",
@@ -12956,7 +12580,7 @@
      "dominio": "cultura.sc.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Superior",
@@ -12999,7 +12623,7 @@
      "dominio": "omniinstituto.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Fundamental",
@@ -13086,7 +12710,7 @@
      "dominio": "concursos.furb.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Superior",
@@ -13128,7 +12752,7 @@
      "dominio": "institutotupy.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Fundamental",
@@ -13214,7 +12838,7 @@
      "dominio": "institutodom.com"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Fundamental",
@@ -13259,7 +12883,7 @@
      "dominio": "acesseconcursossc.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Fundamental",
@@ -13304,7 +12928,7 @@
      "dominio": "ibam-concursos.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Medio",
@@ -13353,7 +12977,7 @@
      "dominio": "2026pseducacamposnovos.fepese.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Fundamental",
@@ -13396,7 +13020,7 @@
      "dominio": "objetivas.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Medio",
@@ -13437,48 +13061,11 @@
      "dominio": "2026pschapecoinstrutor.fepese.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Medio",
     "Superior",
-    "Prefeitura"
-   ]
-  },
-  {
-   "orgao": "Prefeitura de Cordilheira Alta",
-   "titulo": "Prefeitura de Cordilheira Alta - SC abre seleção para fisioterapeuta",
-   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cordilheira-alta-sc-abre-selecao-para-fisioterapeuta",
-   "vagas": 1,
-   "vagas_texto": "1",
-   "salario_max": 4253.71,
-   "cargos": "Fisioterapeuta",
-   "escolaridade": "Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-10-21",
-   "inscricao_texto": "21/10/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "sc"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL DE PROCESSO SELETIVO SIMPLIFICADO N. 07/2026"
-   ],
-   "links_oficiais": [
-    {
-     "texto": "Prefeitura de Cordilheira Alta",
-     "url": "https://www.pmcordi.sc.gov.br/",
-     "dominio": "pmcordi.sc.gov.br"
-    }
-   ],
-   "detalhado_em": "2026-10-18",
-   "tags": [
-    "SC",
-    "Superior",
-    "Saude",
     "Prefeitura"
    ]
   },
@@ -13517,7 +13104,7 @@
      "dominio": "ameosc.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Fundamental",
@@ -13563,7 +13150,7 @@
      "dominio": "ameosc.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Fundamental",
@@ -13602,7 +13189,7 @@
      "dominio": "fraiburgo.atende.net"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Superior",
@@ -13645,7 +13232,7 @@
      "dominio": "ibam-concursos.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Fundamental",
@@ -13689,7 +13276,7 @@
      "dominio": "institutofucap.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Medio",
@@ -13732,7 +13319,7 @@
      "dominio": "institutotupy.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Medio",
@@ -13776,7 +13363,7 @@
      "dominio": "acesseconcursossc.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Fundamental",
@@ -13820,7 +13407,7 @@
      "dominio": "institutofucap.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Medio",
@@ -13862,7 +13449,7 @@
      "dominio": "portal.actio.srv.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Fundamental",
@@ -13909,7 +13496,7 @@
      "dominio": "ameosc.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Fundamental",
@@ -13954,7 +13541,7 @@
      "dominio": "univali.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Medio",
@@ -13998,7 +13585,7 @@
      "dominio": "concursos.furb.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Fundamental",
@@ -14088,7 +13675,7 @@
      "dominio": "portal.actio.srv.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Fundamental",
@@ -14097,6 +13684,50 @@
     "Superior",
     "Prefeitura",
     "Temporario"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Luiz Alves",
+   "titulo": "Prefeitura de Luiz Alves - SC abre concurso público com salários de até R$ 8.889,30",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-luiz-alves-sc-abre-concurso-publico-com-salarios-de-ate-8889",
+   "vagas": 63,
+   "vagas_texto": "63",
+   "salario_max": 8889.3,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-10-27",
+   "inscricao_fim": "2026-11-23",
+   "inscricao_texto": "27/10 a 23/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 08/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Município de Luiz Alves",
+     "url": "https://luizalves.atende.net/cidadao/pagina/concursos-publicos-e-processos-seletivos",
+     "dominio": "luizalves.atende.net"
+    },
+    {
+     "texto": "www.univali.br/concursos",
+     "url": "https://www.univali.br/concursos",
+     "dominio": "univali.br"
+    }
+   ],
+   "detalhado_em": "2026-10-22",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
    ]
   },
   {
@@ -14133,7 +13764,7 @@
      "dominio": "omniinstituto.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Fundamental",
@@ -14179,7 +13810,7 @@
      "dominio": "concursos.furb.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Fundamental",
@@ -14223,7 +13854,7 @@
      "dominio": "aprendersc.srv.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Fundamental",
@@ -14306,7 +13937,7 @@
      "dominio": "2026pseducapinhalzinho.fepese.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Medio",
@@ -14350,7 +13981,7 @@
      "dominio": "portal.sctreinamentos.selecao.site"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Medio",
@@ -14389,49 +14020,11 @@
      "dominio": "castellobranco.sc.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Superior",
     "Engenharia",
-    "Prefeitura",
-    "Temporario"
-   ]
-  },
-  {
-   "orgao": "Prefeitura de Rio das Antas",
-   "titulo": "Prefeitura de Rio das Antas - SC abre processo seletivo para o cargo de Nutricionista",
-   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-das-antas-sc-abre-processo-seletivo-para-o-cargo-de-nutricionista",
-   "vagas": null,
-   "vagas_texto": "Cadastro reserva",
-   "salario_max": 2787.92,
-   "cargos": "Nutricionista",
-   "escolaridade": "Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-10-21",
-   "inscricao_texto": "21/10/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "sc"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL DE PROCESSO SELETIVO DE TÍTULOS Nº 0012/2026"
-   ],
-   "links_oficiais": [
-    {
-     "texto": "Município de Rio das Antas",
-     "url": "https://www.riodasantas.sc.gov.br/",
-     "dominio": "riodasantas.sc.gov.br"
-    }
-   ],
-   "detalhado_em": "2026-10-18",
-   "tags": [
-    "SC",
-    "Superior",
-    "Saude",
     "Prefeitura",
     "Temporario"
    ]
@@ -14470,7 +14063,7 @@
      "dominio": "portal.actio.srv.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Medio",
@@ -14517,7 +14110,7 @@
      "dominio": "institutolegalle.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Fundamental",
@@ -14562,7 +14155,7 @@
      "dominio": "portal.sctreinamentos.selecao.site"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Fundamental",
@@ -14607,7 +14200,7 @@
      "dominio": "concursos.unioeste.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Fundamental",
@@ -14651,7 +14244,7 @@
      "dominio": "institutofenix.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Fundamental",
@@ -14695,7 +14288,7 @@
      "dominio": "institutodom.com"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Fundamental",
@@ -14743,7 +14336,7 @@
      "dominio": "acesseconcursossc.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Fundamental",
@@ -14788,50 +14381,12 @@
      "dominio": "2026cpeducaeesj.fepese.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Superior",
     "Educacao",
     "Prefeitura"
-   ]
-  },
-  {
-   "orgao": "Prefeitura de São Lourenço do Oeste",
-   "titulo": "Município de São Lourenço do Oeste - SC abre processo seletivo com vagas imediatas e cadastro de reserva",
-   "link": "https://www.pciconcursos.com.br/noticias/municipio-de-sao-lourenco-do-oeste-sc-abre-processo-seletivo-com-vagas-imediatas-e-cadastro-de-reserva",
-   "vagas": 5,
-   "vagas_texto": "5",
-   "salario_max": 5458.21,
-   "cargos": "Orientador Social, Facilitador de Oficina",
-   "escolaridade": "Médio / Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-10-21",
-   "inscricao_texto": "21/10/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "sc"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL DE PROCESSO SELETIVO Nº 11/2026"
-   ],
-   "links_oficiais": [
-    {
-     "texto": "Município de São Lourenço do Oeste",
-     "url": "https://saolourenco.sc.gov.br/",
-     "dominio": "saolourenco.sc.gov.br"
-    }
-   ],
-   "detalhado_em": "2026-10-18",
-   "tags": [
-    "SC",
-    "Medio",
-    "Superior",
-    "Prefeitura",
-    "Temporario"
    ]
   },
   {
@@ -14868,7 +14423,7 @@
      "dominio": "institutofucap.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Fundamental",
@@ -14914,7 +14469,7 @@
      "dominio": "ibam-concursos.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Fundamental",
@@ -14957,7 +14512,7 @@
      "dominio": "univali.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Medio",
@@ -15002,7 +14557,7 @@
      "dominio": "legalleconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Fundamental",
@@ -15041,7 +14596,7 @@
      "dominio": "portal.sctreinamentos.selecao.site"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Fundamental",
@@ -15087,7 +14642,7 @@
      "dominio": "portal.sctreinamentos.selecao.site"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Fundamental",
@@ -15132,7 +14687,7 @@
      "dominio": "institutofenix.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Fundamental",
@@ -15185,7 +14740,7 @@
      "dominio": "portal.sctreinamentos.selecao.site"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Fundamental",
@@ -15231,7 +14786,7 @@
      "dominio": "sigrhportal.sea.sc.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Medio",
@@ -15273,7 +14828,7 @@
      "dominio": "sigrhportal.sea.sc.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Tecnico",
@@ -15301,7 +14856,7 @@
    ],
    "fonte": "pci",
    "editais": [
-    "EDITAL Nº 33/2026"
+    "EDITAL DE ABERTURA Nº 33/2026"
    ],
    "links_oficiais": [
     {
@@ -15315,7 +14870,7 @@
      "dominio": "conhecimento.fgv.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SC",
     "Superior",
@@ -15399,7 +14954,7 @@
      "dominio": "institutoibest.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "DF",
     "Superior",
@@ -15520,7 +15075,7 @@
      "dominio": "institutoverbena.ufg.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "GO",
     "Medio",
@@ -15565,7 +15120,7 @@
      "dominio": "avalia.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "GO",
     "Medio",
@@ -15609,7 +15164,7 @@
      "dominio": "concursosfcc.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "GO",
     "Medio",
@@ -15645,7 +15200,7 @@
      "dominio": "institutoconsulplan.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "GO",
     "Fundamental",
@@ -15691,7 +15246,7 @@
      "dominio": "institutoverbena.ufg.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "GO",
     "Fundamental",
@@ -15735,7 +15290,7 @@
      "dominio": "itame.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "GO",
     "Fundamental",
@@ -15819,7 +15374,7 @@
      "dominio": "itame.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "GO",
     "Medio",
@@ -15861,7 +15416,7 @@
      "dominio": "aroeira.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "GO",
     "Medio",
@@ -15903,7 +15458,7 @@
      "dominio": "itame.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "GO",
     "Medio",
@@ -15946,7 +15501,7 @@
      "dominio": "unirv.edu.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "GO",
     "Superior",
@@ -15985,7 +15540,7 @@
      "dominio": "santaritadoaraguaia.go.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "GO",
     "Fundamental",
@@ -16030,7 +15585,7 @@
      "dominio": "institutoverbena.ufg.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "GO",
     "Fundamental",
@@ -16073,7 +15628,7 @@
      "dominio": "app.ganzaroliassessoria.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "GO",
     "Fundamental",
@@ -16117,7 +15672,7 @@
      "dominio": "itame.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "GO",
     "Superior",
@@ -16148,7 +15703,7 @@
     "SUSPENSÃO"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "GO",
     "Fundamental",
@@ -16193,7 +15748,7 @@
      "dominio": "aplims.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MS",
     "Medio",
@@ -16212,9 +15767,9 @@
    "cargos": "Vários Cargos",
    "escolaridade": "Fundamental / Médio / Técnico / Superior",
    "status": "aberto",
-   "inscricao_inicio": "2026-10-22",
+   "inscricao_inicio": null,
    "inscricao_fim": "2026-11-04",
-   "inscricao_texto": "22/10 a 04/11/2026",
+   "inscricao_texto": "04/11/2026",
    "publicado": null,
    "nacional": false,
    "ufs": [
@@ -16278,7 +15833,7 @@
      "dominio": "guialopesdalaguna.ms.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MS",
     "Fundamental",
@@ -16356,7 +15911,7 @@
      "dominio": "abconcursospublicos.org"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MS",
     "Fundamental",
@@ -16395,7 +15950,7 @@
      "dominio": "altotaquari.mt.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MT",
     "Fundamental",
@@ -16439,7 +15994,7 @@
      "dominio": "aigle.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MT",
     "Medio",
@@ -16494,6 +16049,44 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Carlinda",
+   "titulo": "Prefeitura de Carlinda - MT abre processo seletivo para professores",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-carlinda-mt-abre-processo-seletivo-para-professores",
+   "vagas": 26,
+   "vagas_texto": "26",
+   "salario_max": 4413.91,
+   "cargos": "Professor Substituto, Pedagogo",
+   "escolaridade": "Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-11-23",
+   "inscricao_fim": "2026-12-01",
+   "inscricao_texto": "23/11 a 01/12/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "mt"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE SELEÃO Nº 002/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Prefeitura Municipal de Carlinda",
+     "url": "https://www.carlinda.mt.gov.br/",
+     "dominio": "carlinda.mt.gov.br"
+    }
+   ],
+   "detalhado_em": "2026-10-22",
+   "tags": [
+    "MT",
+    "Superior",
+    "Educacao",
+    "Prefeitura",
+    "Temporario"
+   ]
+  },
+  {
    "orgao": "Prefeitura de Colniza",
    "titulo": "Prefeitura de Colniza - MT abre processo seletivo para cadastro de reserva em várias áreas",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-colniza-mt-abre-processo-seletivo-para-cadastro-de-reserva-em-varias-areas",
@@ -16527,7 +16120,7 @@
      "dominio": "portal.imperioconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MT",
     "Fundamental",
@@ -16567,7 +16160,7 @@
      "dominio": "conquistadoeste.mt.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MT",
     "Medio",
@@ -16587,9 +16180,9 @@
    "cargos": "Vários Cargos",
    "escolaridade": "Fundamental / Médio / Superior",
    "status": "aberto",
-   "inscricao_inicio": "2026-10-22",
+   "inscricao_inicio": null,
    "inscricao_fim": "2026-10-30",
-   "inscricao_texto": "22 a 30/10/2026",
+   "inscricao_texto": "30/10/2026",
    "publicado": null,
    "nacional": false,
    "ufs": [
@@ -16612,7 +16205,7 @@
      "dominio": "inepam.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MT",
     "Fundamental",
@@ -16662,6 +16255,51 @@
     "Fundamental",
     "Medio",
     "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Nova Xavantina",
+   "titulo": "Prefeitura de Nova Xavantina - MT abre processo seletivo com vagas na educação",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-xavantina-mt-abre-processo-seletivo-com-vagas-na-educacao",
+   "vagas": 137,
+   "vagas_texto": "137",
+   "salario_max": 5786.28,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-10-28",
+   "inscricao_fim": "2026-11-13",
+   "inscricao_texto": "28/10 a 13/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "mt"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO 002/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Prefeitura Municipal de Nova Xavantina",
+     "url": "https://www.novaxavantina.mt.gov.br/",
+     "dominio": "novaxavantina.mt.gov.br"
+    },
+    {
+     "texto": "site de inscrições",
+     "url": "https://portal.assepublica.selecao.site/edital",
+     "dominio": "portal.assepublica.selecao.site"
+    }
+   ],
+   "detalhado_em": "2026-10-22",
+   "tags": [
+    "MT",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Educacao",
     "Prefeitura",
     "Temporario"
    ]
@@ -16735,7 +16373,7 @@
      "dominio": "novomundo.mt.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MT",
     "Fundamental",
@@ -16820,7 +16458,7 @@
      "dominio": "concursos.ufmt.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MT",
     "Superior",
@@ -16859,7 +16497,7 @@
      "dominio": "concursos.ufmt.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MT",
     "Fundamental",
@@ -16905,7 +16543,7 @@
      "dominio": "cesgranrio.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MT",
     "Superior"
@@ -16946,7 +16584,7 @@
      "dominio": "institutoconsulplan.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "AM",
     "Medio",
@@ -17028,7 +16666,7 @@
      "dominio": "riobranco.ac.leg.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "AC",
     "Medio",
@@ -17074,7 +16712,7 @@
      "dominio": "cebraspe.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "AC",
     "Superior",
@@ -17159,7 +16797,7 @@
      "dominio": "quadrix.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "AP",
     "Medio",
@@ -17203,7 +16841,7 @@
      "dominio": "concursopublico.ifap.edu.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "AP",
     "Medio",
@@ -17247,7 +16885,7 @@
      "dominio": "idcap.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "AP",
     "Medio",
@@ -17290,7 +16928,7 @@
      "dominio": "idcap.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "AP",
     "Medio",
@@ -17362,7 +17000,7 @@
    ],
    "fonte": "pci",
    "editais": [
-    "EDITAL Nº 01/2026"
+    "EDITAL DE ABERTURA Nº 01/2026"
    ],
    "links_oficiais": [
     {
@@ -17376,7 +17014,7 @@
      "dominio": "conhecimento.fgv.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "AP",
     "Superior",
@@ -17424,7 +17062,7 @@
      "dominio": "fundacaocetap.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "PA",
     "Medio",
@@ -17472,7 +17110,7 @@
      "dominio": "consulplan.net"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "PA",
     "Medio",
@@ -17511,7 +17149,7 @@
      "dominio": "institutoaocp.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "PA",
     "Medio",
@@ -17555,7 +17193,7 @@
      "dominio": "institutovicentenelson.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "PA",
     "Fundamental",
@@ -17575,9 +17213,9 @@
    "cargos": "Técnico em Enfermagem",
    "escolaridade": "Ensino Técnico",
    "status": "aberto",
-   "inscricao_inicio": "2026-10-22",
+   "inscricao_inicio": null,
    "inscricao_fim": "2026-10-26",
-   "inscricao_texto": "22 a 26/10/2026",
+   "inscricao_texto": "26/10/2026",
    "publicado": null,
    "nacional": false,
    "ufs": [
@@ -17635,7 +17273,7 @@
      "dominio": "conhecimento.fgv.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "PA",
     "Medio",
@@ -17672,7 +17310,7 @@
      "dominio": "concursosfcc.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "PA",
     "Medio",
@@ -17717,7 +17355,7 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "RO",
     "Fundamental",
@@ -17763,7 +17401,7 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "RO",
     "Fundamental",
@@ -17809,7 +17447,7 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "RO",
     "Medio",
@@ -17853,7 +17491,7 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "RO",
     "Medio",
@@ -17896,54 +17534,12 @@
      "dominio": "quadrix.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "TO",
     "Medio",
     "Superior",
     "Engenharia"
-   ]
-  },
-  {
-   "orgao": "SEFAZ - Secretaria de Estado da Fazenda de Alagoas",
-   "titulo": "Sefaz - AL abre concurso público com vagas para o cargo de Auditor Fiscal",
-   "link": "https://www.pciconcursos.com.br/noticias/sefaz-al-abre-concurso-publico-com-vagas-para-o-cargo-de-auditor-fiscal",
-   "vagas": 40,
-   "vagas_texto": "40",
-   "salario_max": 25270.68,
-   "cargos": "Auditor Fiscal da Administração Tributária Estadual",
-   "escolaridade": "Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-10-21",
-   "inscricao_texto": "21/10/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "al"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL Nº 1",
-    "EDITAL Nº 1 - COMPLETO"
-   ],
-   "links_oficiais": [
-    {
-     "texto": "Secretaria de Estado da Fazenda de Alagoas (Sefaz-AL)",
-     "url": "https://www.sefaz.al.gov.br/",
-     "dominio": "sefaz.al.gov.br"
-    },
-    {
-     "texto": "www.cebraspe.org.br/concursos/sefaz_al_26",
-     "url": "https://www.cebraspe.org.br/concursos/sefaz_al_26",
-     "dominio": "cebraspe.org.br"
-    }
-   ],
-   "detalhado_em": "2026-10-18",
-   "tags": [
-    "AL",
-    "Superior",
-    "Fiscal"
    ]
   },
   {
@@ -17987,7 +17583,7 @@
      "dominio": "cebraspe.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "AL",
     "Medio",
@@ -18030,7 +17626,7 @@
      "dominio": "funvapi.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "AL",
     "Fundamental",
@@ -18038,6 +17634,48 @@
     "Tecnico",
     "Superior",
     "Prefeitura"
+   ]
+  },
+  {
+   "orgao": "SEFAZ - Secretaria de Estado da Fazenda de Alagoas",
+   "titulo": "Sefaz - AL abre concurso público com vagas para o cargo de Auditor Fiscal",
+   "link": "https://www.pciconcursos.com.br/noticias/sefaz-al-abre-concurso-publico-com-vagas-para-o-cargo-de-auditor-fiscal",
+   "vagas": 40,
+   "vagas_texto": "40",
+   "salario_max": 25270.68,
+   "cargos": "Auditor Fiscal da Administração Tributária Estadual",
+   "escolaridade": "Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-10-21",
+   "inscricao_texto": "21/10/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "al"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 1",
+    "EDITAL Nº 1 - COMPLETO"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Secretaria de Estado da Fazenda de Alagoas (Sefaz-AL)",
+     "url": "https://www.sefaz.al.gov.br/",
+     "dominio": "sefaz.al.gov.br"
+    },
+    {
+     "texto": "www.cebraspe.org.br/concursos/sefaz_al_26",
+     "url": "https://www.cebraspe.org.br/concursos/sefaz_al_26",
+     "dominio": "cebraspe.org.br"
+    }
+   ],
+   "detalhado_em": "2026-10-22",
+   "tags": [
+    "AL",
+    "Superior",
+    "Fiscal"
    ]
   },
   {
@@ -18074,7 +17712,7 @@
      "dominio": "conhecimento.fgv.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "BA",
     "Medio",
@@ -18163,7 +17801,7 @@
      "dominio": "notusinstituto.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "BA",
     "Fundamental",
@@ -18230,7 +17868,7 @@
      "dominio": "marinha.mil.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "BA",
     "Superior",
@@ -18273,7 +17911,7 @@
      "dominio": "passaportepdh.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "BA",
     "Medio",
@@ -18315,7 +17953,7 @@
      "dominio": "concursos.msconc.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "BA",
     "Fundamental",
@@ -18359,7 +17997,7 @@
      "dominio": "concursos.msconc.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "BA",
     "Fundamental",
@@ -18403,7 +18041,7 @@
      "dominio": "institutodom.com"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "BA",
     "Medio",
@@ -18451,7 +18089,7 @@
      "dominio": "planejarconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "BA",
     "Fundamental",
@@ -18496,7 +18134,7 @@
      "dominio": "cesgranrio.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "BA",
     "Superior"
@@ -18537,7 +18175,7 @@
      "dominio": "universidadepatativa.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "CE",
     "Fundamental",
@@ -18581,7 +18219,7 @@
      "dominio": "inbrasp.org"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "CE",
     "Fundamental",
@@ -18619,7 +18257,7 @@
      "dominio": "fundacaocetrede.ufc.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "CE",
     "Fundamental",
@@ -18662,7 +18300,7 @@
      "dominio": "centraldeconcursos.fcpc.ufc.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "CE",
     "Fundamental",
@@ -18706,7 +18344,7 @@
      "dominio": "centraldeconcursos.fcpc.ufc.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "CE",
     "Medio",
@@ -18744,7 +18382,7 @@
      "dominio": "itarema.ce.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "CE",
     "Fundamental",
@@ -18790,7 +18428,7 @@
      "dominio": "institutoseletiva.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "CE",
     "Fundamental",
@@ -18836,7 +18474,7 @@
      "dominio": "fsaduconcursos.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MA",
     "Fundamental",
@@ -18881,7 +18519,7 @@
      "dominio": "prosel.seap.ma.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MA",
     "Superior",
@@ -18925,7 +18563,7 @@
      "dominio": "prosel.seap.ma.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "MA",
     "Medio",
@@ -18961,7 +18599,7 @@
      "dominio": "concursosfcc.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "PB",
     "Medio",
@@ -19046,7 +18684,7 @@
      "dominio": "sistemas.cpcon.uepb.edu.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "PB",
     "Fundamental",
@@ -19093,7 +18731,7 @@
      "dominio": "funvapi.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "PB",
     "Medio",
@@ -19226,7 +18864,7 @@
      "dominio": "apiceconsultoria.com"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "PB",
     "Medio",
@@ -19268,7 +18906,7 @@
      "dominio": "concursos.facetconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "PB",
     "Fundamental",
@@ -19394,7 +19032,7 @@
      "dominio": "institutoaocp.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "PE",
     "Medio",
@@ -19433,7 +19071,7 @@
      "dominio": "institutoaocp.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "PE",
     "Medio",
@@ -19477,7 +19115,7 @@
      "dominio": "ibam-concursos.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "PE",
     "Superior",
@@ -19519,7 +19157,7 @@
      "dominio": "idhtec.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "PE",
     "Fundamental",
@@ -19565,7 +19203,7 @@
      "dominio": "concursos.facetconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "PE",
     "Fundamental",
@@ -19610,7 +19248,7 @@
      "dominio": "igeduc.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "PE",
     "Medio",
@@ -19654,7 +19292,7 @@
      "dominio": "igeduc.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "PE",
     "Medio",
@@ -19697,7 +19335,7 @@
      "dominio": "fundatec.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "PE",
     "Medio",
@@ -19734,7 +19372,7 @@
      "dominio": "cebraspe.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "PE",
     "Superior",
@@ -19775,7 +19413,7 @@
      "dominio": "upenet.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "PE",
     "Superior",
@@ -19793,9 +19431,9 @@
    "cargos": "Vários Cargos",
    "escolaridade": "Médio / Superior",
    "status": "aberto",
-   "inscricao_inicio": "2026-10-22",
+   "inscricao_inicio": null,
    "inscricao_fim": "2026-11-13",
-   "inscricao_texto": "22/10 a 13/11/2026",
+   "inscricao_texto": "13/11/2026",
    "publicado": null,
    "nacional": false,
    "ufs": [
@@ -19902,7 +19540,7 @@
      "dominio": "legatus.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "PI",
     "Fundamental",
@@ -19946,7 +19584,7 @@
      "dominio": "consep-pi.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "PI",
     "Superior",
@@ -20076,7 +19714,7 @@
      "dominio": "institutoibed.org"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "PI",
     "Fundamental",
@@ -20164,7 +19802,7 @@
      "dominio": "institutoibed.org"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "PI",
     "Fundamental",
@@ -20254,7 +19892,7 @@
      "dominio": "igeduc.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "RN",
     "Superior",
@@ -20297,7 +19935,7 @@
      "dominio": "igeduc.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "RN",
     "Superior",
@@ -20339,7 +19977,7 @@
      "dominio": "comperve.ufrn.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "RN",
     "Medio",
@@ -20382,7 +20020,7 @@
      "dominio": "igeduc.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "RN",
     "Fundamental",
@@ -20424,7 +20062,7 @@
      "dominio": "igeduc.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "RN",
     "Fundamental",
@@ -20469,7 +20107,7 @@
      "dominio": "concursos.facetconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "RN",
     "Fundamental",
@@ -20512,7 +20150,7 @@
      "dominio": "igeduc.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "RN",
     "Medio",
@@ -20554,7 +20192,7 @@
      "dominio": "igeduc.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "RN",
     "Medio",
@@ -20592,7 +20230,7 @@
      "dominio": "marcelinovieira.rn.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "RN",
     "Medio",
@@ -20637,7 +20275,7 @@
      "dominio": "igeduc.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "RN",
     "Fundamental",
@@ -20680,7 +20318,7 @@
      "dominio": "institutoconsulplan.org.br"
     }
    ],
-   "detalhado_em": "2026-10-18",
+   "detalhado_em": "2026-10-22",
    "tags": [
     "SE",
     "Medio",
