@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-23T14:03:17+00:00",
+ "atualizado": "2026-10-23T18:53:21+00:00",
  "fontes": {
   "pci": "https://www.pciconcursos.com.br/concursos/",
   "cnb": "https://concursosnobrasil.com"
@@ -38,8 +38,8 @@
  "concursos": [
   {
    "orgao": "Câmara dos Deputados",
-   "titulo": "Câmara dos Deputados - DF abre concurso público para analistas legislativos",
-   "link": "https://www.pciconcursos.com.br/noticias/camara-dos-deputados-df-abre-concurso-publico-para-analistas-legislativos",
+   "titulo": "Câmara dos Deputados - DF retifica concurso público para analistas legislativos",
+   "link": "https://www.pciconcursos.com.br/noticias/camara-dos-deputados-df-retifica-concurso-publico-para-analistas-legislativos",
    "vagas": 184,
    "vagas_texto": "184",
    "salario_max": 32070.88,
@@ -56,7 +56,10 @@
    ],
    "fonte": "pci",
    "editais": [
-    "EDITAL Nº 1"
+    "EDITAL Nº 1",
+    "RETIFICAÇÃO DE 15 DE OUTUBRO DE 2026",
+    "RETIFICAÇÃO DE 21 DE OUTUBRO DE 2026",
+    "EDITAL RETIFICADO Nº 1"
    ],
    "links_oficiais": [
     {
@@ -70,7 +73,7 @@
      "dominio": "cebraspe.org.br"
     }
    ],
-   "detalhado_em": "2026-10-22",
+   "detalhado_em": "2026-10-23",
    "tags": [
     "DF",
     "Superior",
@@ -1817,6 +1820,44 @@
    ]
   },
   {
+   "orgao": "HCFMRP-USP - Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo",
+   "titulo": "HCFMRP-USP - SP abre concursos públicos para Fisioterapeuta e Terapeuta Ocupacional",
+   "link": "https://www.pciconcursos.com.br/noticias/hcfmrp-usp-sp-abre-concursos-publicos-para-fisioterapeuta-e-terapeuta-ocupacional",
+   "vagas": 2,
+   "vagas_texto": "2",
+   "salario_max": 2978.36,
+   "cargos": "Agente Técnico de Assistência à Saúde",
+   "escolaridade": "Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-10-26",
+   "inscricao_fim": "2026-11-13",
+   "inscricao_texto": "26/10 a 13/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sp"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 39/2026",
+    "EDITAL Nº 40/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo (HCFMRP-USP)",
+     "url": "https://www.hcrp.usp.br/",
+     "dominio": "hcrp.usp.br"
+    }
+   ],
+   "detalhado_em": "2026-10-23",
+   "tags": [
+    "SP",
+    "Superior",
+    "Saude",
+    "Educacao"
+   ]
+  },
+  {
    "orgao": "IAMSPE - Instituto de Assistência Médica ao Servidor Público Estadual",
    "titulo": "IAMSPE - SP abre seleção para residência médica em diversas especialidades",
    "link": "https://www.pciconcursos.com.br/noticias/iamspe-sp-abre-selecao-para-residencia-medica-em-diversas-especialidades",
@@ -2686,6 +2727,50 @@
     }
    ],
    "detalhado_em": "2026-10-22",
+   "tags": [
+    "SP",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Guaiçara",
+   "titulo": "Prefeitura de Guaiçara - SP abre concurso público com salários de até R$ 17.716,50",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guaicara-sp-abre-concurso-publico-com-salarios-de-ate-17716",
+   "vagas": 33,
+   "vagas_texto": "33",
+   "salario_max": 17716.5,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-10-27",
+   "inscricao_fim": "2026-11-11",
+   "inscricao_texto": "27/10 a 11/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sp"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE ABERTURA DO CONCURSO PÚBLICO Nº 01/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Prefeitura Municipal de Guaiçara",
+     "url": "https://www.guaicara.sp.gov.br/",
+     "dominio": "guaicara.sp.gov.br"
+    },
+    {
+     "texto": "portal.imperioconcursos.com.br",
+     "url": "https://portal.imperioconcursos.com.br/",
+     "dominio": "portal.imperioconcursos.com.br"
+    }
+   ],
+   "detalhado_em": "2026-10-23",
    "tags": [
     "SP",
     "Fundamental",
@@ -4608,6 +4693,56 @@
     "SP",
     "Superior",
     "Saude",
+    "Educacao"
+   ]
+  },
+  {
+   "orgao": "USP - Universidade de São Paulo",
+   "titulo": "USP - SP abre 10 novos concursos públicos para diversos cargos",
+   "link": "https://www.pciconcursos.com.br/noticias/usp-sp-abre-10-novos-concursos-publicos-para-diversos-cargos",
+   "vagas": 10,
+   "vagas_texto": "10",
+   "salario_max": 11778.84,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-12-01",
+   "inscricao_fim": "2027-01-07",
+   "inscricao_texto": "01/12/2026 a 07/01/2027",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sp"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 033/2026",
+    "EDITAL Nº 034/2026",
+    "EDITAL Nº 035/2026",
+    "EDITAL Nº 036/2026",
+    "EDITAL Nº 037/2026",
+    "EDITAL Nº 039/2026",
+    "EDITAL Nº 040/2026",
+    "EDITAL Nº 041/2026",
+    "EDITAL Nº 042/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Universidade de São Paulo (USP)",
+     "url": "https://www5.usp.br/",
+     "dominio": "www5.usp.br"
+    },
+    {
+     "texto": "site da Fuvest",
+     "url": "https://www.fuvest.br/",
+     "dominio": "fuvest.br"
+    }
+   ],
+   "detalhado_em": "2026-10-23",
+   "tags": [
+    "SP",
+    "Medio",
+    "Superior",
     "Educacao"
    ]
   },
@@ -6635,17 +6770,17 @@
   },
   {
    "orgao": "Prefeitura de Berizal",
-   "titulo": "Prefeitura de Berizal - MG retifica processo seletivo para agentes comunitários de saúde",
-   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-berizal-mg-retifica-processo-seletivo-para-agentes-comunitarios-de-saude",
+   "titulo": "Prefeitura de Berizal - MG suspende processo seletivo para agentes comunitários de saúde",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-berizal-mg-suspende-processo-seletivo-para-agentes-comunitarios-de-saude",
    "vagas": 11,
    "vagas_texto": "11",
    "salario_max": 3242.0,
    "cargos": "Agente Comunitário de Saúde",
    "escolaridade": "Ensino Médio",
-   "status": "aberto",
+   "status": "suspenso",
    "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-13",
-   "inscricao_texto": "13/11/2026",
+   "inscricao_fim": null,
+   "inscricao_texto": "Suspenso",
    "publicado": null,
    "nacional": false,
    "ufs": [
@@ -6655,7 +6790,8 @@
    "editais": [
     "EDITAL Nº 001/2026",
     "EDITAL RETIFICADO Nº 001/2026",
-    "ERRATA Nº 01"
+    "ERRATA Nº 01",
+    "SUSPENSÃO"
    ],
    "links_oficiais": [
     {
@@ -6669,7 +6805,7 @@
      "dominio": "portal.imeso.com.br"
     }
    ],
-   "detalhado_em": "2026-10-22",
+   "detalhado_em": "2026-10-23",
    "tags": [
     "MG",
     "Medio",
@@ -10349,6 +10485,37 @@
    ]
   },
   {
+   "orgao": "Hospital Beneficente Dr. César Santos",
+   "titulo": "Hospital Beneficente Dr. César Santos - RS abre seleção com remunerações de até R$ 6.050,19",
+   "link": "https://www.pciconcursos.com.br/noticias/hospital-beneficente-dr-cesar-santos-rs-abre-selecao-com-remuneracoes-de-ate-6050",
+   "vagas": 4,
+   "vagas_texto": "4",
+   "salario_max": 6050.19,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-10-26",
+   "inscricao_fim": "2026-11-10",
+   "inscricao_texto": "26/10 a 10/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "rs"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 08/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-10-23",
+   "tags": [
+    "RS",
+    "Medio",
+    "Superior",
+    "Saude"
+   ]
+  },
+  {
    "orgao": "Prefeitura de Alvorada",
    "titulo": "Prefeitura de Alvorada - RS retifica concurso público com salários de até R$ 18.974,55",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-alvorada-rs-retifica-concurso-publico-com-salarios-de-ate-18974",
@@ -11339,6 +11506,50 @@
     }
    ],
    "detalhado_em": "2026-10-22",
+   "tags": [
+    "RS",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Novo Xingu",
+   "titulo": "Prefeitura de Novo Xingu - RS abre concurso público com salários de até R$ 8.797,52",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-xingu-rs-abre-concurso-publico-com-salarios-de-ate-8797",
+   "vagas": 12,
+   "vagas_texto": "12",
+   "salario_max": 8797.52,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-10-30",
+   "inscricao_fim": "2026-11-30",
+   "inscricao_texto": "30/10 a 30/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "rs"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE CONCURSO PÚBLICO Nº 001/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Prefeitura Municipal de Novo Xingu",
+     "url": "https://www.novoxingu.rs.gov.br/",
+     "dominio": "novoxingu.rs.gov.br"
+    },
+    {
+     "texto": "site do Instituto Objetiva",
+     "url": "https://www.objetivas.com.br/",
+     "dominio": "objetivas.com.br"
+    }
+   ],
+   "detalhado_em": "2026-10-23",
    "tags": [
     "RS",
     "Fundamental",
@@ -12527,6 +12738,79 @@
     "SC",
     "Superior",
     "Saude"
+   ]
+  },
+  {
+   "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
+   "titulo": "FAHECE - SC abre processo seletivo para técnico de enfermagem no CEPON em Florianópolis",
+   "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-tecnico-de-enfermagem-no-cepon-em-florianopolis",
+   "vagas": 1,
+   "vagas_texto": "1",
+   "salario_max": 3373.61,
+   "cargos": "Técnico de Enfermagem I",
+   "escolaridade": "Ensino Técnico",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-10-25",
+   "inscricao_texto": "25/10/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO Nº 353/26"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "FAHECE",
+     "url": "https://www.fahece.org.br/",
+     "dominio": "fahece.org.br"
+    }
+   ],
+   "detalhado_em": "2026-10-23",
+   "tags": [
+    "SC",
+    "Tecnico",
+    "Saude",
+    "Temporario"
+   ]
+  },
+  {
+   "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
+   "titulo": "FAHECE - SC anuncia processo seletivo para rádio operador no SAMU de Florianópolis",
+   "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-processo-seletivo-para-radio-operador-no-samu-de-florianopolis",
+   "vagas": 1,
+   "vagas_texto": "1",
+   "salario_max": 2749.29,
+   "cargos": "Rádio Operador(a)",
+   "escolaridade": "Ensino Médio",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-10-25",
+   "inscricao_texto": "25/10/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO Nº 538/26"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "FAHECE",
+     "url": "https://www.fahece.org.br/",
+     "dominio": "fahece.org.br"
+    }
+   ],
+   "detalhado_em": "2026-10-23",
+   "tags": [
+    "SC",
+    "Medio",
+    "Temporario"
    ]
   },
   {
@@ -14220,6 +14504,50 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Santa Terezinha do Progresso",
+   "titulo": "Prefeitura de Santa Terezinha do Progresso - SC abre concurso com salários de até R$ 10.000,00",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-terezinha-do-progresso-sc-abre-concurso-com-salarios-de-ate-10000",
+   "vagas": 8,
+   "vagas_texto": "8",
+   "salario_max": 10000.0,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-10-26",
+   "inscricao_fim": "2026-11-25",
+   "inscricao_texto": "26/10 a 25/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE CONCURSO PÚBLICO DE PROVAS Nº 01/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Município de Santa Terezinha do Progresso",
+     "url": "https://staterezinhaprogresso.sc.gov.br/",
+     "dominio": "staterezinhaprogresso.sc.gov.br"
+    },
+    {
+     "texto": "Fênix Instituto",
+     "url": "https://institutofenix.selecao.net.br/",
+     "dominio": "institutofenix.selecao.net.br"
+    }
+   ],
+   "detalhado_em": "2026-10-23",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
+  },
+  {
    "orgao": "Prefeitura de São Domingos",
    "titulo": "Prefeitura de São Domingos - SC abre concurso público com salários de até R$ 7.949,24",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-domingos-sc-abre-concurso-publico-com-salarios-de-ate-7949",
@@ -14754,6 +15082,44 @@
     "SC",
     "Medio",
     "Superior"
+   ]
+  },
+  {
+   "orgao": "SEMSA - Secretaria Municipal de Saúde de Schroeder",
+   "titulo": "Prefeitura de Schroeder - SC abre seleção para auxiliar de consultório dentário",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-schroeder-sc-abre-selecao-para-auxiliar-de-consultorio-dentario",
+   "vagas": 1,
+   "vagas_texto": "1",
+   "salario_max": 2412.97,
+   "cargos": "Auxiliar de consultório dentário",
+   "escolaridade": "Médio / Técnico",
+   "status": "aberto",
+   "inscricao_inicio": "2026-11-09",
+   "inscricao_fim": "2026-11-13",
+   "inscricao_texto": "09 a 13/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 03/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Secretaria Municipal de Saúde (SEMSA) de Schroeder",
+     "url": "https://www.schroeder.sc.gov.br/",
+     "dominio": "schroeder.sc.gov.br"
+    }
+   ],
+   "detalhado_em": "2026-10-23",
+   "tags": [
+    "SC",
+    "Medio",
+    "Tecnico",
+    "Saude",
+    "Prefeitura"
    ]
   },
   {
@@ -18371,6 +18737,58 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Jaguaribe",
+   "titulo": "Prefeitura de Jaguaribe - CE reabre inscrições para concursos públicos",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jaguaribe-ce-reabre-inscricoes-para-concursos-publicos",
+   "vagas": 183,
+   "vagas_texto": "183",
+   "salario_max": 12948.01,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-11",
+   "inscricao_texto": "Reaberto até 11/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "ce"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 001/2026",
+    "EDITAL Nº 001/2026 - RETIFICADO",
+    "EDITAL Nº 002/2026",
+    "EDITAL Nº 003/2026",
+    "EDITAL Nº 004/2026",
+    "EDITAL RETIFICADO - AGENTE DE TRÂNSITO",
+    "COMUNICADO",
+    "RETIFICAÇÃO - CRONOGRAMA DE ATIVIDADES - EDITAL Nº 002/2026",
+    "RETIFICAÇÃO - CRONOGRAMA DE ATIVIDADES - EDITAL Nº 001/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Prefeitura Municipal de Jaguaribe",
+     "url": "https://www.jaguaribe.ce.gov.br/",
+     "dominio": "jaguaribe.ce.gov.br"
+    },
+    {
+     "texto": "www.consulpam.com.br",
+     "url": "https://www.consulpam.com.br/",
+     "dominio": "consulpam.com.br"
+    }
+   ],
+   "detalhado_em": "2026-10-23",
+   "tags": [
+    "CE",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
+  },
+  {
    "orgao": "Prefeitura de Piquet Carneiro",
    "titulo": "Prefeitura de Piquet Carneiro - CE prorroga inscrições para concurso público",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-piquet-carneiro-ce-prorroga-inscricoes-para-concurso-publico",
@@ -18407,6 +18825,55 @@
     }
    ],
    "detalhado_em": "2026-10-22",
+   "tags": [
+    "CE",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Poranga",
+   "titulo": "Prefeitura de Poranga - CE reabre inscrições para concursos públicos",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-poranga-ce-reabre-inscricoes-para-concursos-publicos",
+   "vagas": 98,
+   "vagas_texto": "98",
+   "salario_max": 4750.0,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-10",
+   "inscricao_texto": "Reaberto até 10/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "ce"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 001/2026",
+    "EDITAL RETIFICADO Nº 001/2026",
+    "EDITAL Nº 002/2026",
+    "EDITAL RETIFICADO Nº 002/2026",
+    "EDITAL RETIFICADO Nº 001/2026 - REABERTURA",
+    "EDITAL RETIFICADO Nº 002/2026 - REABERTURA"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Prefeitura Municipal de Poranga",
+     "url": "https://www.poranga.ce.gov.br/",
+     "dominio": "poranga.ce.gov.br"
+    },
+    {
+     "texto": "site da organizadora",
+     "url": "https://www.consulpam.com.br/",
+     "dominio": "consulpam.com.br"
+    }
+   ],
+   "detalhado_em": "2026-10-23",
    "tags": [
     "CE",
     "Fundamental",
@@ -20046,6 +20513,49 @@
     "Medio",
     "Superior",
     "Legislativo"
+   ]
+  },
+  {
+   "orgao": "CREF16/RN - Conselho Regional de Educação Física da 16ª Região",
+   "titulo": "CREF16 - RN abre concurso público para profissionais de nível superior",
+   "link": "https://www.pciconcursos.com.br/noticias/cref16-rn-abre-concurso-publico-para-profissionais-de-nivel-superior",
+   "vagas": 3,
+   "vagas_texto": "3",
+   "salario_max": 4169.55,
+   "cargos": "Advogado, Contador, Agente de Licitações e Contratos",
+   "escolaridade": "Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-10-30",
+   "inscricao_fim": "2026-11-15",
+   "inscricao_texto": "30/10 a 15/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "rn"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 1"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Conselho Regional de Educação Física da 16ª Região (CREF16/RN)",
+     "url": "https://cref16.org.br/",
+     "dominio": "cref16.org.br"
+    },
+    {
+     "texto": "Núcleo Comperve",
+     "url": "https://www.comperve.ufrn.br/",
+     "dominio": "comperve.ufrn.br"
+    }
+   ],
+   "detalhado_em": "2026-10-23",
+   "tags": [
+    "RN",
+    "Superior",
+    "Educacao",
+    "Juridico",
+    "Fiscal"
    ]
   },
   {
