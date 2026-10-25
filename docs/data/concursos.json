@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-24T22:52:27+00:00",
+ "atualizado": "2026-10-25T13:33:45+00:00",
  "fontes": {
   "pci": "https://www.pciconcursos.com.br/concursos/",
   "cnb": "https://concursosnobrasil.com"
@@ -1356,7 +1356,7 @@
      "dominio": "famesp.org.br"
     }
    ],
-   "detalhado_em": "2026-10-21",
+   "detalhado_em": "2026-10-25",
    "tags": [
     "SP",
     "Medio",
@@ -1658,7 +1658,7 @@
      "dominio": "funcamp.unicamp.br"
     }
    ],
-   "detalhado_em": "2026-10-21",
+   "detalhado_em": "2026-10-25",
    "tags": [
     "SP",
     "Superior",
@@ -1694,7 +1694,7 @@
      "dominio": "funcamp.unicamp.br"
     }
    ],
-   "detalhado_em": "2026-10-21",
+   "detalhado_em": "2026-10-25",
    "tags": [
     "SP",
     "Fundamental",
@@ -2301,7 +2301,7 @@
      "dominio": "access.org.br"
     }
    ],
-   "detalhado_em": "2026-10-21",
+   "detalhado_em": "2026-10-25",
    "tags": [
     "SP",
     "Fundamental",
@@ -2431,7 +2431,7 @@
      "dominio": "inepam.org.br"
     }
    ],
-   "detalhado_em": "2026-10-21",
+   "detalhado_em": "2026-10-25",
    "tags": [
     "SP",
     "Medio",
@@ -3844,7 +3844,7 @@
      "dominio": "portal.imperioconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-21",
+   "detalhado_em": "2026-10-25",
    "tags": [
     "SP",
     "Fundamental",
@@ -5549,7 +5549,7 @@
      "dominio": "institutoconsulplan.org.br"
     }
    ],
-   "detalhado_em": "2026-10-21",
+   "detalhado_em": "2026-10-25",
    "tags": [
     "MG",
     "Medio",
@@ -5592,7 +5592,7 @@
      "dominio": "concurso.jmsbhz.com.br"
     }
    ],
-   "detalhado_em": "2026-10-21",
+   "detalhado_em": "2026-10-25",
    "tags": [
     "MG",
     "Fundamental",
@@ -6426,7 +6426,7 @@
      "dominio": "forms.gle"
     }
    ],
-   "detalhado_em": "2026-10-21",
+   "detalhado_em": "2026-10-25",
    "tags": [
     "MG",
     "Superior",
@@ -7361,7 +7361,7 @@
      "dominio": "novaera.mg.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-21",
+   "detalhado_em": "2026-10-25",
    "tags": [
     "MG",
     "Fundamental",
@@ -8423,7 +8423,7 @@
      "dominio": "access.org.br"
     }
    ],
-   "detalhado_em": "2026-10-21",
+   "detalhado_em": "2026-10-25",
    "tags": [
     "MG",
     "Fundamental",
@@ -9601,7 +9601,7 @@
      "dominio": "balsanova.oxy.elotech.com.br"
     }
    ],
-   "detalhado_em": "2026-10-21",
+   "detalhado_em": "2026-10-25",
    "tags": [
     "PR",
     "Superior",
@@ -9939,7 +9939,7 @@
      "dominio": "concursos.unioeste.br"
     }
    ],
-   "detalhado_em": "2026-10-21",
+   "detalhado_em": "2026-10-25",
    "tags": [
     "PR",
     "Medio",
@@ -10715,7 +10715,7 @@
      "dominio": "bomretirodosul.rs.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-21",
+   "detalhado_em": "2026-10-25",
    "tags": [
     "RS",
     "Fundamental",
@@ -11126,7 +11126,7 @@
      "dominio": "imbe.rs.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-21",
+   "detalhado_em": "2026-10-25",
    "tags": [
     "RS",
     "Fundamental",
@@ -11720,7 +11720,7 @@
      "dominio": "taquari.rs.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-21",
+   "detalhado_em": "2026-10-25",
    "tags": [
     "RS",
     "Fundamental",
@@ -12256,68 +12256,13 @@
      "dominio": "santiagodosul.sc.leg.br"
     }
    ],
-   "detalhado_em": "2026-10-21",
+   "detalhado_em": "2026-10-25",
    "tags": [
     "SC",
     "Medio",
     "Administrativo",
     "Legislativo",
     "Temporario"
-   ]
-  },
-  {
-   "orgao": "CASAN - Companhia Catarinense de Águas e Saneamento",
-   "titulo": "CASAN - SC retifica editais de concursos públicos",
-   "link": "https://www.pciconcursos.com.br/noticias/casan-sc-retifica-editais-de-concursos-publicos",
-   "vagas": null,
-   "vagas_texto": "Várias",
-   "salario_max": 12600.62,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Médio / Técnico / Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-10-09",
-   "inscricao_texto": "Prorrogado até 09/10/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "sc"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL DE CONCURSO PÚBLICO Nº 001/2026",
-    "PRIMEIRO TERMO DE RETIFICAÇÃO - EDITAL Nº 001/2026",
-    "EDITAL RETIFICADO Nº 001/2026",
-    "EDITAL DE PRORROGAÇÃO DAS INSCRIÇÕES - CONCURSO PÚBLICO Nº 001/2026",
-    "EDITAL DE CONCURSO PÚBLICO Nº 002/2026",
-    "SEGUNDO TERMO DE RETIFICAÇÃO - EDITAL DE CONCURSO PÚBLICO Nº 002/2026",
-    "PRIMEIRO TERMO DE RETIFICAÇÃO - EDITAL Nº 002/2026",
-    "EDITAL RETIFICADO Nº 002/2026",
-    "EDITAL DE PRORROGAÇÃO DAS INSCRIÇÕES - CONCURSO PÚBLICO Nº 002/2026",
-    "EDITAL DE CONCURSO PÚBLICO Nº 003/2026",
-    "PRIMEIRO TERMO DE RETIFICAÇÃO - EDITAL Nº 003/2026",
-    "SEGUNDO TERMO DE RETIFICAÇÃO - EDITAL DE CONCURSO PÚBLICO Nº 003/2026",
-    "EDITAL RETIFICADO Nº 003/2026",
-    "EDITAL DE PRORROGAÇÃO DAS INSCRIÇÕES - CONCURSO PÚBLICO Nº 003/2026"
-   ],
-   "links_oficiais": [
-    {
-     "texto": "Companhia Catarinense de Águas e Saneamento (CASAN)",
-     "url": "https://www.casan.com.br/",
-     "dominio": "casan.com.br"
-    },
-    {
-     "texto": "www.institutoaocp.org.br",
-     "url": "https://www.institutoaocp.org.br/",
-     "dominio": "institutoaocp.org.br"
-    }
-   ],
-   "detalhado_em": "2026-10-22",
-   "tags": [
-    "SC",
-    "Medio",
-    "Tecnico",
-    "Superior"
    ]
   },
   {
@@ -12504,7 +12449,7 @@
      "dominio": "fahece.org.br"
     }
    ],
-   "detalhado_em": "2026-10-21",
+   "detalhado_em": "2026-10-25",
    "tags": [
     "SC",
     "Superior",
@@ -13742,7 +13687,7 @@
      "dominio": "ibam-concursos.org.br"
     }
    ],
-   "detalhado_em": "2026-10-21",
+   "detalhado_em": "2026-10-25",
    "tags": [
     "SC",
     "Fundamental",
@@ -15982,7 +15927,7 @@
      "dominio": "portal.imperioconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-21",
+   "detalhado_em": "2026-10-25",
    "tags": [
     "MS",
     "Fundamental",
@@ -16400,7 +16345,7 @@
      "dominio": "selecon.org.br"
     }
    ],
-   "detalhado_em": "2026-10-21",
+   "detalhado_em": "2026-10-25",
    "tags": [
     "MT",
     "Fundamental",
@@ -16614,7 +16559,7 @@
      "dominio": "selecon.org.br"
     }
    ],
-   "detalhado_em": "2026-10-21",
+   "detalhado_em": "2026-10-25",
    "tags": [
     "MT",
     "Medio",
@@ -16698,7 +16643,7 @@
      "dominio": "concursoscopec.com.br"
     }
    ],
-   "detalhado_em": "2026-10-21",
+   "detalhado_em": "2026-10-25",
    "tags": [
     "AM",
     "Fundamental",
@@ -17392,7 +17337,7 @@
      "dominio": "novorepartimento.pa.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-21",
+   "detalhado_em": "2026-10-25",
    "tags": [
     "PA",
     "Tecnico",
@@ -18928,7 +18873,7 @@
      "dominio": "sistemas.cpcon.uepb.edu.br"
     }
    ],
-   "detalhado_em": "2026-10-21",
+   "detalhado_em": "2026-10-25",
    "tags": [
     "PB",
     "Fundamental",
@@ -19195,7 +19140,7 @@
      "dominio": "sistemas.cpcon.uepb.edu.br"
     }
    ],
-   "detalhado_em": "2026-10-21",
+   "detalhado_em": "2026-10-25",
    "tags": [
     "PB",
     "Fundamental",
@@ -19611,7 +19556,7 @@
      "dominio": "gabrielexcelencia.net.br"
     }
    ],
-   "detalhado_em": "2026-10-21",
+   "detalhado_em": "2026-10-25",
    "tags": [
     "PI",
     "Medio",
@@ -19653,7 +19598,7 @@
      "dominio": "legatus.org.br"
     }
    ],
-   "detalhado_em": "2026-10-21",
+   "detalhado_em": "2026-10-25",
    "tags": [
     "PI",
     "Fundamental",
@@ -19784,7 +19729,7 @@
      "dominio": "institutoibed.org"
     }
    ],
-   "detalhado_em": "2026-10-21",
+   "detalhado_em": "2026-10-25",
    "tags": [
     "PI",
     "Medio",
@@ -19960,7 +19905,7 @@
      "dominio": "consulpam.com.br"
     }
    ],
-   "detalhado_em": "2026-10-21",
+   "detalhado_em": "2026-10-25",
    "tags": [
     "PI",
     "Fundamental",
