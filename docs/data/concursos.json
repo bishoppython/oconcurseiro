@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-25T18:05:40+00:00",
+ "atualizado": "2026-10-25T23:00:47+00:00",
  "fontes": {
   "pci": "https://www.pciconcursos.com.br/concursos/",
   "cnb": "https://concursosnobrasil.com"
@@ -17089,6 +17089,44 @@
    ]
   },
   {
+   "orgao": "TRT 8ª Região - Tribunal Regional do Trabalho da 8ª Região",
+   "titulo": "TRT 8 - PA/AP publica edital de concurso para técnicos e analistas judiciários",
+   "link": "https://www.pciconcursos.com.br/noticias/trt-8-pa-ap-publica-edital-de-concurso-para-tecnicos-e-analistas-judiciarios",
+   "vagas": null,
+   "vagas_texto": "Cadastro reserva",
+   "salario_max": 16040.88,
+   "cargos": "Analista Judiciário, Técnico Judiciário",
+   "escolaridade": "Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-05",
+   "inscricao_texto": "05/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "pa"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 01/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Fundação Carlos Chagas",
+     "url": "https://www.concursosfcc.com.br/",
+     "dominio": "concursosfcc.com.br"
+    }
+   ],
+   "detalhado_em": "2026-10-22",
+   "tags": [
+    "PA",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Tribunais"
+   ]
+  },
+  {
    "orgao": "Câmara de São Geraldo do Araguaia",
    "titulo": "Câmara de São Geraldo do Araguaia - PA abre concurso público com salários de até R$ 3.000,00",
    "link": "https://www.pciconcursos.com.br/noticias/camara-de-sao-geraldo-do-araguaia-pa-abre-concurso-publico-com-salarios-de-ate-3000",
@@ -17343,44 +17381,6 @@
     "Tecnico",
     "Saude",
     "Prefeitura"
-   ]
-  },
-  {
-   "orgao": "TRT 8ª Região - Tribunal Regional do Trabalho da 8ª Região",
-   "titulo": "TRT 8 - PA/AP publica edital de concurso para técnicos e analistas judiciários",
-   "link": "https://www.pciconcursos.com.br/noticias/trt-8-pa-ap-publica-edital-de-concurso-para-tecnicos-e-analistas-judiciarios",
-   "vagas": null,
-   "vagas_texto": "Cadastro reserva",
-   "salario_max": 16040.88,
-   "cargos": "Analista Judiciário, Técnico Judiciário",
-   "escolaridade": "Médio / Técnico / Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-05",
-   "inscricao_texto": "05/11/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "pa"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL Nº 01/2026"
-   ],
-   "links_oficiais": [
-    {
-     "texto": "Fundação Carlos Chagas",
-     "url": "https://www.concursosfcc.com.br/",
-     "dominio": "concursosfcc.com.br"
-    }
-   ],
-   "detalhado_em": "2026-10-22",
-   "tags": [
-    "PA",
-    "Medio",
-    "Tecnico",
-    "Superior",
-    "Tribunais"
    ]
   },
   {
