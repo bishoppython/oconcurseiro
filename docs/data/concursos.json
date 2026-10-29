@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-28T15:43:10+00:00",
+ "atualizado": "2026-10-29T00:36:24+00:00",
  "fontes": {
   "pci": "https://www.pciconcursos.com.br/concursos/",
   "cnb": "https://concursosnobrasil.com"
@@ -1390,13 +1390,56 @@
      "dominio": "famesp.org.br"
     }
    ],
-   "detalhado_em": "2026-10-25",
+   "detalhado_em": "2026-10-29",
    "tags": [
     "SP",
     "Medio",
     "Superior",
     "Saude",
     "Temporario"
+   ]
+  },
+  {
+   "orgao": "FEG - Fundação Educacional Guaçuana",
+   "titulo": "Fundação Educacional Guaçuana - SP abre concurso público para Bibliotecário e Técnico em Informática",
+   "link": "https://www.pciconcursos.com.br/noticias/fundacao-educacional-guacuana-sp-abre-concurso-publico-para-bibliotecario-e-tecnico-em-informatica",
+   "vagas": 2,
+   "vagas_texto": "2",
+   "salario_max": 2969.41,
+   "cargos": "Bibliotecário, Técnico em Informática",
+   "escolaridade": "Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-19",
+   "inscricao_texto": "19/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sp"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE ABERTURA - CONCURSO PÚBLICO Nº 2/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Fundação Educacional Guaçuana (FEG)",
+     "url": "https://www.feg.br/",
+     "dominio": "feg.br"
+    },
+    {
+     "texto": "www.publiconsult.com.br",
+     "url": "https://www.publiconsult.com.br/",
+     "dominio": "publiconsult.com.br"
+    }
+   ],
+   "detalhado_em": "2026-10-29",
+   "tags": [
+    "SP",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "TI"
    ]
   },
   {
@@ -1665,7 +1708,7 @@
      "dominio": "funcamp.unicamp.br"
     }
    ],
-   "detalhado_em": "2026-10-25",
+   "detalhado_em": "2026-10-29",
    "tags": [
     "SP",
     "Superior",
@@ -1701,7 +1744,7 @@
      "dominio": "funcamp.unicamp.br"
     }
    ],
-   "detalhado_em": "2026-10-25",
+   "detalhado_em": "2026-10-29",
    "tags": [
     "SP",
     "Fundamental",
@@ -2266,7 +2309,7 @@
      "dominio": "access.org.br"
     }
    ],
-   "detalhado_em": "2026-10-25",
+   "detalhado_em": "2026-10-29",
    "tags": [
     "SP",
     "Fundamental",
@@ -2352,7 +2395,7 @@
      "dominio": "inepam.org.br"
     }
    ],
-   "detalhado_em": "2026-10-25",
+   "detalhado_em": "2026-10-29",
    "tags": [
     "SP",
     "Medio",
@@ -3733,7 +3776,7 @@
      "dominio": "portal.imperioconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-25",
+   "detalhado_em": "2026-10-29",
    "tags": [
     "SP",
     "Fundamental",
@@ -4943,6 +4986,79 @@
    ]
   },
   {
+   "orgao": "RioSaúde - Empresa Pública de Saúde do Rio de Janeiro S/A",
+   "titulo": "RioSaúde - RJ abre processo seletivo para os cargos de enfermeiro e terapeuta ocupacional",
+   "link": "https://www.pciconcursos.com.br/noticias/riosaude-rj-abre-processo-seletivo-para-os-cargos-de-enfermeiro-e-terapeuta-ocupacional",
+   "vagas": 3,
+   "vagas_texto": "3",
+   "salario_max": 6969.53,
+   "cargos": "Enfermeiro, Terapeuta Ocupacional",
+   "escolaridade": "Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-08",
+   "inscricao_texto": "08/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "rj"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL CO-RSU Nº 015/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "RioSaúde",
+     "url": "https://riosaude.prefeitura.rio/processos-seletivos/",
+     "dominio": "riosaude.prefeitura.rio"
+    }
+   ],
+   "detalhado_em": "2026-10-29",
+   "tags": [
+    "RJ",
+    "Superior",
+    "Saude",
+    "Temporario"
+   ]
+  },
+  {
+   "orgao": "RioSaúde - Empresa Pública de Saúde do Rio de Janeiro S/A",
+   "titulo": "RioSaúde - RJ abre vagas para maqueiro, auxiliar de suprimentos e instrumentador cirúrgico",
+   "link": "https://www.pciconcursos.com.br/noticias/riosaude-rj-abre-vagas-para-maqueiro-auxiliar-de-suprimentos-e-instrumentador-cirurgico",
+   "vagas": 3,
+   "vagas_texto": "3",
+   "salario_max": 2513.73,
+   "cargos": "Maqueiro, Auxiliar de suprimentos, Instrumentador cirúrgico",
+   "escolaridade": "Ensino Médio",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-10",
+   "inscricao_texto": "10/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "rj"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL CO-RSU Nº 027/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "site da RioSaúde",
+     "url": "https://riosaude.prefeitura.rio/processos-seletivos/",
+     "dominio": "riosaude.prefeitura.rio"
+    }
+   ],
+   "detalhado_em": "2026-10-29",
+   "tags": [
+    "RJ",
+    "Medio",
+    "Saude"
+   ]
+  },
+  {
    "orgao": "UERJ - Universidade do Estado do Rio de Janeiro",
    "titulo": "UERJ abre processo seletivo para médicos com salários de até R$ 8.000,00",
    "link": "https://www.pciconcursos.com.br/noticias/uerj-abre-processo-seletivo-para-medicos-com-salarios-de-ate-8000",
@@ -5568,12 +5684,56 @@
      "dominio": "institutoconsulplan.org.br"
     }
    ],
-   "detalhado_em": "2026-10-25",
+   "detalhado_em": "2026-10-29",
    "tags": [
     "MG",
     "Medio",
     "Superior",
     "Fiscal",
+    "Legislativo"
+   ]
+  },
+  {
+   "orgao": "Câmara de Coronel Xavier Chaves",
+   "titulo": "Câmara de Coronel Xavier Chaves - MG abre concurso público para Analista Administrativo e Contador",
+   "link": "https://www.pciconcursos.com.br/noticias/camara-de-coronel-xavier-chaves-mg-abre-concurso-publico-para-analista-administrativo-e-contador",
+   "vagas": 3,
+   "vagas_texto": "3",
+   "salario_max": 3569.14,
+   "cargos": "Analista Administrativo, Contador",
+   "escolaridade": "Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2027-01-06",
+   "inscricao_fim": "2027-02-04",
+   "inscricao_texto": "06/01 a 04/02/2027",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "mg"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 01/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Câmara Municipal de Coronel Xavier Chaves",
+     "url": "https://www.camaracxc.mg.gov.br/",
+     "dominio": "camaracxc.mg.gov.br"
+    },
+    {
+     "texto": "site do IDEPI",
+     "url": "https://www.idepi.org.br/",
+     "dominio": "idepi.org.br"
+    }
+   ],
+   "detalhado_em": "2026-10-29",
+   "tags": [
+    "MG",
+    "Medio",
+    "Superior",
+    "Fiscal",
+    "Administrativo",
     "Legislativo"
    ]
   },
@@ -5611,7 +5771,7 @@
      "dominio": "concurso.jmsbhz.com.br"
     }
    ],
-   "detalhado_em": "2026-10-25",
+   "detalhado_em": "2026-10-29",
    "tags": [
     "MG",
     "Fundamental",
@@ -6925,6 +7085,44 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Campo Florido",
+   "titulo": "Prefeitura de Campo Florido - MG abre processo seletivo para diversos cargos",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-campo-florido-mg-abre-processo-seletivo-para-diversos-cargos",
+   "vagas": null,
+   "vagas_texto": "Várias",
+   "salario_max": 4580.26,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-11-03",
+   "inscricao_fim": "2026-11-06",
+   "inscricao_texto": "03 a 06/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "mg"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DO PROCESSO SELETIVO SIMPLIFICADO - PSS Nº 11/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Prefeitura Municipal de Campo Florido",
+     "url": "https://www.campoflorido.mg.gov.br/",
+     "dominio": "campoflorido.mg.gov.br"
+    }
+   ],
+   "detalhado_em": "2026-10-29",
+   "tags": [
+    "MG",
+    "Fundamental",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
+  },
+  {
    "orgao": "Prefeitura de Carmo da Cachoeira",
    "titulo": "Prefeitura de Carmo da Cachoeira - MG abre seleção para agentes de saúde e de endemias",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-carmo-da-cachoeira-mg-abre-selecao-para-agentes-de-saude-e-de-endemias",
@@ -7215,6 +7413,48 @@
     "MG",
     "Medio",
     "Saude",
+    "Prefeitura",
+    "Temporario"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Curvelo",
+   "titulo": "Prefeitura de Curvelo - MG abre processo seletivo para o cargo de Rondante no Tiro de Guerra",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-curvelo-mg-abre-processo-seletivo-para-o-cargo-de-rondante-no-tiro-de-guerra",
+   "vagas": 4,
+   "vagas_texto": "4",
+   "salario_max": 1634.36,
+   "cargos": "Rondante",
+   "escolaridade": "Fundamental",
+   "status": "aberto",
+   "inscricao_inicio": "2026-10-29",
+   "inscricao_fim": "2026-11-03",
+   "inscricao_texto": "29/10 a 03/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "mg"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 26/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Prefeitura Municipal de Curvelo",
+     "url": "https://curvelo.mg.gov.br/",
+     "dominio": "curvelo.mg.gov.br"
+    },
+    {
+     "texto": "formulário eletrônico",
+     "url": "https://bit.ly/edital262026inscricao",
+     "dominio": "bit.ly"
+    }
+   ],
+   "detalhado_em": "2026-10-29",
+   "tags": [
+    "MG",
+    "Fundamental",
     "Prefeitura",
     "Temporario"
    ]
@@ -8658,7 +8898,7 @@
      "dominio": "access.org.br"
     }
    ],
-   "detalhado_em": "2026-10-25",
+   "detalhado_em": "2026-10-29",
    "tags": [
     "MG",
     "Fundamental",
@@ -8752,6 +8992,48 @@
     "Medio",
     "Tecnico",
     "Superior",
+    "Prefeitura"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Varginha - Secretaria Municipal de Habitação e Desenvolvimento Social (SEHAD)",
+   "titulo": "Prefeitura de Varginha - MG abre seleção para Auxiliar de Educador/Cuidador Residente",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-varginha-mg-abre-selecao-para-auxiliar-de-educador-cuidador-residente",
+   "vagas": 8,
+   "vagas_texto": "8",
+   "salario_max": 1701.3,
+   "cargos": "Auxiliar de Educador/Cuidador Residente",
+   "escolaridade": "Fundamental",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-13",
+   "inscricao_texto": "13/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "mg"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE SELEÇÃO SIMPLIFICADA 003/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Município de Varginha",
+     "url": "https://www.varginha.mg.gov.br/portal/editais/3/",
+     "dominio": "varginha.mg.gov.br"
+    },
+    {
+     "texto": "formulário eletrônico",
+     "url": "https://forms.gle/7FfYkY5c1cugb2sq8",
+     "dominio": "forms.gle"
+    }
+   ],
+   "detalhado_em": "2026-10-29",
+   "tags": [
+    "MG",
+    "Fundamental",
+    "Educacao",
     "Prefeitura"
    ]
   },
@@ -9795,7 +10077,7 @@
      "dominio": "balsanova.oxy.elotech.com.br"
     }
    ],
-   "detalhado_em": "2026-10-25",
+   "detalhado_em": "2026-10-29",
    "tags": [
     "PR",
     "Superior",
@@ -10054,12 +10336,54 @@
      "dominio": "concursos.unioeste.br"
     }
    ],
-   "detalhado_em": "2026-10-25",
+   "detalhado_em": "2026-10-29",
    "tags": [
     "PR",
     "Medio",
     "Tecnico",
     "Superior",
+    "Prefeitura"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Realeza",
+   "titulo": "Prefeitura de Realeza - PR abre concurso público para Controlador Interno e Procurador Jurídico",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-realeza-pr-abre-concurso-publico-para-controlador-interno-e-procurador-juridico",
+   "vagas": 2,
+   "vagas_texto": "2",
+   "salario_max": 8800.0,
+   "cargos": "Controlador Interno, Procurador Jurídico",
+   "escolaridade": "Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-11-03",
+   "inscricao_fim": "2026-12-03",
+   "inscricao_texto": "03/11 a 03/12/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "pr"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE ABERTURA Nº 01.01/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Município de Realeza",
+     "url": "https://www.realeza.pr.gov.br/",
+     "dominio": "realeza.pr.gov.br"
+    },
+    {
+     "texto": "Fundação FAFIPA",
+     "url": "https://www.fundacaofafipa.org.br/",
+     "dominio": "fundacaofafipa.org.br"
+    }
+   ],
+   "detalhado_em": "2026-10-29",
+   "tags": [
+    "PR",
+    "Superior",
+    "Juridico",
     "Prefeitura"
    ]
   },
@@ -10775,7 +11099,7 @@
      "dominio": "bomretirodosul.rs.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-25",
+   "detalhado_em": "2026-10-29",
    "tags": [
     "RS",
     "Fundamental",
@@ -12023,7 +12347,7 @@
      "dominio": "taquari.rs.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-25",
+   "detalhado_em": "2026-10-29",
    "tags": [
     "RS",
     "Fundamental",
@@ -12075,6 +12399,50 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Torres",
+   "titulo": "Prefeitura de Torres - RS abre seleções para cadastro de reserva em diversas áreas",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-torres-rs-abre-selecoes-para-cadastro-de-reserva-em-diversas-areas",
+   "vagas": null,
+   "vagas_texto": "Cadastro reserva",
+   "salario_max": 2562.23,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-10-29",
+   "inscricao_fim": "2026-11-10",
+   "inscricao_texto": "29/10 a 10/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "rs"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 335",
+    "EDITAL Nº 336"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Prefeitura Municipal de Torres",
+     "url": "https://torres.rs.gov.br/",
+     "dominio": "torres.rs.gov.br"
+    },
+    {
+     "texto": "processoseletivo.torres.rs.gov.br",
+     "url": "https://processoseletivo.torres.rs.gov.br/",
+     "dominio": "processoseletivo.torres.rs.gov.br"
+    }
+   ],
+   "detalhado_em": "2026-10-29",
+   "tags": [
+    "RS",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Prefeitura"
+   ]
+  },
+  {
    "orgao": "Prefeitura de Vicente Dutra",
    "titulo": "Prefeitura de Vicente Dutra - RS abre concurso público com salários de até R$ 9.089,82",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vicente-dutra-rs-abre-concurso-publico-com-salarios-de-ate-9089",
@@ -12116,6 +12484,43 @@
     "Tecnico",
     "Superior",
     "Prefeitura"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Victor Graeff",
+   "titulo": "Prefeitura de Victor Graeff - RS divulga edital de processo seletivo para Auxiliar de Serviços Gerais",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-victor-graeff-rs-divulga-edital-de-processo-seletivo-para-auxiliar-de-servicos-gerais",
+   "vagas": null,
+   "vagas_texto": "Cadastro reserva",
+   "salario_max": 1781.92,
+   "cargos": "Auxiliar de Serviços Gerais",
+   "escolaridade": "Fundamental",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-06",
+   "inscricao_texto": "06/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "rs"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE ABERTURA Nº 144 - PROCESSO SELETIVO SIMPLIFICADO Nº 13/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Município de Victor Graeff",
+     "url": "https://www.victorgraeff.rs.gov.br",
+     "dominio": "victorgraeff.rs.gov.br"
+    }
+   ],
+   "detalhado_em": "2026-10-29",
+   "tags": [
+    "RS",
+    "Fundamental",
+    "Prefeitura",
+    "Temporario"
    ]
   },
   {
@@ -12414,6 +12819,49 @@
    ]
   },
   {
+   "orgao": "Câmara de São Francisco do Sul",
+   "titulo": "Câmara de São Francisco do Sul - SC abre concurso público com salários de até R$ 10.924,72",
+   "link": "https://www.pciconcursos.com.br/noticias/camara-de-sao-francisco-do-sul-sc-abre-concurso-publico-com-salarios-de-ate-10924",
+   "vagas": 17,
+   "vagas_texto": "17",
+   "salario_max": 10924.72,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-11-06",
+   "inscricao_fim": "2026-12-07",
+   "inscricao_texto": "06/11 a 07/12/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 001/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Câmara Municipal de São Francisco do Sul",
+     "url": "https://www.csfs.sc.gov.br/",
+     "dominio": "csfs.sc.gov.br"
+    },
+    {
+     "texto": "concursos.furb.br",
+     "url": "https://concursos.furb.br/",
+     "dominio": "concursos.furb.br"
+    }
+   ],
+   "detalhado_em": "2026-10-29",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Legislativo"
+   ]
+  },
+  {
    "orgao": "Câmara de Vereadores de Erval Velho",
    "titulo": "Câmara de Erval Velho - SC abre concurso público com salários de até R$ 6.497,10",
    "link": "https://www.pciconcursos.com.br/noticias/camara-de-erval-velho-sc-abre-concurso-publico-com-salarios-de-ate-6497",
@@ -12574,7 +13022,7 @@
      "dominio": "santiagodosul.sc.leg.br"
     }
    ],
-   "detalhado_em": "2026-10-25",
+   "detalhado_em": "2026-10-29",
    "tags": [
     "SC",
     "Medio",
@@ -13991,7 +14439,7 @@
      "dominio": "ibam-concursos.org.br"
     }
    ],
-   "detalhado_em": "2026-10-25",
+   "detalhado_em": "2026-10-29",
    "tags": [
     "SC",
     "Fundamental",
@@ -15006,6 +15454,51 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Vitor Meireles",
+   "titulo": "Prefeitura de Vitor Meireles - SC abre concurso público e processo seletivo com salários de até R$ 11.050,85",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vitor-meireles-sc-abre-concurso-publico-e-processo-seletivo-com-salarios-de-ate-11050",
+   "vagas": 3,
+   "vagas_texto": "3",
+   "salario_max": 11050.85,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-15",
+   "inscricao_texto": "15/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE CONCURSO PÚBLICO Nº 001/2026",
+    "EDITAL DE PROCESSO SELETIVO Nº 001/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Município de Vitor Meireles",
+     "url": "https://vitormeireles.sc.gov.br/",
+     "dominio": "vitormeireles.sc.gov.br"
+    },
+    {
+     "texto": "site da Acesse Concursos",
+     "url": "https://www.acesseconcursossc.com.br/",
+     "dominio": "acesseconcursossc.com.br"
+    }
+   ],
+   "detalhado_em": "2026-10-29",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Tecnico",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
+  },
+  {
    "orgao": "Prefeitura de Witmarsum",
    "titulo": "Prefeitura de Witmarsum - SC abre concurso público e processo seletivo para diversos cargos",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-witmarsum-sc-abre-concurso-publico-e-processo-seletivo-para-diversos-cargos",
@@ -15294,6 +15787,49 @@
    "detalhado_em": "2026-10-27",
    "tags": [
     "SC",
+    "Superior",
+    "Saude",
+    "Temporario"
+   ]
+  },
+  {
+   "orgao": "SES - Secretaria de Estado da Saúde de Santa Catarina",
+   "titulo": "SES - SC abre processo seletivo para a Maternidade Dona Catarina Kuss em Mafra",
+   "link": "https://www.pciconcursos.com.br/noticias/ses-sc-abre-processo-seletivo-para-a-maternidade-dona-catarina-kuss-em-mafra",
+   "vagas": 4,
+   "vagas_texto": "4",
+   "salario_max": 10581.16,
+   "cargos": "Eletricista, Médico especialista em Anestesiologia, Médico especialista em Infectologia",
+   "escolaridade": "Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-11",
+   "inscricao_texto": "11/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 043/2026/SES"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Secretaria de Estado da Saúde de Santa Catarina (SES)",
+     "url": "https://www.saude.sc.gov.br/index.php/pt/servicos/concursos-e-selecoes/processos-seletivos-ses",
+     "dominio": "saude.sc.gov.br"
+    },
+    {
+     "texto": "portal de inscrições",
+     "url": "https://sigrhportal.sea.sc.gov.br/SIGRHPPS/",
+     "dominio": "sigrhportal.sea.sc.gov.br"
+    }
+   ],
+   "detalhado_em": "2026-10-29",
+   "tags": [
+    "SC",
+    "Medio",
     "Superior",
     "Saude",
     "Temporario"
@@ -16098,6 +16634,59 @@
    ]
   },
   {
+   "orgao": "Prefeitura e Câmara de Faina",
+   "titulo": "Prefeitura e Câmara de Faina - GO reabrem concurso público com diversas vagas",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-e-camara-de-faina-go-reabrem-concurso-publico-com-diversas-vagas",
+   "vagas": 70,
+   "vagas_texto": "70",
+   "salario_max": 13530.0,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-11-03",
+   "inscricao_fim": "2026-12-03",
+   "inscricao_texto": "Reabertura de 03/11 a 03/12/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "go"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE ABERTURA Nº 001/2024",
+    "SUSPENSÃO",
+    "REABERTURA DO CONCURSO",
+    "EDITAL 02 REABERTURA E REGULAMENTO GERAL"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Prefeitura Municipal de Faina",
+     "url": "https://www.faina.go.gov.br/",
+     "dominio": "faina.go.gov.br"
+    },
+    {
+     "texto": "Câmara Municipal de Faina",
+     "url": "https://www.faina.go.leg.br/",
+     "dominio": "faina.go.leg.br"
+    },
+    {
+     "texto": "Instituto Itame",
+     "url": "https://www.itame.com.br/",
+     "dominio": "itame.com.br"
+    }
+   ],
+   "detalhado_em": "2026-10-29",
+   "tags": [
+    "GO",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Legislativo",
+    "Prefeitura"
+   ]
+  },
+  {
    "orgao": "Câmara de Paraíso das Águas",
    "titulo": "Câmara de Paraíso das Águas - MS abre concurso público para Contador e Assistente Legislativo",
    "link": "https://www.pciconcursos.com.br/noticias/camara-de-paraiso-das-aguas-ms-abre-concurso-publico-para-contador-e-assistente-legislativo",
@@ -16214,7 +16803,7 @@
      "dominio": "portal.imperioconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-25",
+   "detalhado_em": "2026-10-29",
    "tags": [
     "MS",
     "Fundamental",
@@ -16585,7 +17174,7 @@
      "dominio": "selecon.org.br"
     }
    ],
-   "detalhado_em": "2026-10-25",
+   "detalhado_em": "2026-10-29",
    "tags": [
     "MT",
     "Fundamental",
@@ -16844,7 +17433,7 @@
      "dominio": "selecon.org.br"
     }
    ],
-   "detalhado_em": "2026-10-25",
+   "detalhado_em": "2026-10-29",
    "tags": [
     "MT",
     "Medio",
@@ -16928,7 +17517,7 @@
      "dominio": "concursoscopec.com.br"
     }
    ],
-   "detalhado_em": "2026-10-25",
+   "detalhado_em": "2026-10-29",
    "tags": [
     "AM",
     "Fundamental",
@@ -19233,7 +19822,7 @@
      "dominio": "sistemas.cpcon.uepb.edu.br"
     }
    ],
-   "detalhado_em": "2026-10-25",
+   "detalhado_em": "2026-10-29",
    "tags": [
     "PB",
     "Fundamental",
@@ -19500,7 +20089,7 @@
      "dominio": "sistemas.cpcon.uepb.edu.br"
     }
    ],
-   "detalhado_em": "2026-10-25",
+   "detalhado_em": "2026-10-29",
    "tags": [
     "PB",
     "Fundamental",
@@ -19916,7 +20505,7 @@
      "dominio": "gabrielexcelencia.net.br"
     }
    ],
-   "detalhado_em": "2026-10-25",
+   "detalhado_em": "2026-10-29",
    "tags": [
     "PI",
     "Medio",
@@ -19958,13 +20547,57 @@
      "dominio": "legatus.org.br"
     }
    ],
-   "detalhado_em": "2026-10-25",
+   "detalhado_em": "2026-10-29",
    "tags": [
     "PI",
     "Fundamental",
     "Medio",
     "Superior",
     "Legislativo"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Belém do Piauí",
+   "titulo": "Prefeitura de Belém do Piauí - PI abre concurso com remunerações de até R$ 12.000,00",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-belem-do-piaui-pi-abre-concurso-com-remuneracoes-de-ate-12000",
+   "vagas": 49,
+   "vagas_texto": "49",
+   "salario_max": 12000.0,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-10-30",
+   "inscricao_fim": "2026-11-25",
+   "inscricao_texto": "30/10 a 25/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "pi"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 1/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Prefeitura Municipal de Belém do Piauí",
+     "url": "https://www.belemdopiaui.pi.gov.br/",
+     "dominio": "belemdopiaui.pi.gov.br"
+    },
+    {
+     "texto": "Instituto Brasileiro de Estudos e Desenvolvimento (IBED)",
+     "url": "https://institutoibed.org/",
+     "dominio": "institutoibed.org"
+    }
+   ],
+   "detalhado_em": "2026-10-29",
+   "tags": [
+    "PI",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
    ]
   },
   {
@@ -20084,7 +20717,7 @@
      "dominio": "institutoibed.org"
     }
    ],
-   "detalhado_em": "2026-10-25",
+   "detalhado_em": "2026-10-29",
    "tags": [
     "PI",
     "Medio",
@@ -20298,7 +20931,7 @@
      "dominio": "consulpam.com.br"
     }
    ],
-   "detalhado_em": "2026-10-25",
+   "detalhado_em": "2026-10-29",
    "tags": [
     "PI",
     "Fundamental",
@@ -20307,6 +20940,50 @@
     "Superior",
     "Prefeitura",
     "Temporario"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de São Julião",
+   "titulo": "Prefeitura de São Julião - PI abre concurso público para diversos cargos",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-juliao-pi-abre-concurso-publico-para-diversos-cargos",
+   "vagas": 112,
+   "vagas_texto": "112",
+   "salario_max": 6000.0,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-11-05",
+   "inscricao_fim": "2026-12-07",
+   "inscricao_texto": "05/11 a 07/12/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "pi"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 1/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Prefeitura Municipal de São Julião",
+     "url": "https://www.saojuliao.pi.gov.br/",
+     "dominio": "saojuliao.pi.gov.br"
+    },
+    {
+     "texto": "Instituto Brasileiro de Estudos e Desenvolvimento (IBED)",
+     "url": "https://institutoibed.org/",
+     "dominio": "institutoibed.org"
+    }
+   ],
+   "detalhado_em": "2026-10-29",
+   "tags": [
+    "PI",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
    ]
   },
   {
