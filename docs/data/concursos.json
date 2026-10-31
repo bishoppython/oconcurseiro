@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-31T14:59:36+00:00",
+ "atualizado": "2026-10-31T19:12:41+00:00",
  "fontes": {
   "pci": "https://www.pciconcursos.com.br/concursos/",
   "cnb": "https://concursosnobrasil.com"
@@ -509,6 +509,46 @@
     "Tecnico",
     "Superior",
     "Legislativo"
+   ]
+  },
+  {
+   "orgao": "IPSM - Instituto de Previdência do Servidor Municipal",
+   "titulo": "IPSM de São José dos Campos - SP abre concurso para diversos cargos de nível superior",
+   "link": "https://www.pciconcursos.com.br/noticias/ipsm-de-sao-jose-dos-campos-sp-abre-concurso-para-diversos-cargos-de-nivel-superior",
+   "vagas": 17,
+   "vagas_texto": "17",
+   "salario_max": 5860.31,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-10-30",
+   "inscricao_texto": "30/10/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sp"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE CONCURSO PÚBLICO Nº 01/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "IPSM",
+     "url": "https://ipsmsjc.sp.gov.br/",
+     "dominio": "ipsmsjc.sp.gov.br"
+    },
+    {
+     "texto": "www.institutoaocp.org.br",
+     "url": "https://www.institutoaocp.org.br/",
+     "dominio": "institutoaocp.org.br"
+    }
+   ],
+   "detalhado_em": "2026-10-31",
+   "tags": [
+    "SP",
+    "Superior"
    ]
   },
   {
@@ -10327,6 +10367,90 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Porto Alegre",
+   "titulo": "Prefeitura de Porto Alegre - RS publica concurso público com salários de até R$ 9.135,44",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-porto-alegre-rs-publica-concurso-publico-com-salarios-de-ate-9135",
+   "vagas": 19,
+   "vagas_texto": "19",
+   "salario_max": 9135.44,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-05",
+   "inscricao_texto": "05/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "rs"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE ABERTURA 112/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Município de Porto Alegre",
+     "url": "https://prefeitura.poa.br/smap",
+     "dominio": "prefeitura.poa.br"
+    },
+    {
+     "texto": "www.fundacaolasalle.org.br",
+     "url": "https://www.fundacaolasalle.org.br/concursos",
+     "dominio": "fundacaolasalle.org.br"
+    }
+   ],
+   "detalhado_em": "2026-10-30",
+   "tags": [
+    "RS",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
+  },
+  {
+   "orgao": "TRT 4 - Tribunal Regional do Trabalho da 4ª Região",
+   "titulo": "TRT4 - RS abre concurso público para analistas e técnicos judiciários",
+   "link": "https://www.pciconcursos.com.br/noticias/trt4-rs-abre-concurso-publico-para-analistas-e-tecnicos-judiciarios",
+   "vagas": null,
+   "vagas_texto": "Cadastro reserva",
+   "salario_max": 16040.88,
+   "cargos": "Analista Judiciário, Técnico Judiciário",
+   "escolaridade": "Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-25",
+   "inscricao_texto": "25/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "rs"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 01/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Tribunal Regional do Trabalho da 4ª Região (TRT4)",
+     "url": "https://www.trt4.jus.br/",
+     "dominio": "trt4.jus.br"
+    },
+    {
+     "texto": "Fundação Carlos Chagas",
+     "url": "https://www.concursosfcc.com.br/",
+     "dominio": "concursosfcc.com.br"
+    }
+   ],
+   "detalhado_em": "2026-10-30",
+   "tags": [
+    "RS",
+    "Superior",
+    "Tribunais"
+   ]
+  },
+  {
    "orgao": "Câmara de Ijuí",
    "titulo": "Câmara de Ijuí - RS abre concurso público para auxiliar legislativo",
    "link": "https://www.pciconcursos.com.br/noticias/camara-de-ijui-rs-abre-concurso-publico-para-auxiliar-legislativo",
@@ -11690,49 +11814,6 @@
    ]
   },
   {
-   "orgao": "Prefeitura de Porto Alegre",
-   "titulo": "Prefeitura de Porto Alegre - RS publica concurso público com salários de até R$ 9.135,44",
-   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-porto-alegre-rs-publica-concurso-publico-com-salarios-de-ate-9135",
-   "vagas": 19,
-   "vagas_texto": "19",
-   "salario_max": 9135.44,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Médio / Técnico / Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-05",
-   "inscricao_texto": "05/11/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "rs"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL DE ABERTURA 112/2026"
-   ],
-   "links_oficiais": [
-    {
-     "texto": "Município de Porto Alegre",
-     "url": "https://prefeitura.poa.br/smap",
-     "dominio": "prefeitura.poa.br"
-    },
-    {
-     "texto": "www.fundacaolasalle.org.br",
-     "url": "https://www.fundacaolasalle.org.br/concursos",
-     "dominio": "fundacaolasalle.org.br"
-    }
-   ],
-   "detalhado_em": "2026-10-30",
-   "tags": [
-    "RS",
-    "Medio",
-    "Tecnico",
-    "Superior",
-    "Prefeitura"
-   ]
-  },
-  {
    "orgao": "Prefeitura de Santo Antônio da Patrulha",
    "titulo": "Prefeitura de Santo Antônio da Patrulha - RS divulga processo seletivo para instrutores educacionais",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santo-antonio-da-patrulha-rs-divulga-processo-seletivo-para-instrutores-educacionais",
@@ -12237,47 +12318,6 @@
    ]
   },
   {
-   "orgao": "TRT4 - Tribunal Regional do Trabalho da 4ª Região",
-   "titulo": "TRT4 - RS abre concurso público para analistas e técnicos judiciários",
-   "link": "https://www.pciconcursos.com.br/noticias/trt4-rs-abre-concurso-publico-para-analistas-e-tecnicos-judiciarios",
-   "vagas": null,
-   "vagas_texto": "Cadastro reserva",
-   "salario_max": 16040.88,
-   "cargos": "Analista Judiciário, Técnico Judiciário",
-   "escolaridade": "Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-25",
-   "inscricao_texto": "25/11/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "rs"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL Nº 01/2026"
-   ],
-   "links_oficiais": [
-    {
-     "texto": "Tribunal Regional do Trabalho da 4ª Região (TRT4)",
-     "url": "https://www.trt4.jus.br/",
-     "dominio": "trt4.jus.br"
-    },
-    {
-     "texto": "Fundação Carlos Chagas",
-     "url": "https://www.concursosfcc.com.br/",
-     "dominio": "concursosfcc.com.br"
-    }
-   ],
-   "detalhado_em": "2026-10-30",
-   "tags": [
-    "RS",
-    "Superior",
-    "Tribunais"
-   ]
-  },
-  {
    "orgao": "Câmara de Fraiburgo",
    "titulo": "Câmara de Fraiburgo - SC abre concurso público com remunerações de até R$ 6.747,11",
    "link": "https://www.pciconcursos.com.br/noticias/camara-de-fraiburgo-sc-abre-concurso-publico-com-remuneracoes-de-ate-6747",
@@ -12770,6 +12810,43 @@
     "SC",
     "Superior",
     "Saude"
+   ]
+  },
+  {
+   "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
+   "titulo": "FAHECE - SC abre processo seletivo para Assistente Administrativo I exclusivo para PCD",
+   "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-assistente-administrativo-i-exclusivo-para-pcd",
+   "vagas": null,
+   "vagas_texto": "Cadastro reserva",
+   "salario_max": 1371.62,
+   "cargos": "Assistente Administrativo I",
+   "escolaridade": "Ensino Médio",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-06",
+   "inscricao_texto": "06/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO SIMPLIFICADO 543/26"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "FAHECE",
+     "url": "https://www.fahece.org.br/",
+     "dominio": "fahece.org.br"
+    }
+   ],
+   "detalhado_em": "2026-10-31",
+   "tags": [
+    "SC",
+    "Medio",
+    "Administrativo",
+    "Temporario"
    ]
   },
   {
