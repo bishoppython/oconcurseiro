@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-30T15:31:29+00:00",
+ "atualizado": "2026-10-31T00:22:36+00:00",
  "fontes": {
   "pci": "https://www.pciconcursos.com.br/concursos/",
   "cnb": "https://concursosnobrasil.com"
@@ -720,7 +720,7 @@
      "dominio": "vunesp.com.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "SP",
     "Medio",
@@ -972,7 +972,7 @@
      "dominio": "portal.alphaselecoes.com.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "SP",
     "Medio",
@@ -1134,7 +1134,7 @@
      "dominio": "sigmarh.com.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "SP",
     "Fundamental",
@@ -1389,7 +1389,7 @@
      "dominio": "epts.com.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "SP",
     "Medio",
@@ -1658,7 +1658,7 @@
      "dominio": "hcrp.usp.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "SP",
     "Superior",
@@ -1886,7 +1886,7 @@
      "dominio": "portal.imperioconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "SP",
     "Medio",
@@ -2457,6 +2457,50 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Cubatão",
+   "titulo": "Prefeitura de Cubatão - SP abre concurso público com salários de até R$ 5.565,00",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cubatao-sp-abre-concurso-publico-com-salarios-de-ate-5565",
+   "vagas": 19,
+   "vagas_texto": "19",
+   "salario_max": 5565.0,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-12-03",
+   "inscricao_texto": "03/12/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sp"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE ABERTURA - CONCURSO PUBLICO Nº 04/2026",
+    "EDITAL DE RETIFICAÇÃO - CONCURSO PUBLICO Nº 04/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Prefeitura Municipal de Cubatão",
+     "url": "https://www.cubatao.sp.gov.br/",
+     "dominio": "cubatao.sp.gov.br"
+    },
+    {
+     "texto": "site do IBAM",
+     "url": "https://www.ibamsp-concursos.org.br/",
+     "dominio": "ibamsp-concursos.org.br"
+    }
+   ],
+   "detalhado_em": "2026-10-31",
+   "tags": [
+    "SP",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
+  },
+  {
    "orgao": "Prefeitura de Cunha",
    "titulo": "Prefeitura de Cunha - SP abre concurso público com salários de até R$ 9.147,62",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cunha-sp-abre-concurso-publico-com-salarios-de-ate-9147",
@@ -2535,7 +2579,7 @@
      "dominio": "omconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "SP",
     "Medio",
@@ -2666,7 +2710,7 @@
      "dominio": "portal.imperioconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "SP",
     "Fundamental",
@@ -2931,7 +2975,7 @@
      "dominio": "publiconsult.com.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "SP",
     "Medio",
@@ -3192,7 +3236,7 @@
      "dominio": "avancasp.org.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "SP",
     "Fundamental",
@@ -3484,7 +3528,7 @@
      "dominio": "institutoaplicativa.org.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "SP",
     "Fundamental",
@@ -3539,8 +3583,8 @@
   },
   {
    "orgao": "Prefeitura de Murutinga do Sul",
-   "titulo": "Prefeitura de Murutinga do Sul - SP publica edital de concurso com 15 vagas imediatas",
-   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-murutinga-do-sul-sp-publica-edital-de-concurso-com-15-vagas-imediatas",
+   "titulo": "Prefeitura de Murutinga do Sul - SP publica retificações de concurso público",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-murutinga-do-sul-sp-publica-retificacoes-de-concurso-publico",
    "vagas": 15,
    "vagas_texto": "15",
    "salario_max": 5118.2,
@@ -3557,7 +3601,9 @@
    ],
    "fonte": "pci",
    "editais": [
-    "EDITAL DE CONCURSO PÚBLICO Nº 001/2026"
+    "EDITAL DE CONCURSO PÚBLICO Nº 001/2026",
+    "RERRATIFICAÇÃO DO EDITAL DE CONCURSO PÚBLICO Nº 001/2026",
+    "2ª RERRATIFICAÇÃO DO EDITAL DE CONCURSO PÚBLICO Nº 001/2026"
    ],
    "links_oficiais": [
     {
@@ -3571,7 +3617,7 @@
      "dominio": "conscamweb.com.br"
     }
    ],
-   "detalhado_em": "2026-10-30",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "SP",
     "Fundamental",
@@ -3657,7 +3703,7 @@
      "dominio": "glconsultoria.com.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "SP",
     "Medio",
@@ -3794,6 +3840,50 @@
     "Superior",
     "Prefeitura",
     "Temporario"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Pirapozinho",
+   "titulo": "Prefeitura de Pirapozinho - SP abre concurso público para formação de cadastro de reserva",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pirapozinho-sp-abre-concurso-publico-para-formacao-de-cadastro-de-reserva",
+   "vagas": null,
+   "vagas_texto": "Cadastro reserva",
+   "salario_max": 6464.59,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-11-09",
+   "inscricao_fim": "2026-11-23",
+   "inscricao_texto": "09 a 23/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sp"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 1/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Prefeitura Municipal de Pirapozinho",
+     "url": "https://www.pirapozinho.sp.gov.br/",
+     "dominio": "pirapozinho.sp.gov.br"
+    },
+    {
+     "texto": "site do Instituto Evo",
+     "url": "https://www.evoconcursos.com.br/",
+     "dominio": "evoconcursos.com.br"
+    }
+   ],
+   "detalhado_em": "2026-10-31",
+   "tags": [
+    "SP",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
    ]
   },
   {
@@ -3934,6 +4024,50 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Roseira",
+   "titulo": "Prefeitura de Roseira - SP abre processo seletivo com salários de até R$ 5.130,63",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-roseira-sp-abre-processo-seletivo-com-salarios-de-ate-5130",
+   "vagas": null,
+   "vagas_texto": "Cadastro reserva",
+   "salario_max": 5130.63,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-10",
+   "inscricao_texto": "10/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sp"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "ROSEIRA 2 PS"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Prefeitura Municipal de Roseira",
+     "url": "https://www.roseira.sp.gov.br/",
+     "dominio": "roseira.sp.gov.br"
+    },
+    {
+     "texto": "site da NetEduc Concursos",
+     "url": "https://www.neteducconcursos.com.br/",
+     "dominio": "neteducconcursos.com.br"
+    }
+   ],
+   "detalhado_em": "2026-10-31",
+   "tags": [
+    "SP",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
+  },
+  {
    "orgao": "Prefeitura de Sabino",
    "titulo": "Prefeitura de Sabino - SP abre concurso público para monitor de transporte escolar",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sabino-sp-abre-concurso-publico-para-monitor-de-transporte-escolar",
@@ -4020,6 +4154,49 @@
    ]
   },
   {
+   "orgao": "Prefeitura de São João da Boa Vista",
+   "titulo": "Prefeitura de São João da Boa Vista - SP abre seleção para cadastro de reserva",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-joao-da-boa-vista-sp-abre-selecao-para-cadastro-de-reserva",
+   "vagas": null,
+   "vagas_texto": "Cadastro reserva",
+   "salario_max": 2866.86,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-11-05",
+   "inscricao_fim": "2026-11-24",
+   "inscricao_texto": "05 a 24/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sp"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 01/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Prefeitura Municipal de São João da Boa Vista",
+     "url": "https://www.saojoao.sp.gov.br/",
+     "dominio": "saojoao.sp.gov.br"
+    },
+    {
+     "texto": "www.nossorumo.org.br",
+     "url": "https://www.nossorumo.org.br/",
+     "dominio": "nossorumo.org.br"
+    }
+   ],
+   "detalhado_em": "2026-10-31",
+   "tags": [
+    "SP",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Prefeitura"
+   ]
+  },
+  {
    "orgao": "Prefeitura de São José da Bela Vista",
    "titulo": "Prefeitura de São José da Bela Vista - SP abre concurso público para cadastro de reserva",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-da-bela-vista-sp-abre-concurso-publico-para-cadastro-de-reserva",
@@ -4096,7 +4273,7 @@
      "dominio": "institutounique.org.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "SP",
     "Fundamental",
@@ -4226,7 +4403,7 @@
      "dominio": "nossorumo.org.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "SP",
     "Fundamental",
@@ -4359,7 +4536,7 @@
      "dominio": "avancasp.org.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "SP",
     "Fundamental",
@@ -4689,7 +4866,7 @@
      "dominio": "fauscs.org.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "SP",
     "Superior",
@@ -4739,7 +4916,7 @@
      "dominio": "fuvest.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "SP",
     "Medio",
@@ -4998,7 +5175,7 @@
      "dominio": "riosaude.prefeitura.rio"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "RJ",
     "Superior",
@@ -6344,7 +6521,7 @@
      "dominio": "institutoideap.org.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "MG",
     "Fundamental",
@@ -6587,7 +6764,7 @@
      "dominio": "cimmesf.mg.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "MG",
     "Tecnico",
@@ -6625,7 +6802,7 @@
      "dominio": "cisab.com.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "MG",
     "Medio",
@@ -6791,7 +6968,7 @@
      "dominio": "institutoconsulplan.org.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "MG",
     "Fundamental",
@@ -7046,7 +7223,7 @@
      "dominio": "portal.imeso.com.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "MG",
     "Medio",
@@ -7089,7 +7266,7 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "MG",
     "Fundamental",
@@ -7947,7 +8124,7 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "MG",
     "Medio",
@@ -8326,7 +8503,7 @@
      "dominio": "rochedodeminas.mg.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "MG",
     "Fundamental",
@@ -8879,7 +9056,7 @@
      "dominio": "saotiago.mg.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "MG",
     "Superior",
@@ -8955,12 +9132,51 @@
      "dominio": "staquino.mg.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "MG",
     "Medio",
     "Tecnico",
     "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de São Tomás de Aquino",
+   "titulo": "Prefeitura de São Tomás de Aquino - MG abre processo seletivo para diversos níveis de escolaridade",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-tomas-de-aquino-mg-abre-processo-seletivo-para-diversos-niveis-de-escolaridade",
+   "vagas": 10,
+   "vagas_texto": "10",
+   "salario_max": 3074.11,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio",
+   "status": "aberto",
+   "inscricao_inicio": "2026-12-21",
+   "inscricao_fim": "2027-01-08",
+   "inscricao_texto": "21/12/2026 a 08/01/2027",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "mg"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO N. 005/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Prefeitura Municipal de São Tomás de Aquino",
+     "url": "https://www.staquino.mg.gov.br/",
+     "dominio": "staquino.mg.gov.br"
+    }
+   ],
+   "detalhado_em": "2026-10-31",
+   "tags": [
+    "MG",
+    "Fundamental",
+    "Medio",
+    "Educacao",
     "Prefeitura",
     "Temporario"
    ]
@@ -9341,7 +9557,7 @@
      "dominio": "concursosfcc.com.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "ES",
     "Medio",
@@ -10191,7 +10407,7 @@
      "dominio": "concursosfau.com.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "PR",
     "Fundamental",
@@ -10243,6 +10459,50 @@
     "Superior",
     "Prefeitura",
     "Temporario"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Mariluz",
+   "titulo": "Prefeitura de Mariluz - PR abre concurso público com salários de até R$ 5.358,58",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mariluz-pr-abre-concurso-publico-com-salarios-de-ate-5358",
+   "vagas": 13,
+   "vagas_texto": "13",
+   "salario_max": 5358.58,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-10-31",
+   "inscricao_fim": "2026-11-22",
+   "inscricao_texto": "31/10 a 22/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "pr"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 001/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Prefeitura de Mariluz",
+     "url": "https://www.mariluz.pr.gov.br/",
+     "dominio": "mariluz.pr.gov.br"
+    },
+    {
+     "texto": "Instituto Omni",
+     "url": "https://www.omniinstituto.org.br/",
+     "dominio": "omniinstituto.org.br"
+    }
+   ],
+   "detalhado_em": "2026-10-31",
+   "tags": [
+    "PR",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
    ]
   },
   {
@@ -10359,7 +10619,7 @@
      "dominio": "santaamelia.pr.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "PR",
     "Superior",
@@ -10560,10 +10820,53 @@
      "dominio": "fundatec.org.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "RS",
     "Medio",
+    "Legislativo"
+   ]
+  },
+  {
+   "orgao": "Câmara de Soledade",
+   "titulo": "Câmara de Soledade - RS abre concurso público com salários de até R$ 4.381,00",
+   "link": "https://www.pciconcursos.com.br/noticias/camara-de-soledade-rs-abre-concurso-publico-com-salarios-de-ate-4381",
+   "vagas": 5,
+   "vagas_texto": "5",
+   "salario_max": 4381.0,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-11-09",
+   "inscricao_fim": "2026-12-09",
+   "inscricao_texto": "09/11 a 09/12/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "rs"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 01/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Câmara Municipal de Soledade",
+     "url": "https://www.camarasoledade.rs.gov.br/",
+     "dominio": "camarasoledade.rs.gov.br"
+    },
+    {
+     "texto": "Instituto Objetiva",
+     "url": "https://www.objetivas.com.br/",
+     "dominio": "objetivas.com.br"
+    }
+   ],
+   "detalhado_em": "2026-10-31",
+   "tags": [
+    "RS",
+    "Medio",
+    "Tecnico",
+    "Superior",
     "Legislativo"
    ]
   },
@@ -10601,7 +10904,7 @@
      "dominio": "maservicospublicos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "RS",
     "Fundamental",
@@ -10718,7 +11021,7 @@
      "dominio": "pmpf.rs.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "RS",
     "Medio",
@@ -10831,7 +11134,7 @@
     "EDITAL Nº 08/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "RS",
     "Medio",
@@ -10958,7 +11261,7 @@
      "dominio": "arroiodopadre.rs.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "RS",
     "Medio",
@@ -11050,6 +11353,49 @@
     "Medio",
     "Tecnico",
     "Superior",
+    "Prefeitura"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Canoas",
+   "titulo": "Prefeitura de Canoas - RS abre concurso público para a área da educação",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-canoas-rs-abre-concurso-publico-para-a-area-da-educacao",
+   "vagas": 76,
+   "vagas_texto": "76",
+   "salario_max": 3206.27,
+   "cargos": "Professor de Educação Básica, Técnico de Educação Básica",
+   "escolaridade": "Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-17",
+   "inscricao_texto": "17/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "rs"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 336/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Município de Canoas",
+     "url": "https://www.canoas.rs.gov.br/",
+     "dominio": "canoas.rs.gov.br"
+    },
+    {
+     "texto": "Instituto Objetiva",
+     "url": "https://www.objetivas.com.br/",
+     "dominio": "objetivas.com.br"
+    }
+   ],
+   "detalhado_em": "2026-10-31",
+   "tags": [
+    "RS",
+    "Medio",
+    "Superior",
+    "Educacao",
     "Prefeitura"
    ]
   },
@@ -11281,7 +11627,7 @@
      "dominio": "igrejinha.rs.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "RS",
     "Fundamental",
@@ -11324,7 +11670,7 @@
      "dominio": "fundatec.org.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "RS",
     "Fundamental",
@@ -11578,7 +11924,7 @@
      "dominio": "mostardas.rs.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "RS",
     "Fundamental",
@@ -11709,7 +12055,7 @@
      "dominio": "fundatec.org.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "RS",
     "Fundamental",
@@ -11796,7 +12142,7 @@
      "dominio": "objetivas.com.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "RS",
     "Fundamental",
@@ -11836,7 +12182,7 @@
      "dominio": "pmpf.rs.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "RS",
     "Medio",
@@ -12043,7 +12389,7 @@
      "dominio": "saofranciscodeassis.rs.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "RS",
     "Superior",
@@ -12217,6 +12563,49 @@
     "Tecnico",
     "Superior",
     "Prefeitura"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Teutônia",
+   "titulo": "Prefeitura de Teutônia - RS abre processo seletivo com três vagas",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-teutonia-rs-abre-processo-seletivo-com-tres-vagas",
+   "vagas": 3,
+   "vagas_texto": "3",
+   "salario_max": 3917.88,
+   "cargos": "Agente de Combate às Endemias, Monitor do PIM, Visitador do PIM",
+   "escolaridade": "Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-18",
+   "inscricao_texto": "18/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "rs"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 001/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Município de Teutônia",
+     "url": "https://teutonia.rs.gov.br/",
+     "dominio": "teutonia.rs.gov.br"
+    },
+    {
+     "texto": "site do Instituto Objetiva",
+     "url": "https://www.objetivas.com.br/",
+     "dominio": "objetivas.com.br"
+    }
+   ],
+   "detalhado_em": "2026-10-31",
+   "tags": [
+    "RS",
+    "Medio",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
    ]
   },
   {
@@ -12461,7 +12850,7 @@
      "dominio": "fundatec.org.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "RS",
     "Medio",
@@ -13156,6 +13545,50 @@
    ]
   },
   {
+   "orgao": "FURB - Fundação Universidade Regional de Blumenau",
+   "titulo": "FURB - SC abre processo seletivo com salários de até R$ 5.906,88",
+   "link": "https://www.pciconcursos.com.br/noticias/furb-sc-abre-processo-seletivo-com-salarios-de-ate-5906",
+   "vagas": null,
+   "vagas_texto": "Cadastro reserva",
+   "salario_max": 5906.88,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-11-14",
+   "inscricao_fim": "2026-12-02",
+   "inscricao_texto": "14/11 a 02/12/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL PSPS TA Nº 006/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "FURB",
+     "url": "https://www.furb.br/pt",
+     "dominio": "furb.br"
+    },
+    {
+     "texto": "concursos.furb.br",
+     "url": "https://concursos.furb.br/",
+     "dominio": "concursos.furb.br"
+    }
+   ],
+   "detalhado_em": "2026-10-31",
+   "tags": [
+    "SC",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Educacao",
+    "Temporario"
+   ]
+  },
+  {
    "orgao": "Hospital Regional Deputado Affonso Ghizzo de Araranguá e Policlínica Regional",
    "titulo": "Hospital Regional Deputado Affonso Ghizzo de Araranguá - SC abre processo seletivo para aprendiz",
    "link": "https://www.pciconcursos.com.br/noticias/hospital-regional-deputado-affonso-ghizzo-de-ararangua-sc-abre-processo-seletivo-para-aprendiz",
@@ -13306,7 +13739,7 @@
      "dominio": "institutoaocp.org.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "SC",
     "Superior",
@@ -13433,7 +13866,7 @@
      "dominio": "apiuna.sc.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "SC",
     "Medio",
@@ -13486,6 +13919,48 @@
     "Superior",
     "Prefeitura",
     "Temporario"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Blumenau",
+   "titulo": "Prefeitura de Blumenau - SC abre concurso público para a área da educação",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-blumenau-sc-abre-concurso-publico-para-a-area-da-educacao",
+   "vagas": 18,
+   "vagas_texto": "18",
+   "salario_max": 5130.63,
+   "cargos": "Coordenador Pedagógico, Professor de Computação, Professor I",
+   "escolaridade": "Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-11-07",
+   "inscricao_fim": "2026-12-09",
+   "inscricao_texto": "07/11 a 09/12/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 001/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Prefeitura Municipal de Blumenau",
+     "url": "https://blumenau.sc.gov.br/",
+     "dominio": "blumenau.sc.gov.br"
+    },
+    {
+     "texto": "concursos.furb.br",
+     "url": "https://concursos.furb.br/",
+     "dominio": "concursos.furb.br"
+    }
+   ],
+   "detalhado_em": "2026-10-31",
+   "tags": [
+    "SC",
+    "Superior",
+    "Educacao",
+    "Prefeitura"
    ]
   },
   {
@@ -14324,7 +14799,7 @@
      "dominio": "institutotupy.com.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "SC",
     "Medio",
@@ -14595,6 +15070,53 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Nova Trento",
+   "titulo": "Município de Nova Trento - SC abre três novos processos seletivos com salários de até R$ 14.189,97",
+   "link": "https://www.pciconcursos.com.br/noticias/municipio-de-nova-trento-sc-abre-tres-novos-processos-seletivos-com-salarios-de-ate-14189",
+   "vagas": null,
+   "vagas_texto": "Cadastro reserva",
+   "salario_max": 14189.97,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-28",
+   "inscricao_texto": "28/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO PÚBLICO Nº 001/2026",
+    "EDITAL DE PROCESSO SELETIVO Nº 002/2026 - SECRETARIA DE EDUCAÇÃO",
+    "EDITAL DE PROCESSO SELETIVO Nº 003/2026 DEMAIS SECRETARIAS"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Município de Nova Trento",
+     "url": "https://www.novatrento.sc.gov.br/",
+     "dominio": "novatrento.sc.gov.br"
+    },
+    {
+     "texto": "Acesse Concursos",
+     "url": "https://www.acesseconcursossc.com.br/",
+     "dominio": "acesseconcursossc.com.br"
+    }
+   ],
+   "detalhado_em": "2026-10-31",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
+  },
+  {
    "orgao": "Prefeitura de Novo Horizonte",
    "titulo": "Prefeitura de Novo Horizonte - SC abre processo seletivo com salários de até R$ 6.201,33",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-horizonte-sc-abre-processo-seletivo-com-salarios-de-ate-6201",
@@ -14791,7 +15313,7 @@
      "dominio": "riodasantas.sc.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "SC",
     "Superior",
@@ -15059,7 +15581,7 @@
      "dominio": "institutofenix.selecao.net.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "SC",
     "Fundamental",
@@ -15627,7 +16149,7 @@
      "dominio": "concursos.furb.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "SC",
     "Fundamental",
@@ -15707,7 +16229,7 @@
      "dominio": "schroeder.sc.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "SC",
     "Medio",
@@ -15750,7 +16272,7 @@
      "dominio": "sigrhportal.sea.sc.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "SC",
     "Superior",
@@ -15994,7 +16516,7 @@
      "dominio": "processoseletivo.igesdf.org.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "DF",
     "Tecnico",
@@ -16162,7 +16684,7 @@
      "dominio": "institutoconsulplan.org.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "GO",
     "Fundamental",
@@ -16886,7 +17408,7 @@
      "dominio": "selecon.org.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "MT",
     "Medio",
@@ -17303,7 +17825,7 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "MT",
     "Fundamental",
@@ -17347,7 +17869,7 @@
      "dominio": "institutoatame.org.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "MT",
     "Medio",
@@ -17355,6 +17877,45 @@
     "Superior",
     "Prefeitura",
     "Temporario"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Santa Rita do Trivelato",
+   "titulo": "Prefeitura de Santa Rita do Trivelato - MT abre seleção com salários de até R$ 21.825,31",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-rita-do-trivelato-mt-abre-selecao-com-salarios-de-ate-21825",
+   "vagas": null,
+   "vagas_texto": "Várias",
+   "salario_max": 21825.31,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-22",
+   "inscricao_texto": "22/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "mt"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE ABERTURA Nº 001/2026 - PROCESSO SELETIVO SIMPLIFICADO Nº 003/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Prefeitura Municipal de Santa Rita do Trivelato",
+     "url": "https://www.santaritadotrivelato.mt.gov.br/home",
+     "dominio": "santaritadotrivelato.mt.gov.br"
+    }
+   ],
+   "detalhado_em": "2026-10-31",
+   "tags": [
+    "MT",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
    ]
   },
   {
@@ -17870,7 +18431,7 @@
      "dominio": "institutovicentenelson.com.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "PA",
     "Fundamental",
@@ -17914,7 +18475,7 @@
      "dominio": "icap-to.com.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "PA",
     "Fundamental",
@@ -17965,7 +18526,7 @@
      "dominio": "institutoconsulplan.org.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "PA",
     "Medio",
@@ -19209,6 +19770,49 @@
    ]
   },
   {
+   "orgao": "Câmara de Camocim",
+   "titulo": "Câmara de Camocim - CE abre concurso público com 11 vagas",
+   "link": "https://www.pciconcursos.com.br/noticias/camara-de-camocim-ce-abre-concurso-publico-com-11-vagas",
+   "vagas": 11,
+   "vagas_texto": "11",
+   "salario_max": 3800.0,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-12",
+   "inscricao_texto": "12/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "ce"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DO CONCURSO PÚBLICO Nº 001/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Câmara Municipal de Camocim",
+     "url": "https://camaracamocim.ce.gov.br/",
+     "dominio": "camaracamocim.ce.gov.br"
+    },
+    {
+     "texto": "www.inbrasp.org",
+     "url": "https://www.inbrasp.org/",
+     "dominio": "inbrasp.org"
+    }
+   ],
+   "detalhado_em": "2026-10-31",
+   "tags": [
+    "CE",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Legislativo"
+   ]
+  },
+  {
    "orgao": "Câmara de São Benedito",
    "titulo": "Câmara de São Benedito - CE abre concurso público para níveis fundamental e médio",
    "link": "https://www.pciconcursos.com.br/noticias/camara-de-sao-benedito-ce-abre-concurso-publico-para-niveis-fundamental-e-medio",
@@ -19600,7 +20204,7 @@
      "dominio": "consulpam.com.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "CE",
     "Fundamental",
@@ -19649,7 +20253,7 @@
      "dominio": "consulpam.com.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "CE",
     "Fundamental",
@@ -20094,7 +20698,7 @@
      "dominio": "concursos.facetconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "PB",
     "Fundamental",
@@ -20194,8 +20798,8 @@
   },
   {
    "orgao": "TJPB - Tribunal de Justiça do Estado da Paraíba",
-   "titulo": "TJPB abre concurso público para analistas judiciários",
-   "link": "https://www.pciconcursos.com.br/noticias/tjpb-abre-concurso-publico-para-analistas-judiciarios",
+   "titulo": "TJPB retifica concurso público para analistas judiciários",
+   "link": "https://www.pciconcursos.com.br/noticias/tjpb-retifica-concurso-publico-para-analistas-judiciarios",
    "vagas": 50,
    "vagas_texto": "50",
    "salario_max": 7526.14,
@@ -20212,7 +20816,10 @@
    ],
    "fonte": "pci",
    "editais": [
-    "EDITAL Nº 01/2026"
+    "EDITAL Nº 01/2026",
+    "1ª RETIFICAÇÃO DO EDITAL Nº 01/2026",
+    "2ª RETIFICAÇÃO DO EDITAL Nº 01/2026",
+    "EDITAL RETIFICADO Nº 01/2026"
    ],
    "links_oficiais": [
     {
@@ -20226,7 +20833,7 @@
      "dominio": "conhecimento.fgv.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "PB",
     "Superior",
@@ -20722,7 +21329,7 @@
      "dominio": "campograndedopiaui.pi.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "PI",
     "Fundamental",
@@ -21202,7 +21809,7 @@
      "dominio": "comperve.ufrn.br"
     }
    ],
-   "detalhado_em": "2026-10-27",
+   "detalhado_em": "2026-10-31",
    "tags": [
     "RN",
     "Superior",
@@ -21291,6 +21898,69 @@
     "Medio",
     "Superior",
     "Saude"
+   ]
+  },
+  {
+   "orgao": "Secretaria Municipal de Educação de Itabaiana",
+   "titulo": "Secretaria Municipal de Educação de Itabaiana - SE abre processo seletivo com salários de até R$ 4.514,95",
+   "link": "https://www.pciconcursos.com.br/noticias/secretaria-municipal-de-educacao-de-itabaiana-se-abre-processo-seletivo-com-salarios-de-ate-4514",
+   "vagas": 38,
+   "vagas_texto": "38",
+   "salario_max": 4514.95,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-11-03",
+   "inscricao_fim": "2026-11-06",
+   "inscricao_texto": "03 a 06/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "se"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DO PSS Nº 004/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "Secretaria Municipal de Educação de Itabaiana",
+     "url": "https://www.itabaiana.se.gov.br/",
+     "dominio": "itabaiana.se.gov.br"
+    }
+   ],
+   "detalhado_em": "2026-10-31",
+   "tags": [
+    "SE",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Educacao",
+    "Temporario"
+   ]
+  },
+  {
+   "orgao": "CNU 2027",
+   "titulo": "CNU 2027 deverá oferecer até 3 mil vagas, mas ainda não tem data",
+   "link": "https://concursosnobrasil.com/concursos/br/2026/10/30/cnu-2027-devera-oferecer-ate-3-mil-vagas-mas-ainda-nao-tem-data/",
+   "vagas": null,
+   "vagas_texto": "Várias",
+   "salario_max": null,
+   "status": "previsto",
+   "inscricao_inicio": null,
+   "inscricao_fim": null,
+   "inscricao_texto": "",
+   "cargos": "",
+   "escolaridade": "",
+   "publicado": "2026-10-30",
+   "nacional": true,
+   "ufs": [
+    "br"
+   ],
+   "fonte": "cnb",
+   "tags": [
+    "Nacional",
+    "Previsto"
    ]
   },
   {
@@ -23268,54 +23938,6 @@
     "Educacao",
     "Prefeitura",
     "Temporario",
-    "Previsto"
-   ]
-  },
-  {
-   "orgao": "Sefaz BA",
-   "titulo": "Concurso Sefaz BA terá novo edital com abertura de 200 vagas",
-   "link": "https://concursosnobrasil.com/concursos/ba/2025/10/29/concurso-sefaz-ba-tera-novo-edital-com-abertura-de-200-vagas/",
-   "vagas": 200,
-   "vagas_texto": "200",
-   "salario_max": null,
-   "status": "previsto",
-   "inscricao_inicio": null,
-   "inscricao_fim": null,
-   "inscricao_texto": "",
-   "cargos": "",
-   "escolaridade": "",
-   "publicado": "2025-10-29",
-   "nacional": false,
-   "ufs": [
-    "ba"
-   ],
-   "fonte": "cnb",
-   "tags": [
-    "BA",
-    "Previsto"
-   ]
-  },
-  {
-   "orgao": "Cofen",
-   "titulo": "Concurso do Cofen com 13 cargos será organizado pelo Instituto Quadrix",
-   "link": "https://concursosnobrasil.com/concursos/df/2025/10/28/concurso-do-cofen-com-13-cargos-sera-organizado-pelo-instituto-quadrix/",
-   "vagas": null,
-   "vagas_texto": "Várias",
-   "salario_max": null,
-   "status": "previsto",
-   "inscricao_inicio": null,
-   "inscricao_fim": null,
-   "inscricao_texto": "",
-   "cargos": "",
-   "escolaridade": "",
-   "publicado": "2025-10-28",
-   "nacional": false,
-   "ufs": [
-    "df"
-   ],
-   "fonte": "cnb",
-   "tags": [
-    "DF",
     "Previsto"
    ]
   },
