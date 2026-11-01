@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-31T23:56:32+00:00",
+ "atualizado": "2026-11-01T15:44:50+00:00",
  "fontes": {
   "pci": "https://www.pciconcursos.com.br/concursos/",
   "cnb": "https://concursosnobrasil.com"
@@ -512,46 +512,6 @@
    ]
   },
   {
-   "orgao": "IPSM - Instituto de Previdência do Servidor Municipal",
-   "titulo": "IPSM de São José dos Campos - SP abre concurso para diversos cargos de nível superior",
-   "link": "https://www.pciconcursos.com.br/noticias/ipsm-de-sao-jose-dos-campos-sp-abre-concurso-para-diversos-cargos-de-nivel-superior",
-   "vagas": 17,
-   "vagas_texto": "17",
-   "salario_max": 5860.31,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-10-30",
-   "inscricao_texto": "30/10/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "sp"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL DE CONCURSO PÚBLICO Nº 01/2026"
-   ],
-   "links_oficiais": [
-    {
-     "texto": "IPSM",
-     "url": "https://ipsmsjc.sp.gov.br/",
-     "dominio": "ipsmsjc.sp.gov.br"
-    },
-    {
-     "texto": "www.institutoaocp.org.br",
-     "url": "https://www.institutoaocp.org.br/",
-     "dominio": "institutoaocp.org.br"
-    }
-   ],
-   "detalhado_em": "2026-10-31",
-   "tags": [
-    "SP",
-    "Superior"
-   ]
-  },
-  {
    "orgao": "Prefeitura de Matão",
    "titulo": "Prefeitura de Matão - SP abre concurso público com salários de até R$ 9.717,96",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-matao-sp-abre-concurso-publico-com-salarios-de-ate-9717",
@@ -755,7 +715,7 @@
      "dominio": "funcamp.unicamp.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "SP",
     "Tecnico",
@@ -797,7 +757,7 @@
      "dominio": "abconcursospublicos.org"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "SP",
     "Fundamental",
@@ -840,7 +800,7 @@
      "dominio": "portal.institutoibepp.com.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "SP",
     "Fundamental",
@@ -883,7 +843,7 @@
      "dominio": "cematconcurso.com.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "SP",
     "Fundamental",
@@ -1345,7 +1305,7 @@
      "dominio": "fsainscricao.crmeducacional.com"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "SP",
     "Superior",
@@ -1425,7 +1385,7 @@
      "dominio": "funcamp.unicamp.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "SP",
     "Fundamental",
@@ -1656,7 +1616,7 @@
      "dominio": "avancasp.org.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "SP",
     "Superior",
@@ -1692,7 +1652,47 @@
      "dominio": "vunesp.com.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
+   "tags": [
+    "SP",
+    "Superior"
+   ]
+  },
+  {
+   "orgao": "IPSM - Instituto de Previdência do Servidor Municipal",
+   "titulo": "IPSM de São José dos Campos - SP abre concurso para diversos cargos de nível superior",
+   "link": "https://www.pciconcursos.com.br/noticias/ipsm-de-sao-jose-dos-campos-sp-abre-concurso-para-diversos-cargos-de-nivel-superior",
+   "vagas": 17,
+   "vagas_texto": "17",
+   "salario_max": 5860.31,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-10-30",
+   "inscricao_texto": "30/10/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sp"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE CONCURSO PÚBLICO Nº 01/2026"
+   ],
+   "links_oficiais": [
+    {
+     "texto": "IPSM",
+     "url": "https://ipsmsjc.sp.gov.br/",
+     "dominio": "ipsmsjc.sp.gov.br"
+    },
+    {
+     "texto": "www.institutoaocp.org.br",
+     "url": "https://www.institutoaocp.org.br/",
+     "dominio": "institutoaocp.org.br"
+    }
+   ],
+   "detalhado_em": "2026-10-31",
    "tags": [
     "SP",
     "Superior"
@@ -2024,7 +2024,7 @@
      "dominio": "igecs.org.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "SP",
     "Fundamental",
@@ -2764,7 +2764,7 @@
      "dominio": "inepam.org.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "SP",
     "Medio",
@@ -2896,7 +2896,7 @@
      "dominio": "glconsultoria.com.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "SP",
     "Fundamental",
@@ -3156,7 +3156,7 @@
      "dominio": "consesp.com.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "SP",
     "Fundamental",
@@ -3280,7 +3280,7 @@
      "dominio": "mirassol.sp.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "SP",
     "Medio",
@@ -4150,7 +4150,7 @@
      "dominio": "publiconsult.com.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "SP",
     "Fundamental",
@@ -4669,7 +4669,7 @@
      "dominio": "institutoaocp.org.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "RJ",
     "Superior",
@@ -4986,7 +4986,7 @@
      "dominio": "avalia.org.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "RJ",
     "Superior",
@@ -5024,7 +5024,7 @@
      "dominio": "avalia.org.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "RJ",
     "Fundamental",
@@ -5756,7 +5756,7 @@
      "dominio": "institutoindec.org.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "MG",
     "Fundamental",
@@ -6753,7 +6753,7 @@
      "dominio": "aracuai.mg.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "MG",
     "Fundamental",
@@ -7130,7 +7130,7 @@
      "dominio": "concursosintec.org.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "MG",
     "Fundamental",
@@ -7220,7 +7220,7 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "MG",
     "Fundamental",
@@ -7265,7 +7265,7 @@
      "dominio": "bit.ly"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "MG",
     "Medio",
@@ -7392,7 +7392,7 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "MG",
     "Medio",
@@ -7529,7 +7529,7 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "MG",
     "Medio",
@@ -7701,7 +7701,7 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "MG",
     "Superior",
@@ -8294,7 +8294,7 @@
      "dominio": "eloassessoriaeservicos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "MG",
     "Fundamental",
@@ -8382,7 +8382,7 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "MG",
     "Medio",
@@ -9222,7 +9222,7 @@
      "dominio": "ibgpconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "ES",
     "Superior",
@@ -9264,7 +9264,7 @@
      "dominio": "idcap.org.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "ES",
     "Tecnico",
@@ -9306,7 +9306,7 @@
      "dominio": "ibfc.org.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "ES",
     "Medio",
@@ -9382,7 +9382,7 @@
      "dominio": "pmdrp.es.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "ES",
     "Fundamental",
@@ -10031,7 +10031,7 @@
      "dominio": "objetivas.com.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "PR",
     "Fundamental",
@@ -10319,7 +10319,7 @@
      "dominio": "cops.uel.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "PR",
     "Tecnico",
@@ -10767,7 +10767,7 @@
      "dominio": "faurgs.com.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "RS",
     "Superior",
@@ -11133,7 +11133,7 @@
      "dominio": "legalleconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "RS",
     "Fundamental",
@@ -11847,7 +11847,7 @@
      "dominio": "grp.pmsap.com.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "RS",
     "Medio",
@@ -12729,7 +12729,7 @@
      "dominio": "fundacaofafipa.org.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "SC",
     "Superior",
@@ -12805,7 +12805,7 @@
      "dominio": "fahece.org.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "SC",
     "Superior",
@@ -12842,43 +12842,6 @@
     }
    ],
    "detalhado_em": "2026-10-31",
-   "tags": [
-    "SC",
-    "Medio",
-    "Administrativo",
-    "Temporario"
-   ]
-  },
-  {
-   "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
-   "titulo": "FAHECE - SC abre processo seletivo para o cargo de Assistente Administrativo no CEPON",
-   "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-o-cargo-de-assistente-administrativo-no-cepon",
-   "vagas": 1,
-   "vagas_texto": "1",
-   "salario_max": 2519.21,
-   "cargos": "Assistente Administrativo I",
-   "escolaridade": "Ensino Médio",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-10-31",
-   "inscricao_texto": "31/10/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "sc"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "FAHECE 544 PS"
-   ],
-   "links_oficiais": [
-    {
-     "texto": "FAHECE",
-     "url": "https://www.fahece.org.br/",
-     "dominio": "fahece.org.br"
-    }
-   ],
-   "detalhado_em": "2026-10-28",
    "tags": [
     "SC",
     "Medio",
@@ -13070,7 +13033,7 @@
      "dominio": "portal.actio.srv.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "SC",
     "Superior",
@@ -13209,52 +13172,6 @@
    ]
   },
   {
-   "orgao": "Prefeitura de Águas Mornas",
-   "titulo": "Prefeitura de Águas Mornas - SC abre concurso e processo seletivo com salários de até R$ 10.109,68",
-   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-aguas-mornas-sc-abre-concurso-e-processo-seletivo-com-salarios-de-ate-10109",
-   "vagas": null,
-   "vagas_texto": "Cadastro reserva",
-   "salario_max": 10109.68,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-10-31",
-   "inscricao_texto": "31/10/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "sc"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL DE CONCURSO PÚBLICO Nº 001/2026",
-    "EDITAL DE PROCESSO SELETIVO Nº 002/2026"
-   ],
-   "links_oficiais": [
-    {
-     "texto": "Prefeitura de Águas Mornas",
-     "url": "https://www.aguasmornas.sc.gov.br/",
-     "dominio": "aguasmornas.sc.gov.br"
-    },
-    {
-     "texto": "www.acesseconcursossc.com.br",
-     "url": "https://www.acesseconcursossc.com.br/",
-     "dominio": "acesseconcursossc.com.br"
-    }
-   ],
-   "detalhado_em": "2026-10-30",
-   "tags": [
-    "SC",
-    "Fundamental",
-    "Medio",
-    "Tecnico",
-    "Superior",
-    "Prefeitura",
-    "Temporario"
-   ]
-  },
-  {
    "orgao": "Prefeitura de Apiúna",
    "titulo": "Prefeitura de Apiúna - SC abre processo seletivo para o cargo de Técnico em Enfermagem",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-apiuna-sc-abre-processo-seletivo-para-o-cargo-de-tecnico-em-enfermagem",
@@ -13327,7 +13244,7 @@
      "dominio": "portal.sctreinamentos.selecao.site"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "SC",
     "Fundamental",
@@ -13682,7 +13599,7 @@
      "dominio": "2026cpconcordiaeduca.fepese.org.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "SC",
     "Medio",
@@ -14298,7 +14215,7 @@
      "dominio": "omniinstituto.org.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "SC",
     "Fundamental",
@@ -14523,7 +14440,7 @@
      "dominio": "portal.institutolegalle.org.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "SC",
     "Fundamental",
@@ -15017,48 +14934,6 @@
     "Superior",
     "Prefeitura",
     "Temporario"
-   ]
-  },
-  {
-   "orgao": "Prefeitura de São José",
-   "titulo": "Prefeitura de São José - SC abre concurso com 300 vagas para auxiliares de educação especial",
-   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-sc-abre-concurso-com-300-vagas-para-auxiliares-de-educacao-especial",
-   "vagas": 300,
-   "vagas_texto": "300",
-   "salario_max": 4581.88,
-   "cargos": "Auxiliar de Educação Especial",
-   "escolaridade": "Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-10-16",
-   "inscricao_texto": "16/10/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "sc"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL Nº 001/2026"
-   ],
-   "links_oficiais": [
-    {
-     "texto": "Município de São José",
-     "url": "https://saojose.sc.gov.br/",
-     "dominio": "saojose.sc.gov.br"
-    },
-    {
-     "texto": "2026cpeducaeesj.fepese.org.br",
-     "url": "https://2026cpeducaeesj.fepese.org.br/",
-     "dominio": "2026cpeducaeesj.fepese.org.br"
-    }
-   ],
-   "detalhado_em": "2026-10-30",
-   "tags": [
-    "SC",
-    "Superior",
-    "Educacao",
-    "Prefeitura"
    ]
   },
   {
@@ -15605,7 +15480,7 @@
      "dominio": "conhecimento.fgv.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "DF",
     "Superior",
@@ -16656,7 +16531,7 @@
      "dominio": "institutoatame.org.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "MT",
     "Medio",
@@ -16823,7 +16698,7 @@
      "dominio": "portal.assepublica.selecao.site"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "MT",
     "Fundamental",
@@ -16863,7 +16738,7 @@
      "dominio": "novohorizontedonorte.mt.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "MT",
     "Fundamental",
@@ -17340,7 +17215,7 @@
      "dominio": "cesgranrio.org.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "AP",
     "Superior",
@@ -17382,7 +17257,7 @@
      "dominio": "institutoaocp.org.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "AP",
     "Medio",
@@ -17978,7 +17853,7 @@
      "dominio": "santaluzia.ro.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "RO",
     "Fundamental",
@@ -18271,7 +18146,7 @@
      "dominio": "planejarconcursos.com.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "BA",
     "Fundamental",
@@ -18487,7 +18362,7 @@
      "dominio": "passaportepdh.com.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "BA",
     "Medio",
@@ -18666,7 +18541,7 @@
      "dominio": "avalia.org.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "BA",
     "Medio",
@@ -18792,7 +18667,7 @@
      "dominio": "cro-ce.org.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "CE",
     "Superior",
@@ -18973,7 +18848,7 @@
      "dominio": "consulpam.com.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "CE",
     "Fundamental",
@@ -19020,7 +18895,7 @@
      "dominio": "consulpam.com.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "CE",
     "Medio",
@@ -19065,7 +18940,7 @@
      "dominio": "consulpam.com.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "CE",
     "Fundamental",
@@ -19567,7 +19442,7 @@
      "dominio": "educapb.com.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "PB",
     "Fundamental",
@@ -20286,7 +20161,7 @@
      "dominio": "institutovicentenelson.com.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "PI",
     "Fundamental",
@@ -20417,7 +20292,7 @@
      "dominio": "legatus.org.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "PI",
     "Fundamental",
@@ -20456,7 +20331,7 @@
      "dominio": "muricidosportelas.pi.gov.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "PI",
     "Tecnico",
@@ -20766,7 +20641,7 @@
      "dominio": "institutoconsulplan.org.br"
     }
    ],
-   "detalhado_em": "2026-10-28",
+   "detalhado_em": "2026-11-01",
    "tags": [
     "SE",
     "Medio",
