@@ -1,4 +1,4 @@
-from datetime import date
+from datetime import date, timedelta
 
 import pytest
 
@@ -13,7 +13,7 @@ HOJE = date(2026, 10, 18)
 def concurso(link, orgao="Prefeitura X", ufs=("pe",), nacional=False, **extra):
     base = {"link": link, "orgao": orgao, "titulo": f"{orgao} abre concurso", "ufs": list(ufs),
             "nacional": nacional, "status": "aberto", "cargos": "", "escolaridade": "",
-            "inscricao_fim": "2026-11-01", "vagas": 10, "salario_max": 5000.0}
+            "inscricao_fim": (date.today() + timedelta(days=30)).isoformat(), "vagas": 10, "salario_max": 5000.0}
     base.update(extra)
     return base
 
