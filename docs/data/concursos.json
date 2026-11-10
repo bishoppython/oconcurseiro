@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-10T03:08:50+00:00",
+ "atualizado": "2026-11-10T16:46:42+00:00",
  "fontes": {
   "pci": "https://www.pciconcursos.com.br/concursos/",
   "cnb": "https://concursosnobrasil.com"
@@ -68,6 +68,36 @@
     "Superior",
     "Engenharia",
     "Legislativo"
+   ]
+  },
+  {
+   "orgao": "IBGE - Fundação Instituto Brasileiro de Geografia e Estatística",
+   "titulo": "IBGE: Processo Seletivo oferece 27.279 vagas para Recenseador",
+   "link": "https://www.pciconcursos.com.br/noticias/ibge-processo-seletivo-oferece-27279-vagas-para-recenseador",
+   "vagas": 27279,
+   "vagas_texto": "27.279",
+   "salario_max": 4370.0,
+   "cargos": "Recenseador",
+   "escolaridade": "Fundamental",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-25",
+   "inscricao_texto": "25/11/2026",
+   "publicado": null,
+   "nacional": true,
+   "ufs": [
+    "br"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 03/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-09",
+   "tags": [
+    "Nacional",
+    "Fundamental",
+    "Temporario"
    ]
   },
   {
@@ -198,36 +228,6 @@
     "Nacional",
     "Superior",
     "Saude",
-    "Temporario"
-   ]
-  },
-  {
-   "orgao": "IBGE - Fundação Instituto Brasileiro de Geografia e Estatística",
-   "titulo": "IBGE: Processo Seletivo oferece 27.279 vagas para Recenseador",
-   "link": "https://www.pciconcursos.com.br/noticias/ibge-processo-seletivo-oferece-27279-vagas-para-recenseador",
-   "vagas": 27279,
-   "vagas_texto": "27.279",
-   "salario_max": 4370.0,
-   "cargos": "Recenseador",
-   "escolaridade": "Fundamental",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-25",
-   "inscricao_texto": "25/11/2026",
-   "publicado": null,
-   "nacional": true,
-   "ufs": [
-    "br"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL Nº 03/2026"
-   ],
-   "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
-   "tags": [
-    "Nacional",
-    "Fundamental",
     "Temporario"
    ]
   },
@@ -375,40 +375,6 @@
     "Tecnico",
     "Superior",
     "Tribunais"
-   ]
-  },
-  {
-   "orgao": "Câmara de Boituva",
-   "titulo": "Câmara de Boituva - SP abre concursos com salários de até R$ 8.595,15",
-   "link": "https://www.pciconcursos.com.br/noticias/camara-de-boituva-sp-abre-concursos-com-salarios-de-ate-8595",
-   "vagas": 7,
-   "vagas_texto": "7",
-   "salario_max": 8595.15,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-09",
-   "inscricao_texto": "09/11/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "sp"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL Nº 01/2026",
-    "EDITAL Nº 02/2026"
-   ],
-   "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
-   "tags": [
-    "SP",
-    "Fundamental",
-    "Medio",
-    "Tecnico",
-    "Superior",
-    "Legislativo"
    ]
   },
   {
@@ -666,6 +632,40 @@
     "SP",
     "Fundamental",
     "Medio",
+    "Superior",
+    "Legislativo"
+   ]
+  },
+  {
+   "orgao": "Câmara de Boituva",
+   "titulo": "Câmara de Boituva - SP abre concursos com salários de até R$ 8.595,15",
+   "link": "https://www.pciconcursos.com.br/noticias/camara-de-boituva-sp-abre-concursos-com-salarios-de-ate-8595",
+   "vagas": 7,
+   "vagas_texto": "7",
+   "salario_max": 8595.15,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-09",
+   "inscricao_texto": "09/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sp"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 01/2026",
+    "EDITAL Nº 02/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-09",
+   "tags": [
+    "SP",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
     "Superior",
     "Legislativo"
    ]
@@ -9415,6 +9415,37 @@
    ]
   },
   {
+   "orgao": "FAHECE",
+   "titulo": "FAHECE - SC prorroga inscrições de processo seletivo para o cargo de Terapeuta Ocupacional I em Florianópolis",
+   "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-prorroga-inscricoes-de-processo-seletivo-para-o-cargo-de-terapeuta-ocupacional-i-em-florianopolis",
+   "vagas": 1,
+   "vagas_texto": "1",
+   "salario_max": 4546.46,
+   "cargos": "Terapeuta Ocupacional I",
+   "escolaridade": "Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-22",
+   "inscricao_texto": "Prorrogado até 22/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO Nº 511/26",
+    "PRORROGAÇÃO DAS INSCRIÇÕES - PROCESSO SELETIVO Nº 511/26"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-10",
+   "tags": [
+    "SC",
+    "Superior",
+    "Temporario"
+   ]
+  },
+  {
    "orgao": "FURB - Fundação Universidade Regional de Blumenau",
    "titulo": "FURB - SC abre processo seletivo com salários de até R$ 5.906,88",
    "link": "https://www.pciconcursos.com.br/noticias/furb-sc-abre-processo-seletivo-com-salarios-de-ate-5906",
@@ -9444,6 +9475,38 @@
     "Tecnico",
     "Superior",
     "Educacao",
+    "Temporario"
+   ]
+  },
+  {
+   "orgao": "HEMOSC",
+   "titulo": "FAHECE - SC prorroga inscrições de processo seletivo para Médico no HEMOSC de Joinville",
+   "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-prorroga-inscricoes-de-processo-seletivo-para-medico-no-hemosc-de-joinville",
+   "vagas": 1,
+   "vagas_texto": "1",
+   "salario_max": 10153.19,
+   "cargos": "Médico II",
+   "escolaridade": "Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-16",
+   "inscricao_texto": "Prorrogado até 16/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO Nº 498/26",
+    "PRORROGAÇÃO DAS INSCRIÇÕES - PROCESSO SELETIVO Nº 498/26"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-10",
+   "tags": [
+    "SC",
+    "Superior",
+    "Saude",
     "Temporario"
    ]
   },
@@ -11379,38 +11442,6 @@
    ]
   },
   {
-   "orgao": "Prefeitura de Caldas Novas",
-   "titulo": "Prefeitura de Caldas Novas - GO divulga retificação do concurso público para guardas civis municipais",
-   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-caldas-novas-go-divulga-retificacao-do-concurso-publico-para-guardas-civis-municipais",
-   "vagas": 15,
-   "vagas_texto": "15",
-   "salario_max": 3100.0,
-   "cargos": "Guarda Civil Municipal",
-   "escolaridade": "Ensino Médio",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-09",
-   "inscricao_texto": "09/11/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "go"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL DE ABERTURA - CONCURSO PÚBLICO Nº 001/2026",
-    "1º TERMO DE RETIFICAÇÃO DO EDITAL DE ABERTURA - CONCURSO PÚBLICO Nº 001/2026"
-   ],
-   "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
-   "tags": [
-    "GO",
-    "Medio",
-    "Policial",
-    "Prefeitura"
-   ]
-  },
-  {
    "orgao": "Câmara de Cristalina",
    "titulo": "Câmara de Cristalina - GO retifica concurso público com salários de até R$ 8.383,20",
    "link": "https://www.pciconcursos.com.br/noticias/camara-de-cristalina-go-retifica-concurso-publico-com-salarios-de-ate-8383",
@@ -11603,6 +11634,38 @@
     "GO",
     "Medio",
     "Saude",
+    "Prefeitura"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Caldas Novas",
+   "titulo": "Prefeitura de Caldas Novas - GO divulga retificação do concurso público para guardas civis municipais",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-caldas-novas-go-divulga-retificacao-do-concurso-publico-para-guardas-civis-municipais",
+   "vagas": 15,
+   "vagas_texto": "15",
+   "salario_max": 3100.0,
+   "cargos": "Guarda Civil Municipal",
+   "escolaridade": "Ensino Médio",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-09",
+   "inscricao_texto": "09/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "go"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE ABERTURA - CONCURSO PÚBLICO Nº 001/2026",
+    "1º TERMO DE RETIFICAÇÃO DO EDITAL DE ABERTURA - CONCURSO PÚBLICO Nº 001/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-09",
+   "tags": [
+    "GO",
+    "Medio",
+    "Policial",
     "Prefeitura"
    ]
   },
@@ -12599,8 +12662,8 @@
   },
   {
    "orgao": "Câmara de Portel",
-   "titulo": "Câmara de Portel - PA abre concurso público com salários de até R$ 4.723,31",
-   "link": "https://www.pciconcursos.com.br/noticias/camara-de-portel-pa-abre-concurso-publico-com-salarios-de-ate-4723",
+   "titulo": "Câmara de Portel - PA retifica edital de concurso público",
+   "link": "https://www.pciconcursos.com.br/noticias/camara-de-portel-pa-retifica-edital-de-concurso-publico",
    "vagas": 27,
    "vagas_texto": "27",
    "salario_max": 4723.31,
@@ -12608,8 +12671,8 @@
    "escolaridade": "Fundamental / Médio / Técnico / Superior",
    "status": "aberto",
    "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-15",
-   "inscricao_texto": "15/11/2026",
+   "inscricao_fim": "2026-11-29",
+   "inscricao_texto": "Prorrogado até 29/11/2026",
    "publicado": null,
    "nacional": false,
    "ufs": [
@@ -12617,10 +12680,12 @@
    ],
    "fonte": "pci",
    "editais": [
-    "EDITAL DE CONCURSO PÚBLICO Nº 001/2026"
+    "EDITAL DE CONCURSO PÚBLICO Nº 001/2026",
+    "PRIMEIRA RETIFICAÇÃO DO EDITAL DE ABERTURA",
+    "RETIFICAÇÃO Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-10",
    "tags": [
     "PA",
     "Fundamental",
@@ -13088,6 +13153,41 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Aracatu",
+   "titulo": "Prefeitura de Aracatu - BA retifica edital de processo seletivo para a Secretaria de Educação",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-aracatu-ba-retifica-edital-de-processo-seletivo-para-a-secretaria-de-educacao",
+   "vagas": 278,
+   "vagas_texto": "278",
+   "salario_max": 2565.32,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-15",
+   "inscricao_texto": "Prorrogado até 15/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "ba"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 001/2026",
+    "EDITAL RETIFICADO Nº 001/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-10",
+   "tags": [
+    "BA",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Educacao",
+    "Prefeitura",
+    "Temporario"
+   ]
+  },
+  {
    "orgao": "Prefeitura de Catu",
    "titulo": "Prefeitura de Catu - BA prorroga inscrições do concurso público para diversos cargos",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-catu-ba-prorroga-inscricoes-do-concurso-publico-para-diversos-cargos",
@@ -13289,6 +13389,38 @@
     "Medio",
     "Policial",
     "Prefeitura"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Tucano",
+   "titulo": "Prefeitura de Tucano - BA abre processo seletivo com 83 vagas",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tucano-ba-abre-processo-seletivo-com-83-vagas",
+   "vagas": 83,
+   "vagas_texto": "83",
+   "salario_max": 3000.0,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-25",
+   "inscricao_texto": "25/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "ba"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DO PROCESSO SELETIVO SIMPLIFICADO Nº 01/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-10",
+   "tags": [
+    "BA",
+    "Medio",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
    ]
   },
   {
@@ -14044,6 +14176,40 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Baía da Traição",
+   "titulo": "Prefeitura de Baía da Traição - PB abre concurso público com vagas em diversos cargos",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-baia-da-traicao-pb-abre-concurso-publico-com-vagas-em-diversos-cargos",
+   "vagas": 117,
+   "vagas_texto": "117",
+   "salario_max": 10000.0,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-11-17",
+   "inscricao_fim": "2026-12-16",
+   "inscricao_texto": "17/11 a 16/12/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "pb"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL NORMATIVO Nº 01/2026",
+    "BAÍA DA TRAIÇÃO 1 CP EDITAL RETIFICADO"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-10",
+   "tags": [
+    "PB",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
+  },
+  {
    "orgao": "Prefeitura de Itapororoca",
    "titulo": "Prefeitura de Itapororoca - PB abre concurso com salários de até R$ 10.000,00",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itapororoca-pb-abre-concurso-com-salarios-de-ate-10000",
@@ -14244,8 +14410,8 @@
   },
   {
    "orgao": "PC - Polícia Civil",
-   "titulo": "Secretaria de Defesa Social e de Administração - PE abrem concurso com 1.315 vagas para a Polícia Civil",
-   "link": "https://www.pciconcursos.com.br/noticias/secretaria-de-defesa-social-e-de-administracao-pe-abrem-concurso-com-1315-vagas-para-a-policia-civil",
+   "titulo": "Secretaria de Defesa Social e de Administração - PE retificam concurso para a Polícia Civil",
+   "link": "https://www.pciconcursos.com.br/noticias/secretaria-de-defesa-social-e-de-administracao-pe-retificam-concurso-para-a-policia-civil",
    "vagas": 1315,
    "vagas_texto": "1.315",
    "salario_max": 13560.0,
@@ -14262,10 +14428,12 @@
    ],
    "fonte": "pci",
    "editais": [
-    "EDITAL - SAD/SDS PE"
+    "EDITAL - SAD/SDS PE",
+    "RETIFICAÇÃO DO EDITAL - SAD/SDS PE",
+    "EDITAL RETIFICADO - SAD/SDS PE"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-10",
    "tags": [
     "PE",
     "Superior",
