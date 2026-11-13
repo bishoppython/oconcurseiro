@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-12T17:20:29+00:00",
+ "atualizado": "2026-11-13T01:47:38+00:00",
  "fontes": {
   "pci": "https://www.pciconcursos.com.br/concursos/",
   "cnb": "https://concursosnobrasil.com"
@@ -62,7 +62,7 @@
     "EDITAL RETIFICADO Nº 1"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "Nacional",
     "Superior",
@@ -93,7 +93,7 @@
     "EDITAL Nº 03/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "Nacional",
     "Fundamental",
@@ -123,7 +123,7 @@
     "HU BRASIL 7 PS"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "Nacional",
     "Superior",
@@ -156,12 +156,44 @@
     "EDITAL RETIFICADO Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "Nacional",
     "Medio",
     "Tecnico",
     "Superior"
+   ]
+  },
+  {
+   "orgao": "SAA MS - Subsecretaria de Assuntos Administrativos do Ministério da Saúde",
+   "titulo": "SAA MS abre processo seletivo com salários de até R$ 10.354,29",
+   "link": "https://www.pciconcursos.com.br/noticias/saa-ms-abre-processo-seletivo-com-salarios-de-ate-10354",
+   "vagas": 300,
+   "vagas_texto": "300",
+   "salario_max": 10354.29,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-12-14",
+   "inscricao_texto": "14/12/2026",
+   "publicado": null,
+   "nacional": true,
+   "ufs": [
+    "br"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 1"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-13",
+   "tags": [
+    "Nacional",
+    "Superior",
+    "Saude",
+    "Administrativo",
+    "Temporario"
    ]
   },
   {
@@ -189,7 +221,7 @@
     "EDITAL DE RETIFICAÇÃO DO EDITAL DE ABERTURA DE INSCRIÇÕES Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "MS",
@@ -221,7 +253,7 @@
     "EDITAL Nº 02/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Fundamental",
@@ -255,7 +287,7 @@
     "EDITAL DE CONCURSO PÚBLICO 02/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Fundamental",
@@ -287,7 +319,7 @@
     "EDITAL DE CONCURSO PÚBLICO Nº 02/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Fundamental",
@@ -320,7 +352,7 @@
     "EDITAL Nº 02/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Fundamental",
@@ -352,7 +384,7 @@
     "EDITAL Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Fundamental",
@@ -387,7 +419,7 @@
     "EDITAL COMPLETO Nº 01/2026 CONCURSO PÚBLICO"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Medio",
@@ -419,7 +451,7 @@
     "EDITAL DE PROCESSO SELETIVO FUNCAMP Nº 128/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Tecnico",
@@ -450,7 +482,7 @@
     "EDITAL Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Fundamental",
@@ -482,7 +514,7 @@
     "EDITAL DE CONCURSO PÚBLICO Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Fundamental",
@@ -515,7 +547,7 @@
     "EDITAL Nº 02/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Fundamental",
@@ -580,7 +612,7 @@
     "EDITAL DE CONCURSO PÚBLICO Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Fundamental",
@@ -610,7 +642,7 @@
     "EDITAL DE CONCURSO PÚBLICO Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Medio",
@@ -641,7 +673,7 @@
     "EDITAL Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Medio",
@@ -672,7 +704,7 @@
     "EDITAL DE ABERTURA - CONCURSO PÚBLICO Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Fundamental",
@@ -704,7 +736,7 @@
     "EDITAL DE CONCURSO PÚBLICO Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Superior",
@@ -735,7 +767,7 @@
     "EDITAL DE ABERTURA PARA PROCESSO SELETIVO Nº 014/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Fundamental",
@@ -767,7 +799,7 @@
     "EDITAL DE ABERTURA PARA PROCESSO SELETIVO Nº 015/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Fundamental",
@@ -829,7 +861,7 @@
     "EDITAL Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Fundamental",
@@ -879,7 +911,7 @@
     "EDITAL Nº 325/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Fundamental",
@@ -913,7 +945,7 @@
     "EDITAL DE ABERTURA - CONCURSO PÚBLICO Nº 2/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Medio",
@@ -945,7 +977,7 @@
     "EDITAL DE PROCESSO SELETIVO Nº 010/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Medio",
@@ -976,7 +1008,7 @@
     "EDITAL Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Fundamental",
@@ -1007,7 +1039,7 @@
     "EDITAL 013/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Superior",
@@ -1037,7 +1069,7 @@
     "EDITAL 014/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Superior",
@@ -1067,7 +1099,7 @@
     "EDITAL DE PROCESSO SELETIVO FUNCAMP Nº 129/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Medio",
@@ -1097,7 +1129,7 @@
     "EDITAL Nº 44/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Superior",
@@ -1129,7 +1161,7 @@
     "EDITAL DE CONCURSO Nº 38/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Medio",
@@ -1163,7 +1195,7 @@
     "EDITAL Nº 40/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Superior",
@@ -1196,7 +1228,7 @@
     "EDITAL DE ABERTURA DE INSCRIÇÕES Nº 43/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Superior",
@@ -1227,7 +1259,7 @@
     "EDITAL DE PROCESSO SELETIVO FUNCAMP Nº 130/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Superior",
@@ -1258,7 +1290,7 @@
     "EDITAL DE SELEÇÃO PÚBLICA PARA RESIDÊNCIA MULTIPROFISSIONAL 2027"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Superior",
@@ -1322,7 +1354,7 @@
     "EDITAL Nº : 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Superior"
@@ -1351,7 +1383,7 @@
     "EDITAL Nº 015"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Medio",
@@ -1385,7 +1417,7 @@
     "EDITAL DE PRORROGAÇÃO DAS INSCRIÇÕES"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Superior"
@@ -1414,7 +1446,7 @@
     "EDITAL DP-4/321/26"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Medio",
@@ -1478,7 +1510,7 @@
     "EDITAL DE CONCURSO PÚBLICO Nº 002/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Medio",
@@ -1509,7 +1541,7 @@
     "EDITAL DE ABERTURA - CONCURSO PÚBLICO Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Fundamental",
@@ -1574,7 +1606,7 @@
     "EDITAL DE PROCESSO SELETIVO Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Medio",
@@ -1608,7 +1640,7 @@
     "ERRATA Nº 001 AO EDITAL Nº 011/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Medio",
@@ -1639,7 +1671,7 @@
     "EDITAL DE PROCESSO SELETIVO Nº 1/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Fundamental",
@@ -1672,7 +1704,7 @@
     "EDITAL DE PROCESSO SELETIVO PSPMA 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Fundamental",
@@ -1706,7 +1738,7 @@
     "EDITAL DE PROCESSO SELETIVO SIMPLIFICADO Nº 011/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Medio",
@@ -1738,7 +1770,41 @@
     "EDITAL Nº 220/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
+   "tags": [
+    "SP",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Bofete",
+   "titulo": "Prefeitura de Bofete - SP abre concurso público com vagas em diversas áreas de atuação",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bofete-sp-abre-concurso-publico-com-vagas-em-diversas-areas-de-atuacao",
+   "vagas": 8,
+   "vagas_texto": "8",
+   "salario_max": 3820.32,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-11-16",
+   "inscricao_fim": "2026-11-30",
+   "inscricao_texto": "16 a 30/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sp"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL CONCURSO PÚBLICO Nº 02/2026",
+    "RETIFICAÇÃO - EDITAL CONCURSO PÚBLICO Nº 02/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Fundamental",
@@ -1771,7 +1837,7 @@
     "EDITAL DE CONCURSO PÚBLICO 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Medio",
@@ -1833,7 +1899,7 @@
     "EDITAL DE PROCESSO SELETIVO Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Medio",
@@ -1866,7 +1932,7 @@
     "EDITAL DE CONCURSO PÚBLICO Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Fundamental",
@@ -1899,7 +1965,7 @@
     "EDITAL DE CONCURSO PÚBLICO 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Fundamental",
@@ -1932,7 +1998,7 @@
     "EDITAL Nº 002/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Medio",
@@ -1997,7 +2063,7 @@
     "EDITAL DE ABERTURA CONCURSO PÚBLICO Nº 002/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Superior",
@@ -2028,7 +2094,7 @@
     "EDITAL DE ABERTURA - CONCURSO PÚBLICO Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Fundamental",
@@ -2062,7 +2128,7 @@
     "EDITAL DE RETIFICAÇÃO - CONCURSO PUBLICO Nº 04/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Medio",
@@ -2094,7 +2160,7 @@
     "EDITAL DE ABERTURA - CONCURSO PUBLICO Nº 03/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Superior",
@@ -2158,7 +2224,7 @@
     "EDITAL DE RETIFICAÇÃO 001"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Fundamental",
@@ -2166,6 +2232,39 @@
     "Tecnico",
     "Superior",
     "Prefeitura"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Dumont",
+   "titulo": "Prefeitura de Dumont - SP abre processo seletivo para cadastro de reserva em diversas áreas",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-dumont-sp-abre-processo-seletivo-para-cadastro-de-reserva-em-diversas-areas",
+   "vagas": null,
+   "vagas_texto": "Várias",
+   "salario_max": 5272.0,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-19",
+   "inscricao_texto": "19/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sp"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO Nº 001/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-13",
+   "tags": [
+    "SP",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
    ]
   },
   {
@@ -2192,7 +2291,7 @@
     "EDITAL DE RETIFICAÇÃO Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Fundamental",
@@ -2259,7 +2358,7 @@
     "EDITAL DO CONCURSO PÚBLICO Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Fundamental",
@@ -2332,7 +2431,7 @@
     "EDITAL DE ABERTURA DO CONCURSO PÚBLICO Nº 004/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Fundamental",
@@ -2366,7 +2465,7 @@
     "EDITAL NORMATIVO DE ABERTURA - PROCESSO SELETIVO Nº 004/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Medio",
@@ -2399,7 +2498,7 @@
     "EDITAL DE PROCESSO SELETIVO Nº 002/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Medio",
@@ -2432,7 +2531,7 @@
     "EDITAL DE ABERTURA - CONCURSO PÚBLICO Nº 1/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Fundamental",
@@ -2466,7 +2565,7 @@
     "EDITAL DE ABERTURA DE INSCRIÇÕES - CONCURSO PÚBLICO Nº 4/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Fundamental",
@@ -2499,7 +2598,7 @@
     "EDITAL DE ABERTURA Nº 02/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Fundamental",
@@ -2529,7 +2628,7 @@
     "EDITAL Nº 04/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Fundamental",
@@ -2561,7 +2660,7 @@
     "EDITAL DE ABERTURA Nº 01/2026 - PROCESSO SELETIVO SIMPLIFICADO Nº 02/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Fundamental",
@@ -2594,7 +2693,7 @@
     "EDITAL DE CONCURSO PÚBLICO Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Fundamental",
@@ -2623,10 +2722,11 @@
    ],
    "fonte": "pci",
    "editais": [
-    "EDITAL Nº 003/2026"
+    "EDITAL Nº 003/2026",
+    "ERRATA - EDITAL Nº 003/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Medio",
@@ -2658,7 +2758,7 @@
     "EDITAL DE PROCESSO SELETIVO 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Medio",
@@ -2690,7 +2790,7 @@
     "EDITAL Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Fundamental",
@@ -2725,7 +2825,7 @@
     "2ª RERRATIFICAÇÃO DO EDITAL DE CONCURSO PÚBLICO Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Fundamental",
@@ -2757,7 +2857,7 @@
     "EDITAL DE CONCURSO PÚBLICO 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Medio",
@@ -2788,7 +2888,7 @@
     "EDITAL DE PROCESSO SELETIVO PÚBLICO Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Fundamental",
@@ -2825,7 +2925,7 @@
     "EDITAL DE PROCESSO SELETIVO Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Fundamental",
@@ -2859,7 +2959,7 @@
     "EDITAL Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Fundamental",
@@ -2891,7 +2991,7 @@
     "EDITAL DE PROCESSO SELETIVO PSPMPBJ 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Fundamental",
@@ -2923,7 +3023,7 @@
     "EDITAL Nº 1/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Fundamental",
@@ -2956,7 +3056,7 @@
     "EDITAL Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Superior",
@@ -2988,7 +3088,7 @@
     "PROCESSO SELETIVO Nº 003/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Fundamental",
@@ -3022,7 +3122,7 @@
     "EDITAL COMPLETO CONCURSO PÚBLICO Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Fundamental",
@@ -3030,6 +3130,39 @@
     "Saude",
     "Educacao",
     "Prefeitura"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Sales",
+   "titulo": "Prefeitura de Sales - SP abre processo seletivo para formação de cadastro de reserva",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sales-sp-abre-processo-seletivo-para-formacao-de-cadastro-de-reserva",
+   "vagas": null,
+   "vagas_texto": "Cadastro reserva",
+   "salario_max": 1573.78,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-11-16",
+   "inscricao_fim": "2026-12-01",
+   "inscricao_texto": "16/11 a 01/12/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sp"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO Nº 001/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-13",
+   "tags": [
+    "SP",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
    ]
   },
   {
@@ -3055,7 +3188,7 @@
     "EDITAL DE ABERTURA - CONCURSO PÚBLICO Nº 002/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Medio",
@@ -3087,7 +3220,7 @@
     "EDITAL DE ABERTURA - CONCURSO PÚBLICO Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Fundamental",
@@ -3151,7 +3284,7 @@
     "EDITAL Nº 02/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Fundamental",
@@ -3215,7 +3348,7 @@
     "EDITAL Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Fundamental",
@@ -3248,7 +3381,7 @@
     "EDITAL DE RETIFICAÇÃO 1 - CONCURSO PÚBLICO Nº 002/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Medio",
@@ -3280,7 +3413,7 @@
     "EDITAL DE CONCURSO PÚBLICO Nº 7/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Fundamental",
@@ -3346,7 +3479,7 @@
     "EDITAL RETIFICADO - CONCURSO PÚBLICO Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Fundamental",
@@ -3412,7 +3545,7 @@
     "EDITAL DE CONCURSO PÚBLICO 02/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Fundamental",
@@ -3444,7 +3577,7 @@
     "EDITAL DE ABERTURA DE INSCRIÇÕES - PROCESSO SELETIVO Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Medio",
@@ -3509,7 +3642,7 @@
     "EDITAL Nº 02/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Superior",
@@ -3599,7 +3732,7 @@
     "EDITAL DE SELEÇÃO PÚBLICA PARA RESIDÊNCIA MÉDICA 2027"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Superior",
@@ -3638,7 +3771,7 @@
     "EDITAL Nº 042/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SP",
     "Medio",
@@ -3670,7 +3803,7 @@
     "EDITAL Nº 002/PMSG/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "RJ",
     "Medio",
@@ -3706,13 +3839,43 @@
     "COMUNICADO DE PRORROGAÇÃO DAS INSCRIÇÕES DO EDITAL DE ABERTURA Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "RJ",
     "Superior",
     "Policial",
     "Militar",
     "Temporario"
+   ]
+  },
+  {
+   "orgao": "CMTC - Companhia Municipal de Transportes Coletivos",
+   "titulo": "Mobi-Rio - RJ abre seleção com salários até R$ 5.960,63",
+   "link": "https://www.pciconcursos.com.br/noticias/mobi-rio-rj-abre-selecao-com-salarios-ate-5960",
+   "vagas": 63,
+   "vagas_texto": "63",
+   "salario_max": 5960.63,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio",
+   "status": "aberto",
+   "inscricao_inicio": "2026-11-13",
+   "inscricao_fim": "2026-11-21",
+   "inscricao_texto": "13 a 21/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "rj"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL CMTC Nº 024/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-13",
+   "tags": [
+    "RJ",
+    "Fundamental",
+    "Medio"
    ]
   },
   {
@@ -3740,12 +3903,43 @@
     "RETIFICAÇÃO II"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "RJ",
     "Medio",
     "Tecnico",
     "Superior"
+   ]
+  },
+  {
+   "orgao": "CRP/05 - Conselho Regional de Psicologia da 5ª Região",
+   "titulo": "CRP 05 - RJ abre concurso público com salários de até R$ 7.313,35",
+   "link": "https://www.pciconcursos.com.br/noticias/crp-05-rj-abre-concurso-publico-com-salarios-de-ate-7313",
+   "vagas": 37,
+   "vagas_texto": "37",
+   "salario_max": 7313.35,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-11-16",
+   "inscricao_fim": "2026-12-17",
+   "inscricao_texto": "16/11 a 17/12/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "rj"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 01/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-13",
+   "tags": [
+    "RJ",
+    "Medio",
+    "Superior",
+    "Saude"
    ]
   },
   {
@@ -3772,7 +3966,7 @@
     "RETIFICAÇÃO - CRONOGRAMA"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "RJ",
     "Superior",
@@ -3803,7 +3997,7 @@
     "EDITAL CMTC Nº 023/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "RJ",
     "Medio",
@@ -3838,7 +4032,7 @@
     "PRORROGAÇÃO DAS INSCRIÇÕES E DO PRAZO DE PAGAMENTO"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "RJ",
     "Medio",
@@ -3879,6 +4073,37 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Sumidouro",
+   "titulo": "Prefeitura de Sumidouro - RJ abre seleção com salários de até R$ 3.206,64",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sumidouro-rj-abre-selecao-com-salarios-de-ate-3206",
+   "vagas": 65,
+   "vagas_texto": "65",
+   "salario_max": 3206.64,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-25",
+   "inscricao_texto": "25/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "rj"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO - SUMIDOURO/RJ"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-13",
+   "tags": [
+    "RJ",
+    "Medio",
+    "Superior",
+    "Prefeitura"
+   ]
+  },
+  {
    "orgao": "RioSaúde - Empresa Pública de Saúde do Rio de Janeiro S/A",
    "titulo": "RioSaúde - RJ abre processo seletivo para enfermeiros",
    "link": "https://www.pciconcursos.com.br/noticias/riosaude-rj-abre-processo-seletivo-para-enfermeiros",
@@ -3901,7 +4126,7 @@
     "EDITAL CO-RSU Nº 018/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "RJ",
     "Superior",
@@ -3932,7 +4157,7 @@
     "EDITAL 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Fundamental",
@@ -3965,7 +4190,7 @@
     "EDITAL DRH/CRS Nº 11"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Superior",
@@ -3998,7 +4223,7 @@
     "RETIFICAÇÃO Nº 01"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Medio",
@@ -4030,7 +4255,7 @@
     "EDITAL DE CONCURSO PÚBLICO Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Fundamental",
@@ -4063,7 +4288,7 @@
     "EDITAL 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Fundamental",
@@ -4096,7 +4321,7 @@
     "EDITAL Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Fundamental",
@@ -4127,7 +4352,7 @@
     "EDITAL DE CONCURSO PÚBLICO Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Fundamental",
@@ -4159,7 +4384,7 @@
     "EDITAL Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Fundamental",
@@ -4193,7 +4418,7 @@
     "EDITAL Nº 1"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Superior",
@@ -4224,7 +4449,7 @@
     "EDITAL DE CONCURSO PÚBLICO Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Medio",
@@ -4254,7 +4479,7 @@
     "EDITAL Nº 1"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Medio",
@@ -4286,7 +4511,7 @@
     "EDITAL Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Medio",
@@ -4319,7 +4544,7 @@
     "EDITAL DE CONCURSO PÚBLICO Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Fundamental",
@@ -4382,7 +4607,7 @@
     "EDITAL DE ABERTURA - CONCURSO PÚBLICO Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Fundamental",
@@ -4416,7 +4641,7 @@
     "EDITAL Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Superior",
@@ -4446,7 +4671,7 @@
     "EDITAL Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Fundamental",
@@ -4478,7 +4703,7 @@
     "EDITAL Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Medio",
@@ -4509,7 +4734,7 @@
     "EDITAL DE CONCURSO PÚBLICO Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Fundamental",
@@ -4540,7 +4765,7 @@
     "EDITAL DE CONCURSO PÚBLICO Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Superior",
@@ -4574,7 +4799,7 @@
     "EDITAL REPUBLICADO"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Medio",
@@ -4606,7 +4831,7 @@
     "EDITAL DE CONCURSO PÚBLICO Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Fundamental",
@@ -4637,7 +4862,7 @@
     "EDITAL DE CONCURSO PÚBLICO Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Fundamental",
@@ -4669,7 +4894,7 @@
     "EDITAL DO CONCURSO PÚBLICO Nº 001"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Medio",
@@ -4702,7 +4927,7 @@
     "EDITAL DE CONCURSO PÚBLICO - Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Superior",
@@ -4732,7 +4957,7 @@
     "EDITAL 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Fundamental",
@@ -4764,7 +4989,7 @@
     "EDITAL Nº 1"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Superior",
@@ -4794,7 +5019,7 @@
     "EDITAL Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Superior",
@@ -4824,10 +5049,40 @@
     "EDITAL Nº 002/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Medio",
+    "Temporario"
+   ]
+  },
+  {
+   "orgao": "CPGI - Consórcio Público para Gestão Integrada",
+   "titulo": "CPGI de Andradas - MG abre processo seletivo para Auxiliar de Limpeza",
+   "link": "https://www.pciconcursos.com.br/noticias/cpgi-de-andradas-mg-abre-processo-seletivo-para-auxiliar-de-limpeza",
+   "vagas": 1,
+   "vagas_texto": "1",
+   "salario_max": 550.0,
+   "cargos": "Auxiliar de Limpeza",
+   "escolaridade": "Fundamental",
+   "status": "aberto",
+   "inscricao_inicio": "2026-11-16",
+   "inscricao_fim": "2026-11-27",
+   "inscricao_texto": "16 a 27/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "mg"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 001/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-13",
+   "tags": [
+    "MG",
+    "Fundamental",
     "Temporario"
    ]
   },
@@ -4855,7 +5110,7 @@
     "SEGUNDA RETIFICAÇÃO DO EDITAL DO CONCURSO PÚBLICO Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Medio",
@@ -4921,7 +5176,7 @@
     "ERRATA 01"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Fundamental",
@@ -4986,7 +5241,7 @@
     "RETIFICAÇÃO II"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Superior",
@@ -5017,7 +5272,7 @@
     "EDITAL Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Fundamental",
@@ -5083,7 +5338,7 @@
     "RETIFICAÇÃO II"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Fundamental",
@@ -5116,7 +5371,7 @@
     "EDITAL DE PROCESSO SELETIVO SIMPLIFICADO Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Fundamental",
@@ -5151,7 +5406,7 @@
     "EDITAL Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Fundamental",
@@ -5184,7 +5439,7 @@
     "EDITAL DE PROCESSO SELETIVO SIMPLIFICADO Nº 003/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Fundamental",
@@ -5218,7 +5473,7 @@
     "EDITAL - PROCESSO SELETIVO SIMPLIFICADO 21/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Fundamental",
@@ -5252,7 +5507,7 @@
     "EDITAL Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Tecnico",
@@ -5287,11 +5542,44 @@
     "SUSPENSÃO"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Medio",
     "Saude",
+    "Prefeitura",
+    "Temporario"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Campo Florido",
+   "titulo": "Prefeitura de Campo Florido - MG abre processo seletivo com salários de até R$ 4.580,25",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-campo-florido-mg-abre-processo-seletivo-com-salarios-de-ate-4580",
+   "vagas": 148,
+   "vagas_texto": "148",
+   "salario_max": 4580.25,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-17",
+   "inscricao_texto": "17/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "mg"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DO PROCESSO SELETIVO SIMPLIFICADO - PSS Nº 012/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-13",
+   "tags": [
+    "MG",
+    "Fundamental",
+    "Medio",
+    "Superior",
     "Prefeitura",
     "Temporario"
    ]
@@ -5350,7 +5638,7 @@
     "EDITAL DE PROCESSO SELETIVO PÚBLICO Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Medio",
@@ -5381,7 +5669,7 @@
     "EDITAL DE ABERTURA Nº 042/2025"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Superior",
@@ -5413,7 +5701,7 @@
     "EDITAL Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Superior",
@@ -5444,7 +5732,7 @@
     "EDITAL Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Fundamental",
@@ -5480,7 +5768,7 @@
     "RETIFICAÇÃO Nº 02"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Fundamental",
@@ -5582,7 +5870,7 @@
     "EDITAL Nº 13/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Fundamental",
@@ -5616,7 +5904,7 @@
     "EDITAL RETIFICADO Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Medio",
@@ -5648,7 +5936,7 @@
     "EDITAL Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Fundamental",
@@ -5681,7 +5969,7 @@
     "EDITAL Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Medio",
@@ -5712,11 +6000,42 @@
     "EDITAL Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Fundamental",
     "Superior",
+    "Prefeitura"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de João Monlevade",
+   "titulo": "Prefeitura de João Monlevade - MG abre seleção para Auxiliar de Consultório Odontológico",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-joao-monlevade-mg-abre-selecao-para-auxiliar-de-consultorio-odontologico",
+   "vagas": 1,
+   "vagas_texto": "1",
+   "salario_max": 1799.76,
+   "cargos": "Auxiliar de Consultório Odontológico",
+   "escolaridade": "Ensino Médio",
+   "status": "aberto",
+   "inscricao_inicio": "2026-11-18",
+   "inscricao_fim": "2026-11-22",
+   "inscricao_texto": "18 a 22/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "mg"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 15/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-13",
+   "tags": [
+    "MG",
+    "Medio",
+    "Saude",
     "Prefeitura"
    ]
   },
@@ -5775,7 +6094,7 @@
     "EDITAL Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Fundamental",
@@ -5809,7 +6128,7 @@
     "ANEXO I"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Medio",
@@ -5840,7 +6159,7 @@
     "EDITAL DE PROCESSO SELETIVO SIMPLIFICADO SMS Nº 009/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Fundamental",
@@ -5873,7 +6192,7 @@
     "EDITAL Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Fundamental",
@@ -5906,7 +6225,7 @@
     "EDITAL 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Fundamental",
@@ -5939,7 +6258,7 @@
     "EDITAL DE CONCURSO PÚBLICO - Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Superior",
@@ -6004,7 +6323,7 @@
     "EDITAL PROCESSO SELETIVO SIMPLIFICADO Nº 003/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Superior",
@@ -6037,7 +6356,7 @@
     "EDITAL Nº 02/2026 - PROCESSO SELETIVO PÚBLICO"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Medio",
@@ -6069,7 +6388,39 @@
     "EDITAL DE CONCURSO PÚBLICO Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
+   "tags": [
+    "MG",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Prefeitura"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Paraisópolis",
+   "titulo": "Prefeitura de Paraisópolis - MG abre seleção com 15 vagas",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-paraisopolis-mg-abre-selecao-com-15-vagas",
+   "vagas": 15,
+   "vagas_texto": "15",
+   "salario_max": 3901.24,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-11-14",
+   "inscricao_fim": "2026-11-27",
+   "inscricao_texto": "14 a 27/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "mg"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 018/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Fundamental",
@@ -6101,7 +6452,7 @@
     "EDITAL 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Fundamental",
@@ -6135,7 +6486,7 @@
     "EDITAL Nº 02/2026 - PROCESSO SELETIVO PÚBLICO"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Fundamental",
@@ -6169,7 +6520,7 @@
     "EDITAL Nº 01"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Medio",
@@ -6202,7 +6553,7 @@
     "EDITAL Nº 1"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Fundamental",
@@ -6233,12 +6584,73 @@
     "EDITAL Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Medio",
     "Saude",
     "Prefeitura"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Rio Novo",
+   "titulo": "Prefeitura de Rio Novo - MG abre seleção para condutores com ganhos extras de até R$ 500 por plantão",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-novo-mg-abre-selecao-para-condutores-com-ganhos-extras-de-ate-500-por-plantao",
+   "vagas": null,
+   "vagas_texto": "Várias",
+   "salario_max": 1621.0,
+   "cargos": "Condutor de Veículos e Máquinas",
+   "escolaridade": "Fundamental",
+   "status": "aberto",
+   "inscricao_inicio": "2026-11-13",
+   "inscricao_fim": "2026-11-18",
+   "inscricao_texto": "13 a 18/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "mg"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DO PROCESSO SELETIVO SIMPLIFICADO Nº 006/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-13",
+   "tags": [
+    "MG",
+    "Fundamental",
+    "Prefeitura"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Rio Novo",
+   "titulo": "Prefeitura de Rio Novo - MG abre processo seletivo para Condutor de Veículos e Máquinas",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-novo-mg-abre-processo-seletivo-para-condutor-de-veiculos-e-maquinas",
+   "vagas": null,
+   "vagas_texto": "Várias",
+   "salario_max": 1621.0,
+   "cargos": "Condutor de Veículos e Máquinas",
+   "escolaridade": "Fundamental",
+   "status": "aberto",
+   "inscricao_inicio": "2026-11-13",
+   "inscricao_fim": "2026-11-18",
+   "inscricao_texto": "13 a 18/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "mg"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DO PROCESSO SELETIVO SIMPLIFICADO Nº 006/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-13",
+   "tags": [
+    "MG",
+    "Fundamental",
+    "Prefeitura",
+    "Temporario"
    ]
   },
   {
@@ -6264,7 +6676,7 @@
     "EDITAL DE ABERTURA DE INSCRIÇÕES - PROCESSO SELETIVO Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Medio",
@@ -6295,7 +6707,7 @@
     "EDITAL Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Fundamental",
@@ -6328,7 +6740,7 @@
     "EDITAL Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Fundamental",
@@ -6361,7 +6773,7 @@
     "EDITAL Nº 02/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Medio",
@@ -6394,7 +6806,7 @@
     "RETIFICAÇÃO Nº 01"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Medio",
@@ -6427,7 +6839,7 @@
     "EDITAL Nº 05/2026 - DAMAE"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Fundamental",
@@ -6463,7 +6875,7 @@
     "ERRATA Nº 02"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Medio",
@@ -6495,7 +6907,7 @@
     "EDITAL DE SELEÇÃO Nº 007/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Fundamental",
@@ -6561,7 +6973,7 @@
     "EDITAL DE CONCURSO PÚBLICO Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Fundamental",
@@ -6594,7 +7006,7 @@
     "EDITAL Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Fundamental",
@@ -6627,7 +7039,7 @@
     "EDITAL Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Medio",
@@ -6658,7 +7070,7 @@
     "EDITAL DE PROCESSO SELETIVO N. 003/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Superior",
@@ -6690,7 +7102,7 @@
     "EDITAL DE PROCESSO SELETIVO Nº 004/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Medio",
@@ -6723,7 +7135,7 @@
     "EDITAL DE PROCESSO SELETIVO N. 005/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Fundamental",
@@ -6758,7 +7170,7 @@
     "EDITAL RETIFICADO Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Fundamental",
@@ -6792,7 +7204,7 @@
     "EDITAL RETIFICADO - PROCESSO SELETIVO Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Medio",
@@ -6856,7 +7268,7 @@
     "EDITAL DE SELEÇÃO SIMPLIFICADA 003/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Fundamental",
@@ -6887,7 +7299,7 @@
     "EDITAL Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Fundamental",
@@ -6917,7 +7329,7 @@
     "EDITAL Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MG",
     "Fundamental",
@@ -6984,7 +7396,7 @@
     "RETIFICAÇÃO - EDITAL Nº 02/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "ES",
     "Medio",
@@ -7075,7 +7487,7 @@
     "EDITAL DE CONCURSO PÚBLICO - Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "ES",
     "Medio",
@@ -7106,7 +7518,7 @@
     "EDITAL Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "ES",
     "Superior",
@@ -7166,7 +7578,7 @@
     "EDITAL Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "ES",
     "Medio",
@@ -7197,7 +7609,7 @@
     "EDITAL Nº 1"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "ES",
     "Medio",
@@ -7227,7 +7639,7 @@
     "EDITAL DE ABERTURA Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "ES",
     "Tecnico",
@@ -7258,7 +7670,7 @@
     "EDITAL DE ABERTURA Nº 003/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "ES",
     "Medio",
@@ -7290,7 +7702,7 @@
     "EDITAL DE ABERTURA Nº 002/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "ES",
     "Medio",
@@ -7322,7 +7734,7 @@
     "EDITAL DE PROCESSO SELETIVO Nº 05/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "ES",
     "Superior",
@@ -7353,7 +7765,7 @@
     "EDITAL SEGEDP/SEMAS Nº 005/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "ES",
     "Fundamental",
@@ -7387,7 +7799,7 @@
     "EDITAL Nº 001/2027"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "ES",
     "Superior",
@@ -7419,7 +7831,7 @@
     "EDITAL Nº 71/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "ES",
     "Fundamental",
@@ -7552,7 +7964,7 @@
     "RETIFICAÇÃO - CRONOGRAMA DE ATIVIDADES"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "PR",
     "Medio",
@@ -7588,13 +8000,45 @@
     "EDITAL RETIFICADO Nº 6/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "PR",
     "Medio",
     "Tecnico",
     "Superior",
     "Prefeitura"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Céu Azul",
+   "titulo": "Prefeitura de Céu Azul - PR abre processo seletivo com salários de até R$ 4.552,48",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ceu-azul-pr-abre-processo-seletivo-com-salarios-de-ate-4552",
+   "vagas": 7,
+   "vagas_texto": "7",
+   "salario_max": 4552.48,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-24",
+   "inscricao_texto": "24/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "pr"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE ABERTURA Nº 01.1/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-13",
+   "tags": [
+    "PR",
+    "Medio",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
    ]
   },
   {
@@ -7620,7 +8064,7 @@
     "EDITAL Nº 003/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "PR",
     "Superior",
@@ -7652,7 +8096,7 @@
     "EDITAL DE ABERTURA Nº 02/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "PR",
     "Fundamental",
@@ -7685,7 +8129,7 @@
     "EDITAL Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "PR",
     "Fundamental",
@@ -7718,7 +8162,7 @@
     "EDITAL Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "PR",
     "Fundamental",
@@ -7751,7 +8195,7 @@
     "EDITAL Nº 01/2026 - PROCESSO SELETIVO SIMPLIFICADO Nº 03/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "PR",
     "Medio",
@@ -7782,11 +8226,44 @@
     "EDITAL DE ABERTURA Nº 01.01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "PR",
     "Superior",
     "Juridico",
+    "Prefeitura"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Umuarama",
+   "titulo": "Prefeitura de Umuarama - PR abre seleção com salários de até R$ 5.130,62",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-umuarama-pr-abre-selecao-com-salarios-de-ate-5130",
+   "vagas": 5,
+   "vagas_texto": "5",
+   "salario_max": 5130.62,
+   "cargos": "Auxiliar de Serviços Gerais, Motorista II, Professor",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-23",
+   "inscricao_texto": "23/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "pr"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE ABERTURA Nº 136/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-13",
+   "tags": [
+    "PR",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Educacao",
     "Prefeitura"
    ]
   },
@@ -7813,7 +8290,7 @@
     "EDITAL PRORH Nº 300/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "PR",
     "Tecnico",
@@ -7875,7 +8352,7 @@
     "EDITAL Nº 218/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "PR",
     "Medio",
@@ -7908,7 +8385,7 @@
     "EDITAL Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "RS",
     "Superior",
@@ -7938,7 +8415,7 @@
     "EDITAL DE ABERTURA - CONCURSO PÚBLICO Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "RS",
     "Medio",
@@ -7970,7 +8447,7 @@
     "EDITAL Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "RS",
     "Medio",
@@ -8000,7 +8477,7 @@
     "EDITAL Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "RS",
     "Medio",
@@ -8032,7 +8509,7 @@
     "EDITAL DE CONCURSO PÚBLICO Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "RS",
     "Fundamental",
@@ -8062,7 +8539,7 @@
     "EDITAL DE ABERTURA Nº 341/2026 - PROCESSO SELETIVO SIMPLIFICADO Nº 007/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "RS",
     "Superior",
@@ -8093,7 +8570,7 @@
     "EDITAL DE ABERTURA - CONCURSO PÚBLICO 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "RS",
     "Medio",
@@ -8124,7 +8601,7 @@
     "EDITAL Nº 3"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "RS",
     "Fundamental",
@@ -8223,7 +8700,7 @@
     "EDITAL DE RETOMADA"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "RS",
     "Superior",
@@ -8288,7 +8765,7 @@
     "EDITAL Nº 336/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "RS",
     "Medio",
@@ -8321,7 +8798,7 @@
     "EDITAL DE CONCURSO Nº 03/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "RS",
     "Medio",
@@ -8354,7 +8831,7 @@
     "EDITAL DE ABERTURA - CONCURSO PÚBLICO Nº 62/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "RS",
     "Fundamental",
@@ -8452,7 +8929,7 @@
     "EDITAL 1040/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "RS",
     "Fundamental",
@@ -8483,7 +8960,7 @@
     "EDITAL DE ABERTURA - CONCURSO PÚBLICO Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "RS",
     "Fundamental",
@@ -8516,7 +8993,7 @@
     "EDITAL DE CONCURSO PÚBLICO Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "RS",
     "Fundamental",
@@ -8550,7 +9027,7 @@
     "RETIFICAÇÃO DO EDITAL DE ABERTURA E DEVOLUÇÃO DA TAXA DE INSCRIÇÃO"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "RS",
     "Medio",
@@ -8582,7 +9059,7 @@
     "EDITAL DE ABERTURA CONCURSO PÚBLICO Nº 97/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "RS",
     "Fundamental",
@@ -8615,7 +9092,7 @@
     "EDITAL DE ABERTURA - CONCURSO PÚBLICO Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "RS",
     "Fundamental",
@@ -8647,7 +9124,7 @@
     "EDITAL DE CONCURSO PÚBLICO Nº 01/202"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "RS",
     "Fundamental",
@@ -8680,7 +9157,7 @@
     "EDITAL DE CONCURSO PÚBLICO Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "RS",
     "Fundamental",
@@ -8713,7 +9190,7 @@
     "EDITAL Nº 179/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "RS",
     "Superior",
@@ -8745,7 +9222,7 @@
     "EDITAL DE ABERTURA Nº 582/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "RS",
     "Superior",
@@ -8777,7 +9254,7 @@
     "EDITAL Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "RS",
     "Fundamental",
@@ -8810,7 +9287,7 @@
     "EDITAL DE ABERTURA 112/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "RS",
     "Medio",
@@ -8842,7 +9319,7 @@
     "EDITAL 18/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "RS",
     "Medio",
@@ -8874,7 +9351,7 @@
     "EDITAL DE PROCESSO SELETIVO SIMPLIFICADO Nº 07/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "RS",
     "Medio",
@@ -8907,7 +9384,7 @@
     "EDITAL Nº 195/2026 - CONCURSO PÚBLICO Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "RS",
     "Fundamental",
@@ -8939,7 +9416,7 @@
     "EDITAL Nº 196/2026 - PROCESSO SELETIVO PÚBLICO Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "RS",
     "Medio",
@@ -9001,7 +9478,7 @@
     "EDITAL 001 - PROCESSO SELETIVO SIMPLIFICADO 17/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "RS",
     "Medio",
@@ -9031,7 +9508,7 @@
     "EDITAL Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "RS",
     "Fundamental",
@@ -9064,7 +9541,7 @@
     "EDITAL Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "RS",
     "Medio",
@@ -9096,7 +9573,7 @@
     "EDITAL Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "RS",
     "Fundamental",
@@ -9192,7 +9669,7 @@
     "EDITAL Nº 112"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "RS",
     "Tecnico",
@@ -9223,7 +9700,7 @@
     "EDITAL DE PROCESSO SELETIVO SIMPLIFICADO Nº 009/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "RS",
     "Superior",
@@ -9255,7 +9732,7 @@
     "EDITAL Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "RS",
     "Medio",
@@ -9288,7 +9765,7 @@
     "EDITAL NO 003/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Fundamental",
@@ -9322,7 +9799,7 @@
     "EDITAL Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Medio",
@@ -9356,7 +9833,7 @@
     "ERRATA Nº 01"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Fundamental",
@@ -9388,7 +9865,7 @@
     "EDITAL DE CONCURSO PÚBLICO Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Fundamental",
@@ -9421,7 +9898,7 @@
     "EDITAL DE ABERTURA Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Fundamental",
@@ -9455,7 +9932,7 @@
     "EDITAL DE CONCURSO PÚBLICO Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Fundamental",
@@ -9486,7 +9963,7 @@
     "EDITAL DE ABERTURA Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Medio",
@@ -9618,6 +10095,37 @@
    ]
   },
   {
+   "orgao": "FAHECE",
+   "titulo": "FAHECE - SC anuncia processo seletivo para o cargo de Assistente de Laboratório I no HEMOSC de Ibirama",
+   "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-processo-seletivo-para-o-cargo-de-assistente-de-laboratorio-i-no-hemosc-de-ibirama",
+   "vagas": 1,
+   "vagas_texto": "1",
+   "salario_max": 3716.56,
+   "cargos": "Assistente de Laboratório I",
+   "escolaridade": "Médio / Técnico",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-19",
+   "inscricao_texto": "19/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO Nº 559/26"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-13",
+   "tags": [
+    "SC",
+    "Medio",
+    "Tecnico",
+    "Temporario"
+   ]
+  },
+  {
    "orgao": "FURB - Fundação Universidade Regional de Blumenau",
    "titulo": "FURB - SC abre processo seletivo com salários de até R$ 5.906,88",
    "link": "https://www.pciconcursos.com.br/noticias/furb-sc-abre-processo-seletivo-com-salarios-de-ate-5906",
@@ -9640,7 +10148,7 @@
     "EDITAL PSPS TA Nº 006/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Medio",
@@ -9675,6 +10183,37 @@
    ],
    "links_oficiais": [],
    "detalhado_em": "2026-11-10",
+   "tags": [
+    "SC",
+    "Superior",
+    "Saude",
+    "Temporario"
+   ]
+  },
+  {
+   "orgao": "HEMOSC",
+   "titulo": "FAHECE - SC abre processo seletivo para o HEMOSC de Florianópolis",
+   "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-o-hemosc-de-florianopolis",
+   "vagas": 1,
+   "vagas_texto": "1",
+   "salario_max": 4826.37,
+   "cargos": "Biomédico - Biólogo - Bioquímico/Farmacêutico",
+   "escolaridade": "Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-16",
+   "inscricao_texto": "16/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO Nº 556/26"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Superior",
@@ -9737,7 +10276,7 @@
     "EDITAL Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Tecnico",
@@ -9767,7 +10306,7 @@
     "EDITAL Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Superior",
@@ -9798,7 +10337,7 @@
     "PRIMEIRO TERMO DE RETIFICAÇÃO DO EDITAL DE ABERTURA DO CONCURSO PÚBLICO Nº 002-CCP-2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Superior",
@@ -9829,7 +10368,7 @@
     "EDITAL 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Fundamental",
@@ -9862,7 +10401,7 @@
     "EDITAL Nº 002/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Fundamental",
@@ -9895,7 +10434,7 @@
     "EDITAL DE PROCESSO SELETIVO Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Fundamental",
@@ -9929,7 +10468,7 @@
     "EDITAL PROCESSO SELETIVO SIMPLIFICADO EMERGENCIAL Nº 12/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Superior",
@@ -9961,7 +10500,7 @@
     "EDITAL Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Superior",
@@ -9992,7 +10531,7 @@
     "EDITAL DE CONCURSO PÚBLICO Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Fundamental",
@@ -10025,7 +10564,7 @@
     "EDITAL Nº 01/2026 - PROCESSO SELETIVO Nº 04/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Fundamental",
@@ -10058,7 +10597,7 @@
     "EDITAL DE CONCURSO PÚBLICO DE PROVAS E DE PROVAS E TÍTULOS Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Fundamental",
@@ -10090,7 +10629,7 @@
     "EDITAL DE PROCESSO SELETIVO Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Fundamental",
@@ -10124,7 +10663,7 @@
     "EDITAL 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Medio",
@@ -10157,7 +10696,7 @@
     "EDITAL DE PROCESSO SELETIVO Nº 002/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Fundamental",
@@ -10190,7 +10729,7 @@
     "EDITAL Nº 0027/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Fundamental",
@@ -10224,7 +10763,7 @@
     "EDITAL DE PROCESSO SELETIVO Nº 010/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Fundamental",
@@ -10289,7 +10828,7 @@
     "EDITAL DE PROCESSO SELETIVO Nº 002/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Fundamental",
@@ -10322,7 +10861,7 @@
     "EDITAL Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Fundamental",
@@ -10388,7 +10927,7 @@
     "EDITAL DE CONCURSO PÚBLICO Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Fundamental",
@@ -10423,7 +10962,7 @@
     "EDITAL DE PROCESSO SELETIVO Nº 016/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Fundamental",
@@ -10457,7 +10996,7 @@
     "EDITAL DE PROCESSO SELETIVO Nº 03/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Fundamental",
@@ -10492,7 +11031,7 @@
     "EDITAL DE PROCESSO SELETIVO Nº 008/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Fundamental",
@@ -10524,7 +11063,7 @@
     "EDITAL Nº 052/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Educacao",
@@ -10555,7 +11094,7 @@
     "EDITAL 002/2026/SEMSA"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Medio",
@@ -10588,7 +11127,7 @@
     "EDITAL Nº 08/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Fundamental",
@@ -10621,7 +11160,7 @@
     "EDITAL DO CONCURSO PÚBLICO Nº 001"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Fundamental",
@@ -10656,7 +11195,7 @@
     "EDITAL DE PROCESSO SELETIVO Nº 003/2026 DEMAIS SECRETARIAS"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Fundamental",
@@ -10690,7 +11229,7 @@
     "EDITAL 002/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Fundamental",
@@ -10758,7 +11297,7 @@
     "EDITAL DE PROCESSO SELETIVO SIMPLIFICADO 003/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Fundamental",
@@ -10767,6 +11306,39 @@
     "Superior",
     "Saude",
     "Prefeitura"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Rancho Queimado",
+   "titulo": "Prefeitura de Rancho Queimado - SC abre processo seletivo para formação de cadastro de reserva",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rancho-queimado-sc-abre-processo-seletivo-para-formacao-de-cadastro-de-reserva",
+   "vagas": null,
+   "vagas_texto": "Várias",
+   "salario_max": 5111.16,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-29",
+   "inscricao_texto": "29/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO Nº 20/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-13",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
    ]
   },
   {
@@ -10792,7 +11364,7 @@
     "EDITAL Nº 01/2026 - PROCESSO SELETIVO Nº 03/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Medio",
@@ -10862,7 +11434,7 @@
     "MUNICÍPIO DE RIO NEGRINHO CONCURSO PÚBLICO 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Fundamental",
@@ -10896,7 +11468,7 @@
     "EDITAL DE PROCESSO SELETIVO Nº 15/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Fundamental",
@@ -10930,7 +11502,7 @@
     "EDITAL DE CONCURSO PÚBLICO DE PROVAS Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Fundamental",
@@ -10963,7 +11535,7 @@
     "SANTA TEREZINHA DO PROGRESSO 1 PS"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Fundamental",
@@ -10994,7 +11566,7 @@
     "EDITAL DE PROCESSO SELETIVO Nº 002/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Superior",
@@ -11025,7 +11597,7 @@
     "EDITAL DO PROCESSO SELETIVO SIMPLIFICADO Nº 002"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Fundamental",
@@ -11058,12 +11630,43 @@
     "SÃO FRANCISCO DO SUL 1 PS"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Medio",
     "Superior",
     "Educacao",
+    "Prefeitura"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de São Miguel do Oeste",
+   "titulo": "Prefeitura de São Miguel do Oeste - SC abre seleção para cadastro de reserva em diversas áreas",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-miguel-do-oeste-sc-abre-selecao-para-cadastro-de-reserva-em-diversas-areas",
+   "vagas": null,
+   "vagas_texto": "Cadastro reserva",
+   "salario_max": 26375.18,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-11-18",
+   "inscricao_fim": "2026-12-07",
+   "inscricao_texto": "18/11 a 07/12/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO SIMPLIFICADO Nº 006/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-13",
+   "tags": [
+    "SC",
+    "Medio",
+    "Superior",
     "Prefeitura"
    ]
   },
@@ -11090,7 +11693,7 @@
     "EDITAL Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Fundamental",
@@ -11122,7 +11725,7 @@
     "EDITAL Nº 02/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Medio",
@@ -11154,7 +11757,7 @@
     "EDITAL DE PROCESSO SELETIVO Nº 002/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Medio",
@@ -11186,7 +11789,7 @@
     "EDITAL Nº 008/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Medio",
@@ -11218,7 +11821,7 @@
     "EDITAL DE PROCESSO SELETIVO Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Fundamental",
@@ -11319,7 +11922,7 @@
     "EDITAL DE PROCESSO SELETIVO Nº 03/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Fundamental",
@@ -11355,7 +11958,7 @@
     "EDITAL RETIFICADO Nº 0172/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Fundamental",
@@ -11390,7 +11993,7 @@
     "ATO DE RETIFICAÇÃO N. 02"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Medio",
@@ -11420,7 +12023,7 @@
     "EDITAL DE PROCESSO SELETIVO Nº 555/26"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Fundamental"
@@ -11512,7 +12115,7 @@
     "EDITAL Nº 0026/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Fundamental",
@@ -11544,7 +12147,7 @@
     "EDITAL Nº 03/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Medio",
@@ -11586,6 +12189,39 @@
    ]
   },
   {
+   "orgao": "SES - Secretaria de Estado da Saúde de Santa Catarina",
+   "titulo": "SES - SC abre processo seletivo para técnicos em enfermagem e enfermeiros em Joinville",
+   "link": "https://www.pciconcursos.com.br/noticias/ses-sc-abre-processo-seletivo-para-tecnicos-em-enfermagem-e-enfermeiros-em-joinville",
+   "vagas": 3,
+   "vagas_texto": "3",
+   "salario_max": 5670.38,
+   "cargos": "Técnico em Enfermagem, Enfermeiro",
+   "escolaridade": "Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-26",
+   "inscricao_texto": "26/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO SIMPLIFICADO Nº 047/2026/SES"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-13",
+   "tags": [
+    "SC",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Saude",
+    "Temporario"
+   ]
+  },
+  {
    "orgao": "TJSC - Tribunal de Justiça do Estado de Santa Catarina",
    "titulo": "TJSC abre concurso público para o cargo de Juiz Substituto",
    "link": "https://www.pciconcursos.com.br/noticias/tjsc-abre-concurso-publico-para-o-cargo-de-juiz-substituto",
@@ -11608,7 +12244,7 @@
     "EDITAL DE ABERTURA Nº 33/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "SC",
     "Superior",
@@ -11669,7 +12305,7 @@
     "EDITAL Nº 1"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "DF",
     "Superior",
@@ -11701,7 +12337,7 @@
     "EDITAL Nº 119/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "DF",
     "Superior",
@@ -11796,7 +12432,7 @@
     "EDITAL DE ABERTURA Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "GO",
     "Medio",
@@ -11830,7 +12466,7 @@
     "RETIFICAÇÃO I"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "GO",
     "Fundamental",
@@ -11865,7 +12501,7 @@
     "EDITAL COMPLEMENTAR Nº 1 - REFERENTE AO EDITAL Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "GO",
     "Fundamental",
@@ -11898,7 +12534,7 @@
     "EDITAL 01"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "GO",
     "Fundamental",
@@ -11930,7 +12566,7 @@
     "EDITAL 01"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "GO",
     "Fundamental",
@@ -11962,7 +12598,7 @@
     "EDITAL Nº 006/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "GO",
     "Medio",
@@ -11994,7 +12630,7 @@
     "EDITAL 01"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "GO",
     "Medio",
@@ -12026,7 +12662,7 @@
     "1º TERMO DE RETIFICAÇÃO DO EDITAL DE ABERTURA - CONCURSO PÚBLICO Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "GO",
     "Medio",
@@ -12123,7 +12759,7 @@
     "EDITAL 01"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "GO",
     "Medio",
@@ -12155,7 +12791,7 @@
     "EDITAL DE ABERTURA E REGULAMENTAÇÃO DO CONCURSO PÚBLICO Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "GO",
     "Fundamental",
@@ -12188,7 +12824,7 @@
     "EDITAL DE ABERTURA Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "GO",
     "Fundamental",
@@ -12220,7 +12856,7 @@
     "EDITAL Nº 01"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "GO",
     "Fundamental",
@@ -12256,7 +12892,7 @@
     "EDITAL 02 REABERTURA E REGULAMENTO GERAL"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "GO",
     "Fundamental",
@@ -12290,7 +12926,7 @@
     "EDITAL DE ABERTURA Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "GO",
     "Fundamental",
@@ -12323,7 +12959,7 @@
     "EDITAL RETIFICADO Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "GO",
     "Medio",
@@ -12447,7 +13083,7 @@
     "EDITAL PROGEP/UFMS Nº 152"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MS",
     "Medio",
@@ -12480,7 +13116,7 @@
     "EDITAL Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MT",
     "Medio",
@@ -12511,7 +13147,7 @@
     "EDITAL DE CONCURSO PÚBLICO Nº 002/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MT",
     "Fundamental",
@@ -12543,7 +13179,7 @@
     "EDITAL DE CONCURSO PÚBLICO Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MT",
     "Medio",
@@ -12576,7 +13212,7 @@
     "EDITAL Nº 001/2026 - PROCESSO SELETIVO Nº 004/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MT",
     "Fundamental",
@@ -12610,7 +13246,7 @@
     "EDITAL DE ABERTURA DO PROCESSO SELETIVO SIMPLIFICADO UNIFICADO Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MT",
     "Fundamental",
@@ -12643,7 +13279,7 @@
     "EDITAL Nº 04/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MT",
     "Medio",
@@ -12676,7 +13312,7 @@
     "EDITAL DE SELEÃO Nº 002/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MT",
     "Superior",
@@ -12742,7 +13378,7 @@
     "ANEXO III - CRONOGRAMA"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MT",
     "Fundamental",
@@ -12843,7 +13479,7 @@
     "EDITAL RETIFICADO 002/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MT",
     "Fundamental",
@@ -12877,7 +13513,7 @@
     "EDITAL DE PROCESSO SELETIVO SIMPLIFICADO Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MT",
     "Fundamental",
@@ -12910,7 +13546,7 @@
     "EDITAL Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MT",
     "Fundamental",
@@ -12974,7 +13610,7 @@
     "EDITAL DE PROCESSO SELETIVO SIMPLIFICADO Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MT",
     "Medio",
@@ -13007,7 +13643,7 @@
     "EDITAL DE ABERTURA Nº 001/2026 - PROCESSO SELETIVO SIMPLIFICADO Nº 003/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MT",
     "Fundamental",
@@ -13076,13 +13712,45 @@
     "EDITAL Nº 01/2026 COMPLETO"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "AM",
     "Medio",
     "Tecnico",
     "Superior",
     "Juridico"
+   ]
+  },
+  {
+   "orgao": "Fundape - Fundação de Apoio e Desenvolvimento ao Ensino, Pesquisa e Extensão Universitária no Acre",
+   "titulo": "Fundape - AC abre processo seletivo para formação de cadastro de reserva",
+   "link": "https://www.pciconcursos.com.br/noticias/fundape-ac-abre-processo-seletivo-para-formacao-de-cadastro-de-reserva",
+   "vagas": null,
+   "vagas_texto": "Várias",
+   "salario_max": 7300.0,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-19",
+   "inscricao_texto": "19/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "ac"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 14/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-13",
+   "tags": [
+    "AC",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Temporario"
    ]
   },
   {
@@ -13108,7 +13776,7 @@
     "EDITAL Nº 001"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "AC",
     "Superior",
@@ -13138,7 +13806,7 @@
     "EDITAL Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "AP",
     "Medio",
@@ -13171,7 +13839,7 @@
     "EDITAL DE ABERTURA Nº 001/2026 - ANALISTA"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "AP",
     "Medio",
@@ -13202,7 +13870,7 @@
     "EDITAL DE ABERTURA Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "AP",
     "Superior",
@@ -13239,7 +13907,7 @@
     "EDITAL DE RETIFICAÇÃO Nº 002/2026 - CONCURSO PÚBLICO Nº 003/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "PA",
     "Medio",
@@ -13305,7 +13973,7 @@
     "EDITAL Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "PA",
     "Fundamental",
@@ -13338,7 +14006,7 @@
     "EDITAL DE CONCURSO PÚBLICO Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "PA",
     "Fundamental",
@@ -13376,7 +14044,7 @@
     "ANEXO 03 INFORMAÇÕES DO CARGO"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "PA",
     "Medio",
@@ -13407,7 +14075,7 @@
     "EDITAL Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "PA",
     "Superior",
@@ -13437,7 +14105,7 @@
     "EDITAL DE CONCURSO PÚBLICO Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "RO",
     "Medio",
@@ -13542,7 +14210,7 @@
     "EDITAL Nº 31/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "RO",
     "Medio",
@@ -13574,7 +14242,7 @@
     "EDITAL Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "TO",
     "Fundamental",
@@ -13606,12 +14274,44 @@
     "EDITAL DE CONCURSO PÚBLICO Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "BA",
     "Fundamental",
     "Medio",
     "Legislativo"
+   ]
+  },
+  {
+   "orgao": "FESF-SUS - Fundação Estatal Saúde da Família",
+   "titulo": "FESF-SUS - BA abre seleção com salários de até R$ 10.270,75",
+   "link": "https://www.pciconcursos.com.br/noticias/fesf-sus-ba-abre-selecao-com-salarios-de-ate-10270",
+   "vagas": null,
+   "vagas_texto": "Várias",
+   "salario_max": 10270.75,
+   "cargos": "Operador(a) de Sistemas de Informática, Consultor(a) de Tecnologia da Informação",
+   "escolaridade": "Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-17",
+   "inscricao_texto": "17/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "ba"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 01 - 29º PROCESSO DE SELEÇÃO PÚBLICA SIMPLIFICADA"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-13",
+   "tags": [
+    "BA",
+    "Medio",
+    "Superior",
+    "Saude",
+    "TI"
    ]
   },
   {
@@ -13707,7 +14407,7 @@
     "RETIFICAÇÃO - CRONOGRAMA"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "BA",
     "Medio",
@@ -13809,7 +14509,7 @@
     "EDITAL DO PROCESSO SELETIVO SIMPLIFICADO PMI Nº 01"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "BA",
     "Medio",
@@ -13843,7 +14543,7 @@
     "EDITAL 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "BA",
     "Fundamental",
@@ -13877,7 +14577,7 @@
     "EDITAL DE CONCURSO PÚBLICO Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "BA",
     "Medio",
@@ -13886,6 +14586,39 @@
     "Saude",
     "Educacao",
     "Prefeitura"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Maraú",
+   "titulo": "Prefeitura de Maraú - BA reabre inscrições de processo seletivo para agentes comunitários de saúde",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-marau-ba-reabre-inscricoes-de-processo-seletivo-para-agentes-comunitarios-de-saude",
+   "vagas": 34,
+   "vagas_texto": "34",
+   "salario_max": null,
+   "cargos": "Agente comunitário de saúde",
+   "escolaridade": "Ensino Médio",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-16",
+   "inscricao_texto": "Reaberto até 16/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "ba"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE ABERTURA 001/2026",
+    "RETIFICAÇÃO - CRONOGRAMA"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-13",
+   "tags": [
+    "BA",
+    "Medio",
+    "Saude",
+    "Prefeitura",
+    "Temporario"
    ]
   },
   {
@@ -13917,7 +14650,7 @@
     "RETIFICAÇÃO Nº 001/2026 - PROCESSO SELETIVO PÚBLICO - EDITAL Nº 003/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "BA",
     "Fundamental",
@@ -13950,7 +14683,7 @@
     "EDITAL Nº 002"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "BA",
     "Medio",
@@ -14049,7 +14782,7 @@
     "EDITAL DE PRORROGAÇÃO DO PRAZO PARA SOLICITAÇÃO DE INSCRIÇÃO"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "BA",
     "Medio",
@@ -14082,7 +14815,7 @@
     "EDITAL DO CONCURSO PÚBLICO Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "CE",
     "Fundamental",
@@ -14114,7 +14847,7 @@
     "EDITAL DE CONCURSO PÚBLICO Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "CE",
     "Medio",
@@ -14144,7 +14877,7 @@
     "EDITAL DO CONCURSO PÚBLICO Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "CE",
     "Superior"
@@ -14174,7 +14907,7 @@
     "EDITAL Nº 04"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "CE",
     "Medio",
@@ -14206,7 +14939,7 @@
     "EDITAL Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "CE",
     "Fundamental",
@@ -14246,7 +14979,7 @@
     "COMUNICADO"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "CE",
     "Fundamental",
@@ -14282,7 +15015,7 @@
     "RETIFICAÇÃO - CRONOGRAMA DE ATIVIDADES"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "CE",
     "Medio",
@@ -14313,7 +15046,7 @@
     "EDITAL DE SELEÇÃO PÚBLICA SIMPLIFICADA Nº 05/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "CE",
     "Medio",
@@ -14346,7 +15079,7 @@
     "EDITAL DO CONCURSO PÚBLICO Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "CE",
     "Fundamental",
@@ -14378,7 +15111,7 @@
     "EDITAL DO PROCESSO SELETIVO Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "CE",
     "Fundamental",
@@ -14413,7 +15146,7 @@
     "ADITIVO Nº 01/2026 AO EDITAL Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "CE",
     "Fundamental",
@@ -14447,7 +15180,7 @@
     "EDITAL DO CONCURSO PÚBLICO Nº 003"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MA",
     "Fundamental",
@@ -14492,7 +15225,7 @@
     "EDITAL Nº 164/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "MA",
     "Medio",
@@ -14524,7 +15257,7 @@
     "EDITAL Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "PB",
     "Medio",
@@ -14555,7 +15288,7 @@
     "EDITAL NORMATIVO DE CONCURSO PÚBLICO Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "PB",
     "Fundamental",
@@ -14587,7 +15320,7 @@
     "EDITAL NORMATIVO DE CONCURSO PÚBLICO Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "PB",
     "Fundamental",
@@ -14654,7 +15387,7 @@
     "EDITAL DE RETIFICAÇÃO - CONCURSO PÚBLICO Nº 002/2026 (GUARDA CIVIL MUNICIPAL-GCM)"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "PB",
     "Medio",
@@ -14719,7 +15452,7 @@
     "EDITAL 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "PB",
     "Fundamental",
@@ -14784,7 +15517,7 @@
     "EDITAL DE CONCURSO PÚBLICO Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "PB",
     "Fundamental",
@@ -14818,7 +15551,7 @@
     "EDITAL RETIFICADO DE CONCURSO PÚBLICO Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "PB",
     "Fundamental",
@@ -14854,7 +15587,7 @@
     "EDITAL RETIFICADO Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "PB",
     "Superior",
@@ -14886,7 +15619,7 @@
     "PRIMEIRO TERMO DE RETIFICAÇÃO DO EDITAL DE ABERTURA 002/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "PE",
     "Medio",
@@ -14951,7 +15684,7 @@
     "PRIMEIRO TERMO DE RETIFICAÇÃO DO EDITAL DE ABERTURA 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "PE",
     "Medio",
@@ -14983,7 +15716,7 @@
     "EDITAL Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "PE",
     "Medio",
@@ -15015,7 +15748,7 @@
     "EDITAL DE CONCURSO PÚBLICO Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "PE",
     "Fundamental",
@@ -15051,7 +15784,7 @@
     "ADITIVO 02"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "PE",
     "Fundamental",
@@ -15085,7 +15818,7 @@
     "EDITAL RETIFICADO Nº 002/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "PE",
     "Medio",
@@ -15122,7 +15855,7 @@
     "EDITAL Nº 002/2026 RETIFICADO"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "PE",
     "Medio",
@@ -15154,7 +15887,7 @@
     "EDITAL Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "PE",
     "Medio",
@@ -15187,7 +15920,7 @@
     "EDITAL RETIFICADO II Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "PE",
     "Medio",
@@ -15219,7 +15952,7 @@
     "EDITAL Nº 1"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "PE",
     "Superior",
@@ -15251,7 +15984,7 @@
     "RETIFICAÇÃO Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "PI",
     "Fundamental",
@@ -15284,7 +16017,7 @@
     "CAM DOM INOCENCIO 1 CP"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "PI",
     "Medio",
@@ -15315,7 +16048,7 @@
     "EDITAL Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "PI",
     "Fundamental",
@@ -15347,7 +16080,7 @@
     "EDITAL Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "PI",
     "Superior",
@@ -15377,7 +16110,7 @@
     "EDITAL Nº 1/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "PI",
     "Fundamental",
@@ -15410,7 +16143,7 @@
     "EDITAL Nº 1/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "PI",
     "Fundamental",
@@ -15443,7 +16176,7 @@
     "EDITAL Nº 1/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "PI",
     "Medio",
@@ -15475,7 +16208,7 @@
     "EDITAL - FRANCISCO MACEDO 1 CP"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "PI",
     "Fundamental",
@@ -15508,7 +16241,7 @@
     "EDITAL Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "PI",
     "Fundamental",
@@ -15545,7 +16278,7 @@
     "COMUNICADO - REVOGAÇÃO DA SUSPENSÃO"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "PI",
     "Medio",
@@ -15578,7 +16311,7 @@
     "SUSPENSÃO"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "PI",
     "Fundamental",
@@ -15612,7 +16345,7 @@
     "EDITAL COMPLETO Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "RN",
     "Medio",
@@ -15676,7 +16409,7 @@
     "EDITAL Nº 1 COMPLETO"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-09",
+   "detalhado_em": "2026-11-13",
    "tags": [
     "RN",
     "Superior",
@@ -15768,7 +16501,7 @@
   },
   {
    "orgao": "CNU 2027",
-   "titulo": "CNU 2027 deverá oferecer até 3 mil vagas, mas ainda não tem data",
+   "titulo": "CNU 2027 pode ter até 3 mil vagas e novo modelo inspirado no Enem",
    "link": "https://concursosnobrasil.com/concursos/br/2026/10/30/cnu-2027-devera-oferecer-ate-3-mil-vagas-mas-ainda-nao-tem-data/",
    "vagas": null,
    "vagas_texto": "Várias",
@@ -17717,7 +18450,7 @@
   },
   {
    "orgao": "INSS",
-   "titulo": "Concurso INSS: novo pedido amplia a oferta para 10 mil vagas em 2027",
+   "titulo": "Concurso INSS tem 10 mil vagas solicitadas e ministra prevê aval em 2027",
    "link": "https://concursosnobrasil.com/concursos/br/2025/06/26/concurso-inss-2026/",
    "vagas": 10000,
    "vagas_texto": "10.000",
