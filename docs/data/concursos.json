@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-14T15:31:59+00:00",
+ "atualizado": "2026-11-15T00:43:35+00:00",
  "fontes": {
   "pci": "https://www.pciconcursos.com.br/concursos/",
   "cnb": "https://concursosnobrasil.com"
@@ -798,7 +798,7 @@
     "EDITAL Nº 02/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-11",
+   "detalhado_em": "2026-11-15",
    "tags": [
     "SP",
     "Medio",
@@ -1224,7 +1224,7 @@
     "EDITAL Nº 214/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-11",
+   "detalhado_em": "2026-11-15",
    "tags": [
     "SP",
     "Tecnico",
@@ -1382,7 +1382,7 @@
     "EDITAL DE PROCESSO SELETIVO SIMPLICADO Nº 04/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-11",
+   "detalhado_em": "2026-11-15",
    "tags": [
     "SP",
     "Fundamental",
@@ -1478,7 +1478,7 @@
     "EDITAL DE CONCURSO PÚBLICO CPPETI 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-11",
+   "detalhado_em": "2026-11-15",
    "tags": [
     "SP",
     "Medio",
@@ -2064,7 +2064,7 @@
     "EDITAL DE ABERTURA - CONCURSO PUBLICO Nº 05/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-11",
+   "detalhado_em": "2026-11-15",
    "tags": [
     "SP",
     "Superior",
@@ -2675,6 +2675,39 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Onda Verde",
+   "titulo": "Prefeitura de Onda Verde - SP abre processo seletivo com salários de até R$ 4.104,00",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-onda-verde-sp-abre-processo-seletivo-com-salarios-de-ate-4104",
+   "vagas": 4,
+   "vagas_texto": "4",
+   "salario_max": 4104.0,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-11-17",
+   "inscricao_fim": "2026-11-29",
+   "inscricao_texto": "17 a 29/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sp"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "PROCESSO SELETIVO Nº 001/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-15",
+   "tags": [
+    "SP",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
+  },
+  {
    "orgao": "Prefeitura de Ouroeste",
    "titulo": "Prefeitura de Ouroeste - SP abre seleção para agentes coletores de lixo e professores",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ouroeste-sp-abre-selecao-para-agentes-coletores-de-lixo-e-professores",
@@ -3055,7 +3088,7 @@
     "EDITAL Nº 03/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-11",
+   "detalhado_em": "2026-11-15",
    "tags": [
     "SP",
     "Medio",
@@ -3183,7 +3216,7 @@
     "EDITAL DE CONCURSO PÚBLICO CPPMT 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-11",
+   "detalhado_em": "2026-11-15",
    "tags": [
     "SP",
     "Fundamental",
@@ -3250,7 +3283,7 @@
     "EDITAL DO CONCURSO PÚBLICO Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-11",
+   "detalhado_em": "2026-11-15",
    "tags": [
     "SP",
     "Fundamental",
@@ -3410,7 +3443,7 @@
     "EDITAL Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-11",
+   "detalhado_em": "2026-11-15",
    "tags": [
     "SP",
     "Superior"
@@ -3439,7 +3472,7 @@
     "EDITAL Nº 151/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-11",
+   "detalhado_em": "2026-11-15",
    "tags": [
     "SP",
     "Medio",
@@ -3737,7 +3770,7 @@
     "EDITAL Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-11",
+   "detalhado_em": "2026-11-15",
    "tags": [
     "RJ",
     "Medio",
@@ -4249,7 +4282,7 @@
     "EDITAL DE ABERTURA E REGULAMENTAÇÃO Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-11",
+   "detalhado_em": "2026-11-15",
    "tags": [
     "MG",
     "Fundamental",
@@ -4882,7 +4915,7 @@
     "EDITAL Nº 055/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-11",
+   "detalhado_em": "2026-11-15",
    "tags": [
     "MG",
     "Superior",
@@ -5306,7 +5339,7 @@
     "EDITAL Nº 03/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-11",
+   "detalhado_em": "2026-11-15",
    "tags": [
     "MG",
     "Fundamental",
@@ -6241,7 +6274,7 @@
     "EDITAL DE PROCESSO SELETIVO Nº 02/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-11",
+   "detalhado_em": "2026-11-15",
    "tags": [
     "MG",
     "Fundamental",
@@ -6818,7 +6851,7 @@
     "EDITAL DE PROCESSO SELETIVO SIMPLIFICADO N 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-11",
+   "detalhado_em": "2026-11-15",
    "tags": [
     "ES",
     "Superior",
@@ -7165,7 +7198,7 @@
     "EDITAL Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-11",
+   "detalhado_em": "2026-11-15",
    "tags": [
     "ES",
     "Fundamental",
@@ -7199,7 +7232,7 @@
     "PRORROGAÇÃO DAS INSCRIÇÕES - EDITAL DE CONCURSO PÚBLICO Nº 01/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-11",
+   "detalhado_em": "2026-11-15",
    "tags": [
     "ES",
     "Fundamental",
@@ -7232,7 +7265,7 @@
     "RETIFICAÇÃO"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-11",
+   "detalhado_em": "2026-11-15",
    "tags": [
     "PR",
     "Medio",
@@ -7622,7 +7655,7 @@
     "EDITAL 051/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-11",
+   "detalhado_em": "2026-11-15",
    "tags": [
     "PR",
     "Superior",
@@ -7967,7 +8000,7 @@
     "EDITAL Nº 070/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-11",
+   "detalhado_em": "2026-11-15",
    "tags": [
     "RS",
     "Fundamental",
@@ -8741,7 +8774,7 @@
     "EDITAL Nº 345"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-11",
+   "detalhado_em": "2026-11-15",
    "tags": [
     "RS",
     "Medio",
@@ -9099,7 +9132,7 @@
     "ERRATA Nº 02/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-11",
+   "detalhado_em": "2026-11-15",
    "tags": [
     "SC",
     "Medio"
@@ -9317,7 +9350,7 @@
     "PRORROGAÇÃO DAS INSCRIÇÕES - PROCESSO SELETIVO 484/26"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-11",
+   "detalhado_em": "2026-11-15",
    "tags": [
     "SC",
     "Tecnico",
@@ -10094,7 +10127,7 @@
     "EDITAL DO PROCESSO SELETIVO Nº 020"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-11",
+   "detalhado_em": "2026-11-15",
    "tags": [
     "SC",
     "Fundamental",
@@ -11122,7 +11155,7 @@
     "EDITAL Nº 045/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-11",
+   "detalhado_em": "2026-11-15",
    "tags": [
     "SC",
     "Medio",
@@ -11341,7 +11374,7 @@
     "EDITAL Nº 125/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-11",
+   "detalhado_em": "2026-11-15",
    "tags": [
     "DF",
     "Tecnico",
@@ -11373,7 +11406,7 @@
     "EDITAL Nº 121/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-11",
+   "detalhado_em": "2026-11-15",
    "tags": [
     "DF",
     "Superior",
@@ -11632,7 +11665,7 @@
     "EDITAL 01"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-11",
+   "detalhado_em": "2026-11-15",
    "tags": [
     "GO",
     "Fundamental",
@@ -11666,7 +11699,7 @@
     "ERRATA Nº 001"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-11",
+   "detalhado_em": "2026-11-15",
    "tags": [
     "GO",
     "Fundamental",
@@ -11958,7 +11991,7 @@
     "EDITAL DE CONCURSO PÚBLICO 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-11",
+   "detalhado_em": "2026-11-15",
    "tags": [
     "MS",
     "Fundamental",
@@ -11990,7 +12023,7 @@
     "EDITAL Nº 004/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-11",
+   "detalhado_em": "2026-11-15",
    "tags": [
     "MS",
     "Medio",
@@ -12317,7 +12350,7 @@
     "EDITAL DE ABERTURA DO PROCESSO SELETIVO SIMPLIFICADO Nº 003/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-11",
+   "detalhado_em": "2026-11-15",
    "tags": [
     "MT",
     "Fundamental",
@@ -12417,7 +12450,7 @@
     "EDITAL DE ABERTURA DO PROCESSO SELETIVO SIMPLIFICADO Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-11",
+   "detalhado_em": "2026-11-15",
    "tags": [
     "MT",
     "Fundamental",
@@ -14350,7 +14383,7 @@
     "EDITAL DO CONCURSO PÚBLICO Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-11",
+   "detalhado_em": "2026-11-15",
    "tags": [
     "PB",
     "Fundamental",
@@ -15142,7 +15175,7 @@
     "EDITAL DO CONCURSO PÚBLICO Nº 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-11",
+   "detalhado_em": "2026-11-15",
    "tags": [
     "RN",
     "Fundamental",
