@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-15T00:43:35+00:00",
+ "atualizado": "2026-11-15T16:03:43+00:00",
  "fontes": {
   "pci": "https://www.pciconcursos.com.br/concursos/",
   "cnb": "https://concursosnobrasil.com"
@@ -4790,38 +4790,6 @@
     "MG",
     "Fundamental",
     "Temporario"
-   ]
-  },
-  {
-   "orgao": "EMATER - Empresa de Assistência Técnica e Extensão Rural do Estado de Minas Gerais",
-   "titulo": "EMATER - MG anuncia retificação de concurso público com salários de até R$ 7.321,75",
-   "link": "https://www.pciconcursos.com.br/noticias/emater-mg-anuncia-retificacao-de-concurso-publico-com-salarios-de-ate-7321",
-   "vagas": 120,
-   "vagas_texto": "120",
-   "salario_max": 7321.75,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Médio / Técnico / Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-10-30",
-   "inscricao_texto": "30/10/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "mg"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL DO CONCURSO PÚBLICO Nº 01/2026",
-    "SEGUNDA RETIFICAÇÃO DO EDITAL DO CONCURSO PÚBLICO Nº 01/2026"
-   ],
-   "links_oficiais": [],
-   "detalhado_em": "2026-11-13",
-   "tags": [
-    "MG",
-    "Medio",
-    "Tecnico",
-    "Superior"
    ]
   },
   {
@@ -10170,39 +10138,6 @@
    ]
   },
   {
-   "orgao": "Prefeitura de Ilhota",
-   "titulo": "Prefeitura de Ilhota - SC publica edital de concurso público com salários de até R$ 21.113,16",
-   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ilhota-sc-publica-edital-de-concurso-publico-com-salarios-de-ate-21113",
-   "vagas": 36,
-   "vagas_texto": "36",
-   "salario_max": 21113.16,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-14",
-   "inscricao_texto": "14/11/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "sc"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL DE CONCURSO PÚBLICO Nº 001/2026"
-   ],
-   "links_oficiais": [],
-   "detalhado_em": "2026-11-13",
-   "tags": [
-    "SC",
-    "Fundamental",
-    "Medio",
-    "Tecnico",
-    "Superior",
-    "Prefeitura"
-   ]
-  },
-  {
    "orgao": "Prefeitura de Iporã do Oeste",
    "titulo": "Prefeitura de Iporã do Oeste - SC abre concurso público e processos seletivos com salários de até R$ 19.265,80",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ipora-do-oeste-sc-abre-concurso-publico-e-processos-seletivos-com-salarios-de-ate-19265",
@@ -13560,37 +13495,6 @@
    ]
   },
   {
-   "orgao": "Prefeitura de Salvador",
-   "titulo": "Prefeitura de Salvador - BA abre concurso público para guardas civis municipais",
-   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-salvador-ba-abre-concurso-publico-para-guardas-civis-municipais",
-   "vagas": 50,
-   "vagas_texto": "50",
-   "salario_max": 3546.42,
-   "cargos": "Guarda Civil Municipal",
-   "escolaridade": "Ensino Médio",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-10-30",
-   "inscricao_texto": "30/10/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "ba"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL Nº 002"
-   ],
-   "links_oficiais": [],
-   "detalhado_em": "2026-11-13",
-   "tags": [
-    "BA",
-    "Medio",
-    "Policial",
-    "Prefeitura"
-   ]
-  },
-  {
    "orgao": "Prefeitura de Tucano",
    "titulo": "Prefeitura de Tucano - BA abre processo seletivo com 83 vagas",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tucano-ba-abre-processo-seletivo-com-83-vagas",
@@ -15010,39 +14914,6 @@
    "detalhado_em": "2026-11-13",
    "tags": [
     "PI",
-    "Medio",
-    "Tecnico",
-    "Superior",
-    "Prefeitura"
-   ]
-  },
-  {
-   "orgao": "Prefeitura de Francisco Macedo",
-   "titulo": "Prefeitura de Francisco Macedo - PI abre concurso público com vagas imediatas e cadastro de reserva",
-   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-francisco-macedo-pi-abre-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva",
-   "vagas": 49,
-   "vagas_texto": "49",
-   "salario_max": 4318.18,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-14",
-   "inscricao_texto": "14/11/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "pi"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL - FRANCISCO MACEDO 1 CP"
-   ],
-   "links_oficiais": [],
-   "detalhado_em": "2026-11-13",
-   "tags": [
-    "PI",
-    "Fundamental",
     "Medio",
     "Tecnico",
     "Superior",
