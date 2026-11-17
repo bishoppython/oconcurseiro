@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-17T03:29:53+00:00",
+ "atualizado": "2026-11-17T18:07:16+00:00",
  "fontes": {
   "pci": "https://www.pciconcursos.com.br/concursos/",
   "cnb": "https://concursosnobrasil.com"
@@ -323,39 +323,6 @@
     "Fundamental",
     "Medio",
     "Tecnico",
-    "Superior",
-    "Prefeitura"
-   ]
-  },
-  {
-   "orgao": "Prefeitura de Louveira",
-   "titulo": "Prefeitura de Louveira - SP abre concursos com vagas imediatas e cadastro de reserva",
-   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-louveira-sp-abre-concursos-com-vagas-imediatas-e-cadastro-de-reserva",
-   "vagas": 19,
-   "vagas_texto": "19",
-   "salario_max": 8738.0,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-16",
-   "inscricao_texto": "16/11/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "sp"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL DE CONCURSO PÚBLICO 01/2026",
-    "EDITAL DE CONCURSO PÚBLICO 02/2026"
-   ],
-   "links_oficiais": [],
-   "detalhado_em": "2026-11-17",
-   "tags": [
-    "SP",
-    "Fundamental",
-    "Medio",
     "Superior",
     "Prefeitura"
    ]
@@ -1561,6 +1528,38 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Alvinlândia",
+   "titulo": "Prefeitura de Alvinlândia - SP abre processo seletivo com salários de até R$ 9.742,35",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-alvinlandia-sp-abre-processo-seletivo-com-salarios-de-ate-9742",
+   "vagas": null,
+   "vagas_texto": "Várias",
+   "salario_max": 9742.35,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-29",
+   "inscricao_texto": "29/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sp"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 01/2026 - PROCESSO SELETIVO Nº 04/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-17",
+   "tags": [
+    "SP",
+    "Medio",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
+  },
+  {
    "orgao": "Prefeitura de Bofete",
    "titulo": "Prefeitura de Bofete - SP abre concurso público com vagas em diversas áreas de atuação",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bofete-sp-abre-concurso-publico-com-vagas-em-diversas-areas-de-atuacao",
@@ -2320,6 +2319,39 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Louveira",
+   "titulo": "Prefeitura de Louveira - SP abre concursos com vagas imediatas e cadastro de reserva",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-louveira-sp-abre-concursos-com-vagas-imediatas-e-cadastro-de-reserva",
+   "vagas": 19,
+   "vagas_texto": "19",
+   "salario_max": 8738.0,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-16",
+   "inscricao_texto": "16/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sp"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE CONCURSO PÚBLICO 01/2026",
+    "EDITAL DE CONCURSO PÚBLICO 02/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-17",
+   "tags": [
+    "SP",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Prefeitura"
+   ]
+  },
+  {
    "orgao": "Prefeitura de Marapoama",
    "titulo": "Prefeitura de Marapoama - SP abre processo seletivo com vagas imediatas e cadastro de reserva",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-marapoama-sp-abre-processo-seletivo-com-vagas-imediatas-e-cadastro-de-reserva",
@@ -2653,6 +2685,37 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Pilar do Sul",
+   "titulo": "Prefeitura de Pilar do Sul - SP abre concurso público com salários de até R$ 6.593,75",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pilar-do-sul-sp-abre-concurso-publico-com-salarios-de-ate-6593",
+   "vagas": 5,
+   "vagas_texto": "5",
+   "salario_max": 6593.75,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-11-26",
+   "inscricao_fim": "2026-12-28",
+   "inscricao_texto": "26/11 a 28/12/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sp"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE CONCURSO PÚBLICO Nº 02/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-17",
+   "tags": [
+    "SP",
+    "Fundamental",
+    "Superior",
+    "Prefeitura"
+   ]
+  },
+  {
    "orgao": "Prefeitura de Pinhalzinho",
    "titulo": "Prefeitura de Pinhalzinho - SP abre concurso público com salários de até R$ 7.723,14",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pinhalzinho-sp-abre-concurso-publico-com-salarios-de-ate-7723",
@@ -2775,6 +2838,39 @@
    "detalhado_em": "2026-11-17",
    "tags": [
     "SP",
+    "Superior",
+    "Educacao",
+    "Prefeitura",
+    "Temporario"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Rosana",
+   "titulo": "Prefeitura de Rosana - SP abre processo seletivo para profissionais da educação",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rosana-sp-abre-processo-seletivo-para-profissionais-da-educacao",
+   "vagas": null,
+   "vagas_texto": "Várias",
+   "salario_max": 3578.0,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-11-18",
+   "inscricao_fim": "2026-12-04",
+   "inscricao_texto": "18/11 a 04/12/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sp"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE ABERTURA Nº 001/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-17",
+   "tags": [
+    "SP",
+    "Medio",
     "Superior",
     "Educacao",
     "Prefeitura",
@@ -5287,6 +5383,36 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Ibertioga",
+   "titulo": "Prefeitura de Ibertioga - MG abre seleção para operadores de máquinas e tratoristas",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ibertioga-mg-abre-selecao-para-operadores-de-maquinas-e-tratoristas",
+   "vagas": 5,
+   "vagas_texto": "5",
+   "salario_max": 2703.55,
+   "cargos": "Operador de Motoniveladora, Operador de Retroescavadeira, Tratorista",
+   "escolaridade": "Fundamental",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-23",
+   "inscricao_texto": "23/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "mg"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO SIMPLIFICADO Nº 002/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-17",
+   "tags": [
+    "MG",
+    "Fundamental",
+    "Prefeitura"
+   ]
+  },
+  {
    "orgao": "Prefeitura de Inhapim",
    "titulo": "Prefeitura de Inhapim - MG abre concurso público com salários de até R$ 11.232,59",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-inhapim-mg-abre-concurso-publico-com-salarios-de-ate-11232",
@@ -6609,6 +6735,40 @@
    ]
   },
   {
+   "orgao": "SEMSA - Secretaria Municipal de Saúde de Nova Lima",
+   "titulo": "Prefeitura de Nova Lima - MG abre processo seletivo com salários de até R$ 8.106,76",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-lima-mg-abre-processo-seletivo-com-salarios-de-ate-8106",
+   "vagas": 24,
+   "vagas_texto": "24",
+   "salario_max": 8106.76,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-11-26",
+   "inscricao_fim": "2026-12-02",
+   "inscricao_texto": "26/11 a 02/12/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "mg"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 01/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-17",
+   "tags": [
+    "MG",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Saude",
+    "Prefeitura",
+    "Temporario"
+   ]
+  },
+  {
    "orgao": "Banestes - Banco do Estado do Espírito Santo e Banestes Seguros",
    "titulo": "Banestes e Banestes Seguros - ES retificam concursos para cadastro de reserva",
    "link": "https://www.pciconcursos.com.br/noticias/banestes-e-banestes-seguros-es-retificam-concursos-para-cadastro-de-reserva",
@@ -7312,6 +7472,39 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Curiúva",
+   "titulo": "Prefeitura de Curiúva - PR abre processo seletivo para Técnico de Enfermagem",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-curiuva-pr-abre-processo-seletivo-para-tecnico-de-enfermagem",
+   "vagas": 1,
+   "vagas_texto": "1",
+   "salario_max": 3022.73,
+   "cargos": "Técnico de Enfermagem",
+   "escolaridade": "Médio / Técnico",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-27",
+   "inscricao_texto": "27/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "pr"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO SIMPLIFICADO 01/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-17",
+   "tags": [
+    "PR",
+    "Medio",
+    "Tecnico",
+    "Saude",
+    "Prefeitura",
+    "Temporario"
+   ]
+  },
+  {
    "orgao": "Prefeitura de Entre Rios do Oeste",
    "titulo": "Prefeitura de Entre Rios do Oeste - PR abre processo seletivo para cargos de nível superior",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-entre-rios-do-oeste-pr-abre-processo-seletivo-para-cargos-de-nivel-superior",
@@ -7817,6 +8010,36 @@
     "Medio",
     "Tecnico",
     "Superior",
+    "Legislativo"
+   ]
+  },
+  {
+   "orgao": "Câmara de Vereadores de Pinheiro Machado",
+   "titulo": "Câmara de Pinheiro Machado - RS abre concurso público para Motorista e Servente",
+   "link": "https://www.pciconcursos.com.br/noticias/camara-de-pinheiro-machado-rs-abre-concurso-publico-para-motorista-e-servente",
+   "vagas": 2,
+   "vagas_texto": "2",
+   "salario_max": 1816.88,
+   "cargos": "Motorista, Servente",
+   "escolaridade": "Fundamental",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-12-16",
+   "inscricao_texto": "16/12/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "rs"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE CONCURSO PÚBLICO 01/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-17",
+   "tags": [
+    "RS",
+    "Fundamental",
     "Legislativo"
    ]
   },
@@ -8821,72 +9044,6 @@
    ]
   },
   {
-   "orgao": "Prefeitura de Lages - Secretaria da Saúde",
-   "titulo": "Prefeitura de Lages - SC abre seleção para diversos cargos na Secretaria da Saúde",
-   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lages-sc-abre-selecao-para-diversos-cargos-na-secretaria-da-saude",
-   "vagas": 14,
-   "vagas_texto": "14",
-   "salario_max": 5883.29,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-16",
-   "inscricao_texto": "16/11/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "sc"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL NO 003/2026"
-   ],
-   "links_oficiais": [],
-   "detalhado_em": "2026-11-17",
-   "tags": [
-    "SC",
-    "Fundamental",
-    "Medio",
-    "Tecnico",
-    "Superior",
-    "Saude",
-    "Prefeitura"
-   ]
-  },
-  {
-   "orgao": "Prefeitura de Tijucas",
-   "titulo": "Prefeitura de Tijucas - SC abre concurso público com vagas para a educação",
-   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tijucas-sc-abre-concurso-publico-com-vagas-para-a-educacao",
-   "vagas": 250,
-   "vagas_texto": "250",
-   "salario_max": 3847.97,
-   "cargos": "Professor Nível II, Auxiliar de Sala, Auxiliar de Vida Escolar",
-   "escolaridade": "Médio / Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-13",
-   "inscricao_texto": "13/11/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "sc"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL Nº 02/2026"
-   ],
-   "links_oficiais": [],
-   "detalhado_em": "2026-11-16",
-   "tags": [
-    "SC",
-    "Medio",
-    "Superior",
-    "Educacao",
-    "Prefeitura"
-   ]
-  },
-  {
    "orgao": "Câmara de Águas Frias",
    "titulo": "Câmara de Águas Frias - SC abre concurso para Tesoureiro, Contador e Controle Interno",
    "link": "https://www.pciconcursos.com.br/noticias/camara-de-aguas-frias-sc-abre-concurso-para-tesoureiro-contador-e-controle-interno",
@@ -9114,6 +9271,39 @@
    ]
   },
   {
+   "orgao": "CEPON - Centro de Pesquisas Oncológicas",
+   "titulo": "FAHECE - SC abre processos seletivos para Enfermagem no CEPON de Florianópolis",
+   "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processos-seletivos-para-enfermagem-no-cepon-de-florianopolis",
+   "vagas": 2,
+   "vagas_texto": "2",
+   "salario_max": 5001.11,
+   "cargos": "Enfermeiro I, Técnico de Enfermagem I",
+   "escolaridade": "Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-19",
+   "inscricao_texto": "19/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO Nº 571/26",
+    "EDITAL DE PROCESSO SELETIVO Nº 572/26"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-17",
+   "tags": [
+    "SC",
+    "Tecnico",
+    "Superior",
+    "Saude",
+    "Temporario"
+   ]
+  },
+  {
    "orgao": "CIM-AMFRI - Consórcio Intermunicipal Multifinalitário da Região da AMFRI",
    "titulo": "CIM-AMFRI - SC abre processo seletivo para profissionais de nível superior",
    "link": "https://www.pciconcursos.com.br/noticias/cim-amfri-sc-abre-processo-seletivo-para-profissionais-de-nivel-superior",
@@ -9236,6 +9426,35 @@
     "Medio",
     "Tecnico",
     "Temporario"
+   ]
+  },
+  {
+   "orgao": "FAHECE - Fundação de Apoio ao HEMOSC/CEPON",
+   "titulo": "FAHECE - SC anuncia vaga para auxiliar de higienização no SAMU",
+   "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-vaga-para-auxiliar-de-higienizacao-no-samu",
+   "vagas": 1,
+   "vagas_texto": "1",
+   "salario_max": 2182.33,
+   "cargos": "Auxiliar de Higienização",
+   "escolaridade": "Fundamental",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-22",
+   "inscricao_texto": "22/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO Nº 573/26"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-17",
+   "tags": [
+    "SC",
+    "Fundamental"
    ]
   },
   {
@@ -10182,6 +10401,40 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Lages - Secretaria da Saúde",
+   "titulo": "Prefeitura de Lages - SC abre seleção para diversos cargos na Secretaria da Saúde",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lages-sc-abre-selecao-para-diversos-cargos-na-secretaria-da-saude",
+   "vagas": 14,
+   "vagas_texto": "14",
+   "salario_max": 5883.29,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-16",
+   "inscricao_texto": "16/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL NO 003/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-17",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Saude",
+    "Prefeitura"
+   ]
+  },
+  {
    "orgao": "Prefeitura de Luiz Alves",
    "titulo": "Prefeitura de Luiz Alves - SC abre concurso público com salários de até R$ 8.889,30",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-luiz-alves-sc-abre-concurso-publico-com-salarios-de-ate-8889",
@@ -10705,6 +10958,38 @@
    "tags": [
     "SC",
     "Fundamental",
+    "Medio",
+    "Superior",
+    "Educacao",
+    "Prefeitura"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Tijucas",
+   "titulo": "Prefeitura de Tijucas - SC abre concurso público com vagas para a educação",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tijucas-sc-abre-concurso-publico-com-vagas-para-a-educacao",
+   "vagas": 250,
+   "vagas_texto": "250",
+   "salario_max": 3847.97,
+   "cargos": "Professor Nível II, Auxiliar de Sala, Auxiliar de Vida Escolar",
+   "escolaridade": "Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-13",
+   "inscricao_texto": "13/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 02/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-16",
+   "tags": [
+    "SC",
     "Medio",
     "Superior",
     "Educacao",
@@ -12565,6 +12850,39 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Tabaporã",
+   "titulo": "Prefeitura de Tabaporã - MT abre seleção com salários de até R$ 9.677,25",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tabapora-mt-abre-selecao-com-salarios-de-ate-9677",
+   "vagas": 165,
+   "vagas_texto": "165",
+   "salario_max": 9677.25,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-12-01",
+   "inscricao_texto": "01/12/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "mt"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE ABERTURA Nº 001/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-17",
+   "tags": [
+    "MT",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
+  },
+  {
    "orgao": "SECITECI - Secretaria de Estado de Ciência, Tecnologia e Inovação de Mato Grosso",
    "titulo": "SECITECI - MT retifica edital de processo seletivo para formação de cadastro de reserva",
    "link": "https://www.pciconcursos.com.br/noticias/seciteci-mt-retifica-edital-de-processo-seletivo-para-formacao-de-cadastro-de-reserva",
@@ -13030,6 +13348,38 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Uiramutã",
+   "titulo": "Prefeitura de Uiramutã - RR abre seleção para agentes de saúde e endemias",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-uiramuta-rr-abre-selecao-para-agentes-de-saude-e-endemias",
+   "vagas": 26,
+   "vagas_texto": "26",
+   "salario_max": 3242.0,
+   "cargos": "Agente Comunitário de Saúde, Agente de Combate às Endemias",
+   "escolaridade": "Fundamental / Médio",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-24",
+   "inscricao_texto": "24/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "rr"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 02/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-17",
+   "tags": [
+    "RR",
+    "Fundamental",
+    "Medio",
+    "Saude",
+    "Prefeitura"
+   ]
+  },
+  {
    "orgao": "Câmara de Oliveira de Fátima",
    "titulo": "Câmara de Oliveira de Fátima - TO abre concurso público com cinco vagas imediatas",
    "link": "https://www.pciconcursos.com.br/noticias/camara-de-oliveira-de-fatima-to-abre-concurso-publico-com-cinco-vagas-imediatas",
@@ -13155,6 +13505,38 @@
     "Superior",
     "Saude",
     "TI"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Formosa do Rio Preto",
+   "titulo": "Prefeitura de Formosa do Rio Preto - BA abre processo seletivo para profissionais da saúde",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-formosa-do-rio-preto-ba-abre-processo-seletivo-para-profissionais-da-saude",
+   "vagas": 68,
+   "vagas_texto": "68",
+   "salario_max": 1808.33,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Ensino Técnico",
+   "status": "aberto",
+   "inscricao_inicio": "2026-11-23",
+   "inscricao_fim": "2026-11-29",
+   "inscricao_texto": "23 a 29/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "ba"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO SIMPLIFICADO PSS Nº 001/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-17",
+   "tags": [
+    "BA",
+    "Tecnico",
+    "Saude",
+    "Prefeitura",
+    "Temporario"
    ]
   },
   {
@@ -14384,42 +14766,6 @@
    ]
   },
   {
-   "orgao": "Prefeitura de São João do Piauí",
-   "titulo": "Prefeitura de São João do Piauí - PI revoga suspensão de processo seletivo para Agente de Endemias e de Saúde",
-   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-joao-do-piaui-pi-revoga-suspensao-de-processo-seletivo-para-agente-de-endemias-e-de-saude",
-   "vagas": 80,
-   "vagas_texto": "80",
-   "salario_max": 1621.0,
-   "cargos": "Agente de Combate às Endemias, Agente Comunitário de Saúde",
-   "escolaridade": "Ensino Médio",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-15",
-   "inscricao_texto": "15/11/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "pi"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL Nº 005/2026",
-    "EDITAL RETIFICADO Nº 005/2026",
-    "RETIFICAÇÃO - QUADRO DE VAGAS",
-    "SUSPENSAO",
-    "COMUNICADO - REVOGAÇÃO DA SUSPENSÃO"
-   ],
-   "links_oficiais": [],
-   "detalhado_em": "2026-11-17",
-   "tags": [
-    "PI",
-    "Medio",
-    "Saude",
-    "Prefeitura",
-    "Temporario"
-   ]
-  },
-  {
    "orgao": "Câmara de São João do Piauí",
    "titulo": "Câmara de São João do Piauí - PI abre concurso público para Controlador Interno",
    "link": "https://www.pciconcursos.com.br/noticias/camara-de-sao-joao-do-piaui-pi-abre-concurso-publico-para-controlador-interno",
@@ -14611,6 +14957,42 @@
     "Tecnico",
     "Superior",
     "Prefeitura"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de São João do Piauí",
+   "titulo": "Prefeitura de São João do Piauí - PI revoga suspensão de processo seletivo para Agente de Endemias e de Saúde",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-joao-do-piaui-pi-revoga-suspensao-de-processo-seletivo-para-agente-de-endemias-e-de-saude",
+   "vagas": 80,
+   "vagas_texto": "80",
+   "salario_max": 1621.0,
+   "cargos": "Agente de Combate às Endemias, Agente Comunitário de Saúde",
+   "escolaridade": "Ensino Médio",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-15",
+   "inscricao_texto": "15/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "pi"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 005/2026",
+    "EDITAL RETIFICADO Nº 005/2026",
+    "RETIFICAÇÃO - QUADRO DE VAGAS",
+    "SUSPENSAO",
+    "COMUNICADO - REVOGAÇÃO DA SUSPENSÃO"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-17",
+   "tags": [
+    "PI",
+    "Medio",
+    "Saude",
+    "Prefeitura",
+    "Temporario"
    ]
   },
   {
@@ -16696,31 +17078,6 @@
    "fonte": "cnb",
    "tags": [
     "SP",
-    "Previsto"
-   ]
-  },
-  {
-   "orgao": "PM AL",
-   "titulo": "Concurso PMAL terá 1.060 vagas para os quadros de Praças e Oficiais",
-   "link": "https://concursosnobrasil.com/concursos/al/2025/11/14/concurso-pmal-tera-1-060-vagas-para-os-quadros-de-pracas-e-oficiais/",
-   "vagas": 1060,
-   "vagas_texto": "1.060",
-   "salario_max": null,
-   "status": "previsto",
-   "inscricao_inicio": null,
-   "inscricao_fim": null,
-   "inscricao_texto": "",
-   "cargos": "",
-   "escolaridade": "",
-   "publicado": "2025-11-14",
-   "nacional": false,
-   "ufs": [
-    "al"
-   ],
-   "fonte": "cnb",
-   "tags": [
-    "AL",
-    "Policial",
     "Previsto"
    ]
   },
