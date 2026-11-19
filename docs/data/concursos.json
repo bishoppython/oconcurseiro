@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-19T02:15:38+00:00",
+ "atualizado": "2026-11-19T17:57:20+00:00",
  "fontes": {
   "pci": "https://www.pciconcursos.com.br/concursos/",
   "cnb": "https://concursosnobrasil.com"
@@ -165,37 +165,6 @@
     "Superior",
     "Engenharia",
     "Legislativo"
-   ]
-  },
-  {
-   "orgao": "EBSERH - Empresa Brasileira de Serviços Hospitalares",
-   "titulo": "EBSERH - Brasil: processo seletivo oferece vagas para médicos em diversas especialidades",
-   "link": "https://www.pciconcursos.com.br/noticias/ebserh-brasil-processo-seletivo-oferece-vagas-para-medicos-em-diversas-especialidades",
-   "vagas": 80,
-   "vagas_texto": "80",
-   "salario_max": 11971.07,
-   "cargos": "Médico",
-   "escolaridade": "Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-18",
-   "inscricao_texto": "18/11/2026",
-   "publicado": null,
-   "nacional": true,
-   "ufs": [
-    "br"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "HU BRASIL 7 PS"
-   ],
-   "links_oficiais": [],
-   "detalhado_em": "2026-11-17",
-   "tags": [
-    "Nacional",
-    "Superior",
-    "Saude",
-    "Temporario"
    ]
   },
   {
@@ -413,39 +382,6 @@
    "fonte": "pci",
    "editais": [
     "EDITAL Nº 02/2026"
-   ],
-   "links_oficiais": [],
-   "detalhado_em": "2026-11-17",
-   "tags": [
-    "SP",
-    "Fundamental",
-    "Medio",
-    "Tecnico",
-    "Superior",
-    "Prefeitura"
-   ]
-  },
-  {
-   "orgao": "Prefeitura de Matão",
-   "titulo": "Prefeitura de Matão - SP abre concurso público com salários de até R$ 9.717,96",
-   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-matao-sp-abre-concurso-publico-com-salarios-de-ate-9717",
-   "vagas": 28,
-   "vagas_texto": "28",
-   "salario_max": 9717.96,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-18",
-   "inscricao_texto": "18/11/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "sp"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL DE CONCURSO PÚBLICO Nº 02/2026"
    ],
    "links_oficiais": [],
    "detalhado_em": "2026-11-17",
@@ -782,36 +718,6 @@
    ]
   },
   {
-   "orgao": "CEMMIL - Consórcio Intermunicipal CEMMIL para o Desenvolvimento Sustentável",
-   "titulo": "Consórcio CEMMIL abre processo seletivo para o cargo de Serviços Gerais em Amparo - SP",
-   "link": "https://www.pciconcursos.com.br/noticias/consorcio-cemmil-abre-processo-seletivo-para-o-cargo-de-servicos-gerais-em-amparo-sp",
-   "vagas": null,
-   "vagas_texto": "Cadastro reserva",
-   "salario_max": 1880.28,
-   "cargos": "Serviços Gerais",
-   "escolaridade": "Fundamental",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-18",
-   "inscricao_texto": "18/11/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "sp"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL DE ABERTURA PARA PROCESSO SELETIVO Nº 015/2026"
-   ],
-   "links_oficiais": [],
-   "detalhado_em": "2026-11-17",
-   "tags": [
-    "SP",
-    "Fundamental",
-    "Temporario"
-   ]
-  },
-  {
    "orgao": "CIS - Companhia Ituana de Saneamento",
    "titulo": "CIS Itu - SP abre concurso público com salários de até R$ 7.553,69",
    "link": "https://www.pciconcursos.com.br/noticias/cis-itu-sp-abre-concurso-publico-com-salarios-de-ate-7553",
@@ -872,58 +778,6 @@
     "Fundamental",
     "Medio",
     "Educacao"
-   ]
-  },
-  {
-   "orgao": "FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar",
-   "titulo": "FAMESP - SP abre processos seletivos para diversas áreas em Bauru",
-   "link": "https://www.pciconcursos.com.br/noticias/famesp-sp-abre-processos-seletivos-para-diversas-areas-em-bauru",
-   "vagas": 19,
-   "vagas_texto": "19",
-   "salario_max": 4934.38,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-18",
-   "inscricao_texto": "18/11/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "sp"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL Nº 307/2026",
-    "EDITAL Nº 308/2026",
-    "EDITAL Nº 309/2026",
-    "EDITAL Nº 310/2026",
-    "EDITAL Nº 311/2026",
-    "EDITAL Nº 312/2026",
-    "EDITAL Nº 313/2026",
-    "EDITAL Nº 314/2026",
-    "EDITAL Nº 315/2026",
-    "EDITAL Nº 316/2026",
-    "EDITAL Nº 317/2026",
-    "EDITAL Nº 318/2026",
-    "EDITAL Nº 319/2026",
-    "EDITAL Nº 320/2026",
-    "EDITAL Nº 321/2026",
-    "EDITAL Nº 322/2026",
-    "EDITAL Nº 323/2026",
-    "EDITAL Nº 324/2026",
-    "EDITAL Nº 325/2026"
-   ],
-   "links_oficiais": [],
-   "detalhado_em": "2026-11-17",
-   "tags": [
-    "SP",
-    "Fundamental",
-    "Medio",
-    "Tecnico",
-    "Superior",
-    "Saude",
-    "Temporario"
    ]
   },
   {
@@ -1048,36 +902,6 @@
    "tags": [
     "SP",
     "Superior",
-    "Administrativo"
-   ]
-  },
-  {
-   "orgao": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
-   "titulo": "FUNCAMP - SP abre vaga para Auxiliar Administrativo no AME de Santa Bárbara d'Oeste",
-   "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-vaga-para-auxiliar-administrativo-no-ame-de-santa-barbara-doeste",
-   "vagas": 1,
-   "vagas_texto": "1",
-   "salario_max": 1713.1,
-   "cargos": "Auxiliar Administrativo I",
-   "escolaridade": "Ensino Médio",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-18",
-   "inscricao_texto": "18/11/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "sp"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL DE PROCESSO SELETIVO FUNCAMP Nº 129/2026"
-   ],
-   "links_oficiais": [],
-   "detalhado_em": "2026-11-17",
-   "tags": [
-    "SP",
-    "Medio",
     "Administrativo"
    ]
   },
@@ -1429,39 +1253,6 @@
    ]
   },
   {
-   "orgao": "Prefeitura da Estância Turística de Piraju",
-   "titulo": "Prefeitura de Piraju - SP abre processo seletivo para a área da educação",
-   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-piraju-sp-abre-processo-seletivo-para-a-area-da-educacao",
-   "vagas": null,
-   "vagas_texto": "Cadastro reserva",
-   "salario_max": 4193.9,
-   "cargos": "Professor I, Professor II, Monitor Escolar",
-   "escolaridade": "Médio / Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-18",
-   "inscricao_texto": "18/11/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "sp"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL DE PROCESSO SELETIVO Nº 01/2026"
-   ],
-   "links_oficiais": [],
-   "detalhado_em": "2026-11-17",
-   "tags": [
-    "SP",
-    "Medio",
-    "Superior",
-    "Educacao",
-    "Prefeitura",
-    "Temporario"
-   ]
-  },
-  {
    "orgao": "Prefeitura da Estância Turística de São Roque",
    "titulo": "Prefeitura de São Roque - SP prorroga inscrições de concurso público para Guarda Civil Municipal",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-roque-sp-prorroga-inscricoes-de-concurso-publico-para-guarda-civil-municipal",
@@ -1686,39 +1477,6 @@
     "Medio",
     "Policial",
     "Prefeitura"
-   ]
-  },
-  {
-   "orgao": "Prefeitura de Canitar",
-   "titulo": "Prefeitura de Canitar - SP abre processo seletivo para a área da educação",
-   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-canitar-sp-abre-processo-seletivo-para-a-area-da-educacao",
-   "vagas": null,
-   "vagas_texto": "Cadastro reserva",
-   "salario_max": 1621.0,
-   "cargos": "Profissional de Apoio Escolar, PEB I, PEB II",
-   "escolaridade": "Médio / Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-18",
-   "inscricao_texto": "18/11/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "sp"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL DE PROCESSO SELETIVO Nº 001/2026"
-   ],
-   "links_oficiais": [],
-   "detalhado_em": "2026-11-17",
-   "tags": [
-    "SP",
-    "Medio",
-    "Superior",
-    "Educacao",
-    "Prefeitura",
-    "Temporario"
    ]
   },
   {
@@ -3453,9 +3211,9 @@
    "cargos": "Assistente Administrativo II",
    "escolaridade": "Ensino Médio",
    "status": "aberto",
-   "inscricao_inicio": "2026-11-19",
+   "inscricao_inicio": null,
    "inscricao_fim": "2026-12-03",
-   "inscricao_texto": "19/11 a 03/12/2026",
+   "inscricao_texto": "03/12/2026",
    "publicado": null,
    "nacional": false,
    "ufs": [
@@ -3472,6 +3230,41 @@
     "Medio",
     "Educacao",
     "Administrativo"
+   ]
+  },
+  {
+   "orgao": "Unicamp - Universidade Estadual de Campinas",
+   "titulo": "Unicamp - SP abre processos seletivos para Enfermeiro e Técnico de Enfermagem",
+   "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-processos-seletivos-para-enfermeiro-e-tecnico-de-enfermagem",
+   "vagas": 3,
+   "vagas_texto": "3",
+   "salario_max": 9659.46,
+   "cargos": "Enfermeiro, Técnico de Enfermagem",
+   "escolaridade": "Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-11-23",
+   "inscricao_fim": "2026-11-27",
+   "inscricao_texto": "23 a 27/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sp"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 74",
+    "EDITAL Nº 73"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-19",
+   "tags": [
+    "SP",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Saude",
+    "Educacao",
+    "Temporario"
    ]
   },
   {
@@ -3542,40 +3335,6 @@
     "Medio",
     "Superior",
     "Educacao"
-   ]
-  },
-  {
-   "orgao": "Prefeitura de São Gonçalo",
-   "titulo": "Prefeitura de São Gonçalo - RJ abre concursos para Guardas Municipais",
-   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-goncalo-rj-abre-concursos-para-guardas-municipais",
-   "vagas": 101,
-   "vagas_texto": "101",
-   "salario_max": 4535.54,
-   "cargos": "Guarda Municipal Nível II, Guarda Municipal Nível III - Psicólogo",
-   "escolaridade": "Médio / Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-18",
-   "inscricao_texto": "18/11/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "rj"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL Nº 001/PMSG/2026",
-    "EDITAL Nº 002/PMSG/2026"
-   ],
-   "links_oficiais": [],
-   "detalhado_em": "2026-11-17",
-   "tags": [
-    "RJ",
-    "Medio",
-    "Superior",
-    "Saude",
-    "Policial",
-    "Prefeitura"
    ]
   },
   {
@@ -3703,18 +3462,18 @@
    ]
   },
   {
-   "orgao": "Prefeitura de Queimados",
-   "titulo": "Prefeitura de Queimados - RJ retifica concurso público com salários de até R$ 11.567,11",
-   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-queimados-rj-retifica-concurso-publico-com-salarios-de-ate-11567",
-   "vagas": 463,
-   "vagas_texto": "463",
-   "salario_max": 11567.11,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Médio / Técnico / Superior",
+   "orgao": "Prefeitura de São Gonçalo",
+   "titulo": "Prefeitura de São Gonçalo - RJ abre concursos para Guardas Municipais",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-goncalo-rj-abre-concursos-para-guardas-municipais",
+   "vagas": 101,
+   "vagas_texto": "101",
+   "salario_max": 4535.54,
+   "cargos": "Guarda Municipal Nível II, Guarda Municipal Nível III - Psicólogo",
+   "escolaridade": "Médio / Superior",
    "status": "aberto",
    "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-03",
-   "inscricao_texto": "Prorrogado até 03/11/2026",
+   "inscricao_fim": "2026-11-18",
+   "inscricao_texto": "18/11/2026",
    "publicado": null,
    "nacional": false,
    "ufs": [
@@ -3722,18 +3481,17 @@
    ],
    "fonte": "pci",
    "editais": [
-    "EDITAL DE ABERTURA 01/2026",
-    "RETIFICAÇÃO 01/2026",
-    "RETIFICAÇÃO - CRONOGRAMA",
-    "PRORROGAÇÃO DAS INSCRIÇÕES E DO PRAZO DE PAGAMENTO"
+    "EDITAL Nº 001/PMSG/2026",
+    "EDITAL Nº 002/PMSG/2026"
    ],
    "links_oficiais": [],
    "detalhado_em": "2026-11-17",
    "tags": [
     "RJ",
     "Medio",
-    "Tecnico",
     "Superior",
+    "Saude",
+    "Policial",
     "Prefeitura"
    ]
   },
@@ -3991,38 +3749,6 @@
     "MG",
     "Fundamental",
     "Medio",
-    "Legislativo"
-   ]
-  },
-  {
-   "orgao": "Câmara de Cajuri",
-   "titulo": "Câmara de Cajuri - MG abre concurso público com vagas de nível fundamental e médio",
-   "link": "https://www.pciconcursos.com.br/noticias/camara-de-cajuri-mg-abre-concurso-publico-com-vagas-de-nivel-fundamental-e-medio",
-   "vagas": 4,
-   "vagas_texto": "4",
-   "salario_max": 2667.19,
-   "cargos": "Agente Legislativo, Analista de Recursos Humanos, Recepcionista do Legislativo",
-   "escolaridade": "Fundamental / Médio",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-18",
-   "inscricao_texto": "18/11/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "mg"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL DE CONCURSO PÚBLICO Nº 01/2026"
-   ],
-   "links_oficiais": [],
-   "detalhado_em": "2026-11-17",
-   "tags": [
-    "MG",
-    "Fundamental",
-    "Medio",
-    "Administrativo",
     "Legislativo"
    ]
   },
@@ -4309,38 +4035,6 @@
    "detalhado_em": "2026-11-17",
    "tags": [
     "MG",
-    "Superior",
-    "Legislativo"
-   ]
-  },
-  {
-   "orgao": "Câmara de Lambari",
-   "titulo": "Câmara de Lambari - MG abre concurso público com salários de até R$ 5.500,00",
-   "link": "https://www.pciconcursos.com.br/noticias/camara-de-lambari-mg-abre-concurso-publico-com-salarios-de-ate-5500",
-   "vagas": 8,
-   "vagas_texto": "8",
-   "salario_max": 5500.0,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-18",
-   "inscricao_texto": "18/11/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "mg"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL Nº 01/2026"
-   ],
-   "links_oficiais": [],
-   "detalhado_em": "2026-11-17",
-   "tags": [
-    "MG",
-    "Fundamental",
-    "Medio",
     "Superior",
     "Legislativo"
    ]
@@ -4722,36 +4416,6 @@
    ]
   },
   {
-   "orgao": "CISAB Zona da Mata - Consórcio Intermunicipal de Saneamento Básico da Zona da Mata de Minas Gerais",
-   "titulo": "CISAB Zona da Mata - MG abre processo seletivo para Auxiliar de Laboratório",
-   "link": "https://www.pciconcursos.com.br/noticias/cisab-zona-da-mata-mg-abre-processo-seletivo-para-auxiliar-de-laboratorio",
-   "vagas": 1,
-   "vagas_texto": "1",
-   "salario_max": 2770.3,
-   "cargos": "Auxiliar de Laboratório",
-   "escolaridade": "Ensino Médio",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-18",
-   "inscricao_texto": "18/11/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "mg"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL Nº 002/2026"
-   ],
-   "links_oficiais": [],
-   "detalhado_em": "2026-11-17",
-   "tags": [
-    "MG",
-    "Medio",
-    "Temporario"
-   ]
-  },
-  {
    "orgao": "CISPAR - Consórcio Público Intermunicipal de Desenvolvimento Sustentável do Alto Paranaíba",
    "titulo": "CISPAR - MG abre concurso público para profissionais de nível superior",
    "link": "https://www.pciconcursos.com.br/noticias/cispar-mg-abre-concurso-publico-para-profissionais-de-nivel-superior",
@@ -4981,9 +4645,9 @@
    "cargos": "Enfermeiro",
    "escolaridade": "Superior",
    "status": "aberto",
-   "inscricao_inicio": "2026-11-19",
+   "inscricao_inicio": null,
    "inscricao_fim": "2026-11-26",
-   "inscricao_texto": "19 a 26/11/2026",
+   "inscricao_texto": "26/11/2026",
    "publicado": null,
    "nacional": false,
    "ufs": [
@@ -5000,40 +4664,6 @@
     "Superior",
     "Saude",
     "Temporario"
-   ]
-  },
-  {
-   "orgao": "FUMEP - Fundação Municipal de Ensino Profissionalizante de Sete Lagoas",
-   "titulo": "FUMEP de Sete Lagoas - MG retifica concurso público para diversos níveis de escolaridade",
-   "link": "https://www.pciconcursos.com.br/noticias/fumep-de-sete-lagoas-mg-retifica-concurso-publico-para-diversos-niveis-de-escolaridade",
-   "vagas": 39,
-   "vagas_texto": "39",
-   "salario_max": 2530.56,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-18",
-   "inscricao_texto": "18/11/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "mg"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL DO CONCURSO PÚBLICO Nº 01/2026",
-    "ERRATA 01"
-   ],
-   "links_oficiais": [],
-   "detalhado_em": "2026-11-17",
-   "tags": [
-    "MG",
-    "Fundamental",
-    "Medio",
-    "Tecnico",
-    "Superior",
-    "Educacao"
    ]
   },
   {
@@ -5486,40 +5116,6 @@
     "Medio",
     "Superior",
     "Educacao",
-    "Prefeitura",
-    "Temporario"
-   ]
-  },
-  {
-   "orgao": "Prefeitura de Dom Silvério",
-   "titulo": "Prefeitura de Dom Silvério - MG abre processo seletivo com salários de até R$ 4.824,42",
-   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-dom-silverio-mg-abre-processo-seletivo-com-salarios-de-ate-4824",
-   "vagas": 6,
-   "vagas_texto": "6",
-   "salario_max": 4824.42,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Médio / Técnico / Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-18",
-   "inscricao_texto": "18/11/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "mg"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL Nº 01/2026",
-    "EDITAL DE RETIFICAÇÃO AO EDITAL DE ABERTURA Nº 01/2026"
-   ],
-   "links_oficiais": [],
-   "detalhado_em": "2026-11-16",
-   "tags": [
-    "MG",
-    "Medio",
-    "Tecnico",
-    "Superior",
     "Prefeitura",
     "Temporario"
    ]
@@ -6066,38 +5662,6 @@
    ]
   },
   {
-   "orgao": "Prefeitura de Paiva",
-   "titulo": "Prefeitura de Paiva - MG abre concurso público com salários de até R$ 11.715,84",
-   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-paiva-mg-abre-concurso-publico-com-salarios-de-ate-11715",
-   "vagas": 13,
-   "vagas_texto": "13",
-   "salario_max": 11715.84,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-18",
-   "inscricao_texto": "18/11/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "mg"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL DE CONCURSO PÚBLICO Nº 001/2026"
-   ],
-   "links_oficiais": [],
-   "detalhado_em": "2026-11-17",
-   "tags": [
-    "MG",
-    "Fundamental",
-    "Medio",
-    "Superior",
-    "Prefeitura"
-   ]
-  },
-  {
    "orgao": "Prefeitura de Paraisópolis",
    "titulo": "Prefeitura de Paraisópolis - MG abre seleção com 15 vagas",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-paraisopolis-mg-abre-selecao-com-15-vagas",
@@ -6160,41 +5724,6 @@
     "Tecnico",
     "Superior",
     "Prefeitura"
-   ]
-  },
-  {
-   "orgao": "Prefeitura de Piracema",
-   "titulo": "Prefeitura de Piracema - MG abre concurso e processo seletivo com diversas vagas",
-   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-piracema-mg-abre-concurso-e-processo-seletivo-com-diversas-vagas",
-   "vagas": 132,
-   "vagas_texto": "132",
-   "salario_max": 18647.01,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-18",
-   "inscricao_texto": "18/11/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "mg"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL Nº 01/2026 - CONCURSO PÚBLICO",
-    "EDITAL Nº 02/2026 - PROCESSO SELETIVO PÚBLICO"
-   ],
-   "links_oficiais": [],
-   "detalhado_em": "2026-11-17",
-   "tags": [
-    "MG",
-    "Fundamental",
-    "Medio",
-    "Tecnico",
-    "Superior",
-    "Prefeitura",
-    "Temporario"
    ]
   },
   {
@@ -6293,67 +5822,6 @@
    ]
   },
   {
-   "orgao": "Prefeitura de Rio Novo",
-   "titulo": "Prefeitura de Rio Novo - MG abre seleção para condutores com ganhos extras de até R$ 500 por plantão",
-   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-novo-mg-abre-selecao-para-condutores-com-ganhos-extras-de-ate-500-por-plantao",
-   "vagas": null,
-   "vagas_texto": "Várias",
-   "salario_max": 1621.0,
-   "cargos": "Condutor de Veículos e Máquinas",
-   "escolaridade": "Fundamental",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-18",
-   "inscricao_texto": "18/11/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "mg"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL DO PROCESSO SELETIVO SIMPLIFICADO Nº 006/2026"
-   ],
-   "links_oficiais": [],
-   "detalhado_em": "2026-11-17",
-   "tags": [
-    "MG",
-    "Fundamental",
-    "Prefeitura"
-   ]
-  },
-  {
-   "orgao": "Prefeitura de Rio Novo",
-   "titulo": "Prefeitura de Rio Novo - MG abre processo seletivo para Condutor de Veículos e Máquinas",
-   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-novo-mg-abre-processo-seletivo-para-condutor-de-veiculos-e-maquinas",
-   "vagas": null,
-   "vagas_texto": "Várias",
-   "salario_max": 1621.0,
-   "cargos": "Condutor de Veículos e Máquinas",
-   "escolaridade": "Fundamental",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-18",
-   "inscricao_texto": "18/11/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "mg"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL DO PROCESSO SELETIVO SIMPLIFICADO Nº 006/2026"
-   ],
-   "links_oficiais": [],
-   "detalhado_em": "2026-11-17",
-   "tags": [
-    "MG",
-    "Fundamental",
-    "Prefeitura",
-    "Temporario"
-   ]
-  },
-  {
    "orgao": "Prefeitura de Salto da Divisa",
    "titulo": "Prefeitura de Salto da Divisa - MG abre seleção para Agentes de Saúde e de Endemias",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-salto-da-divisa-mg-abre-selecao-para-agentes-de-saude-e-de-endemias",
@@ -6447,39 +5915,6 @@
     "Medio",
     "Tecnico",
     "Superior",
-    "Prefeitura"
-   ]
-  },
-  {
-   "orgao": "Prefeitura de São José da Lapa",
-   "titulo": "Prefeitura de São José da Lapa - MG abre seleção para cadastro de reserva na educação",
-   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-da-lapa-mg-abre-selecao-para-cadastro-de-reserva-na-educacao",
-   "vagas": null,
-   "vagas_texto": "Cadastro reserva",
-   "salario_max": 3689.99,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-18",
-   "inscricao_texto": "18/11/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "mg"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL DE SELEÇÃO Nº 007/2026"
-   ],
-   "links_oficiais": [],
-   "detalhado_em": "2026-11-17",
-   "tags": [
-    "MG",
-    "Fundamental",
-    "Medio",
-    "Superior",
-    "Educacao",
     "Prefeitura"
    ]
   },
@@ -6846,38 +6281,6 @@
    ]
   },
   {
-   "orgao": "Prefeitura de Varginha",
-   "titulo": "Secretaria de Saúde de Varginha - MG abre processo seletivo para médicos",
-   "link": "https://www.pciconcursos.com.br/noticias/secretaria-de-saude-de-varginha-mg-abre-processo-seletivo-para-medicos",
-   "vagas": 2,
-   "vagas_texto": "2",
-   "salario_max": 9237.12,
-   "cargos": "TNS/ES/Médico",
-   "escolaridade": "Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-18",
-   "inscricao_texto": "18/11/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "mg"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL Nº 051/2026"
-   ],
-   "links_oficiais": [],
-   "detalhado_em": "2026-11-16",
-   "tags": [
-    "MG",
-    "Superior",
-    "Saude",
-    "Prefeitura",
-    "Temporario"
-   ]
-  },
-  {
    "orgao": "SAAE - Serviço Autônomo de Água e Esgoto de Itambacuri",
    "titulo": "SAAE Itambacuri - MG publica edital de concurso público com seis vagas imediatas",
    "link": "https://www.pciconcursos.com.br/noticias/saae-itambacuri-mg-publica-edital-de-concurso-publico-com-seis-vagas-imediatas",
@@ -6905,39 +6308,6 @@
     "MG",
     "Fundamental",
     "Medio"
-   ]
-  },
-  {
-   "orgao": "SAAE - Serviço Autônomo de Água e Esgoto do Município de Pirapora",
-   "titulo": "SAAE de Pirapora - MG abre concurso público com salários de até R$ 4.848,48",
-   "link": "https://www.pciconcursos.com.br/noticias/saae-de-pirapora-mg-abre-concurso-publico-com-salarios-de-ate-4848",
-   "vagas": 9,
-   "vagas_texto": "9",
-   "salario_max": 4848.48,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-18",
-   "inscricao_texto": "18/11/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "mg"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL Nº 01/2026"
-   ],
-   "links_oficiais": [],
-   "detalhado_em": "2026-11-17",
-   "tags": [
-    "MG",
-    "Fundamental",
-    "Medio",
-    "Tecnico",
-    "Superior",
-    "Prefeitura"
    ]
   },
   {
@@ -7389,9 +6759,9 @@
    "cargos": "Vários Cargos",
    "escolaridade": "Fundamental / Médio / Técnico / Superior",
    "status": "aberto",
-   "inscricao_inicio": "2026-11-19",
+   "inscricao_inicio": null,
    "inscricao_fim": "2026-12-08",
-   "inscricao_texto": "19/11 a 08/12/2026",
+   "inscricao_texto": "08/12/2026",
    "publicado": null,
    "nacional": false,
    "ufs": [
@@ -7947,9 +7317,9 @@
    "cargos": "Auxiliar de Saúde Bucal",
    "escolaridade": "Fundamental",
    "status": "aberto",
-   "inscricao_inicio": "2026-11-19",
+   "inscricao_inicio": null,
    "inscricao_fim": "2026-11-29",
-   "inscricao_texto": "19 a 29/11/2026",
+   "inscricao_texto": "29/11/2026",
    "publicado": null,
    "nacional": false,
    "ufs": [
@@ -7969,18 +7339,18 @@
    ]
   },
   {
-   "orgao": "Prefeitura de Santo Antônio do Sudoeste",
-   "titulo": "Prefeitura de Santo Antônio do Sudoeste - PR abre seleção com vagas imediatas e cadastro de reserva",
-   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santo-antonio-do-sudoeste-pr-abre-selecao-com-vagas-imediatas-e-cadastro-de-reserva",
-   "vagas": 21,
-   "vagas_texto": "21",
-   "salario_max": 6206.47,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "orgao": "Prefeitura de Sengés",
+   "titulo": "Prefeitura de Sengés - PR abre concurso público para Guarda Civil Municipal",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-senges-pr-abre-concurso-publico-para-guarda-civil-municipal",
+   "vagas": 13,
+   "vagas_texto": "13",
+   "salario_max": 5097.76,
+   "cargos": "Guarda Civil Municipal",
+   "escolaridade": "Ensino Médio",
    "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-18",
-   "inscricao_texto": "18/11/2026",
+   "inscricao_inicio": "2026-11-23",
+   "inscricao_fim": "2026-12-21",
+   "inscricao_texto": "23/11 a 21/12/2026",
    "publicado": null,
    "nacional": false,
    "ufs": [
@@ -7988,16 +7358,14 @@
    ],
    "fonte": "pci",
    "editais": [
-    "EDITAL DE ABERTURA Nº 001/2026"
+    "EDITAL DE CONCURSO PÚBLICO 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-17",
+   "detalhado_em": "2026-11-19",
    "tags": [
     "PR",
-    "Fundamental",
     "Medio",
-    "Tecnico",
-    "Superior",
+    "Policial",
     "Prefeitura"
    ]
   },
@@ -8063,6 +7431,37 @@
     "Superior",
     "Saude",
     "Prefeitura"
+   ]
+  },
+  {
+   "orgao": "SBMG S.A. - Terminais Aéreos de Maringá",
+   "titulo": "Terminais Aéreos de Maringá - PR abrem concurso público com salários de até R$ 9.921,22",
+   "link": "https://www.pciconcursos.com.br/noticias/terminais-aereos-de-maringa-pr-abrem-concurso-publico-com-salarios-de-ate-9921",
+   "vagas": 5,
+   "vagas_texto": "5",
+   "salario_max": 9921.22,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-11-24",
+   "inscricao_fim": "2026-12-17",
+   "inscricao_texto": "24/11 a 17/12/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "pr"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 001/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-19",
+   "tags": [
+    "PR",
+    "Medio",
+    "Tecnico",
+    "Superior"
    ]
   },
   {
@@ -8450,9 +7849,9 @@
    "cargos": "Vários Cargos",
    "escolaridade": "Médio / Técnico / Superior",
    "status": "aberto",
-   "inscricao_inicio": "2026-11-19",
+   "inscricao_inicio": null,
    "inscricao_fim": "2026-12-21",
-   "inscricao_texto": "19/11 a 21/12/2026",
+   "inscricao_texto": "21/12/2026",
    "publicado": null,
    "nacional": false,
    "ufs": [
@@ -9315,18 +8714,18 @@
    ]
   },
   {
-   "orgao": "Prefeitura de Teutônia",
-   "titulo": "Município de Teutônia - RS abre concurso público com salários de até R$ 13.844,56",
-   "link": "https://www.pciconcursos.com.br/noticias/municipio-de-teutonia-rs-abre-concurso-publico-com-salarios-de-ate-13844",
-   "vagas": 12,
-   "vagas_texto": "12",
-   "salario_max": 13844.56,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "orgao": "Prefeitura de Tio Hugo",
+   "titulo": "Prefeitura de Tio Hugo - RS abre concurso público para o cargo de Tesoureiro",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tio-hugo-rs-abre-concurso-publico-para-o-cargo-de-tesoureiro",
+   "vagas": 1,
+   "vagas_texto": "1",
+   "salario_max": 5573.07,
+   "cargos": "Tesoureiro",
+   "escolaridade": "Superior",
    "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-18",
-   "inscricao_texto": "18/11/2026",
+   "inscricao_inicio": "2026-11-30",
+   "inscricao_fim": "2026-12-22",
+   "inscricao_texto": "30/11 a 22/12/2026",
    "publicado": null,
    "nacional": false,
    "ufs": [
@@ -9334,49 +8733,14 @@
    ],
    "fonte": "pci",
    "editais": [
-    "EDITAL Nº 001/2026"
+    "EDITAL Nº 01/2026 - CONCURSO PÚBLICO Nº 02/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-17",
+   "detalhado_em": "2026-11-19",
    "tags": [
     "RS",
-    "Fundamental",
-    "Medio",
-    "Tecnico",
     "Superior",
     "Prefeitura"
-   ]
-  },
-  {
-   "orgao": "Prefeitura de Teutônia",
-   "titulo": "Prefeitura de Teutônia - RS abre processo seletivo com três vagas",
-   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-teutonia-rs-abre-processo-seletivo-com-tres-vagas",
-   "vagas": 3,
-   "vagas_texto": "3",
-   "salario_max": 3917.88,
-   "cargos": "Agente de Combate às Endemias, Monitor do PIM, Visitador do PIM",
-   "escolaridade": "Médio / Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-18",
-   "inscricao_texto": "18/11/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "rs"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL Nº 001/2026"
-   ],
-   "links_oficiais": [],
-   "detalhado_em": "2026-11-17",
-   "tags": [
-    "RS",
-    "Medio",
-    "Superior",
-    "Prefeitura",
-    "Temporario"
    ]
   },
   {
@@ -9485,9 +8849,9 @@
    "cargos": "Tesoureiro, Contador, Controle Interno",
    "escolaridade": "Médio / Superior",
    "status": "aberto",
-   "inscricao_inicio": "2026-11-19",
+   "inscricao_inicio": null,
    "inscricao_fim": "2026-12-20",
-   "inscricao_texto": "19/11 a 20/12/2026",
+   "inscricao_texto": "20/12/2026",
    "publicado": null,
    "nacional": false,
    "ufs": [
@@ -10013,36 +9377,6 @@
    ]
   },
   {
-   "orgao": "IPREARROIO - Instituto de Previdência Social dos Servidores Públicos do Município de Arroio Trinta",
-   "titulo": "IPREARROIO - SC abre concurso público para o cargo de Agente Previdenciário",
-   "link": "https://www.pciconcursos.com.br/noticias/iprearroio-sc-abre-concurso-publico-para-o-cargo-de-agente-previdenciario",
-   "vagas": 1,
-   "vagas_texto": "1",
-   "salario_max": 5025.59,
-   "cargos": "Agente Previdenciário",
-   "escolaridade": "Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-18",
-   "inscricao_texto": "18/11/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "sc"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL Nº 01/2026"
-   ],
-   "links_oficiais": [],
-   "detalhado_em": "2026-11-17",
-   "tags": [
-    "SC",
-    "Superior",
-    "Prefeitura"
-   ]
-  },
-  {
    "orgao": "Prefeitura de Agronômica",
    "titulo": "Prefeitura de Agronômica - SC abre concurso público com salários de até R$ 19.660,06",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-agronomica-sc-abre-concurso-publico-com-salarios-de-ate-19660",
@@ -10171,38 +9505,6 @@
     "Fundamental",
     "Superior",
     "Educacao",
-    "Prefeitura",
-    "Temporario"
-   ]
-  },
-  {
-   "orgao": "Prefeitura de Barra Bonita",
-   "titulo": "Prefeitura de Barra Bonita - SC abre processo seletivo com vaga para Farmacêutico",
-   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-barra-bonita-sc-abre-processo-seletivo-com-vaga-para-farmaceutico",
-   "vagas": 1,
-   "vagas_texto": "1",
-   "salario_max": 6240.38,
-   "cargos": "Farmacêutico",
-   "escolaridade": "Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-18",
-   "inscricao_texto": "18/11/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "sc"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL PROCESSO SELETIVO SIMPLIFICADO EMERGENCIAL Nº 12/2026"
-   ],
-   "links_oficiais": [],
-   "detalhado_em": "2026-11-17",
-   "tags": [
-    "SC",
-    "Superior",
-    "Saude",
     "Prefeitura",
     "Temporario"
    ]
@@ -10893,6 +10195,40 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Jaraguá do Sul",
+   "titulo": "Prefeitura de Jaraguá do Sul - SC abre processo seletivo para diversos cargos na educação",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jaragua-do-sul-sc-abre-processo-seletivo-para-diversos-cargos-na-educacao",
+   "vagas": 18,
+   "vagas_texto": "18",
+   "salario_max": 5130.63,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-12-08",
+   "inscricao_texto": "08/12/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL 005/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-19",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Educacao",
+    "Prefeitura",
+    "Temporario"
+   ]
+  },
+  {
    "orgao": "Prefeitura de Lages - Secretaria da Saúde",
    "titulo": "Prefeitura de Lages - SC abre seleção para diversos cargos na Secretaria da Saúde",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lages-sc-abre-selecao-para-diversos-cargos-na-secretaria-da-saude",
@@ -10990,6 +10326,40 @@
     "Tecnico",
     "Superior",
     "Prefeitura"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Major Gercino",
+   "titulo": "Prefeitura de Major Gercino - SC abre processo seletivo com salários de até R$ 13.301,74",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-major-gercino-sc-abre-processo-seletivo-com-salarios-de-ate-13301",
+   "vagas": 26,
+   "vagas_texto": "26",
+   "salario_max": 13301.74,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-12-03",
+   "inscricao_texto": "03/12/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE ABERTURA Nº 01/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-19",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
    ]
   },
   {
@@ -11359,6 +10729,39 @@
     "Fundamental",
     "Medio",
     "Prefeitura"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de São Bento do Sul e Fundação Cultural de São Bento do Sul",
+   "titulo": "Prefeitura e Fundação Cultural de São Bento do Sul - SC abrem processo seletivo com salários de até R$ 20.795,15",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-e-fundacao-cultural-de-sao-bento-do-sul-sc-abrem-processo-seletivo-com-salarios-de-ate-20795",
+   "vagas": 6,
+   "vagas_texto": "6",
+   "salario_max": 20795.15,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-12-18",
+   "inscricao_texto": "18/12/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL 005/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-19",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
    ]
   },
   {
@@ -12203,37 +11606,6 @@
    ]
   },
   {
-   "orgao": "IGESDF - Instituto de Gestão Estratégica de Saúde do Distrito Federal",
-   "titulo": "IGESDF - DF abre seleções para Enfermeiro e Médico Otorrinolaringologista",
-   "link": "https://www.pciconcursos.com.br/noticias/igesdf-df-abre-selecoes-para-enfermeiro-e-medico-otorrinolaringologista",
-   "vagas": null,
-   "vagas_texto": "Várias",
-   "salario_max": 13359.56,
-   "cargos": "Enfermeiro, Médico",
-   "escolaridade": "Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-18",
-   "inscricao_texto": "18/11/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "df"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL Nº 120/2026",
-    "EDITAL Nº 121/2026"
-   ],
-   "links_oficiais": [],
-   "detalhado_em": "2026-11-19",
-   "tags": [
-    "DF",
-    "Superior",
-    "Saude"
-   ]
-  },
-  {
    "orgao": "Prefeitura de Aparecida de Goiânia",
    "titulo": "Prefeitura de Aparecida de Goiânia - GO abre concurso público com vagas na área da educação",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-aparecida-de-goiania-go-abre-concurso-publico-com-vagas-na-area-da-educacao",
@@ -12267,75 +11639,6 @@
    ]
   },
   {
-   "orgao": "Câmara de Cristalina",
-   "titulo": "Câmara de Cristalina - GO retifica concurso público com salários de até R$ 8.383,20",
-   "link": "https://www.pciconcursos.com.br/noticias/camara-de-cristalina-go-retifica-concurso-publico-com-salarios-de-ate-8383",
-   "vagas": 36,
-   "vagas_texto": "36",
-   "salario_max": 8383.2,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-18",
-   "inscricao_texto": "18/11/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "go"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL Nº 1",
-    "RETIFICAÇÃO I"
-   ],
-   "links_oficiais": [],
-   "detalhado_em": "2026-11-17",
-   "tags": [
-    "GO",
-    "Fundamental",
-    "Medio",
-    "Tecnico",
-    "Superior",
-    "Legislativo"
-   ]
-  },
-  {
-   "orgao": "Câmara de Pires do Rio",
-   "titulo": "Câmara de Pires do Rio - GO retifica edital de concurso público",
-   "link": "https://www.pciconcursos.com.br/noticias/camara-de-pires-do-rio-go-retifica-edital-de-concurso-publico",
-   "vagas": 12,
-   "vagas_texto": "12",
-   "salario_max": 6523.44,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-18",
-   "inscricao_texto": "18/11/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "go"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL DE ABERTURA Nº 01/2026",
-    "EDITAL RETIFICADO Nº 01/2026",
-    "EDITAL COMPLEMENTAR Nº 1 - REFERENTE AO EDITAL Nº 01/2026"
-   ],
-   "links_oficiais": [],
-   "detalhado_em": "2026-11-17",
-   "tags": [
-    "GO",
-    "Fundamental",
-    "Medio",
-    "Tecnico",
-    "Superior",
-    "Legislativo"
-   ]
-  },
-  {
    "orgao": "Câmara de Santa Helena de Goiás",
    "titulo": "Câmara de Santa Helena de Goiás - GO abre concurso público com salários de até R$ 3.386,33",
    "link": "https://www.pciconcursos.com.br/noticias/camara-de-santa-helena-de-goias-go-abre-concurso-publico-com-salarios-de-ate-3386",
@@ -12348,38 +11651,6 @@
    "inscricao_inicio": "2026-12-13",
    "inscricao_fim": "2027-01-13",
    "inscricao_texto": "13/12/2026 a 13/01/2027",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "go"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL 01"
-   ],
-   "links_oficiais": [],
-   "detalhado_em": "2026-11-17",
-   "tags": [
-    "GO",
-    "Fundamental",
-    "Medio",
-    "Superior",
-    "Legislativo"
-   ]
-  },
-  {
-   "orgao": "Câmara de Vila Boa",
-   "titulo": "Câmara de Vila Boa - GO abre concurso público com vagas imediatas e cadastro de reserva",
-   "link": "https://www.pciconcursos.com.br/noticias/camara-de-vila-boa-go-abre-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva",
-   "vagas": 6,
-   "vagas_texto": "6",
-   "salario_max": 3674.71,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-18",
-   "inscricao_texto": "18/11/2026",
    "publicado": null,
    "nacional": false,
    "ufs": [
@@ -13122,9 +12393,9 @@
    "cargos": "Vários Cargos",
    "escolaridade": "Médio / Superior",
    "status": "aberto",
-   "inscricao_inicio": "2026-11-19",
+   "inscricao_inicio": null,
    "inscricao_fim": "2026-11-30",
-   "inscricao_texto": "19 a 30/11/2026",
+   "inscricao_texto": "30/11/2026",
    "publicado": null,
    "nacional": false,
    "ufs": [
@@ -13534,6 +12805,39 @@
     "Fundamental",
     "Medio",
     "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Vila Bela da Santíssima Trindade",
+   "titulo": "Prefeitura de Vila Bela da Santíssima Trindade - MT abre seleção com vagas imediatas e cadastro de reserva",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vila-bela-da-santissima-trindade-mt-abre-selecao-com-vagas-imediatas-e-cadastro-de-reserva",
+   "vagas": 54,
+   "vagas_texto": "54",
+   "salario_max": 7700.67,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-12-03",
+   "inscricao_texto": "03/12/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "mt"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO SIMPLIFICADO Nº 001/2026",
+    "EDITAL COMPLEMENTAR Nº 001 AO EDITAL DE PROCESSO SELETIVO PÚBLICO Nº 001/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-19",
+   "tags": [
+    "MT",
+    "Fundamental",
+    "Medio",
     "Superior",
     "Prefeitura"
    ]
@@ -14074,8 +13378,8 @@
   },
   {
    "orgao": "Câmara de Paraíso do Tocantins",
-   "titulo": "Câmara de Paraíso do Tocantins - TO abre concurso público com salários de até R$ 6.244,07",
-   "link": "https://www.pciconcursos.com.br/noticias/camara-de-paraiso-do-tocantins-to-abre-concurso-publico-com-salarios-de-ate-6244",
+   "titulo": "Câmara de Paraíso do Tocantins - TO retifica concurso público com salários de até R$ 6.244,07",
+   "link": "https://www.pciconcursos.com.br/noticias/camara-de-paraiso-do-tocantins-to-retifica-concurso-publico-com-salarios-de-ate-6244",
    "vagas": 14,
    "vagas_texto": "14",
    "salario_max": 6244.07,
@@ -14092,10 +13396,11 @@
    ],
    "fonte": "pci",
    "editais": [
-    "EDITALNº 001/2026"
+    "EDITAL Nº 001/2026",
+    "RETIFICAÇÃO 001/2026"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-18",
+   "detalhado_em": "2026-11-19",
    "tags": [
     "TO",
     "Fundamental",
@@ -14273,37 +13578,6 @@
    ]
   },
   {
-   "orgao": "SAEB - Secretaria de Administração do Estado da Bahia",
-   "titulo": "SAEB - BA prorroga inscrições de concurso público para Especialista em Políticas Públicas e Gestão Governamental",
-   "link": "https://www.pciconcursos.com.br/noticias/saeb-ba-prorroga-inscricoes-de-concurso-publico-para-especialista-em-politicas-publicas-e-gestao-governamental",
-   "vagas": 50,
-   "vagas_texto": "50",
-   "salario_max": 10860.62,
-   "cargos": "Especialista em Políticas Públicas e Gestão Governamental",
-   "escolaridade": "Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-18",
-   "inscricao_texto": "Prorrogado até 18/11/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "ba"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL Nº 04",
-    "EDITAL Nº 04 COMPLETO",
-    "COMUNICADO DE PRORROGAÇÃO DO PRAZO DAS INSCRIÇÕES"
-   ],
-   "links_oficiais": [],
-   "detalhado_em": "2026-11-16",
-   "tags": [
-    "BA",
-    "Superior"
-   ]
-  },
-  {
    "orgao": "UFBA - Universidade Federal da Bahia",
    "titulo": "UFBA - BA publica retificações de concurso público para técnicos-administrativos em educação",
    "link": "https://www.pciconcursos.com.br/noticias/ufba-ba-publica-retificacoes-de-concurso-publico-para-tecnicos-administrativos-em-educacao",
@@ -14342,36 +13616,6 @@
    ]
   },
   {
-   "orgao": "Câmara de Ibiapina",
-   "titulo": "Câmara de Ibiapina - CE abre concurso público para cargos de nível médio",
-   "link": "https://www.pciconcursos.com.br/noticias/camara-de-ibiapina-ce-abre-concurso-publico-para-cargos-de-nivel-medio",
-   "vagas": 6,
-   "vagas_texto": "6",
-   "salario_max": 1788.77,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Ensino Médio",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-18",
-   "inscricao_texto": "18/11/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "ce"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL DE CONCURSO PÚBLICO Nº 001/2026"
-   ],
-   "links_oficiais": [],
-   "detalhado_em": "2026-11-17",
-   "tags": [
-    "CE",
-    "Medio",
-    "Legislativo"
-   ]
-  },
-  {
    "orgao": "Câmara de Croatá",
    "titulo": "Câmara de Croatá - CE abre concurso público com vagas imediatas e cadastro de reserva",
    "link": "https://www.pciconcursos.com.br/noticias/camara-de-croata-ce-abre-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva",
@@ -14398,6 +13642,36 @@
    "tags": [
     "CE",
     "Fundamental",
+    "Medio",
+    "Legislativo"
+   ]
+  },
+  {
+   "orgao": "Câmara de Ibiapina",
+   "titulo": "Câmara de Ibiapina - CE abre concurso público para cargos de nível médio",
+   "link": "https://www.pciconcursos.com.br/noticias/camara-de-ibiapina-ce-abre-concurso-publico-para-cargos-de-nivel-medio",
+   "vagas": 6,
+   "vagas_texto": "6",
+   "salario_max": 1788.77,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Ensino Médio",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-18",
+   "inscricao_texto": "18/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "ce"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE CONCURSO PÚBLICO Nº 001/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-17",
+   "tags": [
+    "CE",
     "Medio",
     "Legislativo"
    ]
@@ -14769,9 +14043,9 @@
    "cargos": "Oficial Bombeiro Militar",
    "escolaridade": "Superior",
    "status": "aberto",
-   "inscricao_inicio": "2026-11-19",
+   "inscricao_inicio": null,
    "inscricao_fim": "2026-12-11",
-   "inscricao_texto": "19/11 a 11/12/2026",
+   "inscricao_texto": "11/12/2026",
    "publicado": null,
    "nacional": false,
    "ufs": [
@@ -14964,9 +14238,9 @@
    "cargos": "Vários Cargos",
    "escolaridade": "Médio / Superior",
    "status": "aberto",
-   "inscricao_inicio": "2026-11-19",
+   "inscricao_inicio": null,
    "inscricao_fim": "2026-11-30",
-   "inscricao_texto": "19 a 30/11/2026",
+   "inscricao_texto": "30/11/2026",
    "publicado": null,
    "nacional": false,
    "ufs": [
@@ -15019,40 +14293,6 @@
     "Tecnico",
     "Superior",
     "Prefeitura"
-   ]
-  },
-  {
-   "orgao": "TJPB - Tribunal de Justiça do Estado da Paraíba",
-   "titulo": "TJPB retifica concurso público para analistas judiciários",
-   "link": "https://www.pciconcursos.com.br/noticias/tjpb-retifica-concurso-publico-para-analistas-judiciarios",
-   "vagas": 50,
-   "vagas_texto": "50",
-   "salario_max": 7526.14,
-   "cargos": "Analista Judiciário, Contabilidade",
-   "escolaridade": "Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-18",
-   "inscricao_texto": "18/11/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "pb"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL Nº 01/2026",
-    "1ª RETIFICAÇÃO DO EDITAL Nº 01/2026",
-    "2ª RETIFICAÇÃO DO EDITAL Nº 01/2026",
-    "EDITAL RETIFICADO Nº 01/2026"
-   ],
-   "links_oficiais": [],
-   "detalhado_em": "2026-11-17",
-   "tags": [
-    "PB",
-    "Superior",
-    "Tribunais",
-    "Fiscal"
    ]
   },
   {
