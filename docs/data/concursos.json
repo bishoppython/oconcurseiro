@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-22T00:56:38+00:00",
+ "atualizado": "2026-11-22T16:52:38+00:00",
  "fontes": {
   "pci": "https://www.pciconcursos.com.br/concursos/",
   "cnb": "https://concursosnobrasil.com"
@@ -840,6 +840,38 @@
    ]
   },
   {
+   "orgao": "Conselho Tutelar de Timburi",
+   "titulo": "Prefeitura de Timburi - SP abre processo seletivo para conselheiros tutelares com salário de R$ 2.600,00",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-timburi-sp-abre-processo-seletivo-para-conselheiros-tutelares-com-salario-de-2600",
+   "vagas": 2,
+   "vagas_texto": "2",
+   "salario_max": 2600.0,
+   "cargos": "Conselheiro Tutelar",
+   "escolaridade": "Ensino Médio",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-22",
+   "inscricao_texto": "22/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sp"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 01/2026",
+    "1ª RETIFICAÇÃO AO EDITAL"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-22",
+   "tags": [
+    "SP",
+    "Medio",
+    "Prefeitura",
+    "Temporario"
+   ]
+  },
+  {
    "orgao": "CORECA - Consórcio Intermunicipal de Direitos da Criança e do Adolescente do Noroeste Paulista",
    "titulo": "CORECA - SP abre concurso público com vagas na Casa Abrigo de Jales",
    "link": "https://www.pciconcursos.com.br/noticias/coreca-sp-abre-concurso-publico-com-vagas-na-casa-abrigo-de-jales",
@@ -868,6 +900,39 @@
     "Fundamental",
     "Medio",
     "Educacao"
+   ]
+  },
+  {
+   "orgao": "FASCAMP - Fundação da Área da Saúde de Campinas",
+   "titulo": "FASCAMP - SP abre processos seletivos para o Hospital Regional de Piracicaba",
+   "link": "https://www.pciconcursos.com.br/noticias/fascamp-sp-abre-processos-seletivos-para-o-hospital-regional-de-piracicaba",
+   "vagas": 2,
+   "vagas_texto": "2",
+   "salario_max": 5297.44,
+   "cargos": "Auxiliar de Enfermagem, Nutricionista",
+   "escolaridade": "Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-23",
+   "inscricao_texto": "23/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sp"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO Nº 31/2026",
+    "EDITAL DE PROCESSO SELETIVO Nº 32/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-22",
+   "tags": [
+    "SP",
+    "Medio",
+    "Superior",
+    "Saude",
+    "Temporario"
    ]
   },
   {
@@ -1086,6 +1151,34 @@
    ]
   },
   {
+   "orgao": "IBFC - Instituto Brasileiro de Formação e Capacitação",
+   "titulo": "IBFC - SP abre seleção para curso gratuito de capacitação profissional em Taboão da Serra",
+   "link": "https://www.pciconcursos.com.br/noticias/ibfc-sp-abre-selecao-para-curso-gratuito-de-capacitacao-profissional-em-taboao-da-serra",
+   "vagas": 40,
+   "vagas_texto": "40",
+   "salario_max": null,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Não informada",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-12-01",
+   "inscricao_texto": "01/12/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sp"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 29"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-22",
+   "tags": [
+    "SP"
+   ]
+  },
+  {
    "orgao": "IFSP - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo",
    "titulo": "IFSP abre concurso público para cargos técnico-administrativos",
    "link": "https://www.pciconcursos.com.br/noticias/ifsp-abre-concurso-publico-para-cargos-tecnico-administrativos",
@@ -1178,37 +1271,6 @@
     "Superior",
     "Administrativo",
     "Prefeitura"
-   ]
-  },
-  {
-   "orgao": "IPSM - Instituto de Previdência do Servidor Municipal",
-   "titulo": "IPSM de São José dos Campos - SP divulga retificações de concurso público",
-   "link": "https://www.pciconcursos.com.br/noticias/ipsm-de-sao-jose-dos-campos-sp-divulga-retificacoes-de-concurso-publico",
-   "vagas": 17,
-   "vagas_texto": "17",
-   "salario_max": 5860.31,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-06",
-   "inscricao_texto": "Prorrogado até 06/11/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "sp"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL DE CONCURSO PÚBLICO Nº 01/2026",
-    "SEGUNDO TERMO DE RETIFICAÇÃO",
-    "EDITAL DE PRORROGAÇÃO DAS INSCRIÇÕES"
-   ],
-   "links_oficiais": [],
-   "detalhado_em": "2026-11-21",
-   "tags": [
-    "SP",
-    "Superior"
    ]
   },
   {
@@ -1923,40 +1985,6 @@
     "SP",
     "Superior",
     "Social",
-    "Prefeitura"
-   ]
-  },
-  {
-   "orgao": "Prefeitura de Cunha",
-   "titulo": "Prefeitura de Cunha - SP abre concurso público com salários de até R$ 9.147,62",
-   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cunha-sp-abre-concurso-publico-com-salarios-de-ate-9147",
-   "vagas": null,
-   "vagas_texto": "Cadastro reserva",
-   "salario_max": 9147.62,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-21",
-   "inscricao_texto": "21/11/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "sp"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL DE ABERTURA DO CONCURSO PÚBLICO Nº 01/2026",
-    "EDITAL DE RETIFICAÇÃO 001"
-   ],
-   "links_oficiais": [],
-   "detalhado_em": "2026-11-21",
-   "tags": [
-    "SP",
-    "Fundamental",
-    "Medio",
-    "Tecnico",
-    "Superior",
     "Prefeitura"
    ]
   },
@@ -3588,18 +3616,18 @@
    ]
   },
   {
-   "orgao": "CMTC - Companhia Municipal de Transportes Coletivos",
-   "titulo": "Mobi-Rio - RJ abre seleção com salários até R$ 5.960,63",
-   "link": "https://www.pciconcursos.com.br/noticias/mobi-rio-rj-abre-selecao-com-salarios-ate-5960",
-   "vagas": 63,
-   "vagas_texto": "63",
-   "salario_max": 5960.63,
+   "orgao": "Cefet/RJ - Centro Federal de Educação Tecnológica Celso Suckow da Fonseca",
+   "titulo": "Cefet/RJ - RJ abre processo seletivo com 310 vagas para cursos técnicos subsequentes",
+   "link": "https://www.pciconcursos.com.br/noticias/cefet-rj-rj-abre-processo-seletivo-com-310-vagas-para-cursos-tecnicos-subsequentes",
+   "vagas": 310,
+   "vagas_texto": "310",
+   "salario_max": null,
    "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio",
+   "escolaridade": "Não informada",
    "status": "aberto",
    "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-21",
-   "inscricao_texto": "21/11/2026",
+   "inscricao_fim": "2026-11-30",
+   "inscricao_texto": "30/11/2026",
    "publicado": null,
    "nacional": false,
    "ufs": [
@@ -3607,14 +3635,15 @@
    ],
    "fonte": "pci",
    "editais": [
-    "EDITAL CMTC Nº 024/2026"
+    "EDITAL Nº 06/2026",
+    "ANEXO I - CRONOGRAMA PREVISTO"
    ],
    "links_oficiais": [],
-   "detalhado_em": "2026-11-21",
+   "detalhado_em": "2026-11-22",
    "tags": [
     "RJ",
-    "Fundamental",
-    "Medio"
+    "Educacao",
+    "Temporario"
    ]
   },
   {
@@ -9024,37 +9053,6 @@
   },
   {
    "orgao": "FAHECE",
-   "titulo": "FAHECE - SC abre processo seletivo para cargo de farmacêutico em Florianópolis",
-   "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-cargo-de-farmaceutico-em-florianopolis",
-   "vagas": 1,
-   "vagas_texto": "1",
-   "salario_max": 5126.88,
-   "cargos": "Farmacêutico I",
-   "escolaridade": "Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-21",
-   "inscricao_texto": "21/11/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "sc"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL DE PROCESSO SELETIVO Nº 579/26"
-   ],
-   "links_oficiais": [],
-   "detalhado_em": "2026-11-20",
-   "tags": [
-    "SC",
-    "Superior",
-    "Saude",
-    "Temporario"
-   ]
-  },
-  {
-   "orgao": "FAHECE",
    "titulo": "FAHECE - SC anuncia vaga de assistente administrativo em Florianópolis",
    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-vaga-de-assistente-administrativo-em-florianopolis",
    "vagas": 1,
@@ -9146,6 +9144,70 @@
    ]
   },
   {
+   "orgao": "FURB - Fundação Universidade Regional de Blumenau",
+   "titulo": "FURB - SC abre processo seletivo para aprimoramento profissional em medicina veterinária",
+   "link": "https://www.pciconcursos.com.br/noticias/furb-sc-abre-processo-seletivo-para-aprimoramento-profissional-em-medicina-veterinaria",
+   "vagas": 3,
+   "vagas_texto": "3",
+   "salario_max": null,
+   "cargos": "Aprimorando",
+   "escolaridade": "Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-26",
+   "inscricao_texto": "26/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 002/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-22",
+   "tags": [
+    "SC",
+    "Superior",
+    "Saude",
+    "Educacao",
+    "Temporario"
+   ]
+  },
+  {
+   "orgao": "FURB - Fundação Universidade Regional de Blumenau",
+   "titulo": "FURB - SC abre processo seletivo para formação de cadastro reserva com ganhos de até R$ 5.906,88",
+   "link": "https://www.pciconcursos.com.br/noticias/furb-sc-abre-processo-seletivo-para-formacao-de-cadastro-reserva-com-ganhos-de-ate-5906",
+   "vagas": null,
+   "vagas_texto": "Várias",
+   "salario_max": 5906.88,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-12-02",
+   "inscricao_texto": "02/12/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 006/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-22",
+   "tags": [
+    "SC",
+    "Medio",
+    "Superior",
+    "Educacao",
+    "Temporario"
+   ]
+  },
+  {
    "orgao": "IMA - Instituto do Meio Ambiente do Estado de Santa Catarina",
    "titulo": "IMA - SC abre concurso público com salários de até R$ 12.300,00",
    "link": "https://www.pciconcursos.com.br/noticias/ima-sc-abre-concurso-publico-com-salarios-de-ate-12300",
@@ -9173,6 +9235,40 @@
     "SC",
     "Tecnico",
     "Superior"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Abelardo Luz",
+   "titulo": "Prefeitura de Abelardo Luz - SC abre processo seletivo com 12 vagas e cadastro reserva",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-abelardo-luz-sc-abre-processo-seletivo-com-12-vagas-e-cadastro-reserva",
+   "vagas": 13,
+   "vagas_texto": "13",
+   "salario_max": 5467.13,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-12-02",
+   "inscricao_texto": "02/12/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO Nº 001/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-22",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
    ]
   },
   {
@@ -9374,6 +9470,37 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Blumenau",
+   "titulo": "Prefeitura de Blumenau - SC abre concurso com 19 vagas e cadastro de reserva no magistério",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-blumenau-sc-abre-concurso-com-19-vagas-e-cadastro-de-reserva-no-magisterio",
+   "vagas": 19,
+   "vagas_texto": "19",
+   "salario_max": 5130.63,
+   "cargos": "Coordenador Pedagógico, Professor, Professor I",
+   "escolaridade": "Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-12-09",
+   "inscricao_texto": "09/12/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 001/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-22",
+   "tags": [
+    "SC",
+    "Superior",
+    "Educacao",
+    "Prefeitura"
+   ]
+  },
+  {
    "orgao": "Prefeitura de Bom Retiro",
    "titulo": "Prefeitura de Bom Retiro - SC abre concurso público com salários de até R$ 20.138,46",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bom-retiro-sc-abre-concurso-publico-com-salarios-de-ate-20138",
@@ -9440,6 +9567,39 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Brusque",
+   "titulo": "Prefeitura de Brusque - SC abre seleção com 20 vagas e cadastro reserva na Educação",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-brusque-sc-abre-selecao-com-20-vagas-e-cadastro-reserva-na-educacao",
+   "vagas": 20,
+   "vagas_texto": "20",
+   "salario_max": 5780.1,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-12-06",
+   "inscricao_texto": "06/12/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DO PROCESSO SELETIVO Nº 009/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-22",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Educacao",
+    "Prefeitura"
+   ]
+  },
+  {
    "orgao": "Prefeitura de Canelinha",
    "titulo": "Prefeitura de Canelinha - SC abre novo concurso público para diversos cargos",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-canelinha-sc-abre-novo-concurso-publico-para-diversos-cargos",
@@ -9500,6 +9660,39 @@
     "Medio",
     "Tecnico",
     "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Cocal do Sul",
+   "titulo": "Prefeitura de Cocal do Sul - SC abre processo seletivo para a Secretaria de Educação",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cocal-do-sul-sc-abre-processo-seletivo-para-a-secretaria-de-educacao",
+   "vagas": null,
+   "vagas_texto": "Várias",
+   "salario_max": 5208.14,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-30",
+   "inscricao_texto": "30/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO SIMPLIFICADO Nº 002/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-22",
+   "tags": [
+    "SC",
+    "Medio",
+    "Superior",
+    "Educacao",
     "Prefeitura",
     "Temporario"
    ]
@@ -10368,6 +10561,74 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Orleans",
+   "titulo": "Prefeitura de Orleans - SC abre processo seletivo para o setor da educação em 2027",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-orleans-sc-abre-processo-seletivo-para-o-setor-da-educacao-em-2027",
+   "vagas": null,
+   "vagas_texto": "Várias",
+   "salario_max": 5130.63,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-27",
+   "inscricao_texto": "27/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 005/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-22",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Educacao",
+    "Prefeitura",
+    "Temporario"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Palmitos",
+   "titulo": "Prefeitura de Palmitos - SC abre processo seletivo com salários de até R$ 26.258,84",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-palmitos-sc-abre-processo-seletivo-com-salarios-de-ate-26258",
+   "vagas": null,
+   "vagas_texto": "Várias",
+   "salario_max": 26258.84,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-12-12",
+   "inscricao_texto": "12/12/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO SIMPLIFICADO Nº 001/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-22",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
+  },
+  {
    "orgao": "Prefeitura de Porto Belo",
    "titulo": "Prefeitura de Porto Belo - SC abre processo seletivo para o cargo de Fiscal de Temporada",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-porto-belo-sc-abre-processo-seletivo-para-o-cargo-de-fiscal-de-temporada",
@@ -10670,6 +10931,39 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Santa Terezinha do Progresso",
+   "titulo": "Prefeitura de Santa Terezinha do Progresso - SC abre concurso público com salários de até R$ 10.000,00",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-terezinha-do-progresso-sc-abre-concurso-publico-com-salarios-de-ate-10000",
+   "vagas": 8,
+   "vagas_texto": "8",
+   "salario_max": 10000.0,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-25",
+   "inscricao_texto": "25/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE CONCURSO PÚBLICO Nº 01/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-22",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
+  },
+  {
    "orgao": "Prefeitura de São Bento do Sul e Fundação Cultural de São Bento do Sul",
    "titulo": "Prefeitura e Fundação Cultural de São Bento do Sul - SC abrem processo seletivo com salários de até R$ 20.795,15",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-e-fundacao-cultural-de-sao-bento-do-sul-sc-abrem-processo-seletivo-com-salarios-de-ate-20795",
@@ -10766,6 +11060,38 @@
     "Medio",
     "Superior",
     "Educacao",
+    "Prefeitura"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de São Joaquim",
+   "titulo": "Prefeitura de São Joaquim - SC abre seleção para cadastro reserva em diversas áreas",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-joaquim-sc-abre-selecao-para-cadastro-reserva-em-diversas-areas",
+   "vagas": null,
+   "vagas_texto": "Várias",
+   "salario_max": 5130.63,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-12-06",
+   "inscricao_texto": "06/12/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DO PROCESSO SELETIVO Nº 004/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-22",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Superior",
     "Prefeitura"
    ]
   },
@@ -10928,6 +11254,40 @@
     "Medio",
     "Superior",
     "Prefeitura"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Treze de Maio",
+   "titulo": "Prefeitura de Treze de Maio - SC altera edital de processo seletivo para cargos temporários",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-treze-de-maio-sc-altera-edital-de-processo-seletivo-para-cargos-temporarios",
+   "vagas": 7,
+   "vagas_texto": "7",
+   "salario_max": 17435.11,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-22",
+   "inscricao_texto": "22/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL RETIFICADO DE PROCESSO SELETIVO Nº 042/2026",
+    "RETIFICAÇÃO Nº 01 - PROCESSO SELETIVO Nº 042/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-22",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
    ]
   },
   {
@@ -11900,38 +12260,6 @@
     "Fundamental",
     "Medio",
     "Temporario"
-   ]
-  },
-  {
-   "orgao": "TCE - Tribunal de Contas do Estado de Goiás",
-   "titulo": "TCE - GO retifica concurso público para técnicos de controle externo",
-   "link": "https://www.pciconcursos.com.br/noticias/tce-go-retifica-concurso-publico-para-tecnicos-de-controle-externo",
-   "vagas": 16,
-   "vagas_texto": "16",
-   "salario_max": 11862.19,
-   "cargos": "Técnico de Controle Externo",
-   "escolaridade": "Ensino Médio",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-06",
-   "inscricao_texto": "06/11/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "go"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL Nº 01/2026",
-    "RETIFICAÇÃO",
-    "EDITAL RETIFICADO Nº 01/2026"
-   ],
-   "links_oficiais": [],
-   "detalhado_em": "2026-11-21",
-   "tags": [
-    "GO",
-    "Medio",
-    "Fiscal"
    ]
   },
   {
@@ -13321,6 +13649,37 @@
    ]
   },
   {
+   "orgao": "Prefeitura de São Desidério",
+   "titulo": "Prefeitura de São Desidério - BA abre seleção com salários de até R$ 8.032,62",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-desiderio-ba-abre-selecao-com-salarios-de-ate-8032",
+   "vagas": 236,
+   "vagas_texto": "236",
+   "salario_max": 8032.62,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-11-26",
+   "inscricao_texto": "26/11/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "ba"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO SIMPLIFICADO Nº 001/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-22",
+   "tags": [
+    "BA",
+    "Medio",
+    "Superior",
+    "Prefeitura"
+   ]
+  },
+  {
    "orgao": "Prefeitura de Tucano",
    "titulo": "Prefeitura de Tucano - BA abre processo seletivo com 83 vagas",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tucano-ba-abre-processo-seletivo-com-83-vagas",
@@ -13350,44 +13709,6 @@
     "Superior",
     "Prefeitura",
     "Temporario"
-   ]
-  },
-  {
-   "orgao": "UFBA - Universidade Federal da Bahia",
-   "titulo": "UFBA - BA publica retificações de concurso público para técnicos-administrativos em educação",
-   "link": "https://www.pciconcursos.com.br/noticias/ufba-ba-publica-retificacoes-de-concurso-publico-para-tecnicos-administrativos-em-educacao",
-   "vagas": 147,
-   "vagas_texto": "147",
-   "salario_max": 5215.39,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Médio / Técnico / Superior",
-   "status": "aberto",
-   "inscricao_inicio": null,
-   "inscricao_fim": "2026-11-06",
-   "inscricao_texto": "Prorrogado até 06/11/2026",
-   "publicado": null,
-   "nacional": false,
-   "ufs": [
-    "ba"
-   ],
-   "fonte": "pci",
-   "editais": [
-    "EDITAL DE ABERTURA - CONCURSO PÚBLICO Nº 007/2026",
-    "1º TERMO DE RETIFICAÇÃO DO EDITAL DE ABERTURA CONCURSO PÚBLICO Nº 007/2026",
-    "2º TERMO DE RETIFICAÇÃO DO EDITAL DE ABERTURA CONCURSO PÚBLICO Nº 007/2026",
-    "3º TERMO DE RETIFICAÇÃO DO EDITAL DE ABERTURA CONCURSO PÚBLICO Nº 007/2026",
-    "4º TERMO DE RETIFICAÇÃO DO EDITAL DE ABERTURA CONCURSO PÚBLICO Nº 007/2026",
-    "EDITAL DE PRORROGAÇÃO DO PRAZO PARA SOLICITAÇÃO DE INSCRIÇÃO"
-   ],
-   "links_oficiais": [],
-   "detalhado_em": "2026-11-21",
-   "tags": [
-    "BA",
-    "Medio",
-    "Tecnico",
-    "Superior",
-    "Educacao",
-    "Administrativo"
    ]
   },
   {
