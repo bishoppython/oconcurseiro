@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-25T04:00:52+00:00",
+ "atualizado": "2026-11-25T18:58:12+00:00",
  "fontes": {
   "pci": "https://www.pciconcursos.com.br/concursos/",
   "cnb": "https://concursosnobrasil.com"
@@ -553,6 +553,36 @@
    ]
   },
   {
+   "orgao": "Câmara de Cândido Mota",
+   "titulo": "Câmara de Cândido Mota - SP abre concurso público para motorista",
+   "link": "https://www.pciconcursos.com.br/noticias/camara-de-candido-mota-sp-abre-concurso-publico-para-motorista",
+   "vagas": 1,
+   "vagas_texto": "1",
+   "salario_max": 5641.39,
+   "cargos": "Motorista",
+   "escolaridade": "Ensino Médio",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-12-09",
+   "inscricao_texto": "09/12/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sp"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE CONCURSO PÚBLICO Nº 001/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-25",
+   "tags": [
+    "SP",
+    "Medio",
+    "Legislativo"
+   ]
+  },
+  {
    "orgao": "Câmara de Carapicuíba",
    "titulo": "Câmara de Carapicuíba - SP abre concurso público para Oficial de Manutenção e Técnico em Tecnologia da Informação",
    "link": "https://www.pciconcursos.com.br/noticias/camara-de-carapicuiba-sp-abre-concurso-publico-para-oficial-de-manutencao-e-tecnico-em-tecnologia-da-informacao",
@@ -800,6 +830,37 @@
     "Fundamental",
     "Medio",
     "Educacao"
+   ]
+  },
+  {
+   "orgao": "Coren - Conselho Regional de Enfermagem de São Paulo",
+   "titulo": "Coren - SP abre concurso com 76 vagas e salários de até R$ 10.692,00",
+   "link": "https://www.pciconcursos.com.br/noticias/coren-sp-abre-concurso-com-76-vagas-e-salarios-de-ate-10692",
+   "vagas": 76,
+   "vagas_texto": "76",
+   "salario_max": 10692.0,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-11-26",
+   "inscricao_fim": "2027-01-11",
+   "inscricao_texto": "26/11/2026 a 11/01/2027",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sp"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 1"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-25",
+   "tags": [
+    "SP",
+    "Medio",
+    "Superior",
+    "Saude"
    ]
   },
   {
@@ -1590,6 +1651,40 @@
    "tags": [
     "SP",
     "Medio",
+    "Educacao",
+    "Prefeitura"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Campos do Jordão",
+   "titulo": "Prefeitura de Campos do Jordão - SP abre seleção na Educação com salários de até R$ 8.172,78",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-campos-do-jordao-sp-abre-selecao-na-educacao-com-salarios-de-ate-8172",
+   "vagas": null,
+   "vagas_texto": "Várias",
+   "salario_max": 8172.78,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-11-27",
+   "inscricao_fim": "2026-12-25",
+   "inscricao_texto": "27/11 a 25/12/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sp"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE ABERTURA DO PROCESSO SELETIVO Nº 07/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-25",
+   "tags": [
+    "SP",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
     "Educacao",
     "Prefeitura"
    ]
@@ -2740,6 +2835,40 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Rio Grande da Serra",
+   "titulo": "Prefeitura de Rio Grande da Serra - SP abre concursos com 61 vagas e salários de até R$ 11 mil",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-grande-da-serra-sp-abre-concursos-com-61-vagas-e-salarios-de-ate-11-mil",
+   "vagas": 61,
+   "vagas_texto": "61",
+   "salario_max": 11066.44,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-12-23",
+   "inscricao_texto": "23/12/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sp"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE ABERTURA Nº 002/2026",
+    "EDITAL DE ABERTURA Nº 001/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-25",
+   "tags": [
+    "SP",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
+  },
+  {
    "orgao": "Prefeitura de Rosana",
    "titulo": "Prefeitura de Rosana - SP abre processo seletivo para profissionais da educação",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rosana-sp-abre-processo-seletivo-para-profissionais-da-educacao",
@@ -2962,6 +3091,38 @@
     "Medio",
     "Superior",
     "Prefeitura"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Taiaçu",
+   "titulo": "Prefeitura de Taiaçu - SP abre processo seletivo para professores e psicopedagogo",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-taiacu-sp-abre-processo-seletivo-para-professores-e-psicopedagogo",
+   "vagas": null,
+   "vagas_texto": "Várias",
+   "salario_max": 5130.63,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-12-10",
+   "inscricao_texto": "10/12/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sp"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO Nº 001/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-25",
+   "tags": [
+    "SP",
+    "Superior",
+    "Educacao",
+    "Prefeitura",
+    "Temporario"
    ]
   },
   {
@@ -7419,6 +7580,37 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Salto do Lontra",
+   "titulo": "Município de Salto do Lontra - PR abre concurso com salários de até R$ 20,8 mil para médicos",
+   "link": "https://www.pciconcursos.com.br/noticias/municipio-de-salto-do-lontra-pr-abre-concurso-com-salarios-de-ate-20-8-mil-para-medicos",
+   "vagas": 3,
+   "vagas_texto": "3",
+   "salario_max": 20845.24,
+   "cargos": "Médico",
+   "escolaridade": "Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-12-03",
+   "inscricao_fim": "2026-12-28",
+   "inscricao_texto": "03 a 28/12/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "pr"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE ABERTURA Nº 01.001/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-25",
+   "tags": [
+    "PR",
+    "Superior",
+    "Saude",
+    "Prefeitura"
+   ]
+  },
+  {
    "orgao": "Prefeitura de Sengés",
    "titulo": "Prefeitura de Sengés - PR abre concurso público para Guarda Civil Municipal",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-senges-pr-abre-concurso-publico-para-guarda-civil-municipal",
@@ -7447,6 +7639,40 @@
     "Medio",
     "Policial",
     "Prefeitura"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Siqueira Campos",
+   "titulo": "Prefeitura de Siqueira Campos - PR abre processo seletivo para a área da Educação",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-siqueira-campos-pr-abre-processo-seletivo-para-a-area-da-educacao",
+   "vagas": 4,
+   "vagas_texto": "4",
+   "salario_max": 5130.62,
+   "cargos": "Professor, Serviços Gerais",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-11-30",
+   "inscricao_fim": "2026-12-11",
+   "inscricao_texto": "30/11 a 11/12/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "pr"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO SIMPLIFICADO Nº 09/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-25",
+   "tags": [
+    "PR",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Educacao",
+    "Prefeitura",
+    "Temporario"
    ]
   },
   {
@@ -7889,6 +8115,37 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Ajuricaba",
+   "titulo": "Prefeitura de Ajuricaba - RS abre processo seletivo para servente",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ajuricaba-rs-abre-processo-seletivo-para-servente",
+   "vagas": null,
+   "vagas_texto": "Várias",
+   "salario_max": 1743.27,
+   "cargos": "Servente",
+   "escolaridade": "Fundamental",
+   "status": "aberto",
+   "inscricao_inicio": "2026-11-30",
+   "inscricao_fim": "2026-12-14",
+   "inscricao_texto": "30/11 a 14/12/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "rs"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO SIMPLIFICADO Nº 008/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-25",
+   "tags": [
+    "RS",
+    "Fundamental",
+    "Prefeitura",
+    "Temporario"
+   ]
+  },
+  {
    "orgao": "Prefeitura de Antônio Prado",
    "titulo": "Prefeitura de Antônio Prado - RS abre concurso público com salários de até R$ 10.352,30",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-antonio-prado-rs-abre-concurso-publico-com-salarios-de-ate-10352",
@@ -7950,6 +8207,38 @@
     "Medio",
     "Prefeitura",
     "Temporario"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Carazinho",
+   "titulo": "Prefeitura de Carazinho - RS abre seleção para cadastro reserva com salários de até R$ 5.417,95",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-carazinho-rs-abre-selecao-para-cadastro-reserva-com-salarios-de-ate-5417",
+   "vagas": null,
+   "vagas_texto": "Várias",
+   "salario_max": 5417.95,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-12-09",
+   "inscricao_texto": "09/12/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "rs"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO SIMPLIFICADO Nº 10/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-25",
+   "tags": [
+    "RS",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Prefeitura"
    ]
   },
   {
@@ -8369,6 +8658,37 @@
     "Superior",
     "Educacao",
     "Social",
+    "Prefeitura"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Santo Antônio da Patrulha",
+   "titulo": "Prefeitura de Santo Antônio da Patrulha - RS abre seleção para cadastro reserva na educação",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santo-antonio-da-patrulha-rs-abre-selecao-para-cadastro-reserva-na-educacao",
+   "vagas": null,
+   "vagas_texto": "Várias",
+   "salario_max": 2565.32,
+   "cargos": "Professor, Supervisor Educacional Escolar",
+   "escolaridade": "Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-12-11",
+   "inscricao_texto": "11/12/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "rs"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 22/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-25",
+   "tags": [
+    "RS",
+    "Superior",
+    "Educacao",
     "Prefeitura"
    ]
   },
@@ -9444,6 +9764,39 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Chapecó",
+   "titulo": "Município de Chapecó - SC abre concurso com 91 vagas e salários de até R$ 25.599,11",
+   "link": "https://www.pciconcursos.com.br/noticias/municipio-de-chapeco-sc-abre-concurso-com-91-vagas-e-salarios-de-ate-25599",
+   "vagas": 91,
+   "vagas_texto": "91",
+   "salario_max": 25599.11,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-12-07",
+   "inscricao_fim": "2027-01-07",
+   "inscricao_texto": "07/12/2026 a 07/01/2027",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE CONCURSO PÚBLICO Nº 003/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-25",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
+  },
+  {
    "orgao": "Prefeitura de Cocal do Sul",
    "titulo": "Prefeitura de Cocal do Sul - SC abre processo seletivo para a Secretaria de Educação",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cocal-do-sul-sc-abre-processo-seletivo-para-a-secretaria-de-educacao",
@@ -9601,6 +9954,40 @@
    ],
    "links_oficiais": [],
    "detalhado_em": "2026-11-23",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Faxinal dos Guedes",
+   "titulo": "Prefeitura de Faxinal dos Guedes - SC abre concurso e processo seletivo com 12 vagas imediatas",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-faxinal-dos-guedes-sc-abre-concurso-e-processo-seletivo-com-12-vagas-imediatas",
+   "vagas": 12,
+   "vagas_texto": "12",
+   "salario_max": 7454.79,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-12-21",
+   "inscricao_texto": "21/12/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE CONCURSO PÚBLICO Nº 02/2026",
+    "EDITAL DE PROCESSO SELETIVO Nº 003/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-25",
    "tags": [
     "SC",
     "Fundamental",
@@ -10171,6 +10558,39 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Matos Costa",
+   "titulo": "Prefeitura de Matos Costa - SC abre seleção com salários de até R$ 5.529,01",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-matos-costa-sc-abre-selecao-com-salarios-de-ate-5529",
+   "vagas": 44,
+   "vagas_texto": "44",
+   "salario_max": 5529.01,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-12-23",
+   "inscricao_texto": "23/12/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO SIMPLIFICADO Nº 001/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-25",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura"
+   ]
+  },
+  {
    "orgao": "Prefeitura de Mirim Doce",
    "titulo": "Prefeitura de Mirim Doce - SC abre processo seletivo com vagas imediatas e cadastro de reserva",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mirim-doce-sc-abre-processo-seletivo-com-vagas-imediatas-e-cadastro-de-reserva",
@@ -10194,6 +10614,40 @@
    ],
    "links_oficiais": [],
    "detalhado_em": "2026-11-24",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Nova Itaberaba",
+   "titulo": "Prefeitura de Nova Itaberaba - SC abre processo seletivo com 4 vagas e cadastro de reserva",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-itaberaba-sc-abre-processo-seletivo-com-4-vagas-e-cadastro-de-reserva",
+   "vagas": 4,
+   "vagas_texto": "4",
+   "salario_max": 25482.65,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-12-07",
+   "inscricao_texto": "07/12/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DO PROCESSO SELETIVO SIMPLIFICADO Nº 021/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-25",
    "tags": [
     "SC",
     "Fundamental",
@@ -10871,6 +11325,39 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Siderópolis",
+   "titulo": "Prefeitura de Siderópolis - SC abre processo seletivo com 58 vagas para a educação",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sideropolis-sc-abre-processo-seletivo-com-58-vagas-para-a-educacao",
+   "vagas": 58,
+   "vagas_texto": "58",
+   "salario_max": 3350.25,
+   "cargos": "Auxiliar de Ensino, Professor",
+   "escolaridade": "Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-12-23",
+   "inscricao_texto": "23/12/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO SIMPLIFICADO Nº 001/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-25",
+   "tags": [
+    "SC",
+    "Medio",
+    "Superior",
+    "Educacao",
+    "Prefeitura",
+    "Temporario"
+   ]
+  },
+  {
    "orgao": "Prefeitura de Tijucas",
    "titulo": "Prefeitura de Tijucas - SC abre concurso público com vagas para a educação",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tijucas-sc-abre-concurso-publico-com-vagas-para-a-educacao",
@@ -11297,6 +11784,40 @@
    ]
   },
   {
+   "orgao": "Secretaria Municipal de Educação de Governador Celso Ramos",
+   "titulo": "Secretaria de Educação de Governador Celso Ramos - SC abre 82 vagas temporárias",
+   "link": "https://www.pciconcursos.com.br/noticias/secretaria-de-educacao-de-governador-celso-ramos-sc-abre-82-vagas-temporarias",
+   "vagas": 82,
+   "vagas_texto": "82",
+   "salario_max": 5130.63,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-11-26",
+   "inscricao_fim": "2026-12-26",
+   "inscricao_texto": "26/11 a 26/12/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "sc"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 014/2026",
+    "EDITAL Nº 015/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-25",
+   "tags": [
+    "SC",
+    "Fundamental",
+    "Medio",
+    "Superior",
+    "Educacao",
+    "Temporario"
+   ]
+  },
+  {
    "orgao": "SES - Secretaria de Estado da Saúde de Santa Catarina",
    "titulo": "SES - SC abre processo seletivo para técnicos em enfermagem e enfermeiros em Joinville",
    "link": "https://www.pciconcursos.com.br/noticias/ses-sc-abre-processo-seletivo-para-tecnicos-em-enfermagem-e-enfermeiros-em-joinville",
@@ -11544,6 +12065,36 @@
     "DF",
     "Superior",
     "Temporario"
+   ]
+  },
+  {
+   "orgao": "Cofen - Conselho Federal de Enfermagem",
+   "titulo": "Cofen - DF abre concurso público com salários de R$ 18.950,52 para diversos cargos de nível superior",
+   "link": "https://www.pciconcursos.com.br/noticias/cofen-df-abre-concurso-publico-com-salarios-de-18950-para-diversos-cargos-de-nivel-superior",
+   "vagas": 6,
+   "vagas_texto": "6",
+   "salario_max": 18950.52,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Superior",
+   "status": "aberto",
+   "inscricao_inicio": "2026-11-26",
+   "inscricao_fim": "2027-01-11",
+   "inscricao_texto": "26/11/2026 a 11/01/2027",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "df"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 1"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-25",
+   "tags": [
+    "DF",
+    "Superior",
+    "Saude"
    ]
   },
   {
@@ -12685,6 +13236,40 @@
    ]
   },
   {
+   "orgao": "Prefeitura de Itaúba",
+   "titulo": "Prefeitura de Itaúba - MT abre processo seletivo com 51 vagas e iniciais de até R$ 5.798,38",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itauba-mt-abre-processo-seletivo-com-51-vagas-e-iniciais-de-ate-5798",
+   "vagas": 51,
+   "vagas_texto": "51",
+   "salario_max": 5798.38,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-12-10",
+   "inscricao_texto": "10/12/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "mt"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL DE PROCESSO SELETIVO SIMPLIFICADO Nº 001/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-25",
+   "tags": [
+    "MT",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Prefeitura",
+    "Temporario"
+   ]
+  },
+  {
    "orgao": "Prefeitura de Nova Bandeirantes",
    "titulo": "Prefeitura de Nova Bandeirantes - MT abre seleção com salários de até R$ 4.928,75",
    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-bandeirantes-mt-abre-selecao-com-salarios-de-ate-4928",
@@ -12714,6 +13299,41 @@
     "Medio",
     "Tecnico",
     "Superior",
+    "Prefeitura"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Nova Guarita",
+   "titulo": "Prefeitura de Nova Guarita - MT abre seleções para 20 cargos de todos os níveis de escolaridade",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-guarita-mt-abre-selecoes-para-20-cargos-de-todos-os-niveis-de-escolaridade",
+   "vagas": 45,
+   "vagas_texto": "45",
+   "salario_max": 7415.1,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-12-08",
+   "inscricao_texto": "08/12/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "mt"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 001/2026",
+    "EDITAL Nº 002/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-25",
+   "tags": [
+    "MT",
+    "Fundamental",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Educacao",
     "Prefeitura"
    ]
   },
@@ -13606,6 +14226,39 @@
     "Superior",
     "Prefeitura",
     "Temporario"
+   ]
+  },
+  {
+   "orgao": "Prefeitura de Ourolândia",
+   "titulo": "Prefeitura de Ourolândia - BA abre concursos com 13 vagas e salários de até R$ 3.500,00",
+   "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ourolandia-ba-abre-concursos-com-13-vagas-e-salarios-de-ate-3500",
+   "vagas": 13,
+   "vagas_texto": "13",
+   "salario_max": 3500.0,
+   "cargos": "Técnica de Enfermagem, Técnica de Radiologia, Geólogo",
+   "escolaridade": "Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-12-10",
+   "inscricao_texto": "10/12/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "ba"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 001/2026",
+    "EDITAL Nº 002/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-25",
+   "tags": [
+    "BA",
+    "Tecnico",
+    "Superior",
+    "Saude",
+    "Prefeitura"
    ]
   },
   {
