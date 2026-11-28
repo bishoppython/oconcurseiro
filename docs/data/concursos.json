@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-28T03:05:18+00:00",
+ "atualizado": "2026-11-28T17:21:17+00:00",
  "fontes": {
   "pci": "https://www.pciconcursos.com.br/concursos/",
   "cnb": "https://concursosnobrasil.com"
@@ -15061,6 +15061,38 @@
     "PE",
     "Superior",
     "Policial"
+   ]
+  },
+  {
+   "orgao": "Secretaria Municipal de Saúde de Goiana",
+   "titulo": "Secretaria Municipal de Saúde de Goiana - PE abre seleção com 454 vagas e salários de até R$ 4.750,00",
+   "link": "https://www.pciconcursos.com.br/noticias/secretaria-municipal-de-saude-de-goiana-pe-abre-selecao-com-454-vagas-e-salarios-de-ate-4750",
+   "vagas": 209,
+   "vagas_texto": "209",
+   "salario_max": 4750.0,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Técnico / Superior",
+   "status": "aberto",
+   "inscricao_inicio": null,
+   "inscricao_fim": "2026-12-23",
+   "inscricao_texto": "23/12/2026",
+   "publicado": null,
+   "nacional": false,
+   "ufs": [
+    "pe"
+   ],
+   "fonte": "pci",
+   "editais": [
+    "EDITAL Nº 003/2026"
+   ],
+   "links_oficiais": [],
+   "detalhado_em": "2026-11-28",
+   "tags": [
+    "PE",
+    "Medio",
+    "Tecnico",
+    "Superior",
+    "Saude"
    ]
   },
   {
